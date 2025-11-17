@@ -1,6 +1,6 @@
 ### 切换 Windows 为专业版
 
-第一步，访问 [https://next.itellyou.cn/](https://next.itellyou.cn/)，登录后，找到 Windows 11，使用迅雷下载最新 customer 版的 Windows 11 镜像。
+第一步，访问 [https://next.itellyou.cn/](https://next.itellyou.cn/)，（建议通过 QQ）登录后，找到 Windows 11，使用迅雷下载最新 customer 版的 Windows 11 x64 镜像。
 
 ![第一步](./1.png)
 

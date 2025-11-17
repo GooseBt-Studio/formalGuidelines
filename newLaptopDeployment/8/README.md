@@ -53,6 +53,8 @@ Visual Studio 安装包解压后，会进入一个协议确认界面，点击“
 
 ![Visual Studio 8](./VS8.png)
 
+在系统环境变量中添加名为 ``_NT_SYMBOL_PATH`` 的变量，其值为 ``srv*C:\symbols\*http://msdl.microsoft.com/download/symbols``。
+
 此时，Visual Studio 的 C/C++ 和内核驱动开发环境已基本部署完毕。
 
 #### 二、Python
@@ -100,39 +102,39 @@ python -c "print('[global]\nindex-url = https://mirrors.aliyun.com/pypi/simple\n
 
 前往 [Git 下载界面](https://git-scm.com/install/windows)下载 Git 安装包并解除锁定，右键单击该安装包，在弹出菜单中点击以管理员权限运行，在弹出界面中，依照指引接受许可协议。
 
-![Git 1](./Git1.png)
+![Git 01](./Git01.png)
 
 推荐将安装路径修改为 ``D:\Program Files\Git``（将默认路径中的驱动器号中的字母 ``C`` 修改为 ``D``），点击“Next”按钮。
 
-![Git 2](./Git2.png)
+![Git 02](./Git02.png)
 
 将 Windows Explorer integration 及以下的行勾选，点击“Next”按钮。
 
-![Git 3](./Git3.png)
+![Git 03](./Git03.png)
 
 继续点击“Next”按钮。
 
-![Git 4](./Git4.png)
+![Git 04](./Git04.png)
 
 选择一个合适的编辑器，在某些情况下（例如分支冲突）Git 会要求用户审阅文件；骨灰级程序员可选择 Notepad（但感觉 Windows 11 开始的 Notepad 不怎么好用），点击“Next”按钮。
 
-![Git 5](./Git5.png)
+![Git 05](./Git05.png)
 
 出于习惯，将默认分支设置为 main，点击“Next”按钮。
 
-![Git 6](./Git6.png)
+![Git 06](./Git06.png)
 
 不太推荐将 Linux 下的习惯引入到 Windows 中（如果倾向于 Linux 应该直接安装 Linux 操作系统），继续点击“Next”按钮。
 
-![Git 7](./Git7.png)
+![Git 07](./Git07.png)
 
 继续点击“Next”按钮。
 
-![Git 8](./Git8.png)
+![Git 08](./Git08.png)
 
 继续点击“Next”按钮。
 
-![Git 9](./Git9.png)
+![Git 09](./Git09.png)
 
 建议不要干预行末标记，例如在 Windows 的 Visual Studio 中编写 shell 脚本必须保持 LF，否则可能无法在 Linux 上正确执行代码，因此，选择 ``Checkout as-is, commit as-is``，继续点击“Next”按钮。
 
@@ -167,3 +169,35 @@ python -c "print('[global]\nindex-url = https://mirrors.aliyun.com/pypi/simple\n
 返回 GitHub 界面，复制 Keep my email addresses private 中显示的虚拟邮箱，随后返回 cmd 界面进行粘贴并回车。
 
 此时，Git 部署完成，可尝试使用 ``git clone``、``git pull`` 和 ``git push`` 等简单指令自行进行测试。
+
+#### 四、Everything
+
+从 [Everything 官方下载页面](https://www.voidtools.com/zh-cn/downloads/)下载 64 位安装版 Everything 并解除锁定，右键单击该安装包，在弹出菜单中点击以管理员权限运行，在弹出界面中，依照指引接受许可协议。
+
+![Everything 1](./Everything1.png)
+
+一般使用默认路径，直接点击“下一步”按钮。
+
+![Everything 2](./Everything2.png)
+
+推荐使用默认配置，点击“下一步”按钮。
+
+![Everything 3](./Everything3.png)
+
+推荐如下安装选项，相应地执行勾选和取消勾选后，点击“下一步”按钮。
+
+- 启动时检查更新：勾选；
+- 开机自动启动 Everything：取消勾选；
+- 集成到资源管理器上下文菜单：取消勾选；
+- 添加 Everything 到开始菜单：勾选；
+- 创建 Everything 桌面快捷方式：取消勾选；
+- 添加 Everything 到快速启动栏：取消勾选；
+- 安装 URL 协议：勾选；
+- 关联 EFU 文件到 Everything：勾选；
+- 自动索引固定卷：勾选。
+
+![Everything 4](./Everything4.png)
+
+等待安装完成，点击“完成”按钮即可。
+
+![Everything 5](./Everything5.png)
