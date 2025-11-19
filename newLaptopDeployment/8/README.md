@@ -218,4 +218,4 @@ python -c "print('[global]\nindex-url = https://mirrors.aliyun.com/pypi/simple\n
 
 ![WSL 3](./WSL3.png)
 
-勾选完成后，点击“确定”，等待计算机重启完成即可。
+勾选完成后，点击“确定”，关闭 cmd；此时可考虑是否重启计算机，如不重启请在重启后进行后续步骤。
