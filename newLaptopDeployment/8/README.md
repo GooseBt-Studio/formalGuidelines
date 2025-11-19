@@ -201,3 +201,21 @@ python -c "print('[global]\nindex-url = https://mirrors.aliyun.com/pypi/simple\n
 等待安装完成，点击“完成”按钮即可。
 
 ![Everything 5](./Everything5.png)
+
+#### 五、启用包括但不限于 WSL 的一些 Windows 功能
+
+启动 cmd，在 cmd 中键入“control”并回车打开控制面板，在控制面板界面点击“程序和功能”。
+
+![WSL 1](./WSL1.png)
+
+在程序和功能界面的左侧找到“启用或关闭 Windows 功能”，点击“启用或关闭 Windows 功能”，如需 UAC 提权请允许。
+
+![WSL 2](./WSL2.png)
+
+对于 Windows 10 及以下的操作系统，可以将 Internet Information Services 下的 FTP 服务器和 Web 管理工具及其子选项都勾上，使得Internet Information Services 下的 FTP 服务器和 Web 管理工具前的复选框都变成勾号；
+随后不展开地勾选 Internet Information Services 下的万维网服务，使得 Internet Information Services 下的万维网服务和 Internet Information Services 前的复选框都成为一个减号。
+对于 Windows 11，可以考虑启用 WSL。
+
+![WSL 3](./WSL3.png)
+
+勾选完成后，点击“确定”，等待计算机重启完成即可。

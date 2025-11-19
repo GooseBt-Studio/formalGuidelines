@@ -7,6 +7,7 @@ In addition, some technical documents in this repository will be copied to CSDN 
 - [Inverse Proportional Functions](./inverseProportionalFunctions/main.pdf): This PDF file stores some personal thoughts on the inverse proportional functions. 
 - [Malicious Obfuscated Android Scripts](./maliciousObfuscatedAndroidScripts/): This directory stores some malicious obfuscated Android scripts. 
 - [New Laptop Deployment](./newLaptopDeployment/): This directory stores some guidelines to deploy a new laptop. 
+- [New OnePlus Smartphone Deployment](./newOnePlusSmartphoneDeployment/): This directory stores some guidelines to deploy a new OnePlus smartphone. 
 - [Recommended Plain EI conferences](./recommendedPlainEIconferences.md): This markdown file stores the guidelines to select plain EI conferences. 
 - [SMS Tools](./SMSTools): This directory stores some useful tools for Android SMS. 
 - [Specified Android folder detection without root](./specifiedAndroidFolderDetectionWithoutRoot/): This directory stores some shell scripts to detect specified folders without root permissions on Android. 
@@ -24,6 +25,7 @@ In addition, some technical documents in this repository will be copied to CSDN 
 - [反比例函数](./inverseProportionalFunctions/main.pdf)：此 PDF 文件存储了一些关于反比例函数的个人思考。
 - [混淆的恶意 Android 脚本](./maliciousObfuscatedAndroidScripts/)：此目录存储一些混淆的恶意 Android 脚本。
 - [新笔记本电脑部署](./newLaptopDeployment/)：此目录存储了一些部署新笔记本电脑的指南。
+- [新一加手机部署](./newOnePlusSmartphoneDeployment/)：此目录存储了一些部署新一加手机的指南。
 - [普通 EI 会议选择指南](./recommendedPlainEIconferences.md)：此 Markdown 文件存储了选择普通 EI 会议的指南。
 - [SMS 工具](./SMSTools)：此目录存储了一些用于 Android 短信的实用工具。
 - [无 root 扫描特定安卓目录](./specifiedAndroidFolderDetectionWithoutRoot/)：该目录存储了一些 shell 脚本，用于在无 root 权限时检测 Android 上的特定文件夹。
