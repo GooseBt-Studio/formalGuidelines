@@ -6,7 +6,7 @@ Only Chinese guidelines are provided in detail.
 
 1) [Perform correct inspections upon receipt](./1/README.md)
 2) [Unlock the BootLoader](./2/README.md)
-3) [Switch to the Sun OS](./3/README.md)
+3) [Switch to a custome ROM](./3/README.md)
 
 ---
 
@@ -16,4 +16,4 @@ Only Chinese guidelines are provided in detail.
 
 1) [验机](./1/README.md)
 2) [解锁 BootLoader](./2/README.md)
-3) [切换 Sun OS](./3/README.md)
+3) [切换自定义系统](./3/README.md)
