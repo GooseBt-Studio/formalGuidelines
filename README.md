@@ -1,9 +1,10 @@
-# Mixtures
+# Formal Guidelines
 
 This repository serves as a personal repository to store some mixtures, which mainly consist of formal guidelines. 
 
 In addition, some technical documents in this repository will be copied to CSDN when convenient. 
 
+- [Gaming](./gaming/): This directory stores some classic games and their save data. 
 - [Inverse Proportional Functions](./inverseProportionalFunctions/main.pdf): This PDF file stores some personal thoughts on the inverse proportional functions. 
 - [Malicious Obfuscated Android Scripts](./maliciousObfuscatedAndroidScripts/): This directory stores some malicious obfuscated Android scripts. 
 - [New Laptop Deployment](./newLaptopDeployment/): This directory stores some guidelines to deploy a new laptop. 
@@ -16,14 +17,15 @@ In addition, some technical documents in this repository will be copied to CSDN 
 
 ---
 
-# 杂项
+# 指南
 
 该存储库用作个人存储库，用于存储一些杂项，主要包含正式的指导方针。
 
 此外，本存储库下的一些技术性文档会在笔者有空时顺带抄送 CSDN。
 
+- [游戏存档](./gaming/)：此目录存储了一些经典的游戏及其存档。
 - [反比例函数](./inverseProportionalFunctions/main.pdf)：此 PDF 文件存储了一些关于反比例函数的个人思考。
-- [混淆的恶意 Android 脚本](./maliciousObfuscatedAndroidScripts/)：此目录存储一些混淆的恶意 Android 脚本。
+- [混淆的恶意 Android 脚本](./maliciousObfuscatedAndroidScripts/)：此目录存储了一些混淆的恶意 Android 脚本。
 - [新笔记本电脑部署](./newLaptopDeployment/)：此目录存储了一些部署新笔记本电脑的指南。
 - [新一加手机部署](./newOnePlusSmartphoneDeployment/)：此目录存储了一些部署新一加手机的指南。
 - [普通 EI 会议选择指南](./recommendedPlainEIconferences.md)：此 Markdown 文件存储了选择普通 EI 会议的指南。
