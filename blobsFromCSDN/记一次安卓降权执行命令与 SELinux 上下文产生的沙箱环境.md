@@ -1,0 +1,13 @@
+﻿一些不安分的应用程序热衷于通过检测特定目录下是否存在以相关软件命名的文件夹来达到检测设备环境是否异常的目的，导致笔者需要在面具模块执行隐藏操作时判断这些目录下的文件夹是否能够被普通应用程序检测到。考虑到在面具中按下操作按钮时，面具会默认给脚本赋予 root 权限，故而需要进行降权才能完成检测。
+
+在网上搜索了下资料，在 Linux 中以 root 身份启动一个 shell 后，利用 ``mkdir -p /root/test`` 创建 ``/root/test``，执行 ``chmod -R 700 /root`` 将 ``/root`` 目录及其子目录目录修改为仅 root 用户具有读取、写入和执行权限，且用户组和其他用户不具有读取、写入或执行权限，并使用 ``chown -R root:root /root`` 将 ``/root`` 目录及其子目录的所有者和用户组修改为 root。随后，我们观察到命令 ``ls /root/test`` 命令执行成功。在该 shell 中使用 ``su user -c "ls /root/test"`` 检查是否降权成功（其中需要将 user 替换为一个非 root 用户的用户名），执行结果为 ``ls: cannot open directory '/root/test': Permission denied``。由此粗略判断，降权是成功的。更多方法可参考 [https://askubuntu.com/questions/978451/how-do-i-run-commands-as-a-non-root-user-in-a-script-started-with-root-permissio](https://askubuntu.com/questions/978451/how-do-i-run-commands-as-a-non-root-user-in-a-script-started-with-root-permissio)，注意安卓系统没有自带的 sudo 命令，设备 root 后一般会提供 su 和 run-as 命令到环境中。
+
+然而，到 Android 上时，这个操作貌似失灵了。在一部安装了 MT 管理器和 Termux 的安卓 11 设备上打开 MT 管理器的终端模拟器后，执行 ``ls /data/data/com.termux`` 提示 ``ls: cannot access '/data/data/com.termux': No such file or directory'``，这是意料之中的事情。随后，执行 ``su`` 切换到 root 用户，执行 ``ls /data/data/com.termux`` 能够正常浏览该目录，这也是意料之中的事情。紧接着，意外发生了。当我们在 root 身份下执行 ``su shell -c ls /data/data/com.termux`` 时（注意这里 -c 后面没有引号），却依旧能够查看到 ``/data/data/com.termux`` 的内容。与此同时，我们在 Termux 中通过 ``su`` 命令切换到 root 用户，执行 ``su shell -c "ls /data/data/bin.mt.plus"`` 后（注意这里 -c 后面有引号），得到的提示是 ``ls: cannot open directory '/data/data/bin.mt.plus': Permission denied``。虽然说，是失败了，但这个提示似乎与 MT 管理器以普通用户身份直接执行 ``ls /data/data/com.termux`` 的结果不一样。进而，笔者在 Termux 中以 root 身份下执行 ``su shell -c "test -e /data/data/bin.mt.plus && echo Found"`` 发现控制台输出 ``Found``。也就是说，虽然 Termux 的 root 执行降权后是无法看到 ``/data/data/bin.mt.plus`` 中的内容，但依旧能够检测到这个文件夹的存在，那其实也就已经泄露了 MT 管理器的存在，这让人不禁怀疑是否降权成功。
+
+于是，笔者返回了 Linux 操作系统中以 root 用户身份执行 ``su user -c "test -e /root && echo Found"`` 和 ``su user -c "test -e /root/test && echo Found"``，前者则输出了 Found，后者则没有任何输出。这与普通用户身份下不使用 ``su`` 直接测试得到的结果一致。随后，笔者发现，无论 ``/root`` 下是否存在一个文件夹 x，只要 ``/root`` 以 700 权限阻断了普通用户，对 ``/root`` 下的这个 x 进行 ls 均会返回 Permission Denied 的错误。这与安卓中的情况中一致。但在安卓中，``/data/data`` 的权限，居然是 771 而不是 700，那能检测到文件夹就不足为奇了，情况就发生变化了。也就是说，如果文件夹真的存在且上级目录赋予了当前 shell 执行权限，对该文件夹进行 ls 会提示拒绝访问，否则会提示没有此文件或目录。
+
+事实上，无论是在 Linux 还是在安卓，利用 su 降权（切换用户）执行命令是成功的。那么，为什么在 MT 管理器中直接探测 ``/data/data/com.termux`` 提示的是没有此文件或目录呢？这就是安卓的沙箱机制。询问了下 DeepSeek，发现是 SELinux 上下文指示了沙箱的环境。
+![沙箱环境](https://i-blog.csdnimg.cn/direct/4ccd830ac5cf42929735972d1d436ed5.png)
+
+最后，降权执行时，赋上了 ``-Z u:r:untrusted_app:s0`` 的上下文参数。另外，需要注意的是，Termux 的 shell 是 share UID，执行 su 是执行 root 管理器提供的 su，而 MT 管理器的 su 使用的是 MT 管理器自带的 su，该区别可以分别在 MT 管理器和 Termux 中执行 ``su --help`` 观测到。当然也不用担心，普通应用没有办法通过修改自己的 shell 的 SELinux 上下文来达到高权限的目的。
+

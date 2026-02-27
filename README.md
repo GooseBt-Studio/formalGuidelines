@@ -4,6 +4,7 @@ This repository serves as a personal repository to store some mixtures, which ma
 
 In addition, some technical documents in this repository will be copied to CSDN when convenient. 
 
+- [Blobs from CSDN](./blobsFromCSDN): This directory stores the blobs from CSDN, which will be merged into other directories in the future. 
 - [Gaming](./gaming/): This directory stores some classic games and their save data. 
 - [Inverse Proportional Functions](./inverseProportionalFunctions/main.pdf): This PDF file stores some personal thoughts on the inverse proportional functions. 
 - [Malicious Obfuscated Android Scripts](./maliciousObfuscatedAndroidScripts/): This directory stores some malicious obfuscated Android scripts. 
@@ -23,6 +24,7 @@ In addition, some technical documents in this repository will be copied to CSDN 
 
 此外，本存储库下的一些技术性文档会在笔者有空时顺带抄送 CSDN。
 
+- [CSDN 博客](./blobsFromCSDN)：此目录存储了来自 CSDN 的博客，将来会被合并到其它目录中。
 - [游戏存档](./gaming/)：此目录存储了一些经典的游戏及其存档。
 - [反比例函数](./inverseProportionalFunctions/main.pdf)：此 PDF 文件存储了一些关于反比例函数的个人思考。
 - [混淆的恶意 Android 脚本](./maliciousObfuscatedAndroidScripts/)：此目录存储了一些混淆的恶意 Android 脚本。
