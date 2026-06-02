@@ -15,7 +15,7 @@ minor="$(curl -s "https://www.python.org/ftp/python/${major}/" | grep -oP 'href=
 wget -c "https://www.python.org/ftp/python/${major}/${minor}"
 tar -xf "${minor}"
 cd "${minor%.tgz}"
-ac_cv_func_fexecve=no ac_cv_func_getloadavg=no ac_cv_func_getlogin_r=no ac_cv_func_getpwent=no ac_cv_func_posix_spawn=no ac_cv_func_posix_spawnp=no ac_cv_func_pthread_getname_np=no ac_cv_func_sem_clockwait=no ac_cv_func_statx=no ac_cv_header_spawn_h=no ./configure --prefix=${PREFIX} --with-ensurepip=install --with-openssl=${PREFIX} --with-system-expat
+ac_cv_func_close_range=no ac_cv_func_copy_file_range=no ac_cv_func_fexecve=no ac_cv_func_getloadavg=no ac_cv_func_getlogin_r=no ac_cv_func_getpwent=no ac_cv_func_posix_spawn=no ac_cv_func_posix_spawnp=no ac_cv_func_preadv2=no ac_cv_func_pthread_getname_np=no ac_cv_func_pwritev2=no ac_cv_func_sem_clockwait=no ac_cv_func_statx=no ac_cv_header_spawn_h=no ./configure --prefix=${PREFIX} --with-ensurepip=install --with-openssl=${PREFIX} --with-system-expat
 make -j$(nproc)
 make install
 ln -s "${PREFIX}/bin/python3" "${PREFIX}/bin/python"
