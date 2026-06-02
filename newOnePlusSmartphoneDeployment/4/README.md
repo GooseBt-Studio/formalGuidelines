@@ -42,7 +42,7 @@ cd "${minor%.tgz}"
 PREFIX="/usr/local"
 ./configure --prefix=${PREFIX} --enable-optimizations --with-ensurepip=install
 make -j$(nproc)
-make install
+make altinstall
 ln -s "${PREFIX}/bin/python3" "${PREFIX}/bin/python"
 ln -s "${PREFIX}/bin/python" "${PREFIX}/bin/py"
 ln -s "${PREFIX}/bin/pip3" "${PREFIX}/bin/pip"
@@ -56,5 +56,8 @@ python -m pip install wheel
 
 同理，请在执行过程中保持网络通畅，如某条命令执行失败，请重试，或询问 GenAI 工具以寻求帮助。
 此处，设置 ``PREFIX`` 为 ``/usr/local`` 而非 ``/usr`` 是因为 ``/usr/bin/`` 下的文件一般为系统安装的，而 ``/usr/local/bin/`` 下的文件则一般为超级用户手动安装的。
+使用 ``make altinstall`` 是为了避免与系统自带的 Python 发生冲突，但如果事先已确认系统层的 Python 已被清理干净或 Ubuntu 处于刚安装完成且没有自带 Python 的状态，则可以使用 ``make install``。
 
 更多有关在标准的 Ubuntu 或 WSL 下的 Ubuntu 中安装 Python 的命令，可参阅 [https://github.com/yueryang/Cryptography-Schemes](https://github.com/yueryang/Cryptography-Schemes)。
+
+在根据自己的偏好设置完系统设置、登录完各种境内外应用（如微信、QQ、Telegram、WhatsApp 和 Swift Backup）和导入数据后，这台一加手机就基本可以投入日常使用了。
