@@ -68,4 +68,6 @@ Only Chinese guidelines are provided in detail.
 - [平衡球（HTC Teeter）](https://github.com/LRFP-Team/Teeter)
 - [开心消消乐](https://kxxxl.leyuansu.com/)：官服
 - [贪吃蛇大作战](https://www.tcsdzz.com/)：两个号均为 OPPO 渠道服
-- [奥比岛手游](https://aobi.leiting.com/home)：一个号为官服、两个号为 OPPO 渠道服、一个号为华为渠道服
+- [奥比岛手游](https://aobi.leiting.com/home)
+  - [非官方指南](./Android/ObiIsland/)
+  - 实验测试说明：一个号为官服、两个号为 OPPO 渠道服、一个号为华为渠道服
