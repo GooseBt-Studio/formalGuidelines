@@ -1,6988 +1,11318 @@
-##### 6 BGM
+##### 6. BGM
 
-∞¬±»µ∫ ÷”Œ”–∑«≥£∑·∏ªµƒ BGM£¨“ª–© BGM √¸√˚»Áœ¬°£
+Â••ÊØîÂ≤õÊâãÊ∏∏ÊúâÈùûÂ∏∏‰∏∞ÂØåÁöÑ BGMÔºå‰∏Ä‰∫õ BGM ÂëΩÂêçÂ¶Ç‰∏ã„ÄÇ
 
-»Á”––Ë“™£¨‘⁄’˝»∑≤ø  ffmpeg ª∑æ≥∫Û÷¥––√¸¡Ó ``ffmpeg -i Accordion.wav -i Bass.wav -i Clarinet.wav -i Drum.wav -i Flute.wav -i Guitar.wav -i Piano.wav -i Str.wav -filter_complex "amix=inputs=8:duration=longest,loudnorm,volume=4" output.wav`` ø…Ω´°∂“∞∑‰∑…ŒË°∑ªÏœÏ°£
+ÂÆòÊúç‰∏éÂêÑÊ∏†ÈÅìÊúç‰πãÈó¥ÁöÑ BGM ÁªìÊûÑÂíåÂÜÖÂÆπÂü∫Êú¨‰∏ÄËá¥„ÄÇ
+
+Â¶ÇÊúâÈúÄË¶ÅÔºåÂú®Ê≠£Á°ÆÈÉ®ÁΩ≤ ffmpeg ÁéØÂ¢ÉÂêéÊâßË°åÂëΩ‰ª§ ``ffmpeg -i Accordion.wav -i Bass.wav -i Clarinet.wav -i Drum.wav -i Flute.wav -i Guitar.wav -i Piano.wav -i Str.wav -filter_complex "amix=inputs=8:duration=longest,loudnorm,volume=4" bee_speaker.wav`` ÂèØÂ∞Ü„ÄäÈáéËúÇÈ£ûËàû„ÄãÊ∑∑Âìç„ÄÇ
 
 ```
-©¶  
-©¿©§4.7[0]
-©¶  ©¶  4.7[0].txt
-©¶  ©¶  4.7_chunwan_fengrenyu001.wav
-©¶  ©¶  4.7_chunwan_fengrenyu002.wav
-©¶  ©¶  4.7_chunwan_fengrenyu003.wav
-©¶  ©¶  4.7_chunwan_fengrenyu004.wav
-©¶  ©¶  4.7_chunwan_he1.wav
-©¶  ©¶  4.7_chunwan_he10.wav
-©¶  ©¶  4.7_chunwan_he11.wav
-©¶  ©¶  4.7_chunwan_he12.wav
-©¶  ©¶  4.7_chunwan_he13.wav
-©¶  ©¶  4.7_chunwan_he14.wav
-©¶  ©¶  4.7_chunwan_he15.wav
-©¶  ©¶  4.7_chunwan_he16.wav
-©¶  ©¶  4.7_chunwan_he17.wav
-©¶  ©¶  4.7_chunwan_he18.wav
-©¶  ©¶  4.7_chunwan_he2.wav
-©¶  ©¶  4.7_chunwan_he3.wav
-©¶  ©¶  4.7_chunwan_he4.wav
-©¶  ©¶  4.7_chunwan_he5.wav
-©¶  ©¶  4.7_chunwan_he6.wav
-©¶  ©¶  4.7_chunwan_he7.wav
-©¶  ©¶  4.7_chunwan_he8.wav
-©¶  ©¶  4.7_chunwan_he9.wav
-©¶  ©¶  4.7_chunwan_jk001.wav
-©¶  ©¶  4.7_chunwan_jk002.wav
-©¶  ©¶  4.7_chunwan_jk003.wav
-©¶  ©¶  4.7_chunwan_jk004.wav
-©¶  ©¶  4.7_chunwan_jk005.wav
-©¶  ©¶  4.7_chunwan_jk006.wav
-©¶  ©¶  4.7_chunwan_jk007.wav
-©¶  ©¶  4.7_chunwan_kl001.wav
-©¶  ©¶  4.7_chunwan_kl002.wav
-©¶  ©¶  4.7_chunwan_kl003.wav
-©¶  ©¶  4.7_chunwan_kl004.wav
-©¶  ©¶  4.7_chunwan_kl005.wav
-©¶  ©¶  4.7_chunwan_kl006.wav
-©¶  ©¶  4.7_chunwan_kl007.wav
-©¶  ©¶  4.7_chunwan_kl008.wav
-©¶  ©¶  4.7_chunwan_kl009.wav
-©¶  ©¶  4.7_chunwan_kl010.wav
-©¶  ©¶  4.7_chunwan_kl011.wav
-©¶  ©¶  4.7_chunwan_kl012.wav
-©¶  ©¶  4.7_chunwan_kl013.wav
-©¶  ©¶  4.7_chunwan_kl014.wav
-©¶  ©¶  4.7_chunwan_kl015.wav
-©¶  ©¶  4.7_chunwan_kl016.wav
-©¶  ©¶  4.7_chunwan_kl017.wav
-©¶  ©¶  4.7_chunwan_kl018.wav
-©¶  ©¶  4.7_chunwan_kl019.wav
-©¶  ©¶  4.7_chunwan_kl020.wav
-©¶  ©¶  4.7_chunwan_kl021.wav
-©¶  ©¶  4.7_chunwan_kl022.wav
-©¶  ©¶  4.7_chunwan_kl023.wav
-©¶  ©¶  4.7_chunwan_kl024.wav
-©¶  ©¶  4.7_chunwan_kl025.wav
-©¶  ©¶  4.7_chunwan_kl026.wav
-©¶  ©¶  4.7_chunwan_kl027.wav
-©¶  ©¶  4.7_chunwan_kl028.wav
-©¶  ©¶  4.7_chunwan_kl029.wav
-©¶  ©¶  4.7_chunwan_kl030.wav
-©¶  ©¶  4.7_chunwan_kl031.wav
-©¶  ©¶  4.7_chunwan_kl032.wav
-©¶  ©¶  4.7_chunwan_kl033.wav
-©¶  ©¶  4.7_chunwan_kl034.wav
-©¶  ©¶  4.7_chunwan_kl035.wav
-©¶  ©¶  4.7_chunwan_kl036.wav
-©¶  ©¶  4.7_chunwan_kl037.wav
-©¶  ©¶  4.7_chunwan_kl038.wav
-©¶  ©¶  4.7_chunwan_kl039.wav
-©¶  ©¶  4.7_chunwan_kl040.wav
-©¶  ©¶  4.7_chunwan_kl041.wav
-©¶  ©¶  4.7_chunwan_kl042.wav
-©¶  ©¶  4.7_chunwan_lk001.wav
-©¶  ©¶  4.7_chunwan_lk002.wav
-©¶  ©¶  4.7_chunwan_lk003.wav
-©¶  ©¶  4.7_chunwan_lk004.wav
-©¶  ©¶  4.7_chunwan_lk005.wav
-©¶  ©¶  4.7_chunwan_lz001.wav
-©¶  ©¶  4.7_chunwan_lz002.wav
-©¶  ©¶  4.7_chunwan_lz003.wav
-©¶  ©¶  4.7_chunwan_lz004.wav
-©¶  ©¶  4.7_chunwan_lz005.wav
-©¶  ©¶  4.7_chunwan_lz006.wav
-©¶  ©¶  4.7_chunwan_lz007.wav
-©¶  ©¶  4.7_chunwan_lz008.wav
-©¶  ©¶  4.7_chunwan_lz009.wav
-©¶  ©¶  4.7_chunwan_lz010.wav
-©¶  ©¶  4.7_chunwan_lz011.wav
-©¶  ©¶  4.7_chunwan_lz012.wav
-©¶  ©¶  4.7_chunwan_lz013.wav
-©¶  ©¶  4.7_chunwan_lz014.wav
-©¶  ©¶  4.7_chunwan_lz015.wav
-©¶  ©¶  4.7_chunwan_lz016.wav
-©¶  ©¶  4.7_chunwan_lz017.wav
-©¶  ©¶  4.7_chunwan_lz018.wav
-©¶  ©¶  4.7_chunwan_lz019.wav
-©¶  ©¶  4.7_chunwan_lz020.wav
-©¶  ©¶  4.7_chunwan_lz021.wav
-©¶  ©¶  4.7_chunwan_lz022.wav
-©¶  ©¶  4.7_chunwan_lz023.wav
-©¶  ©¶  4.7_chunwan_lz024.wav
-©¶  ©¶  4.7_chunwan_lz025.wav
-©¶  ©¶  4.7_chunwan_lz026.wav
-©¶  ©¶  4.7_chunwan_lz027.wav
-©¶  ©¶  4.7_chunwan_lz028.wav
-©¶  ©¶  4.7_chunwan_lz029.wav
-©¶  ©¶  4.7_chunwan_lz030.wav
-©¶  ©¶  4.7_chunwan_lz031.wav
-©¶  ©¶  4.7_chunwan_lz032.wav
-©¶  ©¶  4.7_chunwan_lz033.wav
-©¶  ©¶  4.7_chunwan_lz034.wav
-©¶  ©¶  4.7_chunwan_lz035.wav
-©¶  ©¶  4.7_chunwan_lz036.wav
-©¶  ©¶  4.7_chunwan_lz037.wav
-©¶  ©¶  4.7_chunwan_lz038.wav
-©¶  ©¶  4.7_chunwan_lz039.wav
-©¶  ©¶  4.7_chunwan_lz040.wav
-©¶  ©¶  4.7_chunwan_lz041.wav
-©¶  ©¶  4.7_chunwan_lz042.wav
-©¶  ©¶  4.7_chunwan_lz043.wav
-©¶  ©¶  4.7_chunwan_lz044.wav
-©¶  ©¶  4.7_chunwan_lz045.wav
-©¶  ©¶  4.7_chunwan_lz046.wav
-©¶  ©¶  4.7_chunwan_lz047.wav
-©¶  ©¶  4.7_chunwan_lz048.wav
-©¶  ©¶  4.7_chunwan_lz049.wav
-©¶  ©¶  4.7_chunwan_lz050.wav
-©¶  ©¶  4.7_chunwan_lz051.wav
-©¶  ©¶  4.7_chunwan_lz052.wav
-©¶  ©¶  4.7_chunwan_lz053.wav
-©¶  ©¶  4.7_chunwan_lz054.wav
-©¶  ©¶  4.7_chunwan_lz055.wav
-©¶  ©¶  4.7_chunwan_lz056.wav
-©¶  ©¶  4.7_chunwan_lz057.wav
-©¶  ©¶  4.7_chunwan_lz058.wav
-©¶  ©¶  4.7_chunwan_lz059.wav
-©¶  ©¶  4.7_chunwan_lz060.wav
-©¶  ©¶  4.7_chunwan_lz061.wav
-©¶  ©¶  4.7_chunwan_lz062.wav
-©¶  ©¶  4.7_chunwan_lz063.wav
-©¶  ©¶  4.7_chunwan_lz064.wav
-©¶  ©¶  4.7_chunwan_lz065.wav
-©¶  ©¶  4.7_chunwan_lz066.wav
-©¶  ©¶  4.7_chunwan_lz067.wav
-©¶  ©¶  4.7_chunwan_lz068.wav
-©¶  ©¶  4.7_chunwan_swx001.wav
-©¶  ©¶  4.7_chunwan_swx002.wav
-©¶  ©¶  4.7_chunwan_swx003.wav
-©¶  ©¶  4.7_chunwan_swx004.wav
-©¶  ©¶  4.7_chunwan_swx005.wav
-©¶  ©¶  4.7_chunwan_swx006.wav
-©¶  ©¶  4.7_chunwan_swx007.wav
-©¶  ©¶  4.7_chunwan_swx008.wav
-©¶  ©¶  4.7_chunwan_swx009.wav
-©¶  ©¶  4.7_chunwan_swx010.wav
-©¶  ©¶  4.7_chunwan_swx011.wav
-©¶  ©¶  4.7_chunwan_swx012.wav
-©¶  ©¶  4.7_chunwan_swx013.wav
-©¶  ©¶  4.7_chunwan_swx014.wav
-©¶  ©¶  4.7_chunwan_swx015.wav
-©¶  ©¶  4.7_chunwan_swx016.wav
-©¶  ©¶  4.7_chunwan_swx017.wav
-©¶  ©¶  4.7_chunwan_swx018.wav
-©¶  ©¶  4.7_chunwan_swx019.wav
-©¶  ©¶  4.7_chunwan_swx020.wav
-©¶  ©¶  4.7_chunwan_swx021.wav
-©¶  ©¶  4.7_chunwan_swx022.wav
-©¶  ©¶  4.7_chunwan_swx023.wav
-©¶  ©¶  4.7_chunwan_swx024.wav
-©¶  ©¶  4.7_chunwan_swx025.wav
-©¶  ©¶  4.7_chunwan_swx026.wav
-©¶  ©¶  4.7_chunwan_swx027.wav
-©¶  ©¶  4.7_chunwan_swx028.wav
-©¶  ©¶  4.7_chunwan_swx029.wav
-©¶  ©¶  4.7_chunwan_swx030.wav
-©¶  ©¶  4.7_chunwan_swx031.wav
-©¶  ©¶  4.7_chunwan_swx032.wav
-©¶  ©¶  4.7_chunwan_swx033.wav
-©¶  ©¶  4.7_chunwan_swx034.wav
-©¶  ©¶  4.7_chunwan_swx035.wav
-©¶  ©¶  4.7_chunwan_swx036.wav
-©¶  ©¶  4.7_chunwan_swx037.wav
-©¶  ©¶  4.7_chunwan_swx038.wav
-©¶  ©¶  4.7_chunwan_swx039.wav
-©¶  ©¶  4.7_chunwan_swx040.wav
-©¶  ©¶  4.7_chunwan_swx041.wav
-©¶  ©¶  4.7_chunwan_swx042.wav
-©¶  ©¶  4.7_chunwan_swx043.wav
-©¶  ©¶  4.7_chunwan_swx044.wav
-©¶  ©¶  4.7_chunwan_swx045.wav
-©¶  ©¶  4.7_chunwan_swx046.wav
-©¶  ©¶  4.7_chunwan_swx047.wav
-©¶  ©¶  4.7_chunwan_swx048.wav
-©¶  ©¶  4.7_chunwan_swx049.wav
-©¶  ©¶  4.7_chunwan_swx050.wav
-©¶  ©¶  4.7_chunwan_swx051.wav
-©¶  ©¶  4.7_chunwan_swx052.wav
-©¶  ©¶  4.7_chunwan_swx053.wav
-©¶  ©¶  4.7_chunwan_swx054.wav
-©¶  ©¶  4.7_chunwan_swx055.wav
-©¶  ©¶  4.7_chunwan_swx056.wav
-©¶  ©¶  4.7_chunwan_swx057.wav
-©¶  ©¶  4.7_chunwan_swx058.wav
-©¶  ©¶  4.7_chunwan_swx059.wav
-©¶  ©¶  4.7_chunwan_swx060.wav
-©¶  ©¶  4.7_chunwan_swx061.wav
-©¶  ©¶  4.7_chunwan_swx062.wav
-©¶  ©¶  4.7_chunwan_swx063.wav
-©¶  ©¶  4.7_chunwan_swx064.wav
-©¶  ©¶  4.7_chunwan_swx065.wav
-©¶  ©¶  4.7_chunwan_swx066.wav
-©¶  ©¶  4.7_chunwan_tiluo001.wav
-©¶  ©¶  4.7_chunwan_tiluo002.wav
-©¶  ©¶  4.7_chunwan_tiluo003.wav
-©¶  ©¶  4.7_chunwan_tiluo004.wav
-©¶  ©¶  4.7_chunwan_tiluo005.wav
-©¶  ©¶  4.7_chunwan_wlt001.wav
-©¶  ©¶  4.7_chunwan_wlt002.wav
-©¶  ©¶  4.7_chunwan_wlt003.wav
-©¶  ©¶  4.7_chunwan_wlt004.wav
-©¶  ©¶  4.7_chunwan_wlt005.wav
-©¶  ©¶  4.7_chunwan_wlt006.wav
-©¶  ©¶  4.7_chunwan_wlt007.wav
-©¶  ©¶  4.7_chunwan_wlt008.wav
-©¶  ©¶  4.7_chunwan_wlt009.wav
-©¶  ©¶  4.7_chunwan_wlt010.wav
-©¶  ©¶  4.7_chunwan_wlt011.wav
-©¶  ©¶  4.7_chunwan_wlt012.wav
-©¶  ©¶  4.7_chunwan_wlt013.wav
-©¶  ©¶  4.7_chunwan_wlt014.wav
-©¶  ©¶  4.7_chunwan_wlt015.wav
-©¶  ©¶  4.7_chunwan_wlt016.wav
-©¶  ©¶  4.7_chunwan_wlt017.wav
-©¶  ©¶  4.7_chunwan_wlt018.wav
-©¶  ©¶  4.7_chunwan_wlt019.wav
-©¶  ©¶  4.7_chunwan_wlt020.wav
-©¶  ©¶  4.7_chunwan_wlt021.wav
-©¶  ©¶  4.7_chunwan_wlt022.wav
-©¶  ©¶  4.7_chunwan_wlt023.wav
-©¶  ©¶  4.7_chunwan_wlt024.wav
-©¶  ©¶  4.7_chunwan_wlt025.wav
-©¶  ©¶  4.7_chunwan_wlt026.wav
-©¶  ©¶  4.7_chunwan_wlt027.wav
-©¶  ©¶  4.7_chunwan_wlt028.wav
-©¶  ©¶  4.7_chunwan_wlt029.wav
-©¶  ©¶  4.7_chunwan_wlt030.wav
-©¶  ©¶  4.7_chunwan_wlt031.wav
-©¶  ©¶  4.7_chunwan_wlt032.wav
-©¶  ©¶  4.7_chunwan_wlt033.wav
-©¶  ©¶  4.7_chunwan_wlt034.wav
-©¶  ©¶  4.7_chunwan_wlt035.wav
-©¶  ©¶  4.7_chunwan_wlt036.wav
-©¶  ©¶  4.7_chunwan_wlt037.wav
-©¶  ©¶  4.7_chunwan_wlt038.wav
-©¶  ©¶  4.7_chunwan_wlt039.wav
-©¶  ©¶  4.7_chunwan_wlt040.wav
-©¶  ©¶  4.7_chunwan_wlt041.wav
-©¶  ©¶  4.7_chunwan_wlt042.wav
-©¶  ©¶  4.7_chunwan_wlt043.wav
-©¶  ©¶  4.7_chunwan_wlt044.wav
-©¶  ©¶  4.7_chunwan_wlt045.wav
-©¶  ©¶  4.7_chunwan_wlt046.wav
-©¶  ©¶  4.7_chunwan_wlt047.wav
-©¶  ©¶  4.7_chunwan_wlt048.wav
-©¶  ©¶  4.7_chunwan_wlt049.wav
-©¶  ©¶  4.7_chunwan_wlt050.wav
-©¶  ©¶  4.7_chunwan_wlt051.wav
-©¶  ©¶  4.7_chunwan_wlt052.wav
-©¶  ©¶  4.7_chunwan_wlt053.wav
-©¶  ©¶  4.7_chunwan_wlt054.wav
-©¶  ©¶  4.7_chunwan_wlt055.wav
-©¶  ©¶  4.7_chunwan_wlt056.wav
-©¶  ©¶  4.7_chunwan_wlt057.wav
-©¶  ©¶  4.7_chunwan_wlt058.wav
-©¶  ©¶  4.7_chunwan_wlt059.wav
-©¶  ©¶  4.7_chunwan_wlt060 .wav
-©¶  ©¶  4.7_chunwan_wlt061.wav
-©¶  ©¶  4.7_chunwan_wlt062.wav
-©¶  ©¶  4.7_chunwan_wlt063.wav
-©¶  ©¶  4.7_chunwan_wlt064.wav
-©¶  ©¶  4.7_chunwan_wlt065.wav
-©¶  ©¶  4.7_chunwan_wlt066.wav
-©¶  ©¶  4.7_chunwan_wlt067.wav
-©¶  ©¶  4.7_chunwan_wlt068.wav
-©¶  ©¶  4.7_chunwan_wlt069.wav
-©¶  ©¶  4.7_chunwan_wlt070.wav
-©¶  ©¶  4.7_chunwan_wlt071.wav
-©¶  ©¶  4.7_chunwan_wlt072.wav
-©¶  ©¶  4.7_chunwan_wlt073.wav
-©¶  ©¶  4.7_chunwan_wlt074.wav
-©¶  ©¶  4.7_chunwan_wlt075.wav
-©¶  ©¶  4.7_chunwan_wlt076.wav
-©¶  ©¶  4.7_chunwan_wlt077.wav
-©¶  ©¶  4.7_chunwan_wlt078.wav
-©¶  ©¶  4.7_chunwan_wlt079.wav
-©¶  ©¶  4.7_chunwan_wlt080.wav
-©¶  ©¶  4.7_chunwan_wlt081.wav
-©¶  ©¶  4.7_chunwan_wlt082.wav
-©¶  ©¶  4.7_chunwan_wlt083.wav
-©¶  ©¶  4.7_chunwan_wlt084.wav
-©¶  ©¶  4.7_chunwan_wlt085.wav
-©¶  ©¶  4.7_chunwan_wlt086.wav
-©¶  ©¶  4.7_chunwan_wlt087.wav
-©¶  ©¶  4.7_chunwan_wlt088.wav
-©¶  ©¶  4.7_chunwan_wlt089.wav
-©¶  ©¶  4.7_chunwan_wlt090.wav
-©¶  ©¶  4.7_chunwan_wlt091.wav
-©¶  ©¶  4.7_chunwan_wlt092.wav
-©¶  ©¶  4.7_chunwan_wlt093.wav
-©¶  ©¶  4.7_chunwan_wlt094.wav
-©¶  ©¶  4.7_chunwan_xed001.wav
-©¶  ©¶  4.7_chunwan_xed002.wav
-©¶  ©¶  4.7_chunwan_xed003.wav
-©¶  ©¶  4.7_chunwan_xed004.wav
-©¶  ©¶  4.7_chunwan_xed005.wav
-©¶  ©¶  4.7_chunwan_xed006.wav
-©¶  ©¶  4.7_chunwan_xed007.wav
-©¶  ©¶  4.7_chunwan_xed008.wav
-©¶  ©¶  4.7_chunwan_xed009.wav
-©¶  ©¶  4.7_chunwan_xed010.wav
-©¶  ©¶  4.7_chunwan_xed011.wav
-©¶  ©¶  4.7_chunwan_xed012.wav
-©¶  ©¶  4.7_chunwan_xed013.wav
-©¶  ©¶  4.7_chunwan_xed014.wav
-©¶  ©¶  4.7_chunwan_xed015.wav
-©¶  ©¶  4.7_chunwan_xed016.wav
-©¶  ©¶  4.7_chunwan_xed017.wav
-©¶  ©¶  4.7_chunwan_xed018.wav
-©¶  ©¶  4.7_chunwan_xed019.wav
-©¶  ©¶  4.7_chunwan_xed020.wav
-©¶  ©¶  4.7_chunwan_xed021.wav
-©¶  ©¶  4.7_chunwan_xed022.wav
-©¶  ©¶  4.7_chunwan_xed023.wav
-©¶  ©¶  4.7_chunwan_xed024.wav
-©¶  ©¶  4.7_chunwan_xed025.wav
-©¶  ©¶  4.7_chunwan_xed026.wav
-©¶  ©¶  4.7_chunwan_xed027.wav
-©¶  ©¶  4.7_chunwan_xed028.wav
-©¶  ©¶  4.7_chunwan_xed029.wav
-©¶  ©¶  4.7_chunwan_xed030.wav
-©¶  ©¶  4.7_chunwan_xed031.wav
-©¶  ©¶  4.7_chunwan_xed032.wav
-©¶  ©¶  4.7_chunwan_xed033.wav
-©¶  ©¶  4.7_chunwan_xed034.wav
-©¶  ©¶  4.7_chunwan_xed035.wav
-©¶  ©¶  4.7_chunwan_xed036.wav
-©¶  ©¶  4.7_chunwan_xed037.wav
-©¶  ©¶  4.7_chunwan_xed038.wav
-©¶  ©¶  4.7_chunwan_xed039.wav
-©¶  ©¶  4.7_chunwan_xed040.wav
-©¶  ©¶  4.7_chunwan_xed041.wav
-©¶  ©¶  4.7_chunwan_xed042.wav
-©¶  ©¶  4.7_chunwan_xed043.wav
-©¶  ©¶  4.7_chunwan_xed044.wav
-©¶  ©¶  4.7_chunwan_xed045.wav
-©¶  ©¶  4.7_chunwan_xed046.wav
-©¶  ©¶  4.7_chunwan_xed047.wav
-©¶  ©¶  4.7_chunwan_xed048.wav
-©¶  ©¶  4.7_chunwan_xed049.wav
-©¶  ©¶  4.7_chunwan_xed050.wav
-©¶  ©¶  4.7_chunwan_xed051.wav
-©¶  ©¶  4.7_chunwan_xed052.wav
-©¶  ©¶  4.7_chunwan_xed053.wav
-©¶  ©¶  4.7_chunwan_xed054.wav
-©¶  ©¶  4.7_chunwan_xed055.wav
-©¶  ©¶  4.7_chunwan_xed056.wav
-©¶  ©¶  4.7_chunwan_xed057.wav
-©¶  ©¶  4.7_chunwan_xed058.wav
-©¶  ©¶  4.7_chunwan_xed059.wav
-©¶  ©¶  4.7_chunwan_xed060.wav
-©¶  ©¶  4.7_chunwan_xed061.wav
-©¶  ©¶  4.7_chunwan_xed062.wav
-©¶  ©¶  4.7_chunwan_xed063.wav
-©¶  ©¶  4.7_chunwan_xed064.wav
-©¶  ©¶  4.7_chunwan_xed065.wav
-©¶  ©¶  4.7_chunwan_xed066.wav
-©¶  ©¶  4.7_chunwan_xed067.wav
-©¶  ©¶  4.7_chunwan_xed068.wav
-©¶  ©¶  4.7_chunwan_xed069.wav
-©¶  ©¶  4.7_chunwan_xn001.wav
-©¶  ©¶  4.7_chunwan_xn002.wav
-©¶  ©¶  4.7_chunwan_xn003.wav
-©¶  ©¶  4.7_chunwan_xn004.wav
-©¶  ©¶  4.7_chunwan_xn005.wav
-©¶  ©¶  4.7_chunwan_xn006.wav
-©¶  ©¶  4.7_chunwan_xn007.wav
-©¶  ©¶  4.7_chunwan_xn008.wav
-©¶  ©¶  4.7_chunwan_xn009.wav
-©¶  ©¶  4.7_chunwan_xn010.wav
-©¶  ©¶  4.7_chunwan_xn011.wav
-©¶  ©¶  4.7_chunwan_xn012.wav
-©¶  ©¶  4.7_chunwan_xn013.wav
-©¶  ©¶  4.7_chunwan_xn014.wav
-©¶  ©¶  4.7_chunwan_xn015.wav
-©¶  ©¶  4.7_chunwan_xn016.wav
-©¶  ©¶  4.7_chunwan_xn017.wav
-©¶  ©¶  4.7_chunwan_xn018.wav
-©¶  ©¶  4.7_chunwan_xn019.wav
-©¶  ©¶  4.7_chunwan_xn020.wav
-©¶  ©¶  4.7_chunwan_xn021.wav
-©¶  ©¶  4.7_chunwan_xn022.wav
-©¶  ©¶  4.7_chunwan_xn023.wav
-©¶  ©¶  4.7_chunwan_xn024.wav
-©¶  ©¶  4.7_chunwan_xn025.wav
-©¶  ©¶  4.7_chunwan_xn026.wav
-©¶  ©¶  4.7_chunwan_xn027.wav
-©¶  ©¶  4.7_chunwan_xn028.wav
-©¶  ©¶  4.7_chunwan_xn029.wav
-©¶  ©¶  4.7_chunwan_xn030.wav
-©¶  ©¶  4.7_chunwan_xn031.wav
-©¶  ©¶  4.7_chunwan_xn032.wav
-©¶  ©¶  4.7_chunwan_xn033.wav
-©¶  ©¶  4.7_chunwan_xn034.wav
-©¶  ©¶  4.7_chunwan_xn035.wav
-©¶  ©¶  4.7_chunwan_xn036.wav
-©¶  ©¶  4.7_chunwan_xn037.wav
-©¶  ©¶  4.7_chunwan_xn038.wav
-©¶  ©¶  4.7_chunwan_xn039.wav
-©¶  ©¶  4.7_chunwan_xn040.wav
-©¶  ©¶  4.7_chunwan_xn041.wav
-©¶  ©¶  4.7_chunwan_xn042.wav
-©¶  ©¶  4.7_chunwan_xn043.wav
-©¶  ©¶  4.7_chunwan_xn044.wav
-©¶  ©¶  4.7_chunwan_xn045.wav
-©¶  ©¶  4.7_chunwan_xn046.wav
-©¶  ©¶  4.7_chunwan_xn047.wav
-©¶  ©¶  4.7_chunwan_xn048.wav
-©¶  ©¶  4.7_chunwan_xn049.wav
-©¶  ©¶  4.7_chunwan_xn050.wav
-©¶  ©¶  4.7_chunwan_xn051.wav
-©¶  ©¶  4.7_chunwan_xn052.wav
-©¶  ©¶  4.7_chunwan_xn053.wav
-©¶  ©¶  4.7_chunwan_xn054.wav
-©¶  ©¶  4.7_chunwan_xn055.wav
-©¶  ©¶  4.7_chunwan_xn056.wav
-©¶  ©¶  4.7_chunwan_xn057.wav
-©¶  ©¶  4.7_chunwan_xn058.wav
-©¶  ©¶  4.7_chunwan_xn059.wav
-©¶  ©¶  4.7_chunwan_xn060.wav
-©¶  ©¶  4.7_chunwan_xn061.wav
-©¶  ©¶  4.7_chunwan_xn062.wav
-©¶  ©¶  4.7_chunwan_xn063.wav
-©¶  ©¶  4.7_chunwan_xn064.wav
-©¶  ©¶  4.7_chunwan_xn065.wav
-©¶  ©¶  4.7_chunwan_xn066.wav
-©¶  ©¶  4.7_chunwan_xn067.wav
-©¶  ©¶  4.7_chunwan_xn068.wav
-©¶  ©¶  4.7_chunwan_xn069.wav
-©¶  ©¶  4.7_chunwan_xn070.wav
-©¶  ©¶  4.7_chunwan_xn071.wav
-©¶  ©¶  4.7_chunwan_xuanshuang001.wav
-©¶  ©¶  4.7_chunwan_xuanshuang002.wav
-©¶  ©¶  4.7_chunwan_xuanshuang003.wav
-©¶  ©¶  4.7_chunwan_xuanshuang004.wav
-©¶  ©¶  4.7_chunwan_xy001.wav
-©¶  ©¶  4.7_chunwan_xy002.wav
-©¶  ©¶  4.7_chunwan_xy003.wav
-©¶  ©¶  4.7_chunwan_xy004.wav
-©¶  ©¶  4.7_chunwan_xy005.wav
-©¶  ©¶  4.7_chunwan_xy006.wav
-©¶  ©¶  4.7_chunwan_xy007.wav
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§4.7[0]
-©¿©§activity[0]
-©¶  ©¶  activity[0].txt
-©¶  ©¶  npc_hello_aila_101.wav
-©¶  ©¶  npc_hello_alasi_101.wav
-©¶  ©¶  npc_hello_aoli_101.wav
-©¶  ©¶  npc_hello_dahuzi_101.wav
-©¶  ©¶  npc_hello_daixi_101.wav
-©¶  ©¶  npc_hello_fenger_101.wav
-©¶  ©¶  npc_hello_fengwa_101.wav
-©¶  ©¶  npc_hello_fengwa_102.wav
-©¶  ©¶  npc_hello_haila_101.wav
-©¶  ©¶  npc_hello_haila_102.wav
-©¶  ©¶  npc_hello_jinkuai_101.wav
-©¶  ©¶  npc_hello_kelai_101.wav
-©¶  ©¶  npc_hello_laiang_101.wav
-©¶  ©¶  npc_hello_laiang_102.wav
-©¶  ©¶  npc_hello_lizhen_101.wav
-©¶  ©¶  npc_hello_lizhen_102.wav
-©¶  ©¶  npc_hello_lizhen_103.wav
-©¶  ©¶  npc_hello_maguli_101.wav
-©¶  ©¶  npc_hello_malu_101.wav
-©¶  ©¶  npc_hello_malu_102.wav
-©¶  ©¶  npc_hello_meier_101.wav
-©¶  ©¶  npc_hello_modun_101.wav
-©¶  ©¶  npc_hello_panpan_101.wav
-©¶  ©¶  npc_hello_suofeiya_101.wav
-©¶  ©¶  npc_hello_suoya_101.wav
-©¶  ©¶  npc_hello_suoya_102.wav
-©¶  ©¶  npc_hello_tianji_101.wav
-©¶  ©¶  npc_hello_wayi_101.wav
-©¶  ©¶  npc_hello_weikeduo_101.wav
-©¶  ©¶  npc_hello_weilita_101.wav
-©¶  ©¶  npc_hello_wendi_101.wav
-©¶  ©¶  npc_hello_wendi_102.wav
-©¶  ©¶  npc_hello_xiaoye_101.wav
-©¶  ©¶  npc_hello_xiaoye_102.wav
-©¶  ©¶  npc_hello_xiaoye_103.wav
-©¶  ©¶  npc_hello_xierda_101.wav
-©¶  ©¶  npc_hello_yexi_101.wav
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§activity[0]
-©¿©§amb_2d[0]
-©¶  ©¶  amb_2d[0].txt
-©¶  ©¶  amb_under_sea.wav
-©¶  ©¶  black_bird_1.wav
-©¶  ©¶  black_bird_2.wav
-©¶  ©¶  black_bird_3.wav
-©¶  ©¶  black_bird_4.wav
-©¶  ©¶  forest_night_owl_01.wav
-©¶  ©¶  forest_night_owl_02.wav
-©¶  ©¶  forest_night_owl_03.wav
-©¶  ©¶  forest_night_owl_04.wav
-©¶  ©¶  forest_night_owl_05.wav
-©¶  ©¶  forest_rain_1.wav
-©¶  ©¶  forest_rain_2.wav
-©¶  ©¶  forest_rain_3.wav
-©¶  ©¶  forest_rain_4.wav
-©¶  ©¶  island_bird.wav
-©¶  ©¶  island_bird_10.wav
-©¶  ©¶  island_bird_11.wav
-©¶  ©¶  island_bird_12.wav
-©¶  ©¶  island_bird_2.wav
-©¶  ©¶  island_bird_3.wav
-©¶  ©¶  island_bird_4.wav
-©¶  ©¶  island_bird_5.wav
-©¶  ©¶  island_bird_6.wav
-©¶  ©¶  island_bird_7.wav
-©¶  ©¶  island_bird_8.wav
-©¶  ©¶  island_bird_9.wav
-©¶  ©¶  langrensha_1.wav
-©¶  ©¶  langrensha_2.wav
-©¶  ©¶  langrensha_wind_1.wav
-©¶  ©¶  longwa_story.wav
-©¶  ©¶  loon_1.wav
-©¶  ©¶  loon_13.wav
-©¶  ©¶  loon_16.wav
-©¶  ©¶  mf_night_1.wav
-©¶  ©¶  mtf_bird_01.wav
-©¶  ©¶  mtf_bird_02.wav
-©¶  ©¶  mtf_bird_03.wav
-©¶  ©¶  mtf_bird_04.wav
-©¶  ©¶  mtf_bird_05.wav
-©¶  ©¶  mtf_bird_06.wav
-©¶  ©¶  mtf_bird_07.wav
-©¶  ©¶  mtf_bird_08.wav
-©¶  ©¶  mtf_bird_09.wav
-©¶  ©¶  rain.wav
-©¶  ©¶  rain_hard.wav
-©¶  ©¶  renou_bujing.wav
-©¶  ©¶  Seagull_Caws01.wav
-©¶  ©¶  Seagull_Caws02.wav
-©¶  ©¶  Seagull_Caws03.wav
-©¶  ©¶  Seagull_Caws04.wav
-©¶  ©¶  Seagull_Caws05.wav
-©¶  ©¶  Seagull_Caws06.wav
-©¶  ©¶  thunder_1.wav
-©¶  ©¶  thunder_2.wav
-©¶  ©¶  thunder_3.wav
-©¶  ©¶  thunder_4.wav
-©¶  ©¶  thunder_5.wav
-©¶  ©¶  thunder_6.wav
-©¶  ©¶  thunder_7.wav
-©¶  ©¶  wave.wav
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§amb_2d[0]
-©¿©§amb_2d_1[0]
-©¶  ©¶  amb_2d_1[0].txt
-©¶  ©¶  amb_snow.wav
-©¶  ©¶  biyeji.wav
-©¶  ©¶  erlili_huazhan.wav
-©¶  ©¶  hanghai.wav
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§amb_2d_1[0]
-©¿©§amb_3d[0]
-©¶  ©¶  amb_3d[0].txt
-©¶  ©¶  campfire.wav
-©¶  ©¶  fireworks_01.wav
-©¶  ©¶  fireworks_01_all.wav
-©¶  ©¶  fireworks_01_sp.wav
-©¶  ©¶  fireworks_02.wav
-©¶  ©¶  fireworks_02_all.wav
-©¶  ©¶  fireworks_02_sp.wav
-©¶  ©¶  fireworks_03.wav
-©¶  ©¶  fireworks_03_all.wav
-©¶  ©¶  fireworks_03_sp.wav
-©¶  ©¶  fireworks_04.wav
-©¶  ©¶  fireworks_04_all.wav
-©¶  ©¶  fireworks_04_sp.wav
-©¶  ©¶  fireworks_05.wav
-©¶  ©¶  fireworks_05_all.wav
-©¶  ©¶  fireworks_05_sp.wav
-©¶  ©¶  fireworks_5.wav
-©¶  ©¶  fireworks_6.wav
-©¶  ©¶  fireworks_7.wav
-©¶  ©¶  fireworks_8.wav
-©¶  ©¶  fireworks_bomb_1.wav
-©¶  ©¶  fireworks_bomb_2.wav
-©¶  ©¶  fireworks_bomb_3.wav
-©¶  ©¶  fireworks_bomb_4.wav
-©¶  ©¶  fireworks_bomb_5.wav
-©¶  ©¶  fireworks_pubuxing.wav
-©¶  ©¶  fireworks_pugongying.wav
-©¶  ©¶  fireworks_shexian.wav
-©¶  ©¶  fireworks_whistle_1.wav
-©¶  ©¶  fireworks_whistle_2.wav
-©¶  ©¶  fireworks_whistle_3.wav
-©¶  ©¶  fireworks_whistle_4.wav
-©¶  ©¶  fireworks_word.wav
-©¶  ©¶  fireworks_xiazhuixiaosan.wav
-©¶  ©¶  fireworks_zhanfangbaozha.wav
-©¶  ©¶  huojianpao.wav
-©¶  ©¶  pigeon.wav
-©¶  ©¶  pigeon1.wav
-©¶  ©¶  pigeon2.wav
-©¶  ©¶  pigeon3.wav
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§amb_3d[0]
-©¿©§amb_family[0]
-©¶  ©¶  amb_family[0].txt
-©¶  ©¶  bird_10.wav
-©¶  ©¶  bird_11.wav
-©¶  ©¶  bird_12.wav
-©¶  ©¶  bird_square_1.wav
-©¶  ©¶  bird_square_2.wav
-©¶  ©¶  bird_square_3.wav
-©¶  ©¶  bird_square_4.wav
-©¶  ©¶  island_bird_7.wav
-©¶  ©¶  island_night_1.wav
-©¶  ©¶  island_night_2.wav
-©¶  ©¶  island_night_3.wav
-©¶  ©¶  island_night_4.wav
-©¶  ©¶  island_night_5.wav
-©¶  ©¶  island_night_6.wav
-©¶  ©¶  island_night_7.wav
-©¶  ©¶  island_night_8.wav
-©¶  ©¶  island_night_9.wav
-©¶  ©¶  square_dog.wav
-©¶  ©¶  square_dog_1.wav
-©¶  ©¶  square_dog_2.wav
-©¶  ©¶  square_dog_3.wav
-©¶  ©¶  square_dog_4.wav
-©¶  ©¶  square_dog_5.wav
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§amb_family[0]
-©¿©§amb_forest[0]
-©¶  ©¶  1.wav
-©¶  ©¶  1_33.wav
-©¶  ©¶  2.wav
-©¶  ©¶  2_51.wav
-©¶  ©¶  3.wav
-©¶  ©¶  3_45.wav
-©¶  ©¶  4.wav
-©¶  ©¶  4_52.wav
-©¶  ©¶  5.wav
-©¶  ©¶  5_71.wav
-©¶  ©¶  6.wav
-©¶  ©¶  6_48.wav
-©¶  ©¶  7.wav
-©¶  ©¶  7_35.wav
-©¶  ©¶  8.wav
-©¶  ©¶  8_63.wav
-©¶  ©¶  amb_forest[0].txt
-©¶  ©¶  bee.wav
-©¶  ©¶  bird.wav
-©¶  ©¶  bird_1.wav
-©¶  ©¶  bird_10.wav
-©¶  ©¶  bird_11.wav
-©¶  ©¶  bird_12.wav
-©¶  ©¶  bird_13.wav
-©¶  ©¶  bird_2.wav
-©¶  ©¶  bird_3.wav
-©¶  ©¶  bird_4.wav
-©¶  ©¶  bird_5.wav
-©¶  ©¶  bird_6.wav
-©¶  ©¶  bird_7.wav
-©¶  ©¶  bird_8.wav
-©¶  ©¶  bird_9.wav
-©¶  ©¶  bird_song_1.wav
-©¶  ©¶  bird_song_2.wav
-©¶  ©¶  bird_song_3.wav
-©¶  ©¶  bird_song_4.wav
-©¶  ©¶  bird_song_5.wav
-©¶  ©¶  bird_song_6.wav
-©¶  ©¶  bird_song_7.wav
-©¶  ©¶  black_bird_1.wav
-©¶  ©¶  black_bird_2.wav
-©¶  ©¶  black_bird_3.wav
-©¶  ©¶  black_bird_4.wav
-©¶  ©¶  forest_night_7.wav
-©¶  ©¶  forest_night_owl_01.wav
-©¶  ©¶  forest_night_owl_02.wav
-©¶  ©¶  forest_night_owl_03.wav
-©¶  ©¶  forest_night_owl_04.wav
-©¶  ©¶  forest_night_owl_05.wav
-©¶  ©¶  frog_1.wav
-©¶  ©¶  frog_2.wav
-©¶  ©¶  frog_3.wav
-©¶  ©¶  loon_1.wav
-©¶  ©¶  loon_10.wav
-©¶  ©¶  loon_11.wav
-©¶  ©¶  loon_12.wav
-©¶  ©¶  loon_13.wav
-©¶  ©¶  loon_14.wav
-©¶  ©¶  loon_15.wav
-©¶  ©¶  loon_16.wav
-©¶  ©¶  loon_2.wav
-©¶  ©¶  loon_3.wav
-©¶  ©¶  loon_4.wav
-©¶  ©¶  loon_5.wav
-©¶  ©¶  loon_6.wav
-©¶  ©¶  loon_7.wav
-©¶  ©¶  loon_8.wav
-©¶  ©¶  loon_9.wav
-©¶  ©¶  ring.wav
-©¶  ©¶  waterfall-1.wav
-©¶  ©¶  waterfall-2.wav
-©¶  ©¶  waterwheel_1.wav
-©¶  ©¶  waterwheel_2.wav
-©¶  ©¶  waterwheel_3.wav
-©¶  ©¶  waterwheel_4.wav
-©¶  ©¶  waterwheel_5.wav
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§amb_forest[0]
-©¿©§amb_friendship_manor[0]
-©¶  ©¶  amb_friendship_manor[0].txt
-©¶  ©¶  fountain_1.wav
-©¶  ©¶  friendship_manor_wave.wav
-©¶  ©¶  island_bird.wav
-©¶  ©¶  island_bird_10.wav
-©¶  ©¶  island_bird_11.wav
-©¶  ©¶  island_bird_12.wav
-©¶  ©¶  island_bird_2.wav
-©¶  ©¶  island_bird_3.wav
-©¶  ©¶  island_bird_4.wav
-©¶  ©¶  island_bird_5.wav
-©¶  ©¶  island_bird_6.wav
-©¶  ©¶  island_bird_7.wav
-©¶  ©¶  island_bird_8.wav
-©¶  ©¶  island_bird_9.wav
-©¶  ©¶  island_night_2.wav
-©¶  ©¶  island_night_3.wav
-©¶  ©¶  island_night_4.wav
-©¶  ©¶  island_night_5.wav
-©¶  ©¶  island_night_6.wav
-©¶  ©¶  island_night_7.wav
-©¶  ©¶  island_night_8.wav
-©¶  ©¶  manor_day_1.wav
-©¶  ©¶  manor_day_2.wav
-©¶  ©¶  manor_day_3.wav
-©¶  ©¶  manor_day_4.wav
-©¶  ©¶  manor_day_5.wav
-©¶  ©¶  manor_day_6.wav
-©¶  ©¶  manor_day_7.wav
-©¶  ©¶  manor_day_8.wav
-©¶  ©¶  manor_day_9.wav
-©¶  ©¶  seagull_01.wav
-©¶  ©¶  seagull_02.wav
-©¶  ©¶  seagull_03.wav
-©¶  ©¶  seagull_04.wav
-©¶  ©¶  seagull_05.wav
-©¶  ©¶  seagull_06.wav
-©¶  ©¶  seagull_07.wav
-©¶  ©¶  seagull_08.wav
-©¶  ©¶  taobao_night.wav
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§amb_friendship_manor[0]
-©¿©§amb_island[0]
-©¶  ©¶  amb_island[0].txt
-©¶  ©¶  island_bird.wav
-©¶  ©¶  island_bird_10.wav
-©¶  ©¶  island_bird_11.wav
-©¶  ©¶  island_bird_12.wav
-©¶  ©¶  island_bird_2.wav
-©¶  ©¶  island_bird_3.wav
-©¶  ©¶  island_bird_4.wav
-©¶  ©¶  island_bird_5.wav
-©¶  ©¶  island_bird_6.wav
-©¶  ©¶  island_bird_7.wav
-©¶  ©¶  island_bird_8.wav
-©¶  ©¶  island_bird_9.wav
-©¶  ©¶  island_day_1.wav
-©¶  ©¶  island_day_2.wav
-©¶  ©¶  island_day_3.wav
-©¶  ©¶  island_day_4.wav
-©¶  ©¶  island_night_2.wav
-©¶  ©¶  island_night_3.wav
-©¶  ©¶  island_night_4.wav
-©¶  ©¶  island_night_5.wav
-©¶  ©¶  island_night_6.wav
-©¶  ©¶  island_night_7.wav
-©¶  ©¶  island_night_8.wav
-©¶  ©¶  island_night_9.wav
-©¶  ©¶  island_wave.wav
-©¶  ©¶  seagull_01.wav
-©¶  ©¶  seagull_02.wav
-©¶  ©¶  seagull_03.wav
-©¶  ©¶  seagull_04.wav
-©¶  ©¶  seagull_05.wav
-©¶  ©¶  seagull_06.wav
-©¶  ©¶  seagull_07.wav
-©¶  ©¶  seagull_08.wav
-©¶  ©¶  Seagull_Caws01.wav
-©¶  ©¶  Seagull_Caws02.wav
-©¶  ©¶  Seagull_Caws03.wav
-©¶  ©¶  Seagull_Caws04.wav
-©¶  ©¶  Seagull_Caws05.wav
-©¶  ©¶  Seagull_Caws06.wav
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§amb_island[0]
-©¿©§amb_mine_cave[0]
-©¶  ©¶  ambience_2d_drip.wav
-©¶  ©¶  amb_mine_cave[0].txt
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§amb_mine_cave[0]
-©¿©§amb_mountainfoot[0]
-©¶  ©¶  amb_mountainfoot[0].txt
-©¶  ©¶  day_1.wav
-©¶  ©¶  day_2.wav
-©¶  ©¶  day_3.wav
-©¶  ©¶  day_4.wav
-©¶  ©¶  day_5.wav
-©¶  ©¶  day_6.wav
-©¶  ©¶  flowing_water.wav
-©¶  ©¶  grasshopper_1.wav
-©¶  ©¶  grasshopper_2.wav
-©¶  ©¶  grasshopper_3.wav
-©¶  ©¶  hot_pot.wav
-©¶  ©¶  island_bird.wav
-©¶  ©¶  island_bird_10.wav
-©¶  ©¶  island_bird_11.wav
-©¶  ©¶  island_bird_12.wav
-©¶  ©¶  island_bird_2.wav
-©¶  ©¶  island_bird_3.wav
-©¶  ©¶  island_bird_4.wav
-©¶  ©¶  island_bird_5.wav
-©¶  ©¶  island_bird_6.wav
-©¶  ©¶  island_bird_7.wav
-©¶  ©¶  island_bird_8.wav
-©¶  ©¶  island_bird_9.wav
-©¶  ©¶  ladybug_1.wav
-©¶  ©¶  ladybug_2.wav
-©¶  ©¶  ladybug_3.wav
-©¶  ©¶  mf_night_1.wav
-©¶  ©¶  mountainfoot_waterfall.wav
-©¶  ©¶  mtf_bird_01.wav
-©¶  ©¶  mtf_bird_02.wav
-©¶  ©¶  mtf_bird_03.wav
-©¶  ©¶  mtf_bird_04.wav
-©¶  ©¶  mtf_bird_05.wav
-©¶  ©¶  mtf_bird_06.wav
-©¶  ©¶  mtf_bird_07.wav
-©¶  ©¶  mtf_bird_08.wav
-©¶  ©¶  mtf_bird_09.wav
-©¶  ©¶  sheep_1_1.wav
-©¶  ©¶  sheep_1_2.wav
-©¶  ©¶  sheep_1_3.wav
-©¶  ©¶  sheep_2_1.wav
-©¶  ©¶  sheep_2_2.wav
-©¶  ©¶  sheep_2_3.wav
-©¶  ©¶  sheep_3_1.wav
-©¶  ©¶  sheep_3_2.wav
-©¶  ©¶  sheep_3_3.wav
-©¶  ©¶  sheep_3_4.wav
-©¶  ©¶  sheep_3_5.wav
-©¶  ©¶  sheep_4_1.wav
-©¶  ©¶  sheep_4_2.wav
-©¶  ©¶  sheep_4_3.wav
-©¶  ©¶  sheep_5_1.wav
-©¶  ©¶  sheep_5_2.wav
-©¶  ©¶  sheep_5_3.wav
-©¶  ©¶  sheep_5_4.wav
-©¶  ©¶  sheep_5_5.wav
-©¶  ©¶  sheep_6_1.wav
-©¶  ©¶  sheep_6_2.wav
-©¶  ©¶  sheep_6_3.wav
-©¶  ©¶  sheep_6_4.wav
-©¶  ©¶  sheep_6_5.wav
-©¶  ©¶  sheep_footstep_01.wav
-©¶  ©¶  sheep_footstep_02.wav
-©¶  ©¶  sheep_footstep_03.wav
-©¶  ©¶  sheep_footstep_04.wav
-©¶  ©¶  sheep_footstep_05.wav
-©¶  ©¶  sheep_footstep_06.wav
-©¶  ©¶  sheep_footstep_07.wav
-©¶  ©¶  sheep_footstep_08.wav
-©¶  ©¶  sheep_footstep_09.wav
-©¶  ©¶  sheep_footstep_10.wav
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§amb_mountainfoot[0]
-©¿©§amb_odin[0]
-©¶  ©¶  amb_odin[0].txt
-©¶  ©¶  music_fountain_1.wav
-©¶  ©¶  music_fountain_2.wav
-©¶  ©¶  music_fountain_3.wav
-©¶  ©¶  music_fountain_4.wav
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§amb_odin[0]
-©¿©§amb_square[0]
-©¶  ©¶  amb_square[0].txt
-©¶  ©¶  bird_10.wav
-©¶  ©¶  bird_11.wav
-©¶  ©¶  bird_12.wav
-©¶  ©¶  bird_square_1.wav
-©¶  ©¶  bird_square_2.wav
-©¶  ©¶  bird_square_3.wav
-©¶  ©¶  bird_square_4.wav
-©¶  ©¶  firework.wav
-©¶  ©¶  fountain.wav
-©¶  ©¶  island_bird_7.wav
-©¶  ©¶  island_night_1.wav
-©¶  ©¶  island_night_2.wav
-©¶  ©¶  island_night_3.wav
-©¶  ©¶  island_night_4.wav
-©¶  ©¶  island_night_5.wav
-©¶  ©¶  island_night_6.wav
-©¶  ©¶  island_night_7.wav
-©¶  ©¶  island_night_8.wav
-©¶  ©¶  island_night_9.wav
-©¶  ©¶  Seagull_Caws01.wav
-©¶  ©¶  Seagull_Caws02.wav
-©¶  ©¶  Seagull_Caws03.wav
-©¶  ©¶  Seagull_Caws04.wav
-©¶  ©¶  Seagull_Caws05.wav
-©¶  ©¶  Seagull_Caws06.wav
-©¶  ©¶  square_dog.wav
-©¶  ©¶  square_dog_1.wav
-©¶  ©¶  square_dog_2.wav
-©¶  ©¶  square_dog_3.wav
-©¶  ©¶  square_dog_4.wav
-©¶  ©¶  square_dog_5.wav
-©¶  ©¶  square_wave_1.wav
-©¶  ©¶  square_wave_2.wav
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§amb_square[0]
-©¿©§amb_taobao[0]
-©¶  ©¶  amb_taobao[0].txt
-©¶  ©¶  bird_10.wav
-©¶  ©¶  bird_9.wav
-©¶  ©¶  bird_square_1.wav
-©¶  ©¶  bird_square_2.wav
-©¶  ©¶  bird_square_3.wav
-©¶  ©¶  bird_square_4.wav
-©¶  ©¶  island_bird.wav
-©¶  ©¶  island_bird_7.wav
-©¶  ©¶  island_night_1.wav
-©¶  ©¶  island_night_2.wav
-©¶  ©¶  island_night_3.wav
-©¶  ©¶  island_night_4.wav
-©¶  ©¶  island_night_5.wav
-©¶  ©¶  island_night_6.wav
-©¶  ©¶  island_night_7.wav
-©¶  ©¶  island_night_8.wav
-©¶  ©¶  island_night_9.wav
-©¶  ©¶  Seagull_Caws01.wav
-©¶  ©¶  Seagull_Caws02.wav
-©¶  ©¶  Seagull_Caws03.wav
-©¶  ©¶  Seagull_Caws04.wav
-©¶  ©¶  Seagull_Caws05.wav
-©¶  ©¶  Seagull_Caws06.wav
-©¶  ©¶  taobao_night.wav
-©¶  ©¶  wave.wav
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§amb_taobao[0]
-©¿©§archery[0]
-©¶  ©¶  archery[0].txt
-©¶  ©¶  arrow_fly_1.wav
-©¶  ©¶  arrow_fly_2.wav
-©¶  ©¶  arrow_fly_3.wav
-©¶  ©¶  arrow_hit_1.wav
-©¶  ©¶  arrow_hit_2.wav
-©¶  ©¶  pull_bow_1.wav
-©¶  ©¶  pull_bow_2.wav
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§archery[0]
-©¿©§bayinhe[0]
-©¶  ©¶  bayinhe1.wav
-©¶  ©¶  bayinhe10.wav
-©¶  ©¶  bayinhe11.wav
-©¶  ©¶  bayinhe12.wav
-©¶  ©¶  bayinhe13.wav
-©¶  ©¶  bayinhe14.wav
-©¶  ©¶  bayinhe15.wav
-©¶  ©¶  bayinhe16.wav
-©¶  ©¶  bayinhe17.wav
-©¶  ©¶  bayinhe18.wav
-©¶  ©¶  bayinhe19.wav
-©¶  ©¶  bayinhe2.wav
-©¶  ©¶  bayinhe20.wav
-©¶  ©¶  bayinhe21.wav
-©¶  ©¶  bayinhe22.wav
-©¶  ©¶  bayinhe3.wav
-©¶  ©¶  bayinhe4.wav
-©¶  ©¶  bayinhe5.wav
-©¶  ©¶  bayinhe6.wav
-©¶  ©¶  bayinhe7.wav
-©¶  ©¶  bayinhe8.wav
-©¶  ©¶  bayinhe9.wav
-©¶  ©¶  bayinhe[0].txt
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§bayinhe[0]
-©¿©§bee_speaker[0]
-©¶  ©¶  Accordion.wav
-©¶  ©¶  Bass.wav
-©¶  ©¶  bee_speaker[0].txt
-©¶  ©¶  Clarinet.wav
-©¶  ©¶  Drum.wav
-©¶  ©¶  Flute.wav
-©¶  ©¶  Guitar.wav
-©¶  ©¶  mix.bat
-©¶  ©¶  output.wav
-©¶  ©¶  Piano.wav
-©¶  ©¶  Str.wav
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§bee_speaker[0]
-©¿©§birthday[0]
-©¶  ©¶  birthday[0].txt
-©¶  ©¶  story_birthday_dhz001.wav
-©¶  ©¶  story_birthday_dj001.wav
-©¶  ©¶  story_birthday_jk001.wav
-©¶  ©¶  story_birthday_jk002.wav
-©¶  ©¶  story_birthday_jk003.wav
-©¶  ©¶  story_birthday_jk004.wav
-©¶  ©¶  story_birthday_way001.wav
-©¶  ©¶  story_birthday_way002.wav
-©¶  ©¶  story_birthday_way003.wav
-©¶  ©¶  story_birthday_way004.wav
-©¶  ©¶  story_birthday_way005.wav
-©¶  ©¶  story_birthday_wd001.wav
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§birthday[0]
-©¿©§catch_pet[0]
-©¶  ©¶  catch_pet[0].txt
-©¶  ©¶  catch_pet_appear.wav
-©¶  ©¶  catch_pet_correct.wav
-©¶  ©¶  catch_pet_start.wav
-©¶  ©¶  flute.wav
-©¶  ©¶  ui_effect_catch_pet_fail.wav
-©¶  ©¶  ui_effect_catch_pet_success.wav
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§catch_pet[0]
-©¿©§ciyuanqin[0]
-©¶  ©¶  ciyuanqin[0].txt
-©¶  ©¶  ciyuanqin_1.wav
-©¶  ©¶  ciyuanqin_10.wav
-©¶  ©¶  ciyuanqin_11.wav
-©¶  ©¶  ciyuanqin_12.wav
-©¶  ©¶  ciyuanqin_13.wav
-©¶  ©¶  ciyuanqin_14.wav
-©¶  ©¶  ciyuanqin_15.wav
-©¶  ©¶  ciyuanqin_16.wav
-©¶  ©¶  ciyuanqin_17.wav
-©¶  ©¶  ciyuanqin_18.wav
-©¶  ©¶  ciyuanqin_19.wav
-©¶  ©¶  ciyuanqin_2.wav
-©¶  ©¶  ciyuanqin_20.wav
-©¶  ©¶  ciyuanqin_21.wav
-©¶  ©¶  ciyuanqin_22.wav
-©¶  ©¶  ciyuanqin_3.wav
-©¶  ©¶  ciyuanqin_4.wav
-©¶  ©¶  ciyuanqin_5.wav
-©¶  ©¶  ciyuanqin_6.wav
-©¶  ©¶  ciyuanqin_7.wav
-©¶  ©¶  ciyuanqin_8.wav
-©¶  ©¶  ciyuanqin_9.wav
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§ciyuanqin[0]
-©¿©§clarinet[0]
-©¶  ©¶  clarinet1.wav
-©¶  ©¶  clarinet10.wav
-©¶  ©¶  clarinet11.wav
-©¶  ©¶  clarinet12.wav
-©¶  ©¶  clarinet13.wav
-©¶  ©¶  clarinet14.wav
-©¶  ©¶  clarinet15.wav
-©¶  ©¶  clarinet16.wav
-©¶  ©¶  clarinet17.wav
-©¶  ©¶  clarinet18.wav
-©¶  ©¶  clarinet19.wav
-©¶  ©¶  clarinet2.wav
-©¶  ©¶  clarinet20.wav
-©¶  ©¶  clarinet21.wav
-©¶  ©¶  clarinet22.wav
-©¶  ©¶  clarinet3.wav
-©¶  ©¶  clarinet4.wav
-©¶  ©¶  clarinet5.wav
-©¶  ©¶  clarinet6.wav
-©¶  ©¶  clarinet7.wav
-©¶  ©¶  clarinet8.wav
-©¶  ©¶  clarinet9.wav
-©¶  ©¶  clarinet[0].txt
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§clarinet[0]
-©¿©§clock[0]
-©¶  ©¶  clock[0].txt
-©¶  ©¶  half_hour.wav
-©¶  ©¶  integral_point.wav
-©¶  ©¶  quarter.wav
-©¶  ©¶  quarter_after_half_past.wav
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§clock[0]
-©¿©§diangangqin[0]
-©¶  ©¶  diangangqin1.wav
-©¶  ©¶  diangangqin10.wav
-©¶  ©¶  diangangqin11.wav
-©¶  ©¶  diangangqin12.wav
-©¶  ©¶  diangangqin13.wav
-©¶  ©¶  diangangqin14.wav
-©¶  ©¶  diangangqin15.wav
-©¶  ©¶  diangangqin16.wav
-©¶  ©¶  diangangqin17.wav
-©¶  ©¶  diangangqin18.wav
-©¶  ©¶  diangangqin19.wav
-©¶  ©¶  diangangqin2.wav
-©¶  ©¶  diangangqin20.wav
-©¶  ©¶  diangangqin21.wav
-©¶  ©¶  diangangqin22.wav
-©¶  ©¶  diangangqin3.wav
-©¶  ©¶  diangangqin4.wav
-©¶  ©¶  diangangqin5.wav
-©¶  ©¶  diangangqin6.wav
-©¶  ©¶  diangangqin7.wav
-©¶  ©¶  diangangqin8.wav
-©¶  ©¶  diangangqin9.wav
-©¶  ©¶  diangangqin[0].txt
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§diangangqin[0]
-©¿©§dianjita[0]
-©¶  ©¶  dianjita1.wav
-©¶  ©¶  dianjita10.wav
-©¶  ©¶  dianjita11.wav
-©¶  ©¶  dianjita12.wav
-©¶  ©¶  dianjita13.wav
-©¶  ©¶  dianjita14.wav
-©¶  ©¶  dianjita15.wav
-©¶  ©¶  dianjita16.wav
-©¶  ©¶  dianjita17.wav
-©¶  ©¶  dianjita18.wav
-©¶  ©¶  dianjita19.wav
-©¶  ©¶  dianjita2.wav
-©¶  ©¶  dianjita20.wav
-©¶  ©¶  dianjita21.wav
-©¶  ©¶  dianjita22.wav
-©¶  ©¶  dianjita3.wav
-©¶  ©¶  dianjita4.wav
-©¶  ©¶  dianjita5.wav
-©¶  ©¶  dianjita6.wav
-©¶  ©¶  dianjita7.wav
-©¶  ©¶  dianjita8.wav
-©¶  ©¶  dianjita9.wav
-©¶  ©¶  dianjita[0].txt
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§dianjita[0]
-©¿©§dianziqin[0]
-©¶  ©¶  dianziqin1.wav
-©¶  ©¶  dianziqin10.wav
-©¶  ©¶  dianziqin11.wav
-©¶  ©¶  dianziqin12.wav
-©¶  ©¶  dianziqin13.wav
-©¶  ©¶  dianziqin14.wav
-©¶  ©¶  dianziqin15.wav
-©¶  ©¶  dianziqin16.wav
-©¶  ©¶  dianziqin17.wav
-©¶  ©¶  dianziqin18.wav
-©¶  ©¶  dianziqin19.wav
-©¶  ©¶  dianziqin2.wav
-©¶  ©¶  dianziqin20.wav
-©¶  ©¶  dianziqin21.wav
-©¶  ©¶  dianziqin22.wav
-©¶  ©¶  dianziqin3.wav
-©¶  ©¶  dianziqin4.wav
-©¶  ©¶  dianziqin5.wav
-©¶  ©¶  dianziqin6.wav
-©¶  ©¶  dianziqin7.wav
-©¶  ©¶  dianziqin8.wav
-©¶  ©¶  dianziqin9.wav
-©¶  ©¶  dianziqin[0].txt
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§dianziqin[0]
-©¿©§dizi[0]
-©¶  ©¶  1.wav
-©¶  ©¶  10.wav
-©¶  ©¶  11.wav
-©¶  ©¶  12.wav
-©¶  ©¶  13.wav
-©¶  ©¶  14.wav
-©¶  ©¶  15.wav
-©¶  ©¶  16.wav
-©¶  ©¶  17.wav
-©¶  ©¶  18.wav
-©¶  ©¶  19.wav
-©¶  ©¶  2.wav
-©¶  ©¶  20.wav
-©¶  ©¶  21.wav
-©¶  ©¶  22.wav
-©¶  ©¶  3.wav
-©¶  ©¶  4.wav
-©¶  ©¶  5.wav
-©¶  ©¶  6.wav
-©¶  ©¶  7.wav
-©¶  ©¶  8.wav
-©¶  ©¶  9.wav
-©¶  ©¶  dizi[0].txt
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§dizi[0]
-©¿©§doudizhu_vo[0]
-©¶  ©¶  boy_a.wav
-©¶  ©¶  boy_ba.wav
-©¶  ©¶  boy_bujiao.wav
-©¶  ©¶  boy_bujiao_2.wav
-©¶  ©¶  boy_buqiang.wav
-©¶  ©¶  boy_buqiang_2.wav
-©¶  ©¶  boy_buqiang_3.wav
-©¶  ©¶  boy_dawang.wav
-©¶  ©¶  boy_duia.wav
-©¶  ©¶  boy_duia_2.wav
-©¶  ©¶  boy_duiba.wav
-©¶  ©¶  boy_duier.wav
-©¶  ©¶  boy_duihua_1.wav
-©¶  ©¶  boy_duihua_1_2.wav
-©¶  ©¶  boy_duihua_2.wav
-©¶  ©¶  boy_duihua_2_2.wav
-©¶  ©¶  boy_duihua_3.wav
-©¶  ©¶  boy_duihua_3_2.wav
-©¶  ©¶  boy_duihua_3_3.wav
-©¶  ©¶  boy_duihua_4.wav
-©¶  ©¶  boy_duihua_4_2.wav
-©¶  ©¶  boy_duihua_5.wav
-©¶  ©¶  boy_duihua_5_2.wav
-©¶  ©¶  boy_duihua_6.wav
-©¶  ©¶  boy_duihua_6_2.wav
-©¶  ©¶  boy_duihua_7.wav
-©¶  ©¶  boy_duihua_7_2.wav
-©¶  ©¶  boy_duihua_8.wav
-©¶  ©¶  boy_duihua_8_2.wav
-©¶  ©¶  boy_duihua_9.wav
-©¶  ©¶  boy_duihua_9_2.wav
-©¶  ©¶  boy_duihua_9_3.wav
-©¶  ©¶  boy_duij.wav
-©¶  ©¶  boy_duijiu.wav
-©¶  ©¶  boy_duik.wav
-©¶  ©¶  boy_duiliu.wav
-©¶  ©¶  boy_duiq.wav
-©¶  ©¶  boy_duiqi.wav
-©¶  ©¶  boy_duisan.wav
-©¶  ©¶  boy_duishi.wav
-©¶  ©¶  boy_duisi.wav
-©¶  ©¶  boy_duiwu.wav
-©¶  ©¶  boy_er.wav
-©¶  ©¶  boy_feiji.wav
-©¶  ©¶  boy_j.wav
-©¶  ©¶  boy_jiaodizhu.wav
-©¶  ©¶  boy_jiaodizhu_2.wav
-©¶  ©¶  boy_jiu.wav
-©¶  ©¶  boy_k.wav
-©¶  ©¶  boy_liandui.wav
-©¶  ©¶  boy_liandui_2.wav
-©¶  ©¶  boy_liu.wav
-©¶  ©¶  boy_q.wav
-©¶  ©¶  boy_qi.wav
-©¶  ©¶  boy_san.wav
-©¶  ©¶  boy_sandaier.wav
-©¶  ©¶  boy_sandaiyi.wav
-©¶  ©¶  boy_sangea.wav
-©¶  ©¶  boy_sangea_2.wav
-©¶  ©¶  boy_sangeba.wav
-©¶  ©¶  boy_sangeer.wav
-©¶  ©¶  boy_sangej.wav
-©¶  ©¶  boy_sangejiu.wav
-©¶  ©¶  boy_sangej_2.wav
-©¶  ©¶  boy_sangek.wav
-©¶  ©¶  boy_sangeliu.wav
-©¶  ©¶  boy_sangeq.wav
-©¶  ©¶  boy_sangeqi.wav
-©¶  ©¶  boy_sangesan.wav
-©¶  ©¶  boy_sangeshi.wav
-©¶  ©¶  boy_sangesi.wav
-©¶  ©¶  boy_sangewu.wav
-©¶  ©¶  boy_shengliangzhang.wav
-©¶  ©¶  boy_shengliangzhang_2.wav
-©¶  ©¶  boy_shengyizhang.wav
-©¶  ©¶  boy_shengyizhang_2.wav
-©¶  ©¶  boy_shengyizhang_3.wav
-©¶  ©¶  boy_shi.wav
-©¶  ©¶  boy_shunzi.wav
-©¶  ©¶  boy_si.wav
-©¶  ©¶  boy_sidaier.wav
-©¶  ©¶  boy_sidailiangdui.wav
-©¶  ©¶  boy_wangzha.wav
-©¶  ©¶  boy_woqiang.wav
-©¶  ©¶  boy_woqiang_2.wav
-©¶  ©¶  boy_woqiang_3.wav
-©¶  ©¶  boy_wu.wav
-©¶  ©¶  boy_xiaowang.wav
-©¶  ©¶  boy_yaobuqi.wav
-©¶  ©¶  boy_yaobuqi_2.wav
-©¶  ©¶  boy_yaobuqi_3.wav
-©¶  ©¶  boy_zhadan.wav
-©¶  ©¶  boy_zhadan_2.wav
-©¶  ©¶  boy_zhadan_3.wav
-©¶  ©¶  doudizhu_vo[0].txt
-©¶  ©¶  girl_a.wav
-©¶  ©¶  girl_ba.wav
-©¶  ©¶  girl_ba_2.wav
-©¶  ©¶  girl_bujiao.wav
-©¶  ©¶  girl_bujiao_2.wav
-©¶  ©¶  girl_buqiang.wav
-©¶  ©¶  girl_buqiang_2.wav
-©¶  ©¶  girl_dawang.wav
-©¶  ©¶  girl_dawang_2.wav
-©¶  ©¶  girl_duia.wav
-©¶  ©¶  girl_duia_2.wav
-©¶  ©¶  girl_duiba.wav
-©¶  ©¶  girl_duiba_2.wav
-©¶  ©¶  girl_duier.wav
-©¶  ©¶  girl_duihua_1.wav
-©¶  ©¶  girl_duihua_2.wav
-©¶  ©¶  girl_duihua_2_1.wav
-©¶  ©¶  girl_duihua_3.wav
-©¶  ©¶  girl_duihua_3_1.wav
-©¶  ©¶  girl_duihua_3_2.wav
-©¶  ©¶  girl_duihua_4.wav
-©¶  ©¶  girl_duihua_4_2.wav
-©¶  ©¶  girl_duihua_4_3.wav
-©¶  ©¶  girl_duihua_4_4.wav
-©¶  ©¶  girl_duihua_4_5.wav
-©¶  ©¶  girl_duihua_5.wav
-©¶  ©¶  girl_duihua_5_1.wav
-©¶  ©¶  girl_duihua_6.wav
-©¶  ©¶  girl_duihua_6_1.wav
-©¶  ©¶  girl_duihua_6_2.wav
-©¶  ©¶  girl_duihua_7.wav
-©¶  ©¶  girl_duihua_7_1.wav
-©¶  ©¶  girl_duihua_7_2.wav
-©¶  ©¶  girl_duihua_8.wav
-©¶  ©¶  girl_duihua_8_1.wav
-©¶  ©¶  girl_duihua_8_2.wav
-©¶  ©¶  girl_duihua_9.wav
-©¶  ©¶  girl_duihua_9_1.wav
-©¶  ©¶  girl_duihua_9_2.wav
-©¶  ©¶  girl_duihua_9_3.wav
-©¶  ©¶  girl_duij.wav
-©¶  ©¶  girl_duijiu.wav
-©¶  ©¶  girl_duij_2.wav
-©¶  ©¶  girl_duik.wav
-©¶  ©¶  girl_duik_2.wav
-©¶  ©¶  girl_duiliu.wav
-©¶  ©¶  girl_duiq.wav
-©¶  ©¶  girl_duiqi.wav
-©¶  ©¶  girl_duiq_2.wav
-©¶  ©¶  girl_duisan.wav
-©¶  ©¶  girl_duishi.wav
-©¶  ©¶  girl_duishi_2.wav
-©¶  ©¶  girl_duisi.wav
-©¶  ©¶  girl_duiwu.wav
-©¶  ©¶  girl_er.wav
-©¶  ©¶  girl_er_2.wav
-©¶  ©¶  girl_feiji.wav
-©¶  ©¶  girl_j.wav
-©¶  ©¶  girl_jiaodizhu.wav
-©¶  ©¶  girl_jiaodizhu_2.wav
-©¶  ©¶  girl_jiu.wav
-©¶  ©¶  girl_jiu_2.wav
-©¶  ©¶  girl_j_2.wav
-©¶  ©¶  girl_k.wav
-©¶  ©¶  girl_k_2.wav
-©¶  ©¶  girl_k_3.wav
-©¶  ©¶  girl_liandui.wav
-©¶  ©¶  girl_liandui_2.wav
-©¶  ©¶  girl_liu.wav
-©¶  ©¶  girl_q.wav
-©¶  ©¶  girl_qi.wav
-©¶  ©¶  girl_qi_2.wav
-©¶  ©¶  girl_q_2.wav
-©¶  ©¶  girl_san.wav
-©¶  ©¶  girl_sandaier.wav
-©¶  ©¶  girl_sandaiyi.wav
-©¶  ©¶  girl_sandaiyi_2.wav
-©¶  ©¶  girl_sangea.wav
-©¶  ©¶  girl_sangeba.wav
-©¶  ©¶  girl_sangeer.wav
-©¶  ©¶  girl_sangeer_2.wav
-©¶  ©¶  girl_sangej.wav
-©¶  ©¶  girl_sangejiu.wav
-©¶  ©¶  girl_sangej_2.wav
-©¶  ©¶  girl_sangek.wav
-©¶  ©¶  girl_sangeliu.wav
-©¶  ©¶  girl_sangeq.wav
-©¶  ©¶  girl_sangeqi.wav
-©¶  ©¶  girl_sangesan.wav
-©¶  ©¶  girl_sangeshi.wav
-©¶  ©¶  girl_sangesi.wav
-©¶  ©¶  girl_sangewu.wav
-©¶  ©¶  girl_san_2.wav
-©¶  ©¶  girl_shengliangzhang.wav
-©¶  ©¶  girl_shengliangzhang_2.wav
-©¶  ©¶  girl_shengyizhang.wav
-©¶  ©¶  girl_shengyizhang_2.wav
-©¶  ©¶  girl_shi.wav
-©¶  ©¶  girl_shi_2.wav
-©¶  ©¶  girl_shunzi.wav
-©¶  ©¶  girl_shunzi_2.wav
-©¶  ©¶  girl_si.wav
-©¶  ©¶  girl_sidaier.wav
-©¶  ©¶  girl_sidailiangdui.wav
-©¶  ©¶  girl_wangzha.wav
-©¶  ©¶  girl_wangzha_2.wav
-©¶  ©¶  girl_woqiang.wav
-©¶  ©¶  girl_woqiang_2.wav
-©¶  ©¶  girl_wu.wav
-©¶  ©¶  girl_xiaowang.wav
-©¶  ©¶  girl_xiaowang_2.wav
-©¶  ©¶  girl_yaobuqi.wav
-©¶  ©¶  girl_yaobuqi_2.wav
-©¶  ©¶  girl_yaobuqi_3.wav
-©¶  ©¶  girl_zhadan.wav
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§doudizhu_vo[0]
-©¿©§dreamland[0]
-©¶  ©¶  dreamland[0].txt
-©¶  ©¶  ui_effect_correct_answer.wav
-©¶  ©¶  ui_effect_find_the_end_1.wav
-©¶  ©¶  ui_effect_find_the_end_2.wav
-©¶  ©¶  ui_effect_general_item_get.wav
-©¶  ©¶  ui_effect_green_crystal_get.wav
-©¶  ©¶  ui_effect_lucky_turntable.wav
-©¶  ©¶  ui_effect_move_grid.wav
-©¶  ©¶  ui_effect_tornado.wav
-©¶  ©¶  ui_effect_wrong_answer.wav
-©¶  ©¶  ui_effect_zone_unlock.wav
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§dreamland[0]
-©¿©§drum_band[0]
-©¶  ©¶  dance_dragon.wav
-©¶  ©¶  dance_lion.wav
-©¶  ©¶  drum_1.wav
-©¶  ©¶  drum_2.wav
-©¶  ©¶  drum_3.wav
-©¶  ©¶  drum_4.wav
-©¶  ©¶  drum_5.wav
-©¶  ©¶  drum_band[0].txt
-©¶  ©¶  flute_1.wav
-©¶  ©¶  flute_2.wav
-©¶  ©¶  gongnv.wav
-©¶  ©¶  maracas_1.wav
-©¶  ©¶  maracas_2.wav
-©¶  ©¶  sax_1.wav
-©¶  ©¶  sax_2.wav
-©¶  ©¶  shiwei.wav
-©¶  ©¶  violin_1.wav
-©¶  ©¶  violin_2.wav
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§drum_band[0]
-©¿©§duomaomao[0]
-©¶  ©¶  aoe.wav
-©¶  ©¶  bianshen.wav
-©¶  ©¶  buzhixianjing.wav
-©¶  ©¶  caihongchuansong.wav
-©¶  ©¶  duomaomao[0].txt
-©¶  ©¶  duomaomao_dgw1.wav
-©¶  ©¶  duomaomao_dgw2_1.wav
-©¶  ©¶  duomaomao_dgw3.wav
-©¶  ©¶  duomaomao_dgw3_1.wav
-©¶  ©¶  duomaomao_dgw4.wav
-©¶  ©¶  duomaomao_dgw4_1.wav
-©¶  ©¶  duomaomao_player1.wav
-©¶  ©¶  duomaomao_player1_1.wav
-©¶  ©¶  duomaomao_player1_2.wav
-©¶  ©¶  duomaomao_player2.wav
-©¶  ©¶  duomaomao_player2_1.wav
-©¶  ©¶  duomaomao_player2_2.wav
-©¶  ©¶  duomaomao_player3.wav
-©¶  ©¶  duomaomao_player3_1.wav
-©¶  ©¶  duomaomao_player3_2.wav
-©¶  ©¶  duomaomao_player4.wav
-©¶  ©¶  duomaomao_player4_1.wav
-©¶  ©¶  duomaomao_player4_2.wav
-©¶  ©¶  duomaomao_xgw1.wav
-©¶  ©¶  duomaomao_xgw1_1.wav
-©¶  ©¶  fengyin.wav
-©¶  ©¶  footstep_1.wav
-©¶  ©¶  footstep_2.wav
-©¶  ©¶  footstep_3.wav
-©¶  ©¶  hudietansong.wav
-©¶  ©¶  huizhua_1.wav
-©¶  ©¶  huizhua_2.wav
-©¶  ©¶  jiansudai.wav
-©¶  ©¶  jiasuadai.wav
-©¶  ©¶  pofeng.wav
-©¶  ©¶  tance.wav
-©¶  ©¶  xianjing.wav
-©¶  ©¶  yinshen.wav
-©¶  ©¶  yuancheng_attack.wav
-©¶  ©¶  yuancheng_hit.wav
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§duomaomao[0]
-©¿©§event[0]
-©¶  ©¶  accuracy_eject.wav
-©¶  ©¶  alarm_shake.wav
-©¶  ©¶  ball_move_1.wav
-©¶  ©¶  ball_move_2.wav
-©¶  ©¶  bell.wav
-©¶  ©¶  cable_car.wav
-©¶  ©¶  cable_car_bell_1.wav
-©¶  ©¶  cable_car_bell_2.wav
-©¶  ©¶  cable_car_bell_3.wav
-©¶  ©¶  cake.wav
-©¶  ©¶  chop.wav
-©¶  ©¶  click_pony.wav
-©¶  ©¶  collect_mushrooms.wav
-©¶  ©¶  completed.wav
-©¶  ©¶  count_down.wav
-©¶  ©¶  dress_drop.wav
-©¶  ©¶  drop_the_block.wav
-©¶  ©¶  eagle_1.wav
-©¶  ©¶  eagle_2.wav
-©¶  ©¶  event[0].txt
-©¶  ©¶  fetch_water.wav
-©¶  ©¶  forest_vine.wav
-©¶  ©¶  get_points.wav
-©¶  ©¶  goblin_cheers.wav
-©¶  ©¶  goblin_drills_earth.wav
-©¶  ©¶  goblin_jump out.wav
-©¶  ©¶  guitar.wav
-©¶  ©¶  harvest_horsetail.wav
-©¶  ©¶  jump_to_boat.wav
-©¶  ©¶  jump_to_ground.wav
-©¶  ©¶  Leaves,Grab,Rustles,Short 2.wav
-©¶  ©¶  LeavesObjectDrop.wav
-©¶  ©¶  mattock.wav
-©¶  ©¶  mining.wav
-©¶  ©¶  new_order_appears.wav
-©¶  ©¶  order_destruction.wav
-©¶  ©¶  pick_apple.wav
-©¶  ©¶  picture_dissolution.wav
-©¶  ©¶  placing_materials.wav
-©¶  ©¶  prop_female _sing.wav
-©¶  ©¶  put_the_block.wav
-©¶  ©¶  qte_move.wav
-©¶  ©¶  rabbit_attack.wav
-©¶  ©¶  rabbit_sleeping.wav
-©¶  ©¶  rat_idle_1.wav
-©¶  ©¶  rat_idle_2.wav
-©¶  ©¶  rat_idle_3.wav
-©¶  ©¶  rat_slip_away.wav
-©¶  ©¶  reach_combo.wav
-©¶  ©¶  se_honeybee_harvest01.wav
-©¶  ©¶  shovel.wav
-©¶  ©¶  signal.wav
-©¶  ©¶  skateboard.wav
-©¶  ©¶  skunk_bomb.wav
-©¶  ©¶  skunk_bomb_influenced.wav
-©¶  ©¶  slime.wav
-©¶  ©¶  snow_drop.wav
-©¶  ©¶  submit_wrong_order.wav
-©¶  ©¶  swing.wav
-©¶  ©¶  synthetic_material_success.wav
-©¶  ©¶  teleporting.wav
-©¶  ©¶  throw_waterball_1.wav
-©¶  ©¶  throw_waterball_2.wav
-©¶  ©¶  throw_waterball_3.wav
-©¶  ©¶  touch_bucket.wav
-©¶  ©¶  waterball_hit_1.wav
-©¶  ©¶  waterball_hit_2.wav
-©¶  ©¶  waterball_hit_3.wav
-©¶  ©¶  Water_1.wav
-©¶  ©¶  weeding.wav
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§event[0]
-©¿©§event_1[0]
-©¶  ©¶  add_egg.wav
-©¶  ©¶  add_potatoes.wav
-©¶  ©¶  add_seasoning.wav
-©¶  ©¶  add_tomatoes.wav
-©¶  ©¶  alarm.wav
-©¶  ©¶  anniu.wav
-©¶  ©¶  apple_shake.wav
-©¶  ©¶  arrow_hit_1.wav
-©¶  ©¶  arrow_hit_2.wav
-©¶  ©¶  arrow_hit_3.wav
-©¶  ©¶  arrow_throw_1.wav
-©¶  ©¶  arrow_throw_2.wav
-©¶  ©¶  arrow_throw_3.wav
-©¶  ©¶  attribute_promotion.wav
-©¶  ©¶  baojian.wav
-©¶  ©¶  beetle_appear.wav
-©¶  ©¶  beetle_attack.wav
-©¶  ©¶  bee_attack.wav
-©¶  ©¶  bee_die.wav
-©¶  ©¶  Bgm_party_sakura.wav
-©¶  ©¶  bird_attack.wav
-©¶  ©¶  bird_die.wav
-©¶  ©¶  bite.wav
-©¶  ©¶  bite_boy.wav
-©¶  ©¶  bite_girl.wav
-©¶  ©¶  blade_snake.wav
-©¶  ©¶  boar_attack.wav
-©¶  ©¶  boar_die.wav
-©¶  ©¶  boy_die.wav
-©¶  ©¶  boy_drop.wav
-©¶  ©¶  boy_repel.wav
-©¶  ©¶  cannon_firing.wav
-©¶  ©¶  cannon_hit.wav
-©¶  ©¶  catch_oil.wav
-©¶  ©¶  chimpanzee_attack.wav
-©¶  ©¶  chimpanzee_die.wav
-©¶  ©¶  command_attack.wav
-©¶  ©¶  command_bee.wav
-©¶  ©¶  command_bulid.wav
-©¶  ©¶  command_collect.wav
-©¶  ©¶  command_flute.wav
-©¶  ©¶  command_impulse.wav
-©¶  ©¶  command_impulse_hit.wav
-©¶  ©¶  command_play.wav
-©¶  ©¶  command_warm_up.wav
-©¶  ©¶  cooking_finish.wav
-©¶  ©¶  cooking_rice.wav
-©¶  ©¶  crushed_stone.wav
-©¶  ©¶  defeated.wav
-©¶  ©¶  dongwu.wav
-©¶  ©¶  dragon_AOE.wav
-©¶  ©¶  dragon_appears.wav
-©¶  ©¶  dragon_break_attack.wav
-©¶  ©¶  dragon_break_hit.wav
-©¶  ©¶  dragon_break_hit_1.wav
-©¶  ©¶  dragon_call_goblins.wav
-©¶  ©¶  dragon_die.wav
-©¶  ©¶  dragon_disappears.wav
-©¶  ©¶  dragon_earthquake_wave.wav
-©¶  ©¶  dragon_earth_anger.wav
-©¶  ©¶  dragon_earth_anger_1.wav
-©¶  ©¶  dragon_electric_flint_attack.wav
-©¶  ©¶  dragon_electric_flint_hit.wav
-©¶  ©¶  dragon_escapes.wav
-©¶  ©¶  dragon_zhuan_2.wav
-©¶  ©¶  dragon_zhuan_3.wav
-©¶  ©¶  drop.wav
-©¶  ©¶  drop_56.wav
-©¶  ©¶  drop_boy.wav
-©¶  ©¶  drop_column.wav
-©¶  ©¶  drop_crystal_column.wav
-©¶  ©¶  drop_girl.wav
-©¶  ©¶  drop_tree.wav
-©¶  ©¶  dump_trash_can.wav
-©¶  ©¶  event_1[0].txt
-©¶  ©¶  get_bread.wav
-©¶  ©¶  girl_die.wav
-©¶  ©¶  girl_drop.wav
-©¶  ©¶  girl_repel.wav
-©¶  ©¶  goblin_appear.wav
-©¶  ©¶  goblin_attack.wav
-©¶  ©¶  goblin_die.wav
-©¶  ©¶  goblin_hit.wav
-©¶  ©¶  good.wav
-©¶  ©¶  hammer_1.wav
-©¶  ©¶  hammer_2.wav
-©¶  ©¶  hammer_3.wav
-©¶  ©¶  hapi_dance_1.wav
-©¶  ©¶  hapi_dance_2.wav
-©¶  ©¶  hapi_dance_3.wav
-©¶  ©¶  huaxian_appear.wav
-©¶  ©¶  huaxian_attack.wav
-©¶  ©¶  huaxian_die.wav
-©¶  ©¶  huayan_skill_shield.wav
-©¶  ©¶  huayan_skill_suck.wav
-©¶  ©¶  huayan_skill_tornado.wav
-©¶  ©¶  huayan_skill_tornado_hit.wav
-©¶  ©¶  item_unlock.wav
-©¶  ©¶  jump.wav
-©¶  ©¶  jump_into_cave.wav
-©¶  ©¶  kaiguizi.wav
-©¶  ©¶  machinegun_firing.wav
-©¶  ©¶  machinegun_hit.wav
-©¶  ©¶  magic_medicine_into_bucket.wav
-©¶  ©¶  magic_transmission_machine.wav
-©¶  ©¶  medicine_bottle_hit_1.wav
-©¶  ©¶  medicine_bottle_hit_2.wav
-©¶  ©¶  medicine_bottle_hit_3.wav
-©¶  ©¶  medicine_bottle_throw_1.wav
-©¶  ©¶  medicine_bottle_throw_2.wav
-©¶  ©¶  medicine_bottle_throw_3.wav
-©¶  ©¶  open_door.wav
-©¶  ©¶  partylove.wav
-©¶  ©¶  party_balloon.wav
-©¶  ©¶  party_flower.wav
-©¶  ©¶  party_rainbow.wav
-©¶  ©¶  party_ring.wav
-©¶  ©¶  party_star.wav
-©¶  ©¶  select_ingredients.wav
-©¶  ©¶  stone_island1.wav
-©¶  ©¶  stone_island2.wav
-©¶  ©¶  stone_island3.wav
-©¶  ©¶  stone_island4.wav
-©¶  ©¶  stone_island5.wav
-©¶  ©¶  stone_island6.wav
-©¶  ©¶  stone_island7.wav
-©¶  ©¶  stone_island8.wav
-©¶  ©¶  swallow_attack.wav
-©¶  ©¶  swallow_die.wav
-©¶  ©¶  tree_apple_shake.wav
-©¶  ©¶  tree_shake.wav
-©¶  ©¶  victory.wav
-©¶  ©¶  weapon_fix_success.wav
-©¶  ©¶  weapon_water.wav
-©¶  ©¶  weed.wav
-©¶  ©¶  xuli.wav
-©¶  ©¶  xuman.wav
-©¶  ©¶  yanse.wav
-©¶  ©¶  yao.wav
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§event_1[0]
-©¿©§event_2[0]
-©¶  ©¶  anniversary_melody_mountainfoot.wav
-©¶  ©¶  anniversary_melody_snowmountain.wav
-©¶  ©¶  anniversary_melody_square_left.wav
-©¶  ©¶  anniversary_melody_square_right.wav
-©¶  ©¶  clearance.wav
-©¶  ©¶  dreamland3_101.wav
-©¶  ©¶  dreamland3_102.wav
-©¶  ©¶  dreamland3_106.wav
-©¶  ©¶  dreamland3_107.wav
-©¶  ©¶  dreamland3_108.wav
-©¶  ©¶  dreamland3_109.wav
-©¶  ©¶  dreamland3_110.wav
-©¶  ©¶  dreamland3_111.wav
-©¶  ©¶  dreamland3_112.wav
-©¶  ©¶  dreamland3_113.wav
-©¶  ©¶  dreamland3_114.wav
-©¶  ©¶  dreamland3_115.wav
-©¶  ©¶  dreamland3_116.wav
-©¶  ©¶  dreamland3_117.wav
-©¶  ©¶  event_2[0].txt
-©¶  ©¶  five_bears.wav
-©¶  ©¶  put_fail.wav
-©¶  ©¶  put_success.wav
-©¶  ©¶  spirit_accompany.wav
-©¶  ©¶  theme.wav
-©¶  ©¶  throw_cake.wav
-©¶  ©¶  venus.wav
-©¶  ©¶  xiyangyang.wav
-©¶  ©¶  xuanzhuanmuma.wav
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§event_2[0]
-©¿©§event_3[0]
-©¶  ©¶  alasi.wav
-©¶  ©¶  announce_anwser.wav
-©¶  ©¶  ballet_bear.wav
-©¶  ©¶  color_window_bear.wav
-©¶  ©¶  countdown.wav
-©¶  ©¶  event_3[0].txt
-©¶  ©¶  gyzzb.wav
-©¶  ©¶  horn_1.wav
-©¶  ©¶  horn_2.wav
-©¶  ©¶  kaiguizi.wav
-©¶  ©¶  kuanian_1.wav
-©¶  ©¶  kuanian_2.wav
-©¶  ©¶  lizhen.wav
-©¶  ©¶  mushroom_fox.wav
-©¶  ©¶  nanci.wav
-©¶  ©¶  open_sesame.wav
-©¶  ©¶  qingdianche_footstep.wav
-©¶  ©¶  scroll_dowm.wav
-©¶  ©¶  scroll_fly.wav
-©¶  ©¶  throw_cup.wav
-©¶  ©¶  throw_flower.wav
-©¶  ©¶  throw_slipper.wav
-©¶  ©¶  wensidun.wav
-©¶  ©¶  yifan.wav
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§event_3[0]
-©¿©§event_4[0]
-©¶  ©¶  1.wav
-©¶  ©¶  2.wav
-©¶  ©¶  3.wav
-©¶  ©¶  action_swim_fast_01.wav
-©¶  ©¶  action_swim_fast_02.wav
-©¶  ©¶  action_swim_fast_03.wav
-©¶  ©¶  action_swim_fast_04.wav
-©¶  ©¶  balala_speaker.wav
-©¶  ©¶  baoxiang.wav
-©¶  ©¶  bianzhong.wav
-©¶  ©¶  boom.wav
-©¶  ©¶  caidai.wav
-©¶  ©¶  cat_1.wav
-©¶  ©¶  cat_2.wav
-©¶  ©¶  cat_3.wav
-©¶  ©¶  cat_4.wav
-©¶  ©¶  cat_5.wav
-©¶  ©¶  danci.wav
-©¶  ©¶  dizzy.wav
-©¶  ©¶  dog.wav
-©¶  ©¶  dog_1.wav
-©¶  ©¶  emma_speaker.wav
-©¶  ©¶  event_4[0].txt
-©¶  ©¶  fall.wav
-©¶  ©¶  fat_cat.wav
-©¶  ©¶  fengwuluomei.wav
-©¶  ©¶  fight.wav
-©¶  ©¶  finish.wav
-©¶  ©¶  fish_struggle.wav
-©¶  ©¶  flower.wav
-©¶  ©¶  hit.wav
-©¶  ©¶  jmhc_speaker.wav
-©¶  ©¶  jump.wav
-©¶  ©¶  kuaiban.wav
-©¶  ©¶  no_hit.wav
-©¶  ©¶  paper_plane.wav
-©¶  ©¶  rain_on_umbrella.wav
-©¶  ©¶  renouzhuangyuan_renbuqi.wav
-©¶  ©¶  renouzhuangyuan_renqi.wav
-©¶  ©¶  run.wav
-©¶  ©¶  save.wav
-©¶  ©¶  shengridangao_renbuqi.wav
-©¶  ©¶  shengridangao_renqi.wav
-©¶  ©¶  shifa.wav
-©¶  ©¶  skill_a.wav
-©¶  ©¶  skill_b.wav
-©¶  ©¶  speed_up.wav
-©¶  ©¶  spell.wav
-©¶  ©¶  sweep.wav
-©¶  ©¶  throw.wav
-©¶  ©¶  wonder.wav
-©¶  ©¶  xiongxiongticao.wav
-©¶  ©¶  xiongxiongticao_reshen.wav
-©¶  ©¶  xuanlv.wav
-©¶  ©¶  yundongjiaolian.wav
-©¶  ©¶  zhiliao.wav
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§event_4[0]
-©¿©§event_5[0]
-©¶  ©¶  action_1 - Trimmed.wav
-©¶  ©¶  action_1.wav
-©¶  ©¶  action_2.wav
-©¶  ©¶  action_3.wav
-©¶  ©¶  bianpao.wav
-©¶  ©¶  bomb_boy.wav
-©¶  ©¶  bomb_girl.wav
-©¶  ©¶  cat.wav
-©¶  ©¶  chupai.wav
-©¶  ©¶  dangong.wav
-©¶  ©¶  daojushengcheng.wav
-©¶  ©¶  datiehua.wav
-©¶  ©¶  datiehua_sfx.wav
-©¶  ©¶  dongzhu.wav
-©¶  ©¶  drop.wav
-©¶  ©¶  event_5[0].txt
-©¶  ©¶  fapai.wav
-©¶  ©¶  fashe.wav
-©¶  ©¶  feiji.wav
-©¶  ©¶  fengzheng.wav
-©¶  ©¶  fire.wav
-©¶  ©¶  fishing.wav
-©¶  ©¶  generate.wav
-©¶  ©¶  gongji.wav
-©¶  ©¶  guochang_speaker.wav
-©¶  ©¶  hey_1.wav
-©¶  ©¶  hey_2.wav
-©¶  ©¶  hey_3.wav
-©¶  ©¶  huobawu.wav
-©¶  ©¶  jiequ.wav
-©¶  ©¶  jisui.wav
-©¶  ©¶  jisui_1.wav
-©¶  ©¶  launch.wav
-©¶  ©¶  leidian.wav
-©¶  ©¶  majiang.wav
-©¶  ©¶  majiang_renbuqi.wav
-©¶  ©¶  majiang_renqi.wav
-©¶  ©¶  meilidianyin_zuodian.wav
-©¶  ©¶  monster.wav
-©¶  ©¶  old_school_zuodian.wav
-©¶  ©¶  prop.wav
-©¶  ©¶  put.wav
-©¶  ©¶  qimenglizeng_renbuqi.wav
-©¶  ©¶  qimenglizeng_renqi.wav
-©¶  ©¶  qiutipengzhuang.wav
-©¶  ©¶  shuaxin.wav
-©¶  ©¶  suilie.wav
-©¶  ©¶  suilie_53.wav
-©¶  ©¶  wangzha.wav
-©¶  ©¶  wanwushengzhang_zuodian.wav
-©¶  ©¶  wudi.wav
-©¶  ©¶  wushi.wav
-©¶  ©¶  xiajiang.wav
-©¶  ©¶  xiaochitan.wav
-©¶  ©¶  xiaochu.wav
-©¶  ©¶  yaoguwu.wav
-©¶  ©¶  zhadan.wav
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§event_5[0]
-©¿©§event_6[0]
-©¶  ©¶  aoaotangguowu.wav
-©¶  ©¶  aojichadang.wav
-©¶  ©¶  ballon_broken.wav
-©¶  ©¶  birthday.wav
-©¶  ©¶  boss_skill_1.wav
-©¶  ©¶  car.wav
-©¶  ©¶  cat_1.wav
-©¶  ©¶  cat_2.wav
-©¶  ©¶  cat_3.wav
-©¶  ©¶  cat_act_1.wav
-©¶  ©¶  cat_act_2.wav
-©¶  ©¶  cat_act_3.wav
-©¶  ©¶  cat_purrs.wav
-©¶  ©¶  chuansong.wav
-©¶  ©¶  commoner_skill.wav
-©¶  ©¶  current.wav
-©¶  ©¶  dance_lion.wav
-©¶  ©¶  dream_theft_far.wav
-©¶  ©¶  dream_theft_near.wav
-©¶  ©¶  evacuate_success.wav
-©¶  ©¶  event_6[0].txt
-©¶  ©¶  footsteps_grass_run_01.wav
-©¶  ©¶  footsteps_grass_run_02.wav
-©¶  ©¶  footsteps_grass_run_03.wav
-©¶  ©¶  footsteps_grass_run_04.wav
-©¶  ©¶  footsteps_grass_run_05.wav
-©¶  ©¶  footsteps_grass_run_06.wav
-©¶  ©¶  footsteps_grass_run_07.wav
-©¶  ©¶  footsteps_grass_run_08.wav
-©¶  ©¶  footsteps_grass_run_09.wav
-©¶  ©¶  footsteps_grass_run_10.wav
-©¶  ©¶  gangshihaowei.wav
-©¶  ©¶  get_seed.wav
-©¶  ©¶  glass_broken_item.wav
-©¶  ©¶  guardian_far.wav
-©¶  ©¶  guardian_near.wav
-©¶  ©¶  guzheng_qdy.wav
-©¶  ©¶  guzheng_shy.wav
-©¶  ©¶  guzheng_yyhx.wav
-©¶  ©¶  horn1.wav
-©¶  ©¶  horn2.wav
-©¶  ©¶  horse_fs_1.wav
-©¶  ©¶  horse_fs_10.wav
-©¶  ©¶  horse_fs_2.wav
-©¶  ©¶  horse_fs_3.wav
-©¶  ©¶  horse_fs_4.wav
-©¶  ©¶  horse_fs_5.wav
-©¶  ©¶  horse_fs_6.wav
-©¶  ©¶  horse_fs_7.wav
-©¶  ©¶  horse_fs_8.wav
-©¶  ©¶  horse_fs_9.wav
-©¶  ©¶  jizhang_1.wav
-©¶  ©¶  jizhang_2.wav
-©¶  ©¶  jizhang_3.wav
-©¶  ©¶  mosha.wav
-©¶  ©¶  motor.wav
-©¶  ©¶  piyingxi_renbuqi.wav
-©¶  ©¶  piyingxi_renqi.wav
-©¶  ©¶  qiqiutan.wav
-©¶  ©¶  repelled.wav
-©¶  ©¶  shikonghuayuan_renbuqi.wav
-©¶  ©¶  shikonghuayuan_renqi.wav
-©¶  ©¶  shuiyipaidui_renbuqi.wav
-©¶  ©¶  shuiyipaidui_renqi.wav
-©¶  ©¶  spring.wav
-©¶  ©¶  tiaotiaoqi_renbuqi.wav
-©¶  ©¶  tiaotiaoqi_renqi.wav
-©¶  ©¶  ui_effect_errenzhuan.wav
-©¶  ©¶  ui_effect_haoshi.wav
-©¶  ©¶  ui_effect_zhucha.wav
-©¶  ©¶  use_disguise_props.wav
-©¶  ©¶  wamaoyingchun.wav
-©¶  ©¶  wawaji.wav
-©¶  ©¶  xinghaimaoxianchuan_renbuqi.wav
-©¶  ©¶  xinghaimaoxianchuan_renqi.wav
-©¶  ©¶  yimengfenghua.wav
-©¶  ©¶  yingwu_footstep.wav
-©¶  ©¶  yishujiaoluo.wav
-©¶  ©¶  yongyeyinyuehui_renbuqi.wav
-©¶  ©¶  yongyeyinyuehui_renqi.wav
-©¶  ©¶  zhangxinlihe.wav
-©¶  ©¶  zhengjingmingxiang_renbuqi.wav
-©¶  ©¶  zhengjingmingxiang_renqi.wav
-©¶  ©¶  zhifeiji.wav
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§event_6[0]
-©¿©§expression[0]
-©¶  ©¶  expression[0].txt
-©¶  ©¶  ui_effect_bang_se.wav
-©¶  ©¶  ui_effect_beauty.wav
-©¶  ©¶  ui_effect_blink.wav
-©¶  ©¶  ui_effect_brilliant_appearance.wav
-©¶  ©¶  ui_effect_bye.wav
-©¶  ©¶  ui_effect_cheer.wav
-©¶  ©¶  ui_effect_come_on.wav
-©¶  ©¶  ui_effect_cry.wav
-©¶  ©¶  ui_effect_dislike.wav
-©¶  ©¶  ui_effect_divination.wav
-©¶  ©¶  ui_effect_doubt.wav
-©¶  ©¶  ui_effect_enen.wav
-©¶  ©¶  ui_effect_evil_smile.wav
-©¶  ©¶  ui_effect_fist.wav
-©¶  ©¶  ui_effect_fright.wav
-©¶  ©¶  ui_effect_hello.wav
-©¶  ©¶  ui_effect_jump.wav
-©¶  ©¶  ui_effect_kissfly.wav
-©¶  ©¶  ui_effect_laugh.wav
-©¶  ©¶  ui_effect_look_on.wav
-©¶  ©¶  ui_effect_magic.wav
-©¶  ©¶  ui_effect_please.wav
-©¶  ©¶  ui_effect_skating.wav
-©¶  ©¶  ui_effect_snowball.wav
-©¶  ©¶  ui_effect_stamp_feet.wav
-©¶  ©¶  ui_effect_stamp_salute.wav
-©¶  ©¶  ui_effect_thanks.wav
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§expression[0]
-©¿©§feixingqi[0]
-©¶  ©¶  alarm.wav
-©¶  ©¶  chufashijian.wav
-©¶  ©¶  dadaozhongdian.wav
-©¶  ©¶  feiqi.wav
-©¶  ©¶  feixingqi[0].txt
-©¶  ©¶  jieshu.wav
-©¶  ©¶  qizhichuxian.wav
-©¶  ©¶  suijichouqu.wav
-©¶  ©¶  touzhi.wav
-©¶  ©¶  xuanzeqizi.wav
-©¶  ©¶  zhuangzi.wav
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§feixingqi[0]
-©¿©§fishing[0]
-©¶  ©¶  fishing[0].txt
-©¶  ©¶  fishing_gathering.wav
-©¶  ©¶  fishing_get.wav
-©¶  ©¶  fishing_raise_pole.wav
-©¶  ©¶  se_fishing_start01.wav
-©¶  ©¶  se_fishing_touch01.wav
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§fishing[0]
-©¿©§fish_speaker[0]
-©¶  ©¶  Bgm_Speaker_Hippocampus_Piano.wav
-©¶  ©¶  Bgm_Speaker_Merlion_Violin.wav
-©¶  ©¶  Bgm_Speaker_Salamander_Drum.wav
-©¶  ©¶  Bgm_Speaker_Salted_Fish_Guitar.wav
-©¶  ©¶  Bgm_Speaker_shark_Dj.wav
-©¶  ©¶  fish_speaker[0].txt
-©¶  ©¶  mermaid_song.wav
-©¶  ©¶  mermaid_vocal.wav
-©¶  ©¶  underwater.wav
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§fish_speaker[0]
-©¿©§footstep[0]
-©¶  ©¶  bell_1.wav
-©¶  ©¶  bell_3.wav
-©¶  ©¶  bell_4.wav
-©¶  ©¶  bell_5.wav
-©¶  ©¶  carpet1.wav
-©¶  ©¶  carpet2.wav
-©¶  ©¶  carpet3.wav
-©¶  ©¶  carpet4.wav
-©¶  ©¶  carpet5.wav
-©¶  ©¶  carpet6.wav
-©¶  ©¶  carpet7.wav
-©¶  ©¶  carpet8.wav
-©¶  ©¶  cat_1.wav
-©¶  ©¶  cat_2.wav
-©¶  ©¶  cat_3.wav
-©¶  ©¶  cizhuan1.wav
-©¶  ©¶  cizhuan2.wav
-©¶  ©¶  cizhuan3.wav
-©¶  ©¶  cizhuan4.wav
-©¶  ©¶  cizhuan5.wav
-©¶  ©¶  cizhuan6.wav
-©¶  ©¶  cizhuan7.wav
-©¶  ©¶  cizhuan8.wav
-©¶  ©¶  earth_fast_1.wav
-©¶  ©¶  earth_fast_2.wav
-©¶  ©¶  earth_fast_3.wav
-©¶  ©¶  earth_fast_4.wav
-©¶  ©¶  earth_fast_5.wav
-©¶  ©¶  earth_fast_6.wav
-©¶  ©¶  earth_fast_7.wav
-©¶  ©¶  earth_fast_8.wav
-©¶  ©¶  earth_fast_9.wav
-©¶  ©¶  floor_run_01.wav
-©¶  ©¶  floor_run_02.wav
-©¶  ©¶  floor_run_03.wav
-©¶  ©¶  floor_run_04.wav
-©¶  ©¶  floor_run_05.wav
-©¶  ©¶  floor_run_06.wav
-©¶  ©¶  floor_run_07.wav
-©¶  ©¶  floor_run_08.wav
-©¶  ©¶  footsteps_grass_run_01.wav
-©¶  ©¶  footsteps_grass_run_02.wav
-©¶  ©¶  footsteps_grass_run_03.wav
-©¶  ©¶  footsteps_grass_run_04.wav
-©¶  ©¶  footsteps_grass_run_05.wav
-©¶  ©¶  footsteps_grass_run_06.wav
-©¶  ©¶  footsteps_grass_run_07.wav
-©¶  ©¶  footsteps_grass_run_08.wav
-©¶  ©¶  footsteps_grass_run_09.wav
-©¶  ©¶  footsteps_grass_run_10.wav
-©¶  ©¶  footstep[0].txt
-©¶  ©¶  footstep_liantiyi.wav
-©¶  ©¶  footstep_yhy_1.wav
-©¶  ©¶  footstep_yhy_2.wav
-©¶  ©¶  footstep_yhy_3.wav
-©¶  ©¶  footstep_yhy_4.wav
-©¶  ©¶  footstep_yhy_5.wav
-©¶  ©¶  footstep_yhy_6.wav
-©¶  ©¶  grass_island1.wav
-©¶  ©¶  grass_island2.wav
-©¶  ©¶  grass_island3.wav
-©¶  ©¶  grass_island4.wav
-©¶  ©¶  grass_island5.wav
-©¶  ©¶  grass_island6.wav
-©¶  ©¶  sand_island1.wav
-©¶  ©¶  sand_island2.wav
-©¶  ©¶  sand_island3.wav
-©¶  ©¶  sand_island4.wav
-©¶  ©¶  sand_island5.wav
-©¶  ©¶  sand_island6.wav
-©¶  ©¶  sand_island7.wav
-©¶  ©¶  sand_island8.wav
-©¶  ©¶  snow_1.wav
-©¶  ©¶  snow_2.wav
-©¶  ©¶  snow_3.wav
-©¶  ©¶  snow_4.wav
-©¶  ©¶  snow_5.wav
-©¶  ©¶  snow_6.wav
-©¶  ©¶  stone_island1.wav
-©¶  ©¶  stone_island2.wav
-©¶  ©¶  stone_island3.wav
-©¶  ©¶  stone_island4.wav
-©¶  ©¶  stone_island5.wav
-©¶  ©¶  stone_island6.wav
-©¶  ©¶  stone_island7.wav
-©¶  ©¶  stone_island8.wav
-©¶  ©¶  swimming_1.wav
-©¶  ©¶  swimming_2.wav
-©¶  ©¶  swimming_3.wav
-©¶  ©¶  swimming_4.wav
-©¶  ©¶  swimming_6.wav
-©¶  ©¶  swimming_7.wav
-©¶  ©¶  woodstair1.wav
-©¶  ©¶  woodstair2.wav
-©¶  ©¶  woodstair3.wav
-©¶  ©¶  woodstair4.wav
-©¶  ©¶  woodstair5.wav
-©¶  ©¶  woodstair6.wav
-©¶  ©¶  woodstair7.wav
-©¶  ©¶  woodstair8.wav
-©¶  ©¶  wood_run1.wav
-©¶  ©¶  wood_run2.wav
-©¶  ©¶  wood_run3.wav
-©¶  ©¶  wood_run4.wav
-©¶  ©¶  wood_run5.wav
-©¶  ©¶  wood_run6.wav
-©¶  ©¶  wood_run7.wav
-©¶  ©¶  wood_run8.wav
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§footstep[0]
-©¿©§gangqin[0]
-©¶  ©¶  1.wav
-©¶  ©¶  10.wav
-©¶  ©¶  11.wav
-©¶  ©¶  12.wav
-©¶  ©¶  13.wav
-©¶  ©¶  14.wav
-©¶  ©¶  15.wav
-©¶  ©¶  16.wav
-©¶  ©¶  17.wav
-©¶  ©¶  18.wav
-©¶  ©¶  19.wav
-©¶  ©¶  2.wav
-©¶  ©¶  20.wav
-©¶  ©¶  21.wav
-©¶  ©¶  22.wav
-©¶  ©¶  3.wav
-©¶  ©¶  4.wav
-©¶  ©¶  5.wav
-©¶  ©¶  6.wav
-©¶  ©¶  7.wav
-©¶  ©¶  8.wav
-©¶  ©¶  9.wav
-©¶  ©¶  gangqin[0].txt
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§gangqin[0]
-©¿©§gathering_honey[0]
-©¶  ©¶  call_honeybee.wav
-©¶  ©¶  gathering_honey.wav
-©¶  ©¶  gathering_honey[0].txt
-©¶  ©¶  leaking_honey.wav
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§gathering_honey[0]
-©¿©§greedy_snake[0]
-©¶  ©¶  end.wav
-©¶  ©¶  greedy_snake[0].txt
-©¶  ©¶  moon.wav
-©¶  ©¶  star.wav
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§greedy_snake[0]
-©¿©§guzheng[0]
-©¶  ©¶  guzheng1.wav
-©¶  ©¶  guzheng10.wav
-©¶  ©¶  guzheng11.wav
-©¶  ©¶  guzheng12.wav
-©¶  ©¶  guzheng13.wav
-©¶  ©¶  guzheng14.wav
-©¶  ©¶  guzheng15.wav
-©¶  ©¶  guzheng16.wav
-©¶  ©¶  guzheng17.wav
-©¶  ©¶  guzheng18.wav
-©¶  ©¶  guzheng19.wav
-©¶  ©¶  guzheng2.wav
-©¶  ©¶  guzheng20.wav
-©¶  ©¶  guzheng21.wav
-©¶  ©¶  guzheng22.wav
-©¶  ©¶  guzheng3.wav
-©¶  ©¶  guzheng4.wav
-©¶  ©¶  guzheng5.wav
-©¶  ©¶  guzheng6.wav
-©¶  ©¶  guzheng7.wav
-©¶  ©¶  guzheng8.wav
-©¶  ©¶  guzheng9.wav
-©¶  ©¶  guzheng[0].txt
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§guzheng[0]
-©¿©§hailuo[0]
-©¶  ©¶  hailuo1.wav
-©¶  ©¶  hailuo10.wav
-©¶  ©¶  hailuo11.wav
-©¶  ©¶  hailuo12.wav
-©¶  ©¶  hailuo13.wav
-©¶  ©¶  hailuo14.wav
-©¶  ©¶  hailuo15.wav
-©¶  ©¶  hailuo16.wav
-©¶  ©¶  hailuo17.wav
-©¶  ©¶  hailuo18.wav
-©¶  ©¶  hailuo19.wav
-©¶  ©¶  hailuo2.wav
-©¶  ©¶  hailuo20.wav
-©¶  ©¶  hailuo21.wav
-©¶  ©¶  hailuo22.wav
-©¶  ©¶  hailuo3.wav
-©¶  ©¶  hailuo4.wav
-©¶  ©¶  hailuo5.wav
-©¶  ©¶  hailuo6.wav
-©¶  ©¶  hailuo7.wav
-©¶  ©¶  hailuo8.wav
-©¶  ©¶  hailuo9.wav
-©¶  ©¶  hailuo[0].txt
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§hailuo[0]
-©¿©§handbell_speaker[0]
-©¶  ©¶  handbell_speaker.wav
-©¶  ©¶  handbell_speaker[0].txt
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§handbell_speaker[0]
-©¿©§hapi_huayan[0]
-©¶  ©¶  faxianhuayan.wav
-©¶  ©¶  hapi_huayan[0].txt
-©¶  ©¶  huayan_voice_hit_1.wav
-©¶  ©¶  huayan_voice_hit_2.wav
-©¶  ©¶  huayan_voice_hit_3.wav
-©¶  ©¶  slipper_hit_1.wav
-©¶  ©¶  slipper_hit_2.wav
-©¶  ©¶  slipper_hit_3.wav
-©¶  ©¶  throw_shoes_1.wav
-©¶  ©¶  throw_shoes_2.wav
-©¶  ©¶  throw_shoes_3.wav
-©¶  ©¶  ui_effect_faxianhapi.wav
-©¶  ©¶  voice_boy_1.wav
-©¶  ©¶  voice_boy_2.wav
-©¶  ©¶  voice_boy_3.wav
-©¶  ©¶  voice_boy_4.wav
-©¶  ©¶  voice_girl_1.wav
-©¶  ©¶  voice_girl_2.wav
-©¶  ©¶  voice_girl_3.wav
-©¶  ©¶  voice_hit_1.wav
-©¶  ©¶  voice_hit_2.wav
-©¶  ©¶  voice_hit_3.wav
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§hapi_huayan[0]
-©¿©§harp[0]
-©¶  ©¶  1.wav
-©¶  ©¶  10.wav
-©¶  ©¶  11.wav
-©¶  ©¶  12.wav
-©¶  ©¶  13.wav
-©¶  ©¶  14.wav
-©¶  ©¶  15.wav
-©¶  ©¶  16.wav
-©¶  ©¶  17.wav
-©¶  ©¶  18.wav
-©¶  ©¶  19.wav
-©¶  ©¶  2.wav
-©¶  ©¶  20.wav
-©¶  ©¶  21.wav
-©¶  ©¶  22.wav
-©¶  ©¶  3.wav
-©¶  ©¶  4.wav
-©¶  ©¶  5.wav
-©¶  ©¶  6.wav
-©¶  ©¶  7.wav
-©¶  ©¶  8.wav
-©¶  ©¶  9.wav
-©¶  ©¶  harp[0].txt
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§harp[0]
-©¿©§hello[0]
-©¶  ©¶  hello[0].txt
-©¶  ©¶  npc_hello_aila_01.wav
-©¶  ©¶  npc_hello_aila_02.wav
-©¶  ©¶  npc_hello_aila_03.wav
-©¶  ©¶  npc_hello_aila_04.wav
-©¶  ©¶  npc_hello_aila_05.wav
-©¶  ©¶  npc_hello_aoli_01.wav
-©¶  ©¶  npc_hello_aoli_02.wav
-©¶  ©¶  npc_hello_aoli_03.wav
-©¶  ©¶  npc_hello_aoli_04.wav
-©¶  ©¶  npc_hello_aoli_05.wav
-©¶  ©¶  npc_hello_fenger_01.wav
-©¶  ©¶  npc_hello_fenger_02.wav
-©¶  ©¶  npc_hello_fenger_03.wav
-©¶  ©¶  npc_hello_fenger_04.wav
-©¶  ©¶  npc_hello_fenger_05.wav
-©¶  ©¶  npc_hello_haila_01.wav
-©¶  ©¶  npc_hello_haila_02.wav
-©¶  ©¶  npc_hello_haila_03.wav
-©¶  ©¶  npc_hello_haila_04.wav
-©¶  ©¶  npc_hello_haila_05.wav
-©¶  ©¶  npc_hello_kasili_01.wav
-©¶  ©¶  npc_hello_kasili_02.wav
-©¶  ©¶  npc_hello_kasili_03.wav
-©¶  ©¶  npc_hello_kasili_04.wav
-©¶  ©¶  npc_hello_kasili_05.wav
-©¶  ©¶  npc_hello_kasili_06.wav
-©¶  ©¶  npc_hello_kelai_01.wav
-©¶  ©¶  npc_hello_kelai_02.wav
-©¶  ©¶  npc_hello_kelai_03.wav
-©¶  ©¶  npc_hello_kelai_04.wav
-©¶  ©¶  npc_hello_kelai_05.wav
-©¶  ©¶  npc_hello_laiang_01.wav
-©¶  ©¶  npc_hello_laiang_02.wav
-©¶  ©¶  npc_hello_laiang_03.wav
-©¶  ©¶  npc_hello_laiang_04.wav
-©¶  ©¶  npc_hello_laiang_05.wav
-©¶  ©¶  npc_hello_laiang_06.wav
-©¶  ©¶  npc_hello_maguli_01.wav
-©¶  ©¶  npc_hello_maguli_02.wav
-©¶  ©¶  npc_hello_maguli_03.wav
-©¶  ©¶  npc_hello_maguli_04.wav
-©¶  ©¶  npc_hello_maguli_05.wav
-©¶  ©¶  npc_hello_meier_znq_1.wav
-©¶  ©¶  npc_hello_songsong_01.wav
-©¶  ©¶  npc_hello_songsong_01_1.wav
-©¶  ©¶  npc_hello_songsong_02.wav
-©¶  ©¶  npc_hello_songsong_02_1.wav
-©¶  ©¶  npc_hello_suofeiya_01.wav
-©¶  ©¶  npc_hello_suofeiya_02.wav
-©¶  ©¶  npc_hello_suofeiya_03.wav
-©¶  ©¶  npc_hello_suofeiya_04.wav
-©¶  ©¶  npc_hello_suofeiya_05.wav
-©¶  ©¶  npc_hello_suoya_01.wav
-©¶  ©¶  npc_hello_suoya_02.wav
-©¶  ©¶  npc_hello_suoya_03.wav
-©¶  ©¶  npc_hello_suoya_04.wav
-©¶  ©¶  npc_hello_suoya_05.wav
-©¶  ©¶  npc_hello_tianji_01.wav
-©¶  ©¶  npc_hello_tianji_02.wav
-©¶  ©¶  npc_hello_tianji_03.wav
-©¶  ©¶  npc_hello_tianji_04.wav
-©¶  ©¶  npc_hello_tianji_05.wav
-©¶  ©¶  npc_hello_wendi_znq_1.wav
-©¶  ©¶  npc_hello_xiaoye_znq_1.wav
-©¶  ©¶  npc_hello_xide_01.wav
-©¶  ©¶  npc_hello_xide_02.wav
-©¶  ©¶  npc_hello_xide_03.wav
-©¶  ©¶  npc_hello_xide_04.wav
-©¶  ©¶  npc_hello_xide_05.wav
-©¶  ©¶  npc_hello_xierda_znq_1.wav
-©¶  ©¶  npc_hello_yien_01.wav
-©¶  ©¶  npc_hello_yien_02.wav
-©¶  ©¶  npc_hello_yien_03.wav
-©¶  ©¶  npc_hello_yien_04.wav
-©¶  ©¶  npc_hello_yien_05.wav
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§hello[0]
-©¿©§hello_guangchang[0]
-©¶  ©¶  hello_guangchang[0].txt
-©¶  ©¶  npc_hello_dahuzi_01.wav
-©¶  ©¶  npc_hello_dahuzi_02.wav
-©¶  ©¶  npc_hello_dahuzi_03.wav
-©¶  ©¶  npc_hello_dahuzi_04.wav
-©¶  ©¶  npc_hello_dahuzi_05.wav
-©¶  ©¶  npc_hello_daixi_01.wav
-©¶  ©¶  npc_hello_daixi_02.wav
-©¶  ©¶  npc_hello_daixi_03.wav
-©¶  ©¶  npc_hello_daixi_04.wav
-©¶  ©¶  npc_hello_daixi_05.wav
-©¶  ©¶  npc_hello_fengrenyu_01.wav
-©¶  ©¶  npc_hello_fengrenyu_02.wav
-©¶  ©¶  npc_hello_fengrenyu_03.wav
-©¶  ©¶  npc_hello_fengrenyu_04.wav
-©¶  ©¶  npc_hello_fengrenyu_05.wav
-©¶  ©¶  npc_hello_lizhen_01.wav
-©¶  ©¶  npc_hello_lizhen_02.wav
-©¶  ©¶  npc_hello_lizhen_03.wav
-©¶  ©¶  npc_hello_lizhen_04.wav
-©¶  ©¶  npc_hello_lizhen_05.wav
-©¶  ©¶  npc_hello_lizhen_06.wav
-©¶  ©¶  npc_hello_malu_01.wav
-©¶  ©¶  npc_hello_malu_02.wav
-©¶  ©¶  npc_hello_malu_03.wav
-©¶  ©¶  npc_hello_malu_04.wav
-©¶  ©¶  npc_hello_malu_05.wav
-©¶  ©¶  npc_hello_meier_01.wav
-©¶  ©¶  npc_hello_meier_02.wav
-©¶  ©¶  npc_hello_meier_03.wav
-©¶  ©¶  npc_hello_meier_04.wav
-©¶  ©¶  npc_hello_meier_05.wav
-©¶  ©¶  npc_hello_wayi_01.wav
-©¶  ©¶  npc_hello_wayi_02.wav
-©¶  ©¶  npc_hello_wayi_03.wav
-©¶  ©¶  npc_hello_wayi_04.wav
-©¶  ©¶  npc_hello_wayi_05.wav
-©¶  ©¶  npc_hello_weilita_01.wav
-©¶  ©¶  npc_hello_weilita_02.wav
-©¶  ©¶  npc_hello_weilita_03.wav
-©¶  ©¶  npc_hello_weilita_04.wav
-©¶  ©¶  npc_hello_weilita_05.wav
-©¶  ©¶  npc_hello_weilita_06.wav
-©¶  ©¶  npc_hello_xierda_01.wav
-©¶  ©¶  npc_hello_xierda_02.wav
-©¶  ©¶  npc_hello_xierda_03.wav
-©¶  ©¶  npc_hello_xierda_04.wav
-©¶  ©¶  npc_hello_xierda_05.wav
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§hello_guangchang[0]
-©¿©§hello_taobaojie[0]
-©¶  ©¶  hello_taobaojie[0].txt
-©¶  ©¶  npc_hello_alasi_01.wav
-©¶  ©¶  npc_hello_alasi_02.wav
-©¶  ©¶  npc_hello_alasi_03.wav
-©¶  ©¶  npc_hello_alasi_04.wav
-©¶  ©¶  npc_hello_alasi_05.wav
-©¶  ©¶  npc_hello_fengwa_01.wav
-©¶  ©¶  npc_hello_fengwa_02.wav
-©¶  ©¶  npc_hello_fengwa_03.wav
-©¶  ©¶  npc_hello_fengwa_04.wav
-©¶  ©¶  npc_hello_fengwa_05.wav
-©¶  ©¶  npc_hello_fuliqi_01.wav
-©¶  ©¶  npc_hello_fuliqi_02.wav
-©¶  ©¶  npc_hello_fuliqi_03.wav
-©¶  ©¶  npc_hello_fuliqi_04.wav
-©¶  ©¶  npc_hello_fuliqi_05.wav
-©¶  ©¶  npc_hello_jinkuai_01.wav
-©¶  ©¶  npc_hello_jinkuai_02.wav
-©¶  ©¶  npc_hello_jinkuai_03.wav
-©¶  ©¶  npc_hello_jinkuai_04.wav
-©¶  ©¶  npc_hello_jinkuai_05.wav
-©¶  ©¶  npc_hello_modun_01.wav
-©¶  ©¶  npc_hello_modun_02.wav
-©¶  ©¶  npc_hello_modun_03.wav
-©¶  ©¶  npc_hello_modun_04.wav
-©¶  ©¶  npc_hello_modun_05.wav
-©¶  ©¶  npc_hello_panpan_01.wav
-©¶  ©¶  npc_hello_panpan_02.wav
-©¶  ©¶  npc_hello_panpan_03.wav
-©¶  ©¶  npc_hello_panpan_04.wav
-©¶  ©¶  npc_hello_panpan_05.wav
-©¶  ©¶  npc_hello_weikeduo_01.wav
-©¶  ©¶  npc_hello_weikeduo_02.wav
-©¶  ©¶  npc_hello_weikeduo_03.wav
-©¶  ©¶  npc_hello_weikeduo_04.wav
-©¶  ©¶  npc_hello_weikeduo_05.wav
-©¶  ©¶  npc_hello_wendi_01.wav
-©¶  ©¶  npc_hello_wendi_02.wav
-©¶  ©¶  npc_hello_wendi_03.wav
-©¶  ©¶  npc_hello_wendi_04.wav
-©¶  ©¶  npc_hello_wendi_05.wav
-©¶  ©¶  npc_hello_xiaoye_01.wav
-©¶  ©¶  npc_hello_xiaoye_02.wav
-©¶  ©¶  npc_hello_xiaoye_03.wav
-©¶  ©¶  npc_hello_xiaoye_04.wav
-©¶  ©¶  npc_hello_xiaoye_05.wav
-©¶  ©¶  npc_hello_yexi_01.wav
-©¶  ©¶  npc_hello_yexi_02.wav
-©¶  ©¶  npc_hello_yexi_03.wav
-©¶  ©¶  npc_hello_yexi_04.wav
-©¶  ©¶  npc_hello_yexi_05.wav
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§hello_taobaojie[0]
-©¿©§huanyinling[0]
-©¶  ©¶  dizi_jzgs.wav
-©¶  ©¶  dizi_ylzg.wav
-©¶  ©¶  dizi_zybc.wav
-©¶  ©¶  harp_blzf.wav
-©¶  ©¶  harp_hlxr.wav
-©¶  ©¶  huanyinling[0].txt
-©¶  ©¶  violin_ylxx.wav
-©¶  ©¶  violin_yyyj.wav
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§huanyinling[0]
-©¿©§kalinba[0]
-©¶  ©¶  kalinba1.wav
-©¶  ©¶  kalinba10.wav
-©¶  ©¶  kalinba11.wav
-©¶  ©¶  kalinba12.wav
-©¶  ©¶  kalinba13.wav
-©¶  ©¶  kalinba14.wav
-©¶  ©¶  kalinba15.wav
-©¶  ©¶  kalinba16.wav
-©¶  ©¶  kalinba17.wav
-©¶  ©¶  kalinba18.wav
-©¶  ©¶  kalinba19.wav
-©¶  ©¶  kalinba2.wav
-©¶  ©¶  kalinba20.wav
-©¶  ©¶  kalinba21.wav
-©¶  ©¶  kalinba22.wav
-©¶  ©¶  kalinba3.wav
-©¶  ©¶  kalinba4.wav
-©¶  ©¶  kalinba5.wav
-©¶  ©¶  kalinba6.wav
-©¶  ©¶  kalinba7.wav
-©¶  ©¶  kalinba8.wav
-©¶  ©¶  kalinba9.wav
-©¶  ©¶  kalinba[0].txt
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§kalinba[0]
-©¿©§knock_hamster[0]
-©¶  ©¶  hamster_appear.wav
-©¶  ©¶  hit_hamster.wav
-©¶  ©¶  hit_spirit.wav
-©¶  ©¶  knock_hamster[0].txt
-©¶  ©¶  spirit_appear.wav
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§knock_hamster[0]
-©¿©§kouqin[0]
-©¶  ©¶  kouqin1.wav
-©¶  ©¶  kouqin10.wav
-©¶  ©¶  kouqin11.wav
-©¶  ©¶  kouqin12.wav
-©¶  ©¶  kouqin13.wav
-©¶  ©¶  kouqin14.wav
-©¶  ©¶  kouqin15.wav
-©¶  ©¶  kouqin16.wav
-©¶  ©¶  kouqin17.wav
-©¶  ©¶  kouqin18.wav
-©¶  ©¶  kouqin19.wav
-©¶  ©¶  kouqin2.wav
-©¶  ©¶  kouqin20.wav
-©¶  ©¶  kouqin21.wav
-©¶  ©¶  kouqin22.wav
-©¶  ©¶  kouqin3.wav
-©¶  ©¶  kouqin4.wav
-©¶  ©¶  kouqin5.wav
-©¶  ©¶  kouqin6.wav
-©¶  ©¶  kouqin7.wav
-©¶  ©¶  kouqin8.wav
-©¶  ©¶  kouqin9.wav
-©¶  ©¶  kouqin[0].txt
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§kouqin[0]
-©¿©§laiyaqin[0]
-©¶  ©¶  laiyaqin1.wav
-©¶  ©¶  laiyaqin10.wav
-©¶  ©¶  laiyaqin11.wav
-©¶  ©¶  laiyaqin12.wav
-©¶  ©¶  laiyaqin13.wav
-©¶  ©¶  laiyaqin14.wav
-©¶  ©¶  laiyaqin15.wav
-©¶  ©¶  laiyaqin16.wav
-©¶  ©¶  laiyaqin17.wav
-©¶  ©¶  laiyaqin18.wav
-©¶  ©¶  laiyaqin19.wav
-©¶  ©¶  laiyaqin2.wav
-©¶  ©¶  laiyaqin20.wav
-©¶  ©¶  laiyaqin21.wav
-©¶  ©¶  laiyaqin22.wav
-©¶  ©¶  laiyaqin3.wav
-©¶  ©¶  laiyaqin4.wav
-©¶  ©¶  laiyaqin5.wav
-©¶  ©¶  laiyaqin6.wav
-©¶  ©¶  laiyaqin7.wav
-©¶  ©¶  laiyaqin8.wav
-©¶  ©¶  laiyaqin9.wav
-©¶  ©¶  laiyaqin[0].txt
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§laiyaqin[0]
-©¿©§limai[0]
-©¶  ©¶  1.wav
-©¶  ©¶  10.wav
-©¶  ©¶  11.wav
-©¶  ©¶  12.wav
-©¶  ©¶  13.wav
-©¶  ©¶  14.wav
-©¶  ©¶  15.wav
-©¶  ©¶  16.wav
-©¶  ©¶  17.wav
-©¶  ©¶  18.wav
-©¶  ©¶  19.wav
-©¶  ©¶  2.wav
-©¶  ©¶  20.wav
-©¶  ©¶  21.wav
-©¶  ©¶  22.wav
-©¶  ©¶  3.wav
-©¶  ©¶  4.wav
-©¶  ©¶  5.wav
-©¶  ©¶  6.wav
-©¶  ©¶  7.wav
-©¶  ©¶  8.wav
-©¶  ©¶  9.wav
-©¶  ©¶  limai[0].txt
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§limai[0]
-©¿©§majiang[0]
-©¶  ©¶  boy_baiban.wav
-©¶  ©¶  boy_batiao.wav
-©¶  ©¶  boy_batong.wav
-©¶  ©¶  boy_bawan.wav
-©¶  ©¶  boy_beifeng.wav
-©¶  ©¶  boy_dongfeng.wav
-©¶  ©¶  boy_ertiao.wav
-©¶  ©¶  boy_ertong.wav
-©¶  ©¶  boy_erwan.wav
-©¶  ©¶  boy_facai.wav
-©¶  ©¶  boy_gang.wav
-©¶  ©¶  boy_hongzhong.wav
-©¶  ©¶  boy_hu.wav
-©¶  ©¶  boy_jiutiao.wav
-©¶  ©¶  boy_jiutong.wav
-©¶  ©¶  boy_jiuwan.wav
-©¶  ©¶  boy_liutiao.wav
-©¶  ©¶  boy_liutong.wav
-©¶  ©¶  boy_liuwan.wav
-©¶  ©¶  boy_nanfeng.wav
-©¶  ©¶  boy_peng.wav
-©¶  ©¶  boy_qianggang.wav
-©¶  ©¶  boy_qitiao.wav
-©¶  ©¶  boy_qitong.wav
-©¶  ©¶  boy_qiwan.wav
-©¶  ©¶  boy_santiao.wav
-©¶  ©¶  boy_santong.wav
-©¶  ©¶  boy_sanwan.wav
-©¶  ©¶  boy_sitiao.wav
-©¶  ©¶  boy_sitong.wav
-©¶  ©¶  boy_siwan.wav
-©¶  ©¶  boy_wutiao.wav
-©¶  ©¶  boy_wutong.wav
-©¶  ©¶  boy_wuwan.wav
-©¶  ©¶  boy_xifeng.wav
-©¶  ©¶  boy_yaoji.wav
-©¶  ©¶  boy_yitong.wav
-©¶  ©¶  boy_yiwan.wav
-©¶  ©¶  girl_baiban.wav
-©¶  ©¶  girl_batiao.wav
-©¶  ©¶  girl_batong.wav
-©¶  ©¶  girl_bawan.wav
-©¶  ©¶  girl_beifeng.wav
-©¶  ©¶  girl_dongfeng.wav
-©¶  ©¶  girl_ertiao.wav
-©¶  ©¶  girl_ertong.wav
-©¶  ©¶  girl_erwan.wav
-©¶  ©¶  girl_facai.wav
-©¶  ©¶  girl_gang.wav
-©¶  ©¶  girl_hongzhong.wav
-©¶  ©¶  girl_hu.wav
-©¶  ©¶  girl_jiutiao.wav
-©¶  ©¶  girl_jiutong.wav
-©¶  ©¶  girl_jiuwan.wav
-©¶  ©¶  girl_liutiao.wav
-©¶  ©¶  girl_liutong.wav
-©¶  ©¶  girl_liuwan.wav
-©¶  ©¶  girl_nanfeng.wav
-©¶  ©¶  girl_peng.wav
-©¶  ©¶  girl_qianggang.wav
-©¶  ©¶  girl_qitiao.wav
-©¶  ©¶  girl_qitong.wav
-©¶  ©¶  girl_qiwan.wav
-©¶  ©¶  girl_santiao.wav
-©¶  ©¶  girl_santong.wav
-©¶  ©¶  girl_sanwan.wav
-©¶  ©¶  girl_sitiao.wav
-©¶  ©¶  girl_sitong.wav
-©¶  ©¶  girl_siwan.wav
-©¶  ©¶  girl_wutiao.wav
-©¶  ©¶  girl_wutong.wav
-©¶  ©¶  girl_wuwan.wav
-©¶  ©¶  girl_xifeng.wav
-©¶  ©¶  girl_yaoji.wav
-©¶  ©¶  girl_yitong.wav
-©¶  ©¶  girl_yiwan.wav
-©¶  ©¶  majiang[0].txt
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§majiang[0]
-©¿©§malinba[0]
-©¶  ©¶  1.wav
-©¶  ©¶  10.wav
-©¶  ©¶  11.wav
-©¶  ©¶  12.wav
-©¶  ©¶  13.wav
-©¶  ©¶  14.wav
-©¶  ©¶  15.wav
-©¶  ©¶  16.wav
-©¶  ©¶  17.wav
-©¶  ©¶  18.wav
-©¶  ©¶  19.wav
-©¶  ©¶  2.wav
-©¶  ©¶  20.wav
-©¶  ©¶  21.wav
-©¶  ©¶  22.wav
-©¶  ©¶  3.wav
-©¶  ©¶  4.wav
-©¶  ©¶  5.wav
-©¶  ©¶  6.wav
-©¶  ©¶  7.wav
-©¶  ©¶  8.wav
-©¶  ©¶  9.wav
-©¶  ©¶  malinba[0].txt
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§malinba[0]
-©¿©§malinba_1[0]
-©¶  ©¶  malinba_1.wav
-©¶  ©¶  malinba_10.wav
-©¶  ©¶  malinba_11.wav
-©¶  ©¶  malinba_12.wav
-©¶  ©¶  malinba_13.wav
-©¶  ©¶  malinba_14.wav
-©¶  ©¶  malinba_15.wav
-©¶  ©¶  malinba_16.wav
-©¶  ©¶  malinba_17.wav
-©¶  ©¶  malinba_18.wav
-©¶  ©¶  malinba_19.wav
-©¶  ©¶  malinba_1[0].txt
-©¶  ©¶  malinba_2.wav
-©¶  ©¶  malinba_20.wav
-©¶  ©¶  malinba_21.wav
-©¶  ©¶  malinba_22.wav
-©¶  ©¶  malinba_3.wav
-©¶  ©¶  malinba_4.wav
-©¶  ©¶  malinba_5.wav
-©¶  ©¶  malinba_6.wav
-©¶  ©¶  malinba_7.wav
-©¶  ©¶  malinba_8.wav
-©¶  ©¶  malinba_9.wav
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§malinba_1[0]
-©¿©§mug[0]
-©¶  ©¶  key_sound_1.wav
-©¶  ©¶  key_sound_2.wav
-©¶  ©¶  key_sound_3.wav
-©¶  ©¶  key_sound_4.wav
-©¶  ©¶  mug[0].txt
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§mug[0]
-©¿©§mushroom_brother[0]
-©¶  ©¶  accordion_1.wav
-©¶  ©¶  accordion_10.wav
-©¶  ©¶  accordion_2.wav
-©¶  ©¶  accordion_3.wav
-©¶  ©¶  accordion_4.wav
-©¶  ©¶  accordion_5.wav
-©¶  ©¶  accordion_6.wav
-©¶  ©¶  accordion_7.wav
-©¶  ©¶  accordion_8.wav
-©¶  ©¶  accordion_9.wav
-©¶  ©¶  mushroom_brother[0].txt
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§mushroom_brother[0]
-©¿©§music_10[0]
-©¶  ©¶  bgm_spirit_battle.wav
-©¶  ©¶  kuanian.wav
-©¶  ©¶  music_10[0].txt
-©¶  ©¶  spirit_battle_fail.wav
-©¶  ©¶  spirit_battle_intro.wav
-©¶  ©¶  spirit_battle_success.wav
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§music_10[0]
-©¿©§music_11[0]
-©¶  ©¶  bgm_story_angry.wav
-©¶  ©¶  bgm_story_calm.wav
-©¶  ©¶  bgm_story_dangerous.wav
-©¶  ©¶  bgm_story_depressed.wav
-©¶  ©¶  music_11[0].txt
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§music_11[0]
-©¿©§music_12[0]
-©¶  ©¶  bgm_story_funny.wav
-©¶  ©¶  bgm_story_happy.wav
-©¶  ©¶  bgm_story_heigula.wav
-©¶  ©¶  bgm_story_holy.wav
-©¶  ©¶  bgm_story_leisurely.wav
-©¶  ©¶  music_12[0].txt
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§music_12[0]
-©¿©§music_13[0]
-©¶  ©¶  bgm_story_meditate.wav
-©¶  ©¶  bgm_story_mysterious_funny.wav
-©¶  ©¶  bgm_story_sad.wav
-©¶  ©¶  bgm_story_suspense.wav
-©¶  ©¶  bgm_story_warmth.wav
-©¶  ©¶  music_13[0].txt
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§music_13[0]
-©¿©§music_14[0]
-©¶  ©¶  Bgm_DreamLandMIX.wav
-©¶  ©¶  Bgm_LangRenSha_atmosphere.wav
-©¶  ©¶  Bgm_LangRenSha_Filling.wav
-©¶  ©¶  Bgm_LangRenSha_Nervous.wav
-©¶  ©¶  music_14[0].txt
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§music_14[0]
-©¿©§music_15[0]
-©¶  ©¶  Bgm_InterstellarCompetition.wav
-©¶  ©¶  Bgm_IntimacyAssessment_2MIX.wav
-©¶  ©¶  cake.wav
-©¶  ©¶  music_15[0].txt
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§music_15[0]
-©¿©§music_16[0]
-©¶  ©¶  Bgm_GameOffice.wav
-©¶  ©¶  Bgm_gobang.wav
-©¶  ©¶  Bgm_IntimacyAssessment_3.wav
-©¶  ©¶  music_16[0].txt
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§music_16[0]
-©¿©§music_17[0]
-©¶  ©¶  Bgm_dragon_cave.wav
-©¶  ©¶  bgm_pick_star.wav
-©¶  ©¶  intimacyassessment_4.wav
-©¶  ©¶  music_17[0].txt
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§music_17[0]
-©¿©§music_18[0]
-©¶  ©¶  battle_heigula.wav
-©¶  ©¶  bgm_fenghua_street.wav
-©¶  ©¶  bgm_happy_restaurant.wav
-©¶  ©¶  Bgm_match_house_waiting.wav
-©¶  ©¶  gaming_nervous.wav
-©¶  ©¶  gaming_normal.wav
-©¶  ©¶  gaming_transition.wav
-©¶  ©¶  music_18[0].txt
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§music_18[0]
-©¿©§music_1[0]
-©¶  ©¶  bgm_aquarium.wav
-©¶  ©¶  bgm_island.wav
-©¶  ©¶  bgm_island_night_spring.wav
-©¶  ©¶  bgm_room.wav
-©¶  ©¶  fireworks_bomb_1.wav
-©¶  ©¶  fireworks_bomb_2.wav
-©¶  ©¶  fireworks_bomb_3.wav
-©¶  ©¶  fireworks_bomb_4.wav
-©¶  ©¶  fireworks_bomb_5.wav
-©¶  ©¶  fireworks_whistle_1.wav
-©¶  ©¶  fireworks_whistle_2.wav
-©¶  ©¶  fireworks_whistle_3.wav
-©¶  ©¶  fireworks_whistle_4.wav
-©¶  ©¶  main_4.10.wav
-©¶  ©¶  main_4.8.wav
-©¶  ©¶  music_1[0].txt
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§music_1[0]
-©¿©§music_27[0]
-©¶  ©¶  birthday.wav
-©¶  ©¶  childlike.wav
-©¶  ©¶  confrontation.wav
-©¶  ©¶  confrontation_fierce.wav
-©¶  ©¶  music_27[0].txt
-©¶  ©¶  mysterious.wav
-©¶  ©¶  unhappy.wav
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§music_27[0]
-©¿©§music_28[0]
-©¶  ©¶  bgm_colorbear_make.wav
-©¶  ©¶  bgm_move_or_die_game.wav
-©¶  ©¶  bgm_move_or_die_waiting.wav
-©¶  ©¶  bgm_zhounianleyuan_outdoor.wav
-©¶  ©¶  cake_division.wav
-©¶  ©¶  music_28[0].txt
-©¶  ©¶  yanhuabiaoyan.wav
-©¶  ©¶  zhounianleyuan_indoor_hou.wav
-©¶  ©¶  zhounianleyuan_indoor_qian.wav
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§music_28[0]
-©¿©§music_29[0]
-©¶  ©¶  bgm_odin_planet.wav
-©¶  ©¶  dangerous.wav
-©¶  ©¶  general.wav
-©¶  ©¶  music_29[0].txt
-©¶  ©¶  waiting.wav
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§music_29[0]
-©¿©§music_2[0]
-©¶  ©¶  Bgm_AobiSquare_NightMIX.wav
-©¶  ©¶  bgm_aobi_day.wav
-©¶  ©¶  bgm_cave.wav
-©¶  ©¶  music_2[0].txt
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§music_2[0]
-©¿©§music_30[0]
-©¶  ©¶  16.wav
-©¶  ©¶  mug10.wav
-©¶  ©¶  mug12.wav
-©¶  ©¶  music_30[0].txt
-©¶  ©¶  theme.wav
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§music_30[0]
-©¿©§music_31[0]
-©¶  ©¶  exciting.wav
-©¶  ©¶  music_31[0].txt
-©¶  ©¶  nervous.wav
-©¶  ©¶  space_platform.wav
-©¶  ©¶  virtual_world.wav
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§music_31[0]
-©¿©§music_32[0]
-©¶  ©¶  1.wav
-©¶  ©¶  17.wav
-©¶  ©¶  18.wav
-©¶  ©¶  2.wav
-©¶  ©¶  music_32[0].txt
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§music_32[0]
-©¿©§music_33[0]
-©¶  ©¶  bgm_mini_game_nervous.wav
-©¶  ©¶  bgm_retro_snaker.wav
-©¶  ©¶  bgm_retro_snaker_gaming.wav
-©¶  ©¶  music_33[0].txt
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§music_33[0]
-©¿©§music_34[0]
-©¶  ©¶  business_negotiation.wav
-©¶  ©¶  explore.wav
-©¶  ©¶  funny_negotiation.wav
-©¶  ©¶  music_34[0].txt
-©¶  ©¶  warm_leisurely.wav
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§music_34[0]
-©¿©§music_35[0]
-©¶  ©¶  20.wav
-©¶  ©¶  21.wav
-©¶  ©¶  22.wav
-©¶  ©¶  23.wav
-©¶  ©¶  bgm_dream_land_4.wav
-©¶  ©¶  mini_game_slow.wav
-©¶  ©¶  music_35[0].txt
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§music_35[0]
-©¿©§music_36[0]
-©¶  ©¶  bgm_shengtaiyuan .wav
-©¶  ©¶  duomaomao.wav
-©¶  ©¶  gugong.wav
-©¶  ©¶  huazhongxian.wav
-©¶  ©¶  music_36[0].txt
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§music_36[0]
-©¿©§music_37[0]
-©¶  ©¶  bgm_old_school.wav
-©¶  ©¶  bgm_wanwushengzhang.wav
-©¶  ©¶  bgm_weilaiqianxian.wav
-©¶  ©¶  cloudytales.wav
-©¶  ©¶  disco_dancing_1 bpm_130.wav
-©¶  ©¶  disco_dancing_2 bpm_140.wav
-©¶  ©¶  disco_dancing_3 bpm_130.wav
-©¶  ©¶  disco_dancing_4 bpm_141.wav
-©¶  ©¶  disco_dancing_5_bpm_161.wav
-©¶  ©¶  disco_dancing_6_bpm_170.wav
-©¶  ©¶  disco_dancing_7_bpm_180.wav
-©¶  ©¶  disco_dancing_8_bpm_170.wav
-©¶  ©¶  disco_dancing_9_bpm_140.wav
-©¶  ©¶  mug1.wav
-©¶  ©¶  mug10.wav
-©¶  ©¶  mug11.wav
-©¶  ©¶  mug12.wav
-©¶  ©¶  mug13.wav
-©¶  ©¶  mug14.wav
-©¶  ©¶  mug15.wav
-©¶  ©¶  mug16.wav
-©¶  ©¶  mug17.wav
-©¶  ©¶  mug18.wav
-©¶  ©¶  mug2.wav
-©¶  ©¶  mug20.wav
-©¶  ©¶  mug3.wav
-©¶  ©¶  mug4.wav
-©¶  ©¶  mug5.wav
-©¶  ©¶  mug6.wav
-©¶  ©¶  mug7.wav
-©¶  ©¶  mug8.wav
-©¶  ©¶  music_37[0].txt
-©¶  ©¶  noteparty.wav
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§music_37[0]
-©¿©§music_38[0]
-©¶  ©¶  bgm_wanxianggang.wav
-©¶  ©¶  doudizhu.wav
-©¶  ©¶  fenghuayingshicheng.wav
-©¶  ©¶  langrensha_taosheng.wav
-©¶  ©¶  music_38[0].txt
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§music_38[0]
-©¿©§music_39[0]
-©¶  ©¶  music_39[0].txt
-©¶  ©¶  undersea_1.wav
-©¶  ©¶  undersea_2.wav
-©¶  ©¶  undersea_3.wav
-©¶  ©¶  undersea_4.wav
-©¶  ©¶  undersea_island.wav
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§music_39[0]
-©¿©§music_3[0]
-©¶  ©¶  bgm_catch_pet.wav
-©¶  ©¶  Bgm_Login.wav
-©¶  ©¶  bgm_MiniGame.wav
-©¶  ©¶  Bgm_TrasureHouseMIX.wav
-©¶  ©¶  Bgm_TreeHouseShopMIX.wav
-©¶  ©¶  music_3[0].txt
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§music_3[0]
-©¿©§music_40[0]
-©¶  ©¶  bedroom_day.wav
-©¶  ©¶  bedroom_night.wav
-©¶  ©¶  music_40[0].txt
-©¶  ©¶  zhounianxunyou_1.wav
-©¶  ©¶  zhounianxunyou_2.wav
-©¶  ©¶  zhounianxunyou_3.wav
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§music_40[0]
-©¿©§music_41[0]
-©¶  ©¶  bgm_dream_land_6.wav
-©¶  ©¶  fenghuayuan.wav
-©¶  ©¶  lemengxingdong.wav
-©¶  ©¶  music_41[0].txt
-©¶  ©¶  piyingxi.wav
-©¶  ©¶  qunxingjiequ_day.wav
-©¶  ©¶  qunxingjiequ_night.wav
-©¶  ©¶  yuandanyanhua.wav
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§music_41[0]
-©¿©§music_42[0]
-©¶  ©¶  banjiangdianli.wav
-©¶  ©¶  bianzhonggu.wav
-©¶  ©¶  bubugao.wav
-©¶  ©¶  doukongzhu.wav
-©¶  ©¶  music_42[0].txt
-©¶  ©¶  npc.wav
-©¶  ©¶  qunwu.wav
-©¶  ©¶  rechang.wav
-©¶  ©¶  tanhuawu.wav
-©¶  ©¶  xiyangyang.wav
-©¶  ©¶  yudengxunyou.wav
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§music_42[0]
-©¿©§music_4[0]
-©¶  ©¶  Bgm_FlowerCloudMIX.wav
-©¶  ©¶  Bgm_TaoBaoStreet_DayMIX.wav
-©¶  ©¶  bgm_taobaostreet_night.wav
-©¶  ©¶  music_4[0].txt
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§music_4[0]
-©¿©§music_5[0]
-©¶  ©¶  Bgm_LibraryMIX.wav
-©¶  ©¶  bgm_SnowMountain.wav
-©¶  ©¶  Bgm_SnowMountain_DayMIX.wav
-©¶  ©¶  music_5[0].txt
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§music_5[0]
-©¿©§music_6[0]
-©¶  ©¶  bgm_arcane_star_palace.wav
-©¶  ©¶  Bgm_Forest_DayMIX.wav
-©¶  ©¶  Bgm_Forest_NightMIX.wav
-©¶  ©¶  music_6[0].txt
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§music_6[0]
-©¿©§music_7[0]
-©¶  ©¶  Bgm_FriendshipManor_DayMIX.wav
-©¶  ©¶  Bgm_FriendshipManor_NightMIX.wav
-©¶  ©¶  music_7[0].txt
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§music_7[0]
-©¿©§music_8[0]
-©¶  ©¶  Bgm_ResidentOfficeMIX.wav
-©¶  ©¶  Bgm_SnowMountainFoot_DayMIX.wav
-©¶  ©¶  Bgm_SnowMountainFoot_NightMIX.wav
-©¶  ©¶  music_8[0].txt
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§music_8[0]
-©¿©§music_9[0]
-©¶  ©¶  Bgm_FamilyScene_MIX.wav
-©¶  ©¶  Bgm_IntimacyAssessment_1MIX.wav
-©¶  ©¶  bgm_miwu.wav
-©¶  ©¶  music_9[0].txt
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§music_9[0]
-©¿©§npc_event[0]
-©¶  ©¶  npc_event[0].txt
-©¶  ©¶  npc_event_hagen_01.wav
-©¶  ©¶  npc_event_heilian_01.wav
-©¶  ©¶  npc_event_lingdang_01.wav
-©¶  ©¶  npc_event_longwa_01.wav
-©¶  ©¶  npc_event_shuiyan_01.wav
-©¶  ©¶  npc_event_xuanshuang_01.wav
-©¶  ©¶  p11xn059.wav
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§npc_event[0]
-©¿©§octopus[0]
-©¶  ©¶  appear.wav
-©¶  ©¶  naughty.wav
-©¶  ©¶  octopus[0].txt
-©¶  ©¶  octopus_appear.wav
-©¶  ©¶  octopus_disappear.wav
-©¶  ©¶  octopus_hit_1.wav
-©¶  ©¶  octopus_hit_2.wav
-©¶  ©¶  octopus_hit_3.wav
-©¶  ©¶  water1.wav
-©¶  ©¶  water2.wav
-©¶  ©¶  water3.wav
-©¶  ©¶  water5.wav
-©¶  ©¶  waterball_hit_1.wav
-©¶  ©¶  waterball_hit_2.wav
-©¶  ©¶  waterball_hit_3.wav
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§octopus[0]
-©¿©§parrot[0]
-©¶  ©¶  parrot[0].txt
-©¶  ©¶  vo_parrot_idle_1.wav
-©¶  ©¶  vo_parrot_idle_2.wav
-©¶  ©¶  vo_parrot_idle_3.wav
-©¶  ©¶  vo_parrot_interactive_1a.wav
-©¶  ©¶  vo_parrot_interactive_1b.wav
-©¶  ©¶  vo_parrot_interactive_2.wav
-©¶  ©¶  vo_parrot_interactive_3.wav
-©¶  ©¶  vo_parrot_interactive_4.wav
-©¶  ©¶  vo_parrot_interactive_5.wav
-©¶  ©¶  vo_parrot_interactive_6.wav
-©¶  ©¶  vo_parrot_interactive_7.wav
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§parrot[0]
-©¿©§piano_step[0]
-©¶  ©¶  1.wav
-©¶  ©¶  10.wav
-©¶  ©¶  10_29.wav
-©¶  ©¶  11.wav
-©¶  ©¶  11_12.wav
-©¶  ©¶  12.wav
-©¶  ©¶  12_39.wav
-©¶  ©¶  13.wav
-©¶  ©¶  13_3.wav
-©¶  ©¶  14.wav
-©¶  ©¶  14_9.wav
-©¶  ©¶  15.wav
-©¶  ©¶  15_27.wav
-©¶  ©¶  16.wav
-©¶  ©¶  16_30.wav
-©¶  ©¶  17.wav
-©¶  ©¶  17_22.wav
-©¶  ©¶  18.wav
-©¶  ©¶  18_40.wav
-©¶  ©¶  19.wav
-©¶  ©¶  1_25.wav
-©¶  ©¶  2.wav
-©¶  ©¶  20.wav
-©¶  ©¶  21.wav
-©¶  ©¶  22.wav
-©¶  ©¶  23.wav
-©¶  ©¶  24.wav
-©¶  ©¶  25.wav
-©¶  ©¶  26.wav
-©¶  ©¶  2_33.wav
-©¶  ©¶  3.wav
-©¶  ©¶  3_24.wav
-©¶  ©¶  4.wav
-©¶  ©¶  4_37.wav
-©¶  ©¶  5.wav
-©¶  ©¶  5_13.wav
-©¶  ©¶  6.wav
-©¶  ©¶  6_35.wav
-©¶  ©¶  7.wav
-©¶  ©¶  7_16.wav
-©¶  ©¶  8.wav
-©¶  ©¶  8_43.wav
-©¶  ©¶  9.wav
-©¶  ©¶  9_38.wav
-©¶  ©¶  piano_step[0].txt
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§piano_step[0]
-©¿©§plot_01[0]
-©¶  ©¶  p1dxz001.wav
-©¶  ©¶  p1dxz002.wav
-©¶  ©¶  p1dxz003.wav
-©¶  ©¶  p1dxz004.wav
-©¶  ©¶  p1dxz005.wav
-©¶  ©¶  p1dxz006.wav
-©¶  ©¶  p1dxz007.wav
-©¶  ©¶  p1dxz008.wav
-©¶  ©¶  p1dxz009.wav
-©¶  ©¶  p1dxz010.wav
-©¶  ©¶  p1dxz011.wav
-©¶  ©¶  p1dxz012.wav
-©¶  ©¶  p1dxz013.wav
-©¶  ©¶  p1dxz014.wav
-©¶  ©¶  p1dxz015.wav
-©¶  ©¶  p1jk001.wav
-©¶  ©¶  p1jk002.wav
-©¶  ©¶  p1jk003.wav
-©¶  ©¶  p1jk004.wav
-©¶  ©¶  p1jk005.wav
-©¶  ©¶  p1jk006.wav
-©¶  ©¶  p1jk007.wav
-©¶  ©¶  p1jk008.wav
-©¶  ©¶  p1jk009.wav
-©¶  ©¶  p1jk010.wav
-©¶  ©¶  p1jk011.wav
-©¶  ©¶  p1jk012.wav
-©¶  ©¶  p1jk013.wav
-©¶  ©¶  p1jk014.wav
-©¶  ©¶  p1jk015.wav
-©¶  ©¶  p1jk016.wav
-©¶  ©¶  p1jk017.wav
-©¶  ©¶  p1jk018.wav
-©¶  ©¶  p1jk019.wav
-©¶  ©¶  p1jk020.wav
-©¶  ©¶  p1jk021.wav
-©¶  ©¶  p1jk022.wav
-©¶  ©¶  p1jk023.wav
-©¶  ©¶  p1jk024.wav
-©¶  ©¶  p1jk025.wav
-©¶  ©¶  p1jk026.wav
-©¶  ©¶  p1jk027.wav
-©¶  ©¶  p1jk028.wav
-©¶  ©¶  p1jk029.wav
-©¶  ©¶  p1sfy001.wav
-©¶  ©¶  p1sfy002.wav
-©¶  ©¶  p1sfy003.wav
-©¶  ©¶  p1sfy004.wav
-©¶  ©¶  p1sfy005.wav
-©¶  ©¶  p1sfy006.wav
-©¶  ©¶  p1sfy007.wav
-©¶  ©¶  p1sfy008.wav
-©¶  ©¶  p1sfy009.wav
-©¶  ©¶  p1sy001.wav
-©¶  ©¶  p1sy002.wav
-©¶  ©¶  p1sy003.wav
-©¶  ©¶  p1sy004.wav
-©¶  ©¶  p1sy005.wav
-©¶  ©¶  p1sy006.wav
-©¶  ©¶  p1sy007.wav
-©¶  ©¶  p1sy008.wav
-©¶  ©¶  p1sy009.wav
-©¶  ©¶  p1sy010.wav
-©¶  ©¶  p1sy011.wav
-©¶  ©¶  p1sy012.wav
-©¶  ©¶  p1sy013.wav
-©¶  ©¶  p1sy014.wav
-©¶  ©¶  p1sy015.wav
-©¶  ©¶  p1sy016.wav
-©¶  ©¶  p1wd001.wav
-©¶  ©¶  p1wd002.wav
-©¶  ©¶  p1wd003.wav
-©¶  ©¶  p1wd004.wav
-©¶  ©¶  p1wd005.wav
-©¶  ©¶  p1wd006.wav
-©¶  ©¶  p1wd007.wav
-©¶  ©¶  p1xn001.wav
-©¶  ©¶  p1xn002.wav
-©¶  ©¶  p1xn003.wav
-©¶  ©¶  p1xn004.wav
-©¶  ©¶  p1xn005.wav
-©¶  ©¶  p1xn006.wav
-©¶  ©¶  p1xn007.wav
-©¶  ©¶  p1xn008.wav
-©¶  ©¶  p1xn009.wav
-©¶  ©¶  p1xn010.wav
-©¶  ©¶  p1xn011.wav
-©¶  ©¶  p1xn012.wav
-©¶  ©¶  p1xn013.wav
-©¶  ©¶  p1xn014.wav
-©¶  ©¶  p1xn015.wav
-©¶  ©¶  p1xn016.wav
-©¶  ©¶  p1xn017.wav
-©¶  ©¶  p1xn018.wav
-©¶  ©¶  p1xn019.wav
-©¶  ©¶  p1xn020.wav
-©¶  ©¶  p1xn021.wav
-©¶  ©¶  p1xn022.wav
-©¶  ©¶  p1xn023.wav
-©¶  ©¶  p1xn024.wav
-©¶  ©¶  p1xn025.wav
-©¶  ©¶  p1xn026.wav
-©¶  ©¶  p1xn027.wav
-©¶  ©¶  p1xn028.wav
-©¶  ©¶  p1xn029.wav
-©¶  ©¶  p1xn030.wav
-©¶  ©¶  p1xn031.wav
-©¶  ©¶  p1xn032.wav
-©¶  ©¶  p1xn033.wav
-©¶  ©¶  p1xn034.wav
-©¶  ©¶  p1xn035.wav
-©¶  ©¶  p1yx001.wav
-©¶  ©¶  p1yx002.wav
-©¶  ©¶  p1yx003.wav
-©¶  ©¶  p1yx004.wav
-©¶  ©¶  p1yx005.wav
-©¶  ©¶  p1yx006.wav
-©¶  ©¶  p1yx007.wav
-©¶  ©¶  p1yx008.wav
-©¶  ©¶  p1yx009.wav
-©¶  ©¶  p1yx010.wav
-©¶  ©¶  p1yx011.wav
-©¶  ©¶  p1yx012.wav
-©¶  ©¶  p1yx013.wav
-©¶  ©¶  p1yx014.wav
-©¶  ©¶  plot_01[0].txt
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§plot_01[0]
-©¿©§plot_02[0]
-©¶  ©¶  p2al001.wav
-©¶  ©¶  p2al002.wav
-©¶  ©¶  p2al003.wav
-©¶  ©¶  p2al004.wav
-©¶  ©¶  p2al005.wav
-©¶  ©¶  p2al006.wav
-©¶  ©¶  p2al007.wav
-©¶  ©¶  p2al008.wav
-©¶  ©¶  p2dxz001.wav
-©¶  ©¶  p2dxz002.wav
-©¶  ©¶  p2dxz003.wav
-©¶  ©¶  p2dxz004.wav
-©¶  ©¶  p2dxz005.wav
-©¶  ©¶  p2dxz006.wav
-©¶  ©¶  p2dxz007.wav
-©¶  ©¶  p2dxz008.wav
-©¶  ©¶  p2dxz009.wav
-©¶  ©¶  p2dxz010.wav
-©¶  ©¶  p2dxz011.wav
-©¶  ©¶  p2dxz012.wav
-©¶  ©¶  p2dxz013.wav
-©¶  ©¶  p2flq001.wav
-©¶  ©¶  p2flq002.wav
-©¶  ©¶  p2flq003.wav
-©¶  ©¶  p2flq004.wav
-©¶  ©¶  p2flq005.wav
-©¶  ©¶  p2flq006.wav
-©¶  ©¶  p2flq007.wav
-©¶  ©¶  p2flq008.wav
-©¶  ©¶  p2flq009.wav
-©¶  ©¶  p2flq010.wav
-©¶  ©¶  p2flq011.wav
-©¶  ©¶  p2flq012.wav
-©¶  ©¶  p2flq013.wav
-©¶  ©¶  p2flq014.wav
-©¶  ©¶  p2flq015.wav
-©¶  ©¶  p2flq016.wav
-©¶  ©¶  p2flq017.wav
-©¶  ©¶  p2flq018.wav
-©¶  ©¶  p2flq019.wav
-©¶  ©¶  p2flq020.wav
-©¶  ©¶  p2flq021.wav
-©¶  ©¶  p2flq022.wav
-©¶  ©¶  p2flq023.wav
-©¶  ©¶  p2flq024.wav
-©¶  ©¶  p2flq025.wav
-©¶  ©¶  p2flq026.wav
-©¶  ©¶  p2flq027.wav
-©¶  ©¶  p2flq028.wav
-©¶  ©¶  p2flq029.wav
-©¶  ©¶  p2flq030.wav
-©¶  ©¶  p2flq031.wav
-©¶  ©¶  p2flq032.wav
-©¶  ©¶  p2flq033.wav
-©¶  ©¶  p2flq034.wav
-©¶  ©¶  p2flq035.wav
-©¶  ©¶  p2flq036.wav
-©¶  ©¶  p2flq037.wav
-©¶  ©¶  p2flq038.wav
-©¶  ©¶  p2flq039.wav
-©¶  ©¶  p2flq040.wav
-©¶  ©¶  p2flq041.wav
-©¶  ©¶  p2flq042.wav
-©¶  ©¶  p2flq043.wav
-©¶  ©¶  p2flq044.wav
-©¶  ©¶  p2flq045.wav
-©¶  ©¶  p2flq046.wav
-©¶  ©¶  p2flq047.wav
-©¶  ©¶  p2flq048.wav
-©¶  ©¶  p2flq049.wav
-©¶  ©¶  p2flq050.wav
-©¶  ©¶  p2flq051.wav
-©¶  ©¶  p2flq052.wav
-©¶  ©¶  p2flq053.wav
-©¶  ©¶  p2flq054.wav
-©¶  ©¶  p2flq055.wav
-©¶  ©¶  p2flq056.wav
-©¶  ©¶  p2flq057.wav
-©¶  ©¶  p2flq058.wav
-©¶  ©¶  p2flq059.wav
-©¶  ©¶  p2flq060.wav
-©¶  ©¶  p2flq061.wav
-©¶  ©¶  p2flq062.wav
-©¶  ©¶  p2flq063.wav
-©¶  ©¶  p2flq064.wav
-©¶  ©¶  p2flq065.wav
-©¶  ©¶  p2flq066.wav
-©¶  ©¶  p2flq067.wav
-©¶  ©¶  p2flq068.wav
-©¶  ©¶  p2flq069.wav
-©¶  ©¶  p2jk001.wav
-©¶  ©¶  p2jk002.wav
-©¶  ©¶  p2jk003.wav
-©¶  ©¶  p2jk004.wav
-©¶  ©¶  p2ml001.wav
-©¶  ©¶  p2ml002.wav
-©¶  ©¶  p2ml003.wav
-©¶  ©¶  p2ml004.wav
-©¶  ©¶  p2ml005.wav
-©¶  ©¶  p2ml006.wav
-©¶  ©¶  p2ml007.wav
-©¶  ©¶  p2ml008.wav
-©¶  ©¶  p2ml009.wav
-©¶  ©¶  p2ml010.wav
-©¶  ©¶  p2ml011.wav
-©¶  ©¶  p2ml012.wav
-©¶  ©¶  p2ml013.wav
-©¶  ©¶  p2ml014.wav
-©¶  ©¶  p2ml015.wav
-©¶  ©¶  p2ml016.wav
-©¶  ©¶  p2pp001.wav
-©¶  ©¶  p2pp002.wav
-©¶  ©¶  p2pp003.wav
-©¶  ©¶  p2pp004.wav
-©¶  ©¶  p2pp005.wav
-©¶  ©¶  p2pp006.wav
-©¶  ©¶  p2pp007.wav
-©¶  ©¶  p2pp008.wav
-©¶  ©¶  p2pp009.wav
-©¶  ©¶  p2wd001.wav
-©¶  ©¶  p2wd002.wav
-©¶  ©¶  p2wd003.wav
-©¶  ©¶  p2wd004.wav
-©¶  ©¶  p2wd005.wav
-©¶  ©¶  p2wd006.wav
-©¶  ©¶  p2wd007.wav
-©¶  ©¶  p2wd008.wav
-©¶  ©¶  p2wd009.wav
-©¶  ©¶  p2wd010.wav
-©¶  ©¶  p2wd011.wav
-©¶  ©¶  p2wd012.wav
-©¶  ©¶  p2wd013.wav
-©¶  ©¶  p2wd014.wav
-©¶  ©¶  p2wd015.wav
-©¶  ©¶  p2wd016.wav
-©¶  ©¶  p2wd017.wav
-©¶  ©¶  p2xed001.wav
-©¶  ©¶  p2xed002.wav
-©¶  ©¶  p2xed003.wav
-©¶  ©¶  p2xed004.wav
-©¶  ©¶  p2xed005.wav
-©¶  ©¶  p2xed006.wav
-©¶  ©¶  p2xed007.wav
-©¶  ©¶  p2xed008.wav
-©¶  ©¶  p2xed009.wav
-©¶  ©¶  p2xed010.wav
-©¶  ©¶  p2xed011.wav
-©¶  ©¶  p2xed012.wav
-©¶  ©¶  p2xed013.wav
-©¶  ©¶  p2xed014.wav
-©¶  ©¶  p2xed015.wav
-©¶  ©¶  p2xed016.wav
-©¶  ©¶  p2xed017.wav
-©¶  ©¶  p2xed018.wav
-©¶  ©¶  p2xed019.wav
-©¶  ©¶  p2xed020.wav
-©¶  ©¶  p2xed021.wav
-©¶  ©¶  p2xed022.wav
-©¶  ©¶  p2xed023.wav
-©¶  ©¶  p2xed024.wav
-©¶  ©¶  p2xed025.wav
-©¶  ©¶  p2xed026.wav
-©¶  ©¶  p2xed027.wav
-©¶  ©¶  p2xed028.wav
-©¶  ©¶  p2xed029.wav
-©¶  ©¶  p2xn001.wav
-©¶  ©¶  p2xn002.wav
-©¶  ©¶  p2xn003.wav
-©¶  ©¶  p2xn004.wav
-©¶  ©¶  p2xn005.wav
-©¶  ©¶  p2xn006.wav
-©¶  ©¶  p2xn007.wav
-©¶  ©¶  p2xn008.wav
-©¶  ©¶  p2xn009.wav
-©¶  ©¶  p2xn010.wav
-©¶  ©¶  p2xn011.wav
-©¶  ©¶  p2xn012.wav
-©¶  ©¶  p2xn013.wav
-©¶  ©¶  p2xn014.wav
-©¶  ©¶  p2xn015.wav
-©¶  ©¶  p2xn016.wav
-©¶  ©¶  p2xn017.wav
-©¶  ©¶  p2xn018.wav
-©¶  ©¶  p2xn019.wav
-©¶  ©¶  plot_02[0].txt
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§plot_02[0]
-©¿©§plot_02_05[0]
-©¶      p2p5flq001.wav
-©¶      p2p5flq002.wav
-©¶      p2p5flq003.wav
-©¶      p2p5flq004.wav
-©¶      p2p5flq005.wav
-©¶      p2p5flq006.wav
-©¶      p2p5flq007.wav
-©¶      p2p5flq008.wav
-©¶      p2p5flq009.wav
-©¶      p2p5flq010.wav
-©¶      p2p5flq011.wav
-©¶      p2p5flq012.wav
-©¶      p2p5flq013.wav
-©¶      p2p5hgl001.wav
-©¶      p2p5hgl002.wav
-©¶      p2p5hgl003.wav
-©¶      p2p5hgl004.wav
-©¶      p2p5hgl005.wav
-©¶      p2p5hgl006.wav
-©¶      p2p5hgl007.wav
-©¶      p2p5hgl008.wav
-©¶      p2p5hgl009.wav
-©¶      p2p5hgl010.wav
-©¶      p2p5hgl011.wav
-©¶      p2p5hgl012.wav
-©¶      p2p5hgl013.wav
-©¶      p2p5hgl014.wav
-©¶      p2p5hgl015.wav
-©¶      p2p5hgl016.wav
-©¶      p2p5hgl018.wav
-©¶      p2p5hgl019.wav
-©¶      p2p5hgl020.wav
-©¶      p2p5hgl021.wav
-©¶      p2p5hgl022.wav
-©¶      p2p5hgl023.wav
-©¶      p2p5hgl024.wav
-©¶      p2p5hgl025.wav
-©¶      p2p5hgl026.wav
-©¶      p2p5hgl027.wav
-©¶      p2p5hgl028.wav
-©¶      p2p5hgl029.wav
-©¶      p2p5hgl030.wav
-©¶      p2p5hgl031.wav
-©¶      p2p5hgl032.wav
-©¶      p2p5hgl033.wav
-©¶      p2p5hgl034.wav
-©¶      p2p5hgl035.wav
-©¶      p2p5hgl036.wav
-©¶      p2p5hgl037.wav
-©¶      p2p5hgl038.wav
-©¶      p2p5lk001.wav
-©¶      p2p5lk002.wav
-©¶      p2p5lk003.wav
-©¶      p2p5lk004.wav
-©¶      p2p5lk005.wav
-©¶      p2p5lk006.wav
-©¶      p2p5lk007.wav
-©¶      p2p5lk008.wav
-©¶      p2p5lk009.wav
-©¶      p2p5lk010.wav
-©¶      p2p5lk011.wav
-©¶      p2p5lk012.wav
-©¶      p2p5lk013.wav
-©¶      p2p5lk014.wav
-©¶      p2p5lk015.wav
-©¶      p2p5lk016.wav
-©¶      p2p5lk017.wav
-©¶      p2p5lk018.wav
-©¶      p2p5lk019.wav
-©¶      p2p5lk020.wav
-©¶      p2p5lk021.wav
-©¶      p2p5lk022.wav
-©¶      p2p5lk023.wav
-©¶      p2p5lk024.wav
-©¶      p2p5lk025.wav
-©¶      p2p5lk026.wav
-©¶      p2p5lk027.wav
-©¶      p2p5lk028.wav
-©¶      p2p5lk029.wav
-©¶      p2p5lk030.wav
-©¶      p2p5lk031.wav
-©¶      p2p5lk032.wav
-©¶      p2p5smsy001.wav
-©¶      p2p5smsy002.wav
-©¶      p2p5smsy003.wav
-©¶      p2p5smsy004.wav
-©¶      p2p5smsy005.wav
-©¶      p2p5smsy006.wav
-©¶      p2p5smsy007.wav
-©¶      p2p5smsy008.wav
-©¶      p2p5smsy009.wav
-©¶      p2p5tl001.wav
-©¶      p2p5tl002.wav
-©¶      p2p5tl003.wav
-©¶      p2p5tl004.wav
-©¶      p2p5tl005.wav
-©¶      p2p5tl006.wav
-©¶      p2p5tl007.wav
-©¶      p2p5tl008.wav
-©¶      p2p5tl009.wav
-©¶      p2p5tl010.wav
-©¶      p2p5tl011.wav
-©¶      p2p5tl012.wav
-©¶      p2p5tl013.wav
-©¶      p2p5tl014.wav
-©¶      p2p5tl015.wav
-©¶      p2p5tl016.wav
-©¶      p2p5tl017.wav
-©¶      p2p5tl018.wav
-©¶      p2p5tl019.wav
-©¶      p2p5tl020.wav
-©¶      p2p5tl021.wav
-©¶      p2p5tl022.wav
-©¶      p2p5tl023.wav
-©¶      p2p5tl024.wav
-©¶      p2p5tl025.wav
-©¶      p2p5tl026.wav
-©¶      p2p5tl027.wav
-©¶      p2p5tl028.wav
-©¶      p2p5tl029.wav
-©¶      p2p5tl030.wav
-©¶      p2p5tl031.wav
-©¶      p2p5tl032.wav
-©¶      p2p5tl033.wav
-©¶      p2p5tl034.wav
-©¶      p2p5wkd001.wav
-©¶      p2p5wkd002.wav
-©¶      p2p5wkd003.wav
-©¶      p2p5wkd004.wav
-©¶      p2p5wkd005.wav
-©¶      p2p5wkd006.wav
-©¶      p2p5wkd007.wav
-©¶      p2p5wkd008.wav
-©¶      p2p5wkd009.wav
-©¶      p2p5wkd010.wav
-©¶      p2p5wkd011.wav
-©¶      p2p5wkd012.wav
-©¶      plot_02_05[0].txt
-©¶      
-©¿©§plot_02_07[0]
-©¶      p2p7al001.wav
-©¶      p2p7al002.wav
-©¶      p2p7al003.wav
-©¶      p2p7al004.wav
-©¶      p2p7al005.wav
-©¶      p2p7al006.wav
-©¶      p2p7al007.wav
-©¶      p2p7al008.wav
-©¶      p2p7al009.wav
-©¶      p2p7hgl001.wav
-©¶      p2p7hgl002.wav
-©¶      p2p7hgl003.wav
-©¶      p2p7hgl004.wav
-©¶      p2p7hgl005.wav
-©¶      p2p7hgl006.wav
-©¶      p2p7hgl007.wav
-©¶      p2p7hgl008.wav
-©¶      p2p7hgl009.wav
-©¶      p2p7hgl010.wav
-©¶      p2p7hgl011.wav
-©¶      p2p7hgl012.wav
-©¶      p2p7hgl013.wav
-©¶      p2p7hgl014.wav
-©¶      p2p7hgl015.wav
-©¶      p2p7hgl016.wav
-©¶      p2p7hgl017.wav
-©¶      p2p7hgl018.wav
-©¶      p2p7hgl019.wav
-©¶      p2p7hgl020.wav
-©¶      p2p7hgl021.wav
-©¶      p2p7hgl022.wav
-©¶      p2p7hgl023.wav
-©¶      p2p7hgl024.wav
-©¶      p2p7hgl025.wav
-©¶      p2p7hgl026.wav
-©¶      p2p7hgl027.wav
-©¶      p2p7hgl028.wav
-©¶      p2p7hgl029.wav
-©¶      p2p7hgl030.wav
-©¶      p2p7hgl031.wav
-©¶      p2p7hgl032.wav
-©¶      p2p7hgl033.wav
-©¶      p2p7hgl034.wav
-©¶      p2p7lk001.wav
-©¶      p2p7lk002.wav
-©¶      p2p7lk003.wav
-©¶      p2p7lk004.wav
-©¶      p2p7lk005.wav
-©¶      p2p7lk006.wav
-©¶      p2p7lk007.wav
-©¶      p2p7lk008.wav
-©¶      p2p7lk009.wav
-©¶      p2p7lk010.wav
-©¶      p2p7lk011.wav
-©¶      p2p7lk012.wav
-©¶      p2p7lk013.wav
-©¶      p2p7lk014.wav
-©¶      p2p7lk015.wav
-©¶      p2p7lk016.wav
-©¶      p2p7lk017.wav
-©¶      p2p7lk018.wav
-©¶      p2p7lk019.wav
-©¶      p2p7lk020.wav
-©¶      p2p7lk021.wav
-©¶      p2p7lk022.wav
-©¶      p2p7lk023.wav
-©¶      p2p7lk024.wav
-©¶      p2p7lk025.wav
-©¶      p2p7lk026.wav
-©¶      p2p7lk027.wav
-©¶      p2p7lk028.wav
-©¶      p2p7lk029.wav
-©¶      p2p7lk030.wav
-©¶      p2p7lk031.wav
-©¶      p2p7lk032.wav
-©¶      p2p7lk033.wav
-©¶      p2p7lk034.wav
-©¶      p2p7lk035.wav
-©¶      p2p7lk036.wav
-©¶      p2p7lk037.wav
-©¶      p2p7lk038.wav
-©¶      p2p7lk039.wav
-©¶      p2p7lk040.wav
-©¶      p2p7lk041.wav
-©¶      p2p7lk042.wav
-©¶      p2p7lk043.wav
-©¶      p2p7lk044.wav
-©¶      p2p7lk045.wav
-©¶      p2p7lk046.wav
-©¶      p2p7lk047.wav
-©¶      p2p7lk048.wav
-©¶      p2p7lk049.wav
-©¶      p2p7lk050.wav
-©¶      p2p7lk051.wav
-©¶      p2p7lk052.wav
-©¶      p2p7lk053.wav
-©¶      p2p7lk054.wav
-©¶      p2p7lk055.wav
-©¶      p2p7lk056.wav
-©¶      p2p7lk057.wav
-©¶      p2p7lk058.wav
-©¶      p2p7lk059.wav
-©¶      p2p7lk060.wav
-©¶      p2p7lk061.wav
-©¶      p2p7lk062.wav
-©¶      p2p7lk063.wav
-©¶      p2p7lk064.wav
-©¶      p2p7lk065.wav
-©¶      p2p7lk066.wav
-©¶      p2p7lk067.wav
-©¶      p2p7lk068.wav
-©¶      p2p7lk069.wav
-©¶      p2p7lk070.wav
-©¶      p2p7swx001.wav
-©¶      p2p7swx002.wav
-©¶      p2p7swx003.wav
-©¶      p2p7swx004.wav
-©¶      p2p7swx005.wav
-©¶      p2p7swx006.wav
-©¶      p2p7swx007.wav
-©¶      p2p7swx008.wav
-©¶      p2p7swx009.wav
-©¶      p2p7swx010.wav
-©¶      p2p7swx011.wav
-©¶      p2p7swx012.wav
-©¶      p2p7swx013.wav
-©¶      p2p7swx014.wav
-©¶      p2p7swx015.wav
-©¶      p2p7swx016.wav
-©¶      p2p7swx017.wav
-©¶      p2p7swx018.wav
-©¶      p2p7swx019.wav
-©¶      p2p7swx020.wav
-©¶      p2p7swx021.wav
-©¶      p2p7swx022.wav
-©¶      p2p7swx023.wav
-©¶      p2p7swx024.wav
-©¶      p2p7swx025.wav
-©¶      p2p7swx026.wav
-©¶      p2p7swx027.wav
-©¶      p2p7swx028.wav
-©¶      p2p7swx029.wav
-©¶      p2p7swx030.wav
-©¶      p2p7swx031.wav
-©¶      p2p7swx032.wav
-©¶      p2p7swx033.wav
-©¶      p2p7swx034.wav
-©¶      p2p7swx035.wav
-©¶      p2p7swx036.wav
-©¶      p2p7swx037.wav
-©¶      p2p7swx038.wav
-©¶      p2p7swx039.wav
-©¶      p2p7swx040.wav
-©¶      p2p7swx041.wav
-©¶      p2p7swx042.wav
-©¶      p2p7swx043.wav
-©¶      p2p7swx044.wav
-©¶      p2p7swx045.wav
-©¶      p2p7swx046.wav
-©¶      p2p7swx047.wav
-©¶      p2p7swx048.wav
-©¶      p2p7swx049.wav
-©¶      p2p7swx050.wav
-©¶      p2p7swx051.wav
-©¶      p2p7swx052.wav
-©¶      p2p7swx053.wav
-©¶      p2p7swx054.wav
-©¶      p2p7swx055.wav
-©¶      p2p7swx056.wav
-©¶      p2p7swx057.wav
-©¶      p2p7swx058.wav
-©¶      p2p7swx059.wav
-©¶      p2p7swx060.wav
-©¶      p2p7swx061.wav
-©¶      p2p7swx062.wav
-©¶      p2p7swx063.wav
-©¶      p2p7swx064.wav
-©¶      p2p7swx065.wav
-©¶      p2p7tl001.wav
-©¶      p2p7tl002.wav
-©¶      p2p7tl003.wav
-©¶      p2p7tl004.wav
-©¶      p2p7tl005.wav
-©¶      p2p7tl006.wav
-©¶      p2p7tl007.wav
-©¶      p2p7tl008.wav
-©¶      p2p7tl009.wav
-©¶      p2p7tl010.wav
-©¶      p2p7tl011.wav
-©¶      p2p7tl012.wav
-©¶      p2p7tl013.wav
-©¶      p2p7tl014.wav
-©¶      p2p7tl015.wav
-©¶      p2p7tl016.wav
-©¶      p2p7tl017.wav
-©¶      p2p7tl018.wav
-©¶      p2p7tl019.wav
-©¶      p2p7tl020.wav
-©¶      p2p7wkd001.wav
-©¶      p2p7wkd002.wav
-©¶      p2p7wkd003.wav
-©¶      p2p7wkd004.wav
-©¶      p2p7wkd005.wav
-©¶      p2p7xn001.wav
-©¶      p2p7xn002.wav
-©¶      p2p7xn003.wav
-©¶      p2p7xn004.wav
-©¶      plot_02_07[0].txt
-©¶      
-©¿©§plot_02_11[0]
-©¶      p2p11al001.wav
-©¶      p2p11bje001.wav
-©¶      p2p11bje002.wav
-©¶      p2p11bje003.wav
-©¶      p2p11bje004.wav
-©¶      p2p11bje005.wav
-©¶      p2p11bje006.wav
-©¶      p2p11bje007.wav
-©¶      p2p11bje008.wav
-©¶      p2p11bje009.wav
-©¶      p2p11dhz001.wav
-©¶      p2p11dhz002.wav
-©¶      p2p11hgl001.wav
-©¶      p2p11hgl002.wav
-©¶      p2p11hgl003.wav
-©¶      p2p11hgl004.wav
-©¶      p2p11hgl005.wav
-©¶      p2p11hgl006.wav
-©¶      p2p11hgl007.wav
-©¶      p2p11hgl008.wav
-©¶      p2p11hgl009.wav
-©¶      p2p11hgl010.wav
-©¶      p2p11hgl011.wav
-©¶      p2p11hgl012.wav
-©¶      p2p11hgl013.wav
-©¶      p2p11hgl014.wav
-©¶      p2p11hgl015.wav
-©¶      p2p11hgl016.wav
-©¶      p2p11hgl017.wav
-©¶      p2p11hgl018.wav
-©¶      p2p11hgl019.wav
-©¶      p2p11hgl020.wav
-©¶      p2p11hgl021.wav
-©¶      p2p11hgl022.wav
-©¶      p2p11hgl023.wav
-©¶      p2p11hgl024.wav
-©¶      p2p11hgl025.wav
-©¶      p2p11hgl026.wav
-©¶      p2p11hgl027.wav
-©¶      p2p11hgl028.wav
-©¶      p2p11hgl029.wav
-©¶      p2p11hgl030.wav
-©¶      p2p11hgl031.wav
-©¶      p2p11hgl032.wav
-©¶      p2p11hgl033.wav
-©¶      p2p11hgl034.wav
-©¶      p2p11hgl035.wav
-©¶      p2p11hgl036.wav
-©¶      p2p11hgl037.wav
-©¶      p2p11hgl038.wav
-©¶      p2p11lk001.wav
-©¶      p2p11lk002.wav
-©¶      p2p11lk003.wav
-©¶      p2p11lk004.wav
-©¶      p2p11lk005.wav
-©¶      p2p11lk006.wav
-©¶      p2p11lk007.wav
-©¶      p2p11lk008.wav
-©¶      p2p11lk009.wav
-©¶      p2p11lk010.wav
-©¶      p2p11lk011.wav
-©¶      p2p11lk012.wav
-©¶      p2p11lk013.wav
-©¶      p2p11lk014.wav
-©¶      p2p11lk015.wav
-©¶      p2p11lk016.wav
-©¶      p2p11lk017.wav
-©¶      p2p11lk018.wav
-©¶      p2p11lk019.wav
-©¶      p2p11lk020.wav
-©¶      p2p11lk021.wav
-©¶      p2p11lk022.wav
-©¶      p2p11lk023.wav
-©¶      p2p11lk024.wav
-©¶      p2p11lk025.wav
-©¶      p2p11lz001.wav
-©¶      p2p11lz002.wav
-©¶      p2p11sfy001.wav
-©¶      p2p11sfy002.wav
-©¶      p2p11sfy003.wav
-©¶      p2p11ssdb001.wav
-©¶      p2p11ssdb002.wav
-©¶      p2p11ssdb003.wav
-©¶      p2p11ssdb004.wav
-©¶      p2p11ssdb005.wav
-©¶      p2p11ssdb006.wav
-©¶      p2p11swx001.wav
-©¶      p2p11swx002.wav
-©¶      p2p11swx003.wav
-©¶      p2p11swx004.wav
-©¶      p2p11swx005.wav
-©¶      p2p11swx006.wav
-©¶      p2p11swx007.wav
-©¶      p2p11swx008.wav
-©¶      p2p11swx009.wav
-©¶      p2p11swx010.wav
-©¶      p2p11swx011.wav
-©¶      p2p11swx012.wav
-©¶      p2p11swx013.wav
-©¶      p2p11swx014.wav
-©¶      p2p11swx015.wav
-©¶      p2p11sy001.wav
-©¶      p2p11sy002.wav
-©¶      p2p11sy003.wav
-©¶      p2p11sy004.wav
-©¶      p2p11sy005.wav
-©¶      p2p11tl001.wav
-©¶      p2p11tl002.wav
-©¶      p2p11tl003.wav
-©¶      p2p11tl004.wav
-©¶      p2p11tl005.wav
-©¶      p2p11tl006.wav
-©¶      p2p11tl007.wav
-©¶      p2p11tl008.wav
-©¶      p2p11tl009.wav
-©¶      p2p11tl010.wav
-©¶      p2p11wndb001.wav
-©¶      p2p11wndb002.wav
-©¶      p2p11wndb003.wav
-©¶      p2p11wndb004.wav
-©¶      p2p11wndb005.wav
-©¶      p2p11wndb006.wav
-©¶      p2p11wndb007.wav
-©¶      p2p11wndb008.wav
-©¶      p2p11wndb009.wav
-©¶      p2p11wndb010.wav
-©¶      p2p11wndb011.wav
-©¶      p2p11wndb012.wav
-©¶      p2p11wndb013.wav
-©¶      p2p11wndb014.wav
-©¶      p2p11wndb015.wav
-©¶      p2p11wndb016.wav
-©¶      p2p11wndb017.wav
-©¶      p2p11wndb018.wav
-©¶      p2p11wndb019.wav
-©¶      p2p11wndb020.wav
-©¶      p2p11xn001.wav
-©¶      p2p11xn002.wav
-©¶      p2p11xn003.wav
-©¶      p2p11xn004.wav
-©¶      p2p11xn005.wav
-©¶      p2p11xn006.wav
-©¶      p2p11xn007.wav
-©¶      p2p11xn008.wav
-©¶      p2p11xn009.wav
-©¶      p2p11xn010.wav
-©¶      p2p11xn011.wav
-©¶      p2p11xn012.wav
-©¶      p2p11xn013.wav
-©¶      p2p11xn014.wav
-©¶      p2p11xn015.wav
-©¶      p2p11xn016.wav
-©¶      p2p11xn017.wav
-©¶      plot_02_11[0].txt
-©¶      
-©¿©§plot_03[0]
-©¶  ©¶  p3bje001.wav
-©¶  ©¶  p3bje002.wav
-©¶  ©¶  p3bje003.wav
-©¶  ©¶  p3bje004.wav
-©¶  ©¶  p3bje005.wav
-©¶  ©¶  p3bje006.wav
-©¶  ©¶  p3bje007.wav
-©¶  ©¶  p3bje008.wav
-©¶  ©¶  p3bje009.wav
-©¶  ©¶  p3bje010.wav
-©¶  ©¶  p3bje011.wav
-©¶  ©¶  p3bje012.wav
-©¶  ©¶  p3bje013.wav
-©¶  ©¶  p3bje014.wav
-©¶  ©¶  p3bje015.wav
-©¶  ©¶  p3bje016.wav
-©¶  ©¶  p3bje017.wav
-©¶  ©¶  p3bje018.wav
-©¶  ©¶  p3bje019.wav
-©¶  ©¶  p3bje020.wav
-©¶  ©¶  p3bje021.wav
-©¶  ©¶  p3bje022.wav
-©¶  ©¶  p3bje023.wav
-©¶  ©¶  p3bje024.wav
-©¶  ©¶  p3bje025.wav
-©¶  ©¶  p3bje026.wav
-©¶  ©¶  p3bje027.wav
-©¶  ©¶  p3bje028.wav
-©¶  ©¶  p3bje029.wav
-©¶  ©¶  p3bje030.wav
-©¶  ©¶  p3dxz001.wav
-©¶  ©¶  p3dxz002.wav
-©¶  ©¶  p3dxz003.wav
-©¶  ©¶  p3dxz004.wav
-©¶  ©¶  p3dxz005.wav
-©¶  ©¶  p3dxz006.wav
-©¶  ©¶  p3dxz007.wav
-©¶  ©¶  p3dxz008.wav
-©¶  ©¶  p3dxz009.wav
-©¶  ©¶  p3dxz010.wav
-©¶  ©¶  p3flq001.wav
-©¶  ©¶  p3flq002.wav
-©¶  ©¶  p3flq003.wav
-©¶  ©¶  p3flq004.wav
-©¶  ©¶  p3flq005.wav
-©¶  ©¶  p3flq006.wav
-©¶  ©¶  p3flq007.wav
-©¶  ©¶  p3flq008.wav
-©¶  ©¶  p3flq009.wav
-©¶  ©¶  p3flq010.wav
-©¶  ©¶  p3flq011.wav
-©¶  ©¶  p3flq012.wav
-©¶  ©¶  p3flq013.wav
-©¶  ©¶  p3flq014.wav
-©¶  ©¶  p3flq015.wav
-©¶  ©¶  p3flq017.wav
-©¶  ©¶  p3flq018.wav
-©¶  ©¶  p3flq019.wav
-©¶  ©¶  p3flq020.wav
-©¶  ©¶  p3flq021.wav
-©¶  ©¶  p3flq022.wav
-©¶  ©¶  p3flq023.wav
-©¶  ©¶  p3flq024.wav
-©¶  ©¶  p3flq025.wav
-©¶  ©¶  p3flq026.wav
-©¶  ©¶  p3flq027.wav
-©¶  ©¶  p3flq028.wav
-©¶  ©¶  p3flq029.wav
-©¶  ©¶  p3flq030.wav
-©¶  ©¶  p3flq031.wav
-©¶  ©¶  p3flq032.wav
-©¶  ©¶  p3flq033.wav
-©¶  ©¶  p3flq034.wav
-©¶  ©¶  p3flq035.wav
-©¶  ©¶  p3flq036.wav
-©¶  ©¶  p3flq037.wav
-©¶  ©¶  p3flq038.wav
-©¶  ©¶  p3flq039.wav
-©¶  ©¶  p3flq040.wav
-©¶  ©¶  p3jk001.wav
-©¶  ©¶  p3jk002.wav
-©¶  ©¶  p3lz001.wav
-©¶  ©¶  p3lz002.wav
-©¶  ©¶  p3lz003.wav
-©¶  ©¶  p3lz004.wav
-©¶  ©¶  p3lz005.wav
-©¶  ©¶  p3lz006.wav
-©¶  ©¶  p3lz007.wav
-©¶  ©¶  p3lz008.wav
-©¶  ©¶  p3lz009.wav
-©¶  ©¶  p3lz010.wav
-©¶  ©¶  p3lz011.wav
-©¶  ©¶  p3lz012.wav
-©¶  ©¶  p3lz013.wav
-©¶  ©¶  p3lz014.wav
-©¶  ©¶  p3lz015.wav
-©¶  ©¶  p3lz016.wav
-©¶  ©¶  p3lz017.wav
-©¶  ©¶  p3lz018.wav
-©¶  ©¶  p3lz019.wav
-©¶  ©¶  p3lz020.wav
-©¶  ©¶  p3lz021.wav
-©¶  ©¶  p3lz022.wav
-©¶  ©¶  p3lz023.wav
-©¶  ©¶  p3lz024.wav
-©¶  ©¶  p3lz025.wav
-©¶  ©¶  p3lz026.wav
-©¶  ©¶  p3lz027.wav
-©¶  ©¶  p3ml001.wav
-©¶  ©¶  p3ml002.wav
-©¶  ©¶  p3ml003.wav
-©¶  ©¶  p3ml004.wav
-©¶  ©¶  p3ml005.wav
-©¶  ©¶  p3ml006.wav
-©¶  ©¶  p3ml007.wav
-©¶  ©¶  p3ml008.wav
-©¶  ©¶  p3ml009.wav
-©¶  ©¶  p3ml010.wav
-©¶  ©¶  p3ml011.wav
-©¶  ©¶  p3ml012.wav
-©¶  ©¶  p3ml013.wav
-©¶  ©¶  p3ml014.wav
-©¶  ©¶  p3ml015.wav
-©¶  ©¶  p3ml016.wav
-©¶  ©¶  p3ml017.wav
-©¶  ©¶  p3ml018.wav
-©¶  ©¶  p3ml019.wav
-©¶  ©¶  p3ml020.wav
-©¶  ©¶  p3ml021.wav
-©¶  ©¶  p3wkd001.wav
-©¶  ©¶  p3wkd002.wav
-©¶  ©¶  p3wkd003.wav
-©¶  ©¶  p3wkd004.wav
-©¶  ©¶  p3wkd005.wav
-©¶  ©¶  p3wkd006.wav
-©¶  ©¶  p3wkd007.wav
-©¶  ©¶  p3wkd008.wav
-©¶  ©¶  p3wkd009.wav
-©¶  ©¶  p3wkd010.wav
-©¶  ©¶  p3wkd011.wav
-©¶  ©¶  p3wkd012.wav
-©¶  ©¶  p3wkd013.wav
-©¶  ©¶  p3wkd014.wav
-©¶  ©¶  p3wkd015.wav
-©¶  ©¶  p3wkd016.wav
-©¶  ©¶  p3wkd017.wav
-©¶  ©¶  p3wkd018.wav
-©¶  ©¶  p3wkd019.wav
-©¶  ©¶  p3wlt001.wav
-©¶  ©¶  p3wlt002.wav
-©¶  ©¶  p3wlt003.wav
-©¶  ©¶  p3wlt004.wav
-©¶  ©¶  p3wlt005.wav
-©¶  ©¶  p3wlt006.wav
-©¶  ©¶  p3wlt007.wav
-©¶  ©¶  p3wlt008.wav
-©¶  ©¶  p3wlt009.wav
-©¶  ©¶  p3wlt010.wav
-©¶  ©¶  p3wlt011.wav
-©¶  ©¶  p3wlt012.wav
-©¶  ©¶  p3wlt013.wav
-©¶  ©¶  p3wlt014.wav
-©¶  ©¶  p3wlt015.wav
-©¶  ©¶  p3wlt016.wav
-©¶  ©¶  p3wlt017.wav
-©¶  ©¶  p3wlt018.wav
-©¶  ©¶  p3wlt019.wav
-©¶  ©¶  p3wlt020.wav
-©¶  ©¶  p3wlt021.wav
-©¶  ©¶  p3wlt022.wav
-©¶  ©¶  p3wlt023.wav
-©¶  ©¶  p3wlt024.wav
-©¶  ©¶  p3xed001.wav
-©¶  ©¶  p3xed002.wav
-©¶  ©¶  p3xed003.wav
-©¶  ©¶  p3xed004.wav
-©¶  ©¶  p3xed005.wav
-©¶  ©¶  p3xed006.wav
-©¶  ©¶  p3xed007.wav
-©¶  ©¶  p3xed008.wav
-©¶  ©¶  p3xed009.wav
-©¶  ©¶  p3xed010.wav
-©¶  ©¶  p3xn001.wav
-©¶  ©¶  p3xn002.wav
-©¶  ©¶  p3xn003.wav
-©¶  ©¶  p3xn004.wav
-©¶  ©¶  p3xn005.wav
-©¶  ©¶  p3xn006.wav
-©¶  ©¶  p3xn007.wav
-©¶  ©¶  p3xn008.wav
-©¶  ©¶  p3xn009.wav
-©¶  ©¶  p3xn010.wav
-©¶  ©¶  p3xn011.wav
-©¶  ©¶  p3xn012.wav
-©¶  ©¶  p3xn013.wav
-©¶  ©¶  p3xn014.wav
-©¶  ©¶  p3xn015.wav
-©¶  ©¶  p3xn016.wav
-©¶  ©¶  p3xn017.wav
-©¶  ©¶  p3xn018.wav
-©¶  ©¶  p3xn019.wav
-©¶  ©¶  p3xn020.wav
-©¶  ©¶  p3xn021.wav
-©¶  ©¶  p3xn022.wav
-©¶  ©¶  p3xn023.wav
-©¶  ©¶  p3xn024.wav
-©¶  ©¶  p3xn025.wav
-©¶  ©¶  p3xn026.wav
-©¶  ©¶  p3xn027.wav
-©¶  ©¶  p3xn028.wav
-©¶  ©¶  plot_03[0].txt
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§plot_03[0]
-©¿©§plot_04[0]
-©¶  ©¶  p4dxz001.wav
-©¶  ©¶  p4dxz002.wav
-©¶  ©¶  p4dxz003.wav
-©¶  ©¶  p4dxz004.wav
-©¶  ©¶  p4dxz005.wav
-©¶  ©¶  p4dxz006.wav
-©¶  ©¶  p4dxz007.wav
-©¶  ©¶  p4flq001.wav
-©¶  ©¶  p4flq002.wav
-©¶  ©¶  p4flq003.wav
-©¶  ©¶  p4flq004.wav
-©¶  ©¶  p4flq005.wav
-©¶  ©¶  p4flq006.wav
-©¶  ©¶  p4flq007.wav
-©¶  ©¶  p4flq008.wav
-©¶  ©¶  p4flq009.wav
-©¶  ©¶  p4flq010.wav
-©¶  ©¶  p4flq011.wav
-©¶  ©¶  p4flq012.wav
-©¶  ©¶  p4flq013.wav
-©¶  ©¶  p4flq014.wav
-©¶  ©¶  p4flq015.wav
-©¶  ©¶  p4jk001.wav
-©¶  ©¶  p4jk002.wav
-©¶  ©¶  p4jk003.wav
-©¶  ©¶  p4jk004.wav
-©¶  ©¶  p4jk005.wav
-©¶  ©¶  p4jk006.wav
-©¶  ©¶  p4jk007.wav
-©¶  ©¶  p4jk008.wav
-©¶  ©¶  p4jk009.wav
-©¶  ©¶  p4jk010.wav
-©¶  ©¶  p4jk011.wav
-©¶  ©¶  p4jk012.wav
-©¶  ©¶  p4jk013.wav
-©¶  ©¶  p4jk014.wav
-©¶  ©¶  p4jk015.wav
-©¶  ©¶  p4jk016.wav
-©¶  ©¶  p4jk017.wav
-©¶  ©¶  p4jk018.wav
-©¶  ©¶  p4jk019.wav
-©¶  ©¶  p4jk020.wav
-©¶  ©¶  p4jk021.wav
-©¶  ©¶  p4jk022.wav
-©¶  ©¶  p4jk023.wav
-©¶  ©¶  p4jk024.wav
-©¶  ©¶  p4jk025.wav
-©¶  ©¶  p4jk026.wav
-©¶  ©¶  p4jk027.wav
-©¶  ©¶  p4jk028.wav
-©¶  ©¶  p4jk029.wav
-©¶  ©¶  p4jk030.wav
-©¶  ©¶  p4jk031.wav
-©¶  ©¶  p4jk032.wav
-©¶  ©¶  p4jk033.wav
-©¶  ©¶  p4jk034.wav
-©¶  ©¶  p4jk035.wav
-©¶  ©¶  p4jk036.wav
-©¶  ©¶  p4kl001.wav
-©¶  ©¶  p4kl002.wav
-©¶  ©¶  p4kl003.wav
-©¶  ©¶  p4kl004.wav
-©¶  ©¶  p4kl005.wav
-©¶  ©¶  p4kl006.wav
-©¶  ©¶  p4kl007.wav
-©¶  ©¶  p4kl008.wav
-©¶  ©¶  p4kl009.wav
-©¶  ©¶  p4kl010.wav
-©¶  ©¶  p4kl011.wav
-©¶  ©¶  p4kl012.wav
-©¶  ©¶  p4kl013.wav
-©¶  ©¶  p4kl014.wav
-©¶  ©¶  p4kl015.wav
-©¶  ©¶  p4kl016.wav
-©¶  ©¶  p4kl017.wav
-©¶  ©¶  p4kl018.wav
-©¶  ©¶  p4kl019.wav
-©¶  ©¶  p4kl020.wav
-©¶  ©¶  p4kl021.wav
-©¶  ©¶  p4kl022.wav
-©¶  ©¶  p4kl023.wav
-©¶  ©¶  p4kl024.wav
-©¶  ©¶  p4kl025.wav
-©¶  ©¶  p4kl026.wav
-©¶  ©¶  p4kl027.wav
-©¶  ©¶  p4kl028.wav
-©¶  ©¶  p4kl029.wav
-©¶  ©¶  p4kl030.wav
-©¶  ©¶  p4kl031.wav
-©¶  ©¶  p4kl032.wav
-©¶  ©¶  p4kl033.wav
-©¶  ©¶  p4kl034.wav
-©¶  ©¶  p4sjr001.wav
-©¶  ©¶  p4sjr002.wav
-©¶  ©¶  p4sjr003.wav
-©¶  ©¶  p4sjr004.wav
-©¶  ©¶  p4sjr005.wav
-©¶  ©¶  p4sjr006.wav
-©¶  ©¶  p4sjr007.wav
-©¶  ©¶  p4sjr008.wav
-©¶  ©¶  p4sjr009.wav
-©¶  ©¶  p4sjr010.wav
-©¶  ©¶  p4sjr011.wav
-©¶  ©¶  p4sjr012.wav
-©¶  ©¶  p4sjr013.wav
-©¶  ©¶  p4sjr014.wav
-©¶  ©¶  p4sjr015.wav
-©¶  ©¶  p4sjr016.wav
-©¶  ©¶  p4sjr017.wav
-©¶  ©¶  p4sjr018.wav
-©¶  ©¶  p4sjr019.wav
-©¶  ©¶  p4sjr020.wav
-©¶  ©¶  p4sjr021.wav
-©¶  ©¶  p4sjr022.wav
-©¶  ©¶  p4sjr023.wav
-©¶  ©¶  p4sjr024.wav
-©¶  ©¶  p4sjr025.wav
-©¶  ©¶  p4sjr026.wav
-©¶  ©¶  p4sjr027.wav
-©¶  ©¶  p4sjr028.wav
-©¶  ©¶  p4sjr029.wav
-©¶  ©¶  p4sjr030.wav
-©¶  ©¶  p4sjr031.wav
-©¶  ©¶  p4sy001.wav
-©¶  ©¶  p4sy002.wav
-©¶  ©¶  p4sy003.wav
-©¶  ©¶  p4sy004.wav
-©¶  ©¶  p4sy005.wav
-©¶  ©¶  p4sy006.wav
-©¶  ©¶  p4xn001.wav
-©¶  ©¶  p4xn002.wav
-©¶  ©¶  p4xn003.wav
-©¶  ©¶  p4xn004.wav
-©¶  ©¶  p4xn005.wav
-©¶  ©¶  p4xn006.wav
-©¶  ©¶  p4xn007.wav
-©¶  ©¶  p4xn008.wav
-©¶  ©¶  p4xn009.wav
-©¶  ©¶  p4xn010.wav
-©¶  ©¶  p4xn011.wav
-©¶  ©¶  p4xn012.wav
-©¶  ©¶  p4xn013.wav
-©¶  ©¶  p4xn014.wav
-©¶  ©¶  p4xn015.wav
-©¶  ©¶  p4xn016.wav
-©¶  ©¶  p4xn017.wav
-©¶  ©¶  p4xn018.wav
-©¶  ©¶  p4xn019.wav
-©¶  ©¶  p4xn020.wav
-©¶  ©¶  p4xn021.wav
-©¶  ©¶  p4xn022.wav
-©¶  ©¶  p4xn023.wav
-©¶  ©¶  p4xn024.wav
-©¶  ©¶  p4xn025.wav
-©¶  ©¶  p4xn026.wav
-©¶  ©¶  p4xn027.wav
-©¶  ©¶  p4xn028.wav
-©¶  ©¶  p4xn029.wav
-©¶  ©¶  p4xn030.wav
-©¶  ©¶  p4xn031.wav
-©¶  ©¶  p4xn032.wav
-©¶  ©¶  p4xn033.wav
-©¶  ©¶  p4xn034.wav
-©¶  ©¶  p4xn035.wav
-©¶  ©¶  p4xn036.wav
-©¶  ©¶  p4xn037.wav
-©¶  ©¶  p4xn038.wav
-©¶  ©¶  p4xn039.wav
-©¶  ©¶  p4xn040.wav
-©¶  ©¶  p4xn041.wav
-©¶  ©¶  p4xn042.wav
-©¶  ©¶  p4xn043.wav
-©¶  ©¶  p4xn044.wav
-©¶  ©¶  p4xn045.wav
-©¶  ©¶  plot_04[0].txt
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§plot_04[0]
-©¿©§plot_05[0]
-©¶  ©¶  p5als001.wav
-©¶  ©¶  p5als002.wav
-©¶  ©¶  p5als003.wav
-©¶  ©¶  p5als004.wav
-©¶  ©¶  p5als005.wav
-©¶  ©¶  p5als006.wav
-©¶  ©¶  p5als007.wav
-©¶  ©¶  p5als008.wav
-©¶  ©¶  p5als009.wav
-©¶  ©¶  p5als010.wav
-©¶  ©¶  p5als011.wav
-©¶  ©¶  p5als012.wav
-©¶  ©¶  p5als013.wav
-©¶  ©¶  p5als014.wav
-©¶  ©¶  p5als015.wav
-©¶  ©¶  p5als016.wav
-©¶  ©¶  p5als017.wav
-©¶  ©¶  p5als018.wav
-©¶  ©¶  p5als019.wav
-©¶  ©¶  p5als020.wav
-©¶  ©¶  p5als021.wav
-©¶  ©¶  p5als022.wav
-©¶  ©¶  p5als023.wav
-©¶  ©¶  p5als024.wav
-©¶  ©¶  p5als025.wav
-©¶  ©¶  p5als026.wav
-©¶  ©¶  p5als027.wav
-©¶  ©¶  p5als028.wav
-©¶  ©¶  p5als029.wav
-©¶  ©¶  p5als030.wav
-©¶  ©¶  p5als031.wav
-©¶  ©¶  p5als032.wav
-©¶  ©¶  p5als033.wav
-©¶  ©¶  p5als034.wav
-©¶  ©¶  p5als035.wav
-©¶  ©¶  p5als036.wav
-©¶  ©¶  p5als037.wav
-©¶  ©¶  p5als038.wav
-©¶  ©¶  p5als039.wav
-©¶  ©¶  p5als040.wav
-©¶  ©¶  p5als041.wav
-©¶  ©¶  p5als042.wav
-©¶  ©¶  p5als043.wav
-©¶  ©¶  p5als044.wav
-©¶  ©¶  p5als045.wav
-©¶  ©¶  p5als046.wav
-©¶  ©¶  p5dxz001.wav
-©¶  ©¶  p5dxz002.wav
-©¶  ©¶  p5dxz003.wav
-©¶  ©¶  p5dxz004.wav
-©¶  ©¶  p5dxz005.wav
-©¶  ©¶  p5dxz006.wav
-©¶  ©¶  p5dxz007.wav
-©¶  ©¶  p5dxz008.wav
-©¶  ©¶  p5jk001.wav
-©¶  ©¶  p5jk002.wav
-©¶  ©¶  p5jk003.wav
-©¶  ©¶  p5jk004.wav
-©¶  ©¶  p5jk005.wav
-©¶  ©¶  p5jk006.wav
-©¶  ©¶  p5jk007.wav
-©¶  ©¶  p5jk008.wav
-©¶  ©¶  p5jk009.wav
-©¶  ©¶  p5jk010.wav
-©¶  ©¶  p5jk011.wav
-©¶  ©¶  p5jk012.wav
-©¶  ©¶  p5jk013.wav
-©¶  ©¶  p5mgl001.wav
-©¶  ©¶  p5mgl002.wav
-©¶  ©¶  p5mgl003.wav
-©¶  ©¶  p5mgl004.wav
-©¶  ©¶  p5sy001.wav
-©¶  ©¶  p5sy002.wav
-©¶  ©¶  p5way001.wav
-©¶  ©¶  p5way002.wav
-©¶  ©¶  p5way003.wav
-©¶  ©¶  p5way004.wav
-©¶  ©¶  p5way005.wav
-©¶  ©¶  p5way006.wav
-©¶  ©¶  p5way007.wav
-©¶  ©¶  p5way008.wav
-©¶  ©¶  p5way009.wav
-©¶  ©¶  p5way010.wav
-©¶  ©¶  p5way011.wav
-©¶  ©¶  p5way012.wav
-©¶  ©¶  p5way013.wav
-©¶  ©¶  p5way014.wav
-©¶  ©¶  p5way015.wav
-©¶  ©¶  p5way016.wav
-©¶  ©¶  p5way017.wav
-©¶  ©¶  p5way018.wav
-©¶  ©¶  p5wkd001.wav
-©¶  ©¶  p5wkd002.wav
-©¶  ©¶  p5wkd003.wav
-©¶  ©¶  p5wkd004.wav
-©¶  ©¶  p5wkd005.wav
-©¶  ©¶  p5wkd006.wav
-©¶  ©¶  p5wkd007.wav
-©¶  ©¶  p5wkd008.wav
-©¶  ©¶  p5wkd009.wav
-©¶  ©¶  p5wkd010.wav
-©¶  ©¶  p5wkd011.wav
-©¶  ©¶  p5wkd012.wav
-©¶  ©¶  p5wkd013.wav
-©¶  ©¶  p5wkd014.wav
-©¶  ©¶  p5wkd015.wav
-©¶  ©¶  p5wkd016.wav
-©¶  ©¶  p5wkd017.wav
-©¶  ©¶  p5wkd018.wav
-©¶  ©¶  p5wkd019.wav
-©¶  ©¶  p5wkd020.wav
-©¶  ©¶  p5wkd021.wav
-©¶  ©¶  p5wkd022.wav
-©¶  ©¶  p5wkd023.wav
-©¶  ©¶  p5wkd024.wav
-©¶  ©¶  p5wkd025.wav
-©¶  ©¶  p5wkd026.wav
-©¶  ©¶  p5wkd027.wav
-©¶  ©¶  p5wkd028.wav
-©¶  ©¶  p5wkd029.wav
-©¶  ©¶  p5wkd030.wav
-©¶  ©¶  p5wkd031.wav
-©¶  ©¶  p5wkd032.wav
-©¶  ©¶  p5wkd033.wav
-©¶  ©¶  p5wkd034.wav
-©¶  ©¶  p5wkd035.wav
-©¶  ©¶  p5wkd036.wav
-©¶  ©¶  p5wkd037.wav
-©¶  ©¶  p5wkd038.wav
-©¶  ©¶  p5wkd039.wav
-©¶  ©¶  p5wkd040.wav
-©¶  ©¶  p5wkd041.wav
-©¶  ©¶  p5wkd042.wav
-©¶  ©¶  p5wkd043.wav
-©¶  ©¶  p5wkd044.wav
-©¶  ©¶  p5wkd045.wav
-©¶  ©¶  p5wkd046.wav
-©¶  ©¶  p5xn001.wav
-©¶  ©¶  p5xn002.wav
-©¶  ©¶  p5xn003.wav
-©¶  ©¶  p5xn004.wav
-©¶  ©¶  p5xn005.wav
-©¶  ©¶  p5xn006.wav
-©¶  ©¶  p5xn007.wav
-©¶  ©¶  p5xn008.wav
-©¶  ©¶  p5xn009.wav
-©¶  ©¶  p5xn010.wav
-©¶  ©¶  p5xn011.wav
-©¶  ©¶  p5xn012.wav
-©¶  ©¶  p5xn013.wav
-©¶  ©¶  p5xn014.wav
-©¶  ©¶  p5xn015.wav
-©¶  ©¶  p5xn016.wav
-©¶  ©¶  p5xn017.wav
-©¶  ©¶  p5xn018.wav
-©¶  ©¶  p5xn019.wav
-©¶  ©¶  p5xn020.wav
-©¶  ©¶  p5xn021.wav
-©¶  ©¶  p5xn022.wav
-©¶  ©¶  p5xn023.wav
-©¶  ©¶  p5xn024.wav
-©¶  ©¶  p5xn025.wav
-©¶  ©¶  p5xn026.wav
-©¶  ©¶  p5xn027.wav
-©¶  ©¶  p5xn028.wav
-©¶  ©¶  p5xn029.wav
-©¶  ©¶  p5xn030.wav
-©¶  ©¶  p5xn031.wav
-©¶  ©¶  p5xn032.wav
-©¶  ©¶  p5xn033.wav
-©¶  ©¶  p5xn034.wav
-©¶  ©¶  p5xn035.wav
-©¶  ©¶  p5xn036.wav
-©¶  ©¶  p5xn037.wav
-©¶  ©¶  p5xn038.wav
-©¶  ©¶  p5xn039.wav
-©¶  ©¶  p5xn040.wav
-©¶  ©¶  p5xn041.wav
-©¶  ©¶  p5xn042.wav
-©¶  ©¶  p5xn043.wav
-©¶  ©¶  p5xn044.wav
-©¶  ©¶  p5xn045.wav
-©¶  ©¶  p5xn046.wav
-©¶  ©¶  p5xn047.wav
-©¶  ©¶  p5xn048.wav
-©¶  ©¶  p5xn049.wav
-©¶  ©¶  p5xn050.wav
-©¶  ©¶  p5xn051.wav
-©¶  ©¶  p5xn052.wav
-©¶  ©¶  p5xn053.wav
-©¶  ©¶  plot_05[0].txt
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§plot_05[0]
-©¿©§plot_06[0]
-©¶  ©¶  p6als001.wav
-©¶  ©¶  p6bje001.wav
-©¶  ©¶  p6bje002.wav
-©¶  ©¶  p6bje003.wav
-©¶  ©¶  p6bje004.wav
-©¶  ©¶  p6bje005.wav
-©¶  ©¶  p6bje006.wav
-©¶  ©¶  p6bje007.wav
-©¶  ©¶  p6bje008.wav
-©¶  ©¶  p6bje009.wav
-©¶  ©¶  p6bje010.wav
-©¶  ©¶  p6bje011.wav
-©¶  ©¶  p6bje012.wav
-©¶  ©¶  p6bje013.wav
-©¶  ©¶  p6dxz001.wav
-©¶  ©¶  p6dxz002.wav
-©¶  ©¶  p6dxz003.wav
-©¶  ©¶  p6dxz004.wav
-©¶  ©¶  p6dxz005.wav
-©¶  ©¶  p6dxz006.wav
-©¶  ©¶  p6dxz007.wav
-©¶  ©¶  p6dxz008.wav
-©¶  ©¶  p6dxz009.wav
-©¶  ©¶  p6dxz010.wav
-©¶  ©¶  p6dxz011.wav
-©¶  ©¶  p6dxz012.wav
-©¶  ©¶  p6jk001.wav
-©¶  ©¶  p6jk002.wav
-©¶  ©¶  p6jk003.wav
-©¶  ©¶  p6jk004.wav
-©¶  ©¶  p6jk005.wav
-©¶  ©¶  p6jk006.wav
-©¶  ©¶  p6jk007.wav
-©¶  ©¶  p6jk008.wav
-©¶  ©¶  p6la001.wav
-©¶  ©¶  p6la002.wav
-©¶  ©¶  p6la003.wav
-©¶  ©¶  p6la004.wav
-©¶  ©¶  p6la005.wav
-©¶  ©¶  p6la006.wav
-©¶  ©¶  p6mgl001.wav
-©¶  ©¶  p6mgl002.wav
-©¶  ©¶  p6mgl003.wav
-©¶  ©¶  p6mgl004.wav
-©¶  ©¶  p6mgl005.wav
-©¶  ©¶  p6mgl006.wav
-©¶  ©¶  p6mgl007.wav
-©¶  ©¶  p6mgl008.wav
-©¶  ©¶  p6mgl009.wav
-©¶  ©¶  p6sfy001.wav
-©¶  ©¶  p6sfy002.wav
-©¶  ©¶  p6sfy003.wav
-©¶  ©¶  p6sfy004.wav
-©¶  ©¶  p6sfy005.wav
-©¶  ©¶  p6sfy006.wav
-©¶  ©¶  p6sfy007.wav
-©¶  ©¶  p6sfy008.wav
-©¶  ©¶  p6sfy009.wav
-©¶  ©¶  p6sfy010.wav
-©¶  ©¶  p6sfy011.wav
-©¶  ©¶  p6sfy012.wav
-©¶  ©¶  p6sfy013.wav
-©¶  ©¶  p6sfy014.wav
-©¶  ©¶  p6sfy015.wav
-©¶  ©¶  p6sy001.wav
-©¶  ©¶  p6sy002.wav
-©¶  ©¶  p6sy003.wav
-©¶  ©¶  p6sy004.wav
-©¶  ©¶  p6sy005.wav
-©¶  ©¶  p6sy006.wav
-©¶  ©¶  p6sy007.wav
-©¶  ©¶  p6sy008.wav
-©¶  ©¶  p6sy009.wav
-©¶  ©¶  p6sy010.wav
-©¶  ©¶  p6sy011.wav
-©¶  ©¶  p6sy012.wav
-©¶  ©¶  p6sy013.wav
-©¶  ©¶  p6sy014.wav
-©¶  ©¶  p6sy015.wav
-©¶  ©¶  p6sy016.wav
-©¶  ©¶  p6sy017.wav
-©¶  ©¶  p6sy018.wav
-©¶  ©¶  p6sy019.wav
-©¶  ©¶  p6sy020.wav
-©¶  ©¶  p6sy021.wav
-©¶  ©¶  p6sy022.wav
-©¶  ©¶  p6sy023.wav
-©¶  ©¶  p6sy024.wav
-©¶  ©¶  p6sy025.wav
-©¶  ©¶  p6sy026.wav
-©¶  ©¶  p6sy027.wav
-©¶  ©¶  p6sy028.wav
-©¶  ©¶  p6sy029.wav
-©¶  ©¶  p6sy030.wav
-©¶  ©¶  p6sy031.wav
-©¶  ©¶  p6sy032.wav
-©¶  ©¶  p6sy033.wav
-©¶  ©¶  p6sy034.wav
-©¶  ©¶  p6sy035.wav
-©¶  ©¶  p6sy036.wav
-©¶  ©¶  p6sy037.wav
-©¶  ©¶  p6sy038.wav
-©¶  ©¶  p6sy039.wav
-©¶  ©¶  p6sy040.wav
-©¶  ©¶  p6sy041.wav
-©¶  ©¶  p6sy042.wav
-©¶  ©¶  p6sy043.wav
-©¶  ©¶  p6sy044.wav
-©¶  ©¶  p6sy045.wav
-©¶  ©¶  p6sy046.wav
-©¶  ©¶  p6sy047.wav
-©¶  ©¶  p6sy048.wav
-©¶  ©¶  p6sy049.wav
-©¶  ©¶  p6sy050.wav
-©¶  ©¶  p6sy051.wav
-©¶  ©¶  p6sy052.wav
-©¶  ©¶  p6sy053.wav
-©¶  ©¶  p6sy054.wav
-©¶  ©¶  p6sy055.wav
-©¶  ©¶  p6sy056.wav
-©¶  ©¶  p6sy057.wav
-©¶  ©¶  p6sy058.wav
-©¶  ©¶  p6wd001.wav
-©¶  ©¶  p6wd002.wav
-©¶  ©¶  p6wd003.wav
-©¶  ©¶  p6wd004.wav
-©¶  ©¶  p6wd005.wav
-©¶  ©¶  p6wd006.wav
-©¶  ©¶  p6wd007.wav
-©¶  ©¶  p6wkd001.wav
-©¶  ©¶  p6wkd002.wav
-©¶  ©¶  p6wkd003.wav
-©¶  ©¶  p6wkd004.wav
-©¶  ©¶  p6wkd005.wav
-©¶  ©¶  p6wkd006.wav
-©¶  ©¶  p6wkd007.wav
-©¶  ©¶  p6wkd008.wav
-©¶  ©¶  p6wlt001.wav
-©¶  ©¶  p6wlt002.wav
-©¶  ©¶  p6xn001.wav
-©¶  ©¶  p6xn002.wav
-©¶  ©¶  p6xn003.wav
-©¶  ©¶  p6xn004.wav
-©¶  ©¶  p6xn005.wav
-©¶  ©¶  p6xn006.wav
-©¶  ©¶  p6xn007.wav
-©¶  ©¶  p6xn008.wav
-©¶  ©¶  p6xn009.wav
-©¶  ©¶  p6xn010.wav
-©¶  ©¶  p6xn011.wav
-©¶  ©¶  p6xn012.wav
-©¶  ©¶  p6xn013.wav
-©¶  ©¶  p6xn014.wav
-©¶  ©¶  p6xn015.wav
-©¶  ©¶  p6xn016.wav
-©¶  ©¶  p6xn017.wav
-©¶  ©¶  p6xn018.wav
-©¶  ©¶  p6xn019.wav
-©¶  ©¶  p6xn020.wav
-©¶  ©¶  p6xn021.wav
-©¶  ©¶  p6xn022.wav
-©¶  ©¶  p6xn023.wav
-©¶  ©¶  p6xn024.wav
-©¶  ©¶  p6xn025.wav
-©¶  ©¶  p6xn026.wav
-©¶  ©¶  p6xn027.wav
-©¶  ©¶  p6xn028.wav
-©¶  ©¶  p6xn029.wav
-©¶  ©¶  p6yx001.wav
-©¶  ©¶  plot_06[0].txt
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§plot_06[0]
-©¿©§rabbit_speaker[0]
-©¶  ©¶  guzheng.wav
-©¶  ©¶  rabbit_speaker[0].txt
-©¶  ©¶  suona.wav
-©¶  ©¶  yueqin.wav
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§rabbit_speaker[0]
-©¿©§reverse_flag[0]
-©¶  ©¶  reverse_flag[0].txt
-©¶  ©¶  reverse_flag_correct.wav
-©¶  ©¶  reverse_flag_dowm.wav
-©¶  ©¶  reverse_flag_left.wav
-©¶  ©¶  reverse_flag_right.wav
-©¶  ©¶  reverse_flag_up.wav
-©¶  ©¶  reverse_flag_waiting.wav
-©¶  ©¶  reverse_flag_wrong.wav
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§reverse_flag[0]
-©¿©§rhythm_escape_1[0]
-©¶  ©¶  1_hit.wav
-©¶  ©¶  1_no_hit.wav
-©¶  ©¶  countdown.wav
-©¶  ©¶  finish.wav
-©¶  ©¶  rhythm_difficult_1.wav
-©¶  ©¶  rhythm_difficult_10.wav
-©¶  ©¶  rhythm_difficult_11.wav
-©¶  ©¶  rhythm_difficult_12.wav
-©¶  ©¶  rhythm_difficult_13.wav
-©¶  ©¶  rhythm_difficult_14.wav
-©¶  ©¶  rhythm_difficult_15.wav
-©¶  ©¶  rhythm_difficult_16.wav
-©¶  ©¶  rhythm_difficult_17.wav
-©¶  ©¶  rhythm_difficult_18.wav
-©¶  ©¶  rhythm_difficult_19.wav
-©¶  ©¶  rhythm_difficult_2.wav
-©¶  ©¶  rhythm_difficult_20.wav
-©¶  ©¶  rhythm_difficult_21.wav
-©¶  ©¶  rhythm_difficult_22.wav
-©¶  ©¶  rhythm_difficult_23.wav
-©¶  ©¶  rhythm_difficult_24.wav
-©¶  ©¶  rhythm_difficult_25.wav
-©¶  ©¶  rhythm_difficult_26.wav
-©¶  ©¶  rhythm_difficult_27.wav
-©¶  ©¶  rhythm_difficult_28.wav
-©¶  ©¶  rhythm_difficult_29.wav
-©¶  ©¶  rhythm_difficult_3.wav
-©¶  ©¶  rhythm_difficult_30.wav
-©¶  ©¶  rhythm_difficult_31.wav
-©¶  ©¶  rhythm_difficult_32.wav
-©¶  ©¶  rhythm_difficult_33.wav
-©¶  ©¶  rhythm_difficult_34.wav
-©¶  ©¶  rhythm_difficult_35.wav
-©¶  ©¶  rhythm_difficult_36.wav
-©¶  ©¶  rhythm_difficult_37.wav
-©¶  ©¶  rhythm_difficult_4.wav
-©¶  ©¶  rhythm_difficult_5.wav
-©¶  ©¶  rhythm_difficult_6.wav
-©¶  ©¶  rhythm_difficult_7.wav
-©¶  ©¶  rhythm_difficult_8.wav
-©¶  ©¶  rhythm_difficult_9.wav
-©¶  ©¶  rhythm_easy_1.wav
-©¶  ©¶  rhythm_easy_10.wav
-©¶  ©¶  rhythm_easy_11.wav
-©¶  ©¶  rhythm_easy_12.wav
-©¶  ©¶  rhythm_easy_13.wav
-©¶  ©¶  rhythm_easy_14.wav
-©¶  ©¶  rhythm_easy_15.wav
-©¶  ©¶  rhythm_easy_16.wav
-©¶  ©¶  rhythm_easy_17.wav
-©¶  ©¶  rhythm_easy_18.wav
-©¶  ©¶  rhythm_easy_19.wav
-©¶  ©¶  rhythm_easy_2.wav
-©¶  ©¶  rhythm_easy_20.wav
-©¶  ©¶  rhythm_easy_21.wav
-©¶  ©¶  rhythm_easy_22.wav
-©¶  ©¶  rhythm_easy_23.wav
-©¶  ©¶  rhythm_easy_24.wav
-©¶  ©¶  rhythm_easy_25.wav
-©¶  ©¶  rhythm_easy_26.wav
-©¶  ©¶  rhythm_easy_27.wav
-©¶  ©¶  rhythm_easy_28.wav
-©¶  ©¶  rhythm_easy_29.wav
-©¶  ©¶  rhythm_easy_3.wav
-©¶  ©¶  rhythm_easy_30.wav
-©¶  ©¶  rhythm_easy_31.wav
-©¶  ©¶  rhythm_easy_4.wav
-©¶  ©¶  rhythm_easy_5.wav
-©¶  ©¶  rhythm_easy_6.wav
-©¶  ©¶  rhythm_easy_7.wav
-©¶  ©¶  rhythm_easy_8.wav
-©¶  ©¶  rhythm_easy_9.wav
-©¶  ©¶  rhythm_escape_1[0].txt
-©¶  ©¶  rhythm_hard_1.wav
-©¶  ©¶  rhythm_hard_10.wav
-©¶  ©¶  rhythm_hard_11.wav
-©¶  ©¶  rhythm_hard_12.wav
-©¶  ©¶  rhythm_hard_13.wav
-©¶  ©¶  rhythm_hard_14.wav
-©¶  ©¶  rhythm_hard_15.wav
-©¶  ©¶  rhythm_hard_16.wav
-©¶  ©¶  rhythm_hard_17.wav
-©¶  ©¶  rhythm_hard_18.wav
-©¶  ©¶  rhythm_hard_19.wav
-©¶  ©¶  rhythm_hard_2.wav
-©¶  ©¶  rhythm_hard_20.wav
-©¶  ©¶  rhythm_hard_21.wav
-©¶  ©¶  rhythm_hard_22.wav
-©¶  ©¶  rhythm_hard_23.wav
-©¶  ©¶  rhythm_hard_24.wav
-©¶  ©¶  rhythm_hard_25.wav
-©¶  ©¶  rhythm_hard_26.wav
-©¶  ©¶  rhythm_hard_27.wav
-©¶  ©¶  rhythm_hard_28.wav
-©¶  ©¶  rhythm_hard_29.wav
-©¶  ©¶  rhythm_hard_3.wav
-©¶  ©¶  rhythm_hard_30.wav
-©¶  ©¶  rhythm_hard_31.wav
-©¶  ©¶  rhythm_hard_32.wav
-©¶  ©¶  rhythm_hard_33.wav
-©¶  ©¶  rhythm_hard_34.wav
-©¶  ©¶  rhythm_hard_35.wav
-©¶  ©¶  rhythm_hard_36.wav
-©¶  ©¶  rhythm_hard_4.wav
-©¶  ©¶  rhythm_hard_5.wav
-©¶  ©¶  rhythm_hard_6.wav
-©¶  ©¶  rhythm_hard_7.wav
-©¶  ©¶  rhythm_hard_8.wav
-©¶  ©¶  rhythm_hard_9.wav
-©¶  ©¶  transition_difficult_to_hard.wav
-©¶  ©¶  transition_easy_to_difficult.wav
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§rhythm_escape_1[0]
-©¿©§rhythm_escape_2[0]
-©¶  ©¶  2_hit.wav
-©¶  ©¶  2_no_hit.wav
-©¶  ©¶  countdown.wav
-©¶  ©¶  finish.wav
-©¶  ©¶  rhythm_difficult_1.wav
-©¶  ©¶  rhythm_difficult_10.wav
-©¶  ©¶  rhythm_difficult_11.wav
-©¶  ©¶  rhythm_difficult_12.wav
-©¶  ©¶  rhythm_difficult_13.wav
-©¶  ©¶  rhythm_difficult_14.wav
-©¶  ©¶  rhythm_difficult_15.wav
-©¶  ©¶  rhythm_difficult_16.wav
-©¶  ©¶  rhythm_difficult_17.wav
-©¶  ©¶  rhythm_difficult_18.wav
-©¶  ©¶  rhythm_difficult_19.wav
-©¶  ©¶  rhythm_difficult_2.wav
-©¶  ©¶  rhythm_difficult_20.wav
-©¶  ©¶  rhythm_difficult_21.wav
-©¶  ©¶  rhythm_difficult_22.wav
-©¶  ©¶  rhythm_difficult_23.wav
-©¶  ©¶  rhythm_difficult_24.wav
-©¶  ©¶  rhythm_difficult_25.wav
-©¶  ©¶  rhythm_difficult_3.wav
-©¶  ©¶  rhythm_difficult_4.wav
-©¶  ©¶  rhythm_difficult_5.wav
-©¶  ©¶  rhythm_difficult_6.wav
-©¶  ©¶  rhythm_difficult_7.wav
-©¶  ©¶  rhythm_difficult_8.wav
-©¶  ©¶  rhythm_difficult_9.wav
-©¶  ©¶  rhythm_easy_1.wav
-©¶  ©¶  rhythm_easy_10.wav
-©¶  ©¶  rhythm_easy_11.wav
-©¶  ©¶  rhythm_easy_12.wav
-©¶  ©¶  rhythm_easy_13.wav
-©¶  ©¶  rhythm_easy_14.wav
-©¶  ©¶  rhythm_easy_15.wav
-©¶  ©¶  rhythm_easy_16.wav
-©¶  ©¶  rhythm_easy_17.wav
-©¶  ©¶  rhythm_easy_18.wav
-©¶  ©¶  rhythm_easy_19.wav
-©¶  ©¶  rhythm_easy_2.wav
-©¶  ©¶  rhythm_easy_20.wav
-©¶  ©¶  rhythm_easy_3.wav
-©¶  ©¶  rhythm_easy_4.wav
-©¶  ©¶  rhythm_easy_5.wav
-©¶  ©¶  rhythm_easy_6.wav
-©¶  ©¶  rhythm_easy_7.wav
-©¶  ©¶  rhythm_easy_8.wav
-©¶  ©¶  rhythm_easy_9.wav
-©¶  ©¶  rhythm_escape_2[0].txt
-©¶  ©¶  rhythm_hard_1.wav
-©¶  ©¶  rhythm_hard_10.wav
-©¶  ©¶  rhythm_hard_11.wav
-©¶  ©¶  rhythm_hard_12.wav
-©¶  ©¶  rhythm_hard_13.wav
-©¶  ©¶  rhythm_hard_14.wav
-©¶  ©¶  rhythm_hard_15.wav
-©¶  ©¶  rhythm_hard_16.wav
-©¶  ©¶  rhythm_hard_17.wav
-©¶  ©¶  rhythm_hard_18.wav
-©¶  ©¶  rhythm_hard_19.wav
-©¶  ©¶  rhythm_hard_2.wav
-©¶  ©¶  rhythm_hard_20.wav
-©¶  ©¶  rhythm_hard_21.wav
-©¶  ©¶  rhythm_hard_22.wav
-©¶  ©¶  rhythm_hard_23.wav
-©¶  ©¶  rhythm_hard_24.wav
-©¶  ©¶  rhythm_hard_25.wav
-©¶  ©¶  rhythm_hard_26.wav
-©¶  ©¶  rhythm_hard_27.wav
-©¶  ©¶  rhythm_hard_28.wav
-©¶  ©¶  rhythm_hard_29.wav
-©¶  ©¶  rhythm_hard_3.wav
-©¶  ©¶  rhythm_hard_4.wav
-©¶  ©¶  rhythm_hard_5.wav
-©¶  ©¶  rhythm_hard_6.wav
-©¶  ©¶  rhythm_hard_7.wav
-©¶  ©¶  rhythm_hard_8.wav
-©¶  ©¶  rhythm_hard_9.wav
-©¶  ©¶  transition_difficult_to_hard.wav
-©¶  ©¶  transition_easy_to_difficult.wav
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§rhythm_escape_2[0]
-©¿©§rhythm_escape_3[0]
-©¶  ©¶  countdown_3.wav
-©¶  ©¶  music_clip_1.wav
-©¶  ©¶  music_clip_10.wav
-©¶  ©¶  music_clip_11.wav
-©¶  ©¶  music_clip_12.wav
-©¶  ©¶  music_clip_13.wav
-©¶  ©¶  music_clip_14.wav
-©¶  ©¶  music_clip_15.wav
-©¶  ©¶  music_clip_16.wav
-©¶  ©¶  music_clip_17.wav
-©¶  ©¶  music_clip_18.wav
-©¶  ©¶  music_clip_19.wav
-©¶  ©¶  music_clip_2.wav
-©¶  ©¶  music_clip_20.wav
-©¶  ©¶  music_clip_21.wav
-©¶  ©¶  music_clip_22.wav
-©¶  ©¶  music_clip_23.wav
-©¶  ©¶  music_clip_24.wav
-©¶  ©¶  music_clip_25.wav
-©¶  ©¶  music_clip_26.wav
-©¶  ©¶  music_clip_27.wav
-©¶  ©¶  music_clip_28 .wav
-©¶  ©¶  music_clip_28.wav
-©¶  ©¶  music_clip_29.wav
-©¶  ©¶  music_clip_3.wav
-©¶  ©¶  music_clip_30.wav
-©¶  ©¶  music_clip_31.wav
-©¶  ©¶  music_clip_32.wav
-©¶  ©¶  music_clip_33.wav
-©¶  ©¶  music_clip_34.wav
-©¶  ©¶  music_clip_35.wav
-©¶  ©¶  music_clip_36.wav
-©¶  ©¶  music_clip_37.wav
-©¶  ©¶  music_clip_38.wav
-©¶  ©¶  music_clip_39.wav
-©¶  ©¶  music_clip_4.wav
-©¶  ©¶  music_clip_40.wav
-©¶  ©¶  music_clip_41.wav
-©¶  ©¶  music_clip_42.wav
-©¶  ©¶  music_clip_43.wav
-©¶  ©¶  music_clip_44.wav
-©¶  ©¶  music_clip_5.wav
-©¶  ©¶  music_clip_6.wav
-©¶  ©¶  music_clip_7.wav
-©¶  ©¶  music_clip_8.wav
-©¶  ©¶  music_clip_9.wav
-©¶  ©¶  rhythm_escape_3[0].txt
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§rhythm_escape_3[0]
-©¿©§rhythm_escape_4[0]
-©¶  ©¶  countdowm_4.wav
-©¶  ©¶  music_clip_1.wav
-©¶  ©¶  music_clip_10.wav
-©¶  ©¶  music_clip_11.wav
-©¶  ©¶  music_clip_12.wav
-©¶  ©¶  music_clip_13.wav
-©¶  ©¶  music_clip_14.wav
-©¶  ©¶  music_clip_15.wav
-©¶  ©¶  music_clip_16.wav
-©¶  ©¶  music_clip_17.wav
-©¶  ©¶  music_clip_18.wav
-©¶  ©¶  music_clip_19.wav
-©¶  ©¶  music_clip_2.wav
-©¶  ©¶  music_clip_20.wav
-©¶  ©¶  music_clip_21.wav
-©¶  ©¶  music_clip_22.wav
-©¶  ©¶  music_clip_23.wav
-©¶  ©¶  music_clip_24.wav
-©¶  ©¶  music_clip_25.wav
-©¶  ©¶  music_clip_26.wav
-©¶  ©¶  music_clip_27.wav
-©¶  ©¶  music_clip_28.wav
-©¶  ©¶  music_clip_29.wav
-©¶  ©¶  music_clip_3.wav
-©¶  ©¶  music_clip_30.wav
-©¶  ©¶  music_clip_31.wav
-©¶  ©¶  music_clip_32.wav
-©¶  ©¶  music_clip_33.wav
-©¶  ©¶  music_clip_34.wav
-©¶  ©¶  music_clip_35.wav
-©¶  ©¶  music_clip_36.wav
-©¶  ©¶  music_clip_37.wav
-©¶  ©¶  music_clip_38.wav
-©¶  ©¶  music_clip_39.wav
-©¶  ©¶  music_clip_4.wav
-©¶  ©¶  music_clip_40.wav
-©¶  ©¶  music_clip_41.wav
-©¶  ©¶  music_clip_42.wav
-©¶  ©¶  music_clip_43.wav
-©¶  ©¶  music_clip_44.wav
-©¶  ©¶  music_clip_5.wav
-©¶  ©¶  music_clip_6.wav
-©¶  ©¶  music_clip_7.wav
-©¶  ©¶  music_clip_8.wav
-©¶  ©¶  music_clip_9.wav
-©¶  ©¶  rhythm_escape_4[0].txt
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§rhythm_escape_4[0]
-©¿©§rhythm_escape_5[0]
-©¶  ©¶  jump.wav
-©¶  ©¶  left.wav
-©¶  ©¶  music_1.wav
-©¶  ©¶  music_2.wav
-©¶  ©¶  music_3.wav
-©¶  ©¶  music_4.wav
-©¶  ©¶  music_5.wav
-©¶  ©¶  rhythm_escape_5[0].txt
-©¶  ©¶  right.wav
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§rhythm_escape_5[0]
-©¿©§rice_cake[0]
-©¶  ©¶  good.wav
-©¶  ©¶  great.wav
-©¶  ©¶  knock_1.wav
-©¶  ©¶  knock_2.wav
-©¶  ©¶  knock_3.wav
-©¶  ©¶  knock_broken.wav
-©¶  ©¶  knock_hit_1.wav
-©¶  ©¶  knock_hit_2.wav
-©¶  ©¶  knock_hit_3.wav
-©¶  ©¶  knock_no_hit.wav
-©¶  ©¶  nice.wav
-©¶  ©¶  place_cake.wav
-©¶  ©¶  prefect.wav
-©¶  ©¶  rice_cake[0].txt
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§rice_cake[0]
-©¿©§room[0]
-©¶  ©¶  bomb_boom.wav
-©¶  ©¶  bomb_myself.wav
-©¶  ©¶  bomb_normal.wav
-©¶  ©¶  music_box.wav
-©¶  ©¶  partydance.wav
-©¶  ©¶  party_join.wav
-©¶  ©¶  room[0].txt
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§room[0]
-©¿©§ruan[0]
-©¶  ©¶  ruan[0].txt
-©¶  ©¶  zhongruan1.wav
-©¶  ©¶  zhongruan10.wav
-©¶  ©¶  zhongruan11.wav
-©¶  ©¶  zhongruan12.wav
-©¶  ©¶  zhongruan13.wav
-©¶  ©¶  zhongruan14.wav
-©¶  ©¶  zhongruan15.wav
-©¶  ©¶  zhongruan16.wav
-©¶  ©¶  zhongruan17.wav
-©¶  ©¶  zhongruan18.wav
-©¶  ©¶  zhongruan19.wav
-©¶  ©¶  zhongruan2.wav
-©¶  ©¶  zhongruan20.wav
-©¶  ©¶  zhongruan21.wav
-©¶  ©¶  zhongruan22.wav
-©¶  ©¶  zhongruan3.wav
-©¶  ©¶  zhongruan4.wav
-©¶  ©¶  zhongruan5.wav
-©¶  ©¶  zhongruan6.wav
-©¶  ©¶  zhongruan7.wav
-©¶  ©¶  zhongruan8.wav
-©¶  ©¶  zhongruan9.wav
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§ruan[0]
-©¿©§sanrio_speaker[0]
-©¶  ©¶  cloudytales.wav
-©¶  ©¶  disco_dancing_2_bpm_140.wav
-©¶  ©¶  disco_dancing_5_bpm_161.wav
-©¶  ©¶  disco_dancing_8_bpm_170.wav
-©¶  ©¶  noteparty.wav
-©¶  ©¶  sanrio_speaker[0].txt
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§sanrio_speaker[0]
-©¿©§sax[0]
-©¶  ©¶  1.wav
-©¶  ©¶  10.wav
-©¶  ©¶  11.wav
-©¶  ©¶  12.wav
-©¶  ©¶  13.wav
-©¶  ©¶  14.wav
-©¶  ©¶  15.wav
-©¶  ©¶  16.wav
-©¶  ©¶  17.wav
-©¶  ©¶  18.wav
-©¶  ©¶  19.wav
-©¶  ©¶  2.wav
-©¶  ©¶  20.wav
-©¶  ©¶  21.wav
-©¶  ©¶  22.wav
-©¶  ©¶  3.wav
-©¶  ©¶  4.wav
-©¶  ©¶  5.wav
-©¶  ©¶  6.wav
-©¶  ©¶  7.wav
-©¶  ©¶  8.wav
-©¶  ©¶  9.wav
-©¶  ©¶  sax[0].txt
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§sax[0]
-©¿©§sea_dance[0]
-©¶  ©¶  balala_1.wav
-©¶  ©¶  balala_2.wav
-©¶  ©¶  didida.wav
-©¶  ©¶  haiyangqiyuan.wav
-©¶  ©¶  qte1.wav
-©¶  ©¶  qte2.wav
-©¶  ©¶  qte3.wav
-©¶  ©¶  sea_dance[0].txt
-©¶  ©¶  xiandaimodeng.wav
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§sea_dance[0]
-©¿©§sfx_story[0]
-©¶  ©¶  dianzisheng.wav
-©¶  ©¶  electric.wav
-©¶  ©¶  hailang.wav
-©¶  ©¶  jiaobu.wav
-©¶  ©¶  jingbao.wav
-©¶  ©¶  jingdi.wav
-©¶  ©¶  lingsheng.wav
-©¶  ©¶  nengliang.wav
-©¶  ©¶  qunza.wav
-©¶  ©¶  renqun.wav
-©¶  ©¶  sfx_story[0].txt
-©¶  ©¶  shiyanshi_loop.wav
-©¶  ©¶  xiangsheng.wav
-©¶  ©¶  xixi.wav
-©¶  ©¶  zhuangmen.wav
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§sfx_story[0]
-©¿©§shake_soda[0]
-©¶  ©¶  shake_countdown.wav
-©¶  ©¶  shake_soda[0].txt
-©¶  ©¶  soda_boom.wav
-©¶  ©¶  soda_lv1.wav
-©¶  ©¶  soda_lv2.wav
-©¶  ©¶  soda_lv3.wav
-©¶  ©¶  soda_normal.wav
-©¶  ©¶  soda_shake.wav
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§shake_soda[0]
-©¿©§shoufengqin[0]
-©¶  ©¶  shoufengqin1.wav
-©¶  ©¶  shoufengqin10.wav
-©¶  ©¶  shoufengqin11.wav
-©¶  ©¶  shoufengqin12.wav
-©¶  ©¶  shoufengqin13.wav
-©¶  ©¶  shoufengqin14.wav
-©¶  ©¶  shoufengqin15.wav
-©¶  ©¶  shoufengqin16.wav
-©¶  ©¶  shoufengqin17.wav
-©¶  ©¶  shoufengqin18.wav
-©¶  ©¶  shoufengqin19.wav
-©¶  ©¶  shoufengqin2.wav
-©¶  ©¶  shoufengqin20.wav
-©¶  ©¶  shoufengqin21.wav
-©¶  ©¶  shoufengqin22.wav
-©¶  ©¶  shoufengqin3.wav
-©¶  ©¶  shoufengqin4.wav
-©¶  ©¶  shoufengqin5.wav
-©¶  ©¶  shoufengqin6.wav
-©¶  ©¶  shoufengqin7.wav
-©¶  ©¶  shoufengqin8.wav
-©¶  ©¶  shoufengqin9.wav
-©¶  ©¶  shoufengqin[0].txt
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§shoufengqin[0]
-©¿©§shuqin[0]
-©¶  ©¶  1.wav
-©¶  ©¶  10.wav
-©¶  ©¶  11.wav
-©¶  ©¶  12.wav
-©¶  ©¶  13.wav
-©¶  ©¶  14.wav
-©¶  ©¶  15.wav
-©¶  ©¶  16.wav
-©¶  ©¶  17.wav
-©¶  ©¶  18.wav
-©¶  ©¶  19.wav
-©¶  ©¶  2.wav
-©¶  ©¶  20.wav
-©¶  ©¶  21.wav
-©¶  ©¶  22.wav
-©¶  ©¶  3.wav
-©¶  ©¶  4.wav
-©¶  ©¶  5.wav
-©¶  ©¶  6.wav
-©¶  ©¶  7.wav
-©¶  ©¶  8.wav
-©¶  ©¶  9.wav
-©¶  ©¶  shuqin[0].txt
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§shuqin[0]
-©¿©§skill[0]
-©¶  ©¶  skill[0].txt
-©¶  ©¶  spirit_skill_110101.wav
-©¶  ©¶  spirit_skill_110201.wav
-©¶  ©¶  spirit_skill_110301.wav
-©¶  ©¶  spirit_skill_110401.wav
-©¶  ©¶  spirit_skill_110501.wav
-©¶  ©¶  spirit_skill_110601.wav
-©¶  ©¶  spirit_skill_110701.wav
-©¶  ©¶  spirit_skill_110801.wav
-©¶  ©¶  spirit_skill_110901.wav
-©¶  ©¶  spirit_skill_111001.wav
-©¶  ©¶  spirit_skill_111101.wav
-©¶  ©¶  spirit_skill_111201.wav
-©¶  ©¶  spirit_skill_111301.wav
-©¶  ©¶  spirit_skill_111401.wav
-©¶  ©¶  spirit_skill_111501.wav
-©¶  ©¶  spirit_skill_111601.wav
-©¶  ©¶  spirit_skill_111701.wav
-©¶  ©¶  spirit_skill_111801.wav
-©¶  ©¶  spirit_skill_111901.wav
-©¶  ©¶  spirit_skill_112001.wav
-©¶  ©¶  spirit_skill_112101.wav
-©¶  ©¶  spirit_skill_112201.wav
-©¶  ©¶  spirit_skill_112301.wav
-©¶  ©¶  spirit_skill_112401.wav
-©¶  ©¶  spirit_skill_200001.wav
-©¶  ©¶  spirit_skill_200002.wav
-©¶  ©¶  spirit_skill_200003.wav
-©¶  ©¶  spirit_skill_200004.wav
-©¶  ©¶  spirit_skill_200005.wav
-©¶  ©¶  spirit_skill_200006.wav
-©¶  ©¶  spirit_skill_200007.wav
-©¶  ©¶  spirit_skill_200008.wav
-©¶  ©¶  spirit_skill_300001.wav
-©¶  ©¶  spirit_skill_300002.wav
-©¶  ©¶  spirit_skill_300003.wav
-©¶  ©¶  spirit_skill_300004.wav
-©¶  ©¶  spirit_skill_300005.wav
-©¶  ©¶  spirit_skill_300006.wav
-©¶  ©¶  spirit_skill_300007.wav
-©¶  ©¶  spirit_skill_300008.wav
-©¶  ©¶  spirit_skill_300009.wav
-©¶  ©¶  spirit_skill_300010.wav
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§skill[0]
-©¿©§snowball[0]
-©¶  ©¶  snowball[0].txt
-©¶  ©¶  snowball_hit_player_1.wav
-©¶  ©¶  snowball_hit_player_2.wav
-©¶  ©¶  snowball_hit_player_3.wav
-©¶  ©¶  snowball_hit_side_1.wav
-©¶  ©¶  snowball_hit_side_2.wav
-©¶  ©¶  snowball_hit_side_3.wav
-©¶  ©¶  snowball_throw_1.wav
-©¶  ©¶  snowball_throw_2.wav
-©¶  ©¶  snowball_throw_3.wav
-©¶  ©¶  snowball_walk.wav
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§snowball[0]
-©¿©§social_work[0]
-©¶  ©¶  slap_flashlight.wav
-©¶  ©¶  social_work[0].txt
-©¶  ©¶  turn_on_flashlight.wav
-©¶  ©¶  voice_boy_1.wav
-©¶  ©¶  voice_boy_2.wav
-©¶  ©¶  voice_boy_3.wav
-©¶  ©¶  voice_boy_4.wav
-©¶  ©¶  voice_girl_1.wav
-©¶  ©¶  voice_girl_2.wav
-©¶  ©¶  voice_girl_3.wav
-©¶  ©¶  vo_draw_goblin_man_1.wav
-©¶  ©¶  vo_draw_goblin_man_2.wav
-©¶  ©¶  vo_draw_goblin_man_3.wav
-©¶  ©¶  vo_draw_goblin_man_4.wav
-©¶  ©¶  vo_draw_goblin_man_5.wav
-©¶  ©¶  vo_draw_goblin_man_6.wav
-©¶  ©¶  vo_draw_goblin_man_7.wav
-©¶  ©¶  vo_draw_goblin_man_8.wav
-©¶  ©¶  vo_draw_goblin_woman_1.wav
-©¶  ©¶  vo_draw_goblin_woman_2.wav
-©¶  ©¶  vo_draw_goblin_woman_3.wav
-©¶  ©¶  vo_draw_goblin_woman_4.wav
-©¶  ©¶  vo_expression_bainian_man_01.wav
-©¶  ©¶  vo_expression_bainian_man_02.wav
-©¶  ©¶  vo_expression_bainian_man_03.wav
-©¶  ©¶  vo_expression_bainian_woman_01.wav
-©¶  ©¶  vo_expression_bainian_woman_02.wav
-©¶  ©¶  vo_expression_bainian_woman_03.wav
-©¶  ©¶  vo_expression_bainian_woman_04.wav
-©¶  ©¶  vo_expression_gongxifacai_man_01.wav
-©¶  ©¶  vo_expression_gongxifacai_man_02.wav
-©¶  ©¶  vo_expression_gongxifacai_man_03.wav
-©¶  ©¶  vo_expression_gongxifacai_man_04.wav
-©¶  ©¶  vo_expression_gongxifacai_woman_01.wav
-©¶  ©¶  vo_expression_gongxifacai_woman_02.wav
-©¶  ©¶  vo_expression_gongxifacai_woman_03.wav
-©¶  ©¶  vo_expression_gongxifacai_woman_04.wav
-©¶  ©¶  vo_expression_gongxifacai_woman_05.wav
-©¶  ©¶  vo_expression_hongbao_man_01.wav
-©¶  ©¶  vo_expression_hongbao_man_02.wav
-©¶  ©¶  vo_expression_hongbao_man_03.wav
-©¶  ©¶  vo_expression_hongbao_man_04.wav
-©¶  ©¶  vo_expression_hongbao_woman_01.wav
-©¶  ©¶  vo_expression_hongbao_woman_02.wav
-©¶  ©¶  vo_expression_hongbao_woman_03.wav
-©¶  ©¶  vo_felling_man_1.wav
-©¶  ©¶  vo_felling_man_2.wav
-©¶  ©¶  vo_felling_man_3.wav
-©¶  ©¶  vo_felling_man_4.wav
-©¶  ©¶  vo_felling_man_5.wav
-©¶  ©¶  vo_felling_man_6.wav
-©¶  ©¶  vo_felling_man_7.wav
-©¶  ©¶  vo_felling_woman_1.wav
-©¶  ©¶  vo_felling_woman_2.wav
-©¶  ©¶  vo_felling_woman_3.wav
-©¶  ©¶  vo_felling_woman_4.wav
-©¶  ©¶  vo_felling_woman_5.wav
-©¶  ©¶  vo_fishing_fishking_appear_man_1.wav
-©¶  ©¶  vo_fishing_fishking_appear_man_2.wav
-©¶  ©¶  vo_fishing_fishking_appear_man_3.wav
-©¶  ©¶  vo_fishing_fishking_appear_man_4.wav
-©¶  ©¶  vo_fishing_fishking_appear_woman_1.wav
-©¶  ©¶  vo_fishing_fishking_appear_woman_2.wav
-©¶  ©¶  vo_fishing_no_fish_man_1.wav
-©¶  ©¶  vo_fishing_no_fish_man_2.wav
-©¶  ©¶  vo_fishing_no_fish_man_3.wav
-©¶  ©¶  vo_fishing_no_fish_woman_1.wav
-©¶  ©¶  vo_fishing_no_fish_woman_2.wav
-©¶  ©¶  vo_fishing_no_fish_woman_3.wav
-©¶  ©¶  vo_fishing_pull_rod_man_1.wav
-©¶  ©¶  vo_fishing_pull_rod_man_2.wav
-©¶  ©¶  vo_fishing_pull_rod_man_3.wav
-©¶  ©¶  vo_fishing_pull_rod_man_4.wav
-©¶  ©¶  vo_fishing_pull_rod_man_5.wav
-©¶  ©¶  vo_fishing_pull_rod_woman_1.wav
-©¶  ©¶  vo_fishing_pull_rod_woman_2.wav
-©¶  ©¶  vo_fishing_pull_rod_woman_3.wav
-©¶  ©¶  vo_fishing_pull_rod_woman_4.wav
-©¶  ©¶  vo_fishing_pull_rod_woman_5.wav
-©¶  ©¶  vo_fishing_rare_fish_get_man_1.wav
-©¶  ©¶  vo_fishing_rare_fish_get_man_2.wav
-©¶  ©¶  vo_fishing_rare_fish_get_man_3.wav
-©¶  ©¶  vo_fishing_rare_fish_get_man_4.wav
-©¶  ©¶  vo_fishing_rare_fish_get_woman_1.wav
-©¶  ©¶  vo_fishing_rare_fish_get_woman_2.wav
-©¶  ©¶  vo_fishing_rare_fish_get_woman_3.wav
-©¶  ©¶  vo_fishing_swing_rod_man_1.wav
-©¶  ©¶  vo_fishing_swing_rod_man_10.wav
-©¶  ©¶  vo_fishing_swing_rod_man_11.wav
-©¶  ©¶  vo_fishing_swing_rod_man_2.wav
-©¶  ©¶  vo_fishing_swing_rod_man_3.wav
-©¶  ©¶  vo_fishing_swing_rod_man_4.wav
-©¶  ©¶  vo_fishing_swing_rod_man_5.wav
-©¶  ©¶  vo_fishing_swing_rod_man_6.wav
-©¶  ©¶  vo_fishing_swing_rod_man_7.wav
-©¶  ©¶  vo_fishing_swing_rod_man_8.wav
-©¶  ©¶  vo_fishing_swing_rod_man_9.wav
-©¶  ©¶  vo_fishing_swing_rod_woman_1.wav
-©¶  ©¶  vo_fishing_swing_rod_woman_2.wav
-©¶  ©¶  vo_fishing_swing_rod_woman_3.wav
-©¶  ©¶  vo_fishing_swing_rod_woman_4.wav
-©¶  ©¶  vo_fishing_swing_rod_woman_5.wav
-©¶  ©¶  vo_fishing_swing_rod_woman_6.wav
-©¶  ©¶  vo_fishing_swing_rod_woman_7.wav
-©¶  ©¶  vo_game_hit_hamster_correct_man_1.wav
-©¶  ©¶  vo_game_hit_hamster_correct_man_2.wav
-©¶  ©¶  vo_game_hit_hamster_correct_man_3.wav
-©¶  ©¶  vo_game_hit_hamster_correct_man_4.wav
-©¶  ©¶  vo_game_hit_hamster_correct_man_5.wav
-©¶  ©¶  vo_game_hit_hamster_correct_woman_1.wav
-©¶  ©¶  vo_game_hit_hamster_correct_woman_2.wav
-©¶  ©¶  vo_game_hit_hamster_correct_woman_3.wav
-©¶  ©¶  vo_game_hit_hamster_correct_woman_4.wav
-©¶  ©¶  vo_game_hit_hamster_correct_woman_5.wav
-©¶  ©¶  vo_game_hit_hamster_correct_woman_6.wav
-©¶  ©¶  vo_game_hit_hamster_correct_woman_7.wav
-©¶  ©¶  vo_game_hit_hamster_correct_woman_8.wav
-©¶  ©¶  vo_game_hit_hamster_wrong_man_1.wav
-©¶  ©¶  vo_game_hit_hamster_wrong_man_2.wav
-©¶  ©¶  vo_game_hit_hamster_wrong_man_3.wav
-©¶  ©¶  vo_game_hit_hamster_wrong_man_4.wav
-©¶  ©¶  vo_game_hit_hamster_wrong_man_5.wav
-©¶  ©¶  vo_game_hit_hamster_wrong_woman_1.wav
-©¶  ©¶  vo_game_hit_hamster_wrong_woman_2.wav
-©¶  ©¶  vo_game_hit_hamster_wrong_woman_3.wav
-©¶  ©¶  vo_game_hit_hamster_wrong_woman_4.wav
-©¶  ©¶  vo_game_hit_hamster_wrong_woman_5.wav
-©¶  ©¶  vo_game_snowball_be_hit_man_1.wav
-©¶  ©¶  vo_game_snowball_be_hit_man_2.wav
-©¶  ©¶  vo_game_snowball_be_hit_man_3.wav
-©¶  ©¶  vo_game_snowball_be_hit_man_4.wav
-©¶  ©¶  vo_game_snowball_be_hit_man_5.wav
-©¶  ©¶  vo_game_snowball_be_hit_man_6.wav
-©¶  ©¶  vo_game_snowball_be_hit_man_7.wav
-©¶  ©¶  vo_game_snowball_be_hit_man_8.wav
-©¶  ©¶  vo_game_snowball_be_hit_man_9.wav
-©¶  ©¶  vo_game_snowball_be_hit_woman_1.wav
-©¶  ©¶  vo_game_snowball_be_hit_woman_2.wav
-©¶  ©¶  vo_game_snowball_be_hit_woman_3.wav
-©¶  ©¶  vo_game_snowball_be_hit_woman_4.wav
-©¶  ©¶  vo_game_snowball_be_hit_woman_5.wav
-©¶  ©¶  vo_game_snowball_be_hit_woman_6.wav
-©¶  ©¶  vo_game_snowball_be_hit_woman_7.wav
-©¶  ©¶  vo_game_snowball_empty_man_1.wav
-©¶  ©¶  vo_game_snowball_empty_man_2.wav
-©¶  ©¶  vo_game_snowball_empty_man_3.wav
-©¶  ©¶  vo_game_snowball_empty_man_4.wav
-©¶  ©¶  vo_game_snowball_empty_man_5.wav
-©¶  ©¶  vo_game_snowball_empty_woman_1.wav
-©¶  ©¶  vo_game_snowball_empty_woman_2.wav
-©¶  ©¶  vo_game_snowball_empty_woman_3.wav
-©¶  ©¶  vo_game_snowball_empty_woman_4.wav
-©¶  ©¶  vo_game_snowball_hit_man_1.wav
-©¶  ©¶  vo_game_snowball_hit_man_2.wav
-©¶  ©¶  vo_game_snowball_hit_man_3.wav
-©¶  ©¶  vo_game_snowball_hit_man_4.wav
-©¶  ©¶  vo_game_snowball_hit_woman_1.wav
-©¶  ©¶  vo_game_snowball_launch_man_1.wav
-©¶  ©¶  vo_game_snowball_launch_man_2.wav
-©¶  ©¶  vo_game_snowball_launch_man_3.wav
-©¶  ©¶  vo_game_snowball_launch_man_4.wav
-©¶  ©¶  vo_game_snowball_launch_man_5.wav
-©¶  ©¶  vo_game_snowball_launch_man_6.wav
-©¶  ©¶  vo_game_snowball_launch_man_7.wav
-©¶  ©¶  vo_game_snowball_launch_man_8.wav
-©¶  ©¶  vo_game_snowball_launch_woman_1.wav
-©¶  ©¶  vo_game_snowball_launch_woman_10.wav
-©¶  ©¶  vo_game_snowball_launch_woman_2.wav
-©¶  ©¶  vo_game_snowball_launch_woman_3.wav
-©¶  ©¶  vo_game_snowball_launch_woman_4.wav
-©¶  ©¶  vo_game_snowball_launch_woman_5.wav
-©¶  ©¶  vo_game_snowball_launch_woman_6.wav
-©¶  ©¶  vo_game_snowball_launch_woman_7.wav
-©¶  ©¶  vo_game_snowball_launch_woman_8.wav
-©¶  ©¶  vo_game_snowball_launch_woman_9.wav
-©¶  ©¶  vo_game_snowball_ready_man_1.wav
-©¶  ©¶  vo_game_snowball_ready_man_2.wav
-©¶  ©¶  vo_game_snowball_ready_man_3.wav
-©¶  ©¶  vo_game_snowball_ready_woman_1.wav
-©¶  ©¶  vo_game_snowball_ready_woman_2.wav
-©¶  ©¶  vo_leisure_lay_man_1.wav
-©¶  ©¶  vo_leisure_lay_man_2.wav
-©¶  ©¶  vo_leisure_lay_woman_1.wav
-©¶  ©¶  vo_leisure_lay_woman_2.wav
-©¶  ©¶  vo_leisure_lay_woman_3.wav
-©¶  ©¶  vo_leisure_sit_man_1.wav
-©¶  ©¶  vo_leisure_sit_man_2.wav
-©¶  ©¶  vo_leisure_sit_man_3.wav
-©¶  ©¶  vo_leisure_sit_man_4.wav
-©¶  ©¶  vo_leisure_sit_man_5.wav
-©¶  ©¶  vo_leisure_sit_woman_1.wav
-©¶  ©¶  vo_leisure_sit_woman_2.wav
-©¶  ©¶  vo_mining_man_1.wav
-©¶  ©¶  vo_mining_man_2.wav
-©¶  ©¶  vo_mining_man_3.wav
-©¶  ©¶  vo_mining_man_4.wav
-©¶  ©¶  vo_mining_man_5.wav
-©¶  ©¶  vo_mining_woman_1.wav
-©¶  ©¶  vo_work_man_4.wav
-©¶  ©¶  vo_work_man_4_1.wav
-©¶  ©¶  vo_work_man_5_1.wav
-©¶  ©¶  vo_work_man_5_2.wav
-©¶  ©¶  vo_work_woman_4.wav
-©¶  ©¶  vo_work_woman_4_1.wav
-©¶  ©¶  vo_work_woman_5.wav
-©¶  ©¶  vo_work_woman_5_1.wav
-©¶  ©¶  vo_xiaoba_reception_man_1.wav
-©¶  ©¶  vo_xiaoba_reception_woman_1.wav
-©¶  ©¶  yakuaola_boy_1.wav
-©¶  ©¶  yakuaola_boy_2.wav
-©¶  ©¶  yakuaola_girl_1.wav
-©¶  ©¶  yakuaola_girl_2.wav
-©¶  ©¶  yakuaola_girl_3.wav
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§social_work[0]
-©¿©§spirit_band[0]
-©¶  ©¶  spirit_band[0].txt
-©¶  ©¶  spirit_band_01.wav
-©¶  ©¶  spirit_band_02.wav
-©¶  ©¶  spirit_band_03.wav
-©¶  ©¶  spirit_band_04.wav
-©¶  ©¶  spirit_band_05.wav
-©¶  ©¶  spirit_band_06.wav
-©¶  ©¶  spirit_band_07.wav
-©¶  ©¶  spirit_band_08.wav
-©¶  ©¶  spirit_band_09.wav
-©¶  ©¶  spirit_band_10.wav
-©¶  ©¶  spirit_band_11.wav
-©¶  ©¶  spirit_band_12.wav
-©¶  ©¶  spirit_band_13.wav
-©¶  ©¶  spirit_band_14.wav
-©¶  ©¶  spirit_band_15.wav
-©¶  ©¶  spirit_band_16.wav
-©¶  ©¶  spirit_band_17.wav
-©¶  ©¶  spirit_band_18.wav
-©¶  ©¶  spirit_band_19.wav
-©¶  ©¶  spirit_band_20.wav
-©¶  ©¶  spirit_band_21.wav
-©¶  ©¶  spirit_band_22.wav
-©¶  ©¶  spirit_band_23.wav
-©¶  ©¶  spirit_band_24.wav
-©¶  ©¶  spirit_band_25.wav
-©¶  ©¶  spirit_band_26.wav
-©¶  ©¶  spirit_band_27.wav
-©¶  ©¶  spirit_band_28.wav
-©¶  ©¶  spirit_band_29.wav
-©¶  ©¶  spirit_band_30.wav
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§spirit_band[0]
-©¿©§spirit_piano_solo[0]
-©¶  ©¶  1.wav
-©¶  ©¶  10.wav
-©¶  ©¶  11.wav
-©¶  ©¶  12.wav
-©¶  ©¶  13.wav
-©¶  ©¶  14.wav
-©¶  ©¶  15.wav
-©¶  ©¶  16.wav
-©¶  ©¶  17.wav
-©¶  ©¶  18.wav
-©¶  ©¶  19.wav
-©¶  ©¶  2.wav
-©¶  ©¶  20.wav
-©¶  ©¶  21.wav
-©¶  ©¶  22.wav
-©¶  ©¶  23.wav
-©¶  ©¶  24.wav
-©¶  ©¶  25.wav
-©¶  ©¶  26.wav
-©¶  ©¶  27.wav
-©¶  ©¶  28.wav
-©¶  ©¶  29.wav
-©¶  ©¶  3.wav
-©¶  ©¶  30.wav
-©¶  ©¶  4.wav
-©¶  ©¶  5.wav
-©¶  ©¶  6.wav
-©¶  ©¶  7.wav
-©¶  ©¶  8.wav
-©¶  ©¶  9.wav
-©¶  ©¶  spirit_piano_solo[0].txt
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§spirit_piano_solo[0]
-©¿©§taodi[0]
-©¶  ©¶  taodi1.wav
-©¶  ©¶  taodi10.wav
-©¶  ©¶  taodi11.wav
-©¶  ©¶  taodi12.wav
-©¶  ©¶  taodi13.wav
-©¶  ©¶  taodi14.wav
-©¶  ©¶  taodi15.wav
-©¶  ©¶  taodi2.wav
-©¶  ©¶  taodi3.wav
-©¶  ©¶  taodi4.wav
-©¶  ©¶  taodi5.wav
-©¶  ©¶  taodi6.wav
-©¶  ©¶  taodi7.wav
-©¶  ©¶  taodi8.wav
-©¶  ©¶  taodi9.wav
-©¶  ©¶  taodi[0].txt
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§taodi[0]
-©¿©§throw_wheat[0]
-©¶  ©¶  player_throw_wheat_1.wav
-©¶  ©¶  player_throw_wheat_2.wav
-©¶  ©¶  scarecrow_throw_wheat.wav
-©¶  ©¶  throw_wheat[0].txt
-©¶  ©¶  wheat_into_bag_fail.wav
-©¶  ©¶  wheat_into_bag_success.wav
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§throw_wheat[0]
-©¿©§tourist[0]
-©¶  ©¶  azhai.wav
-©¶  ©¶  bailongzhanglao.wav
-©¶  ©¶  hongzhu.wav
-©¶  ©¶  huofeng.wav
-©¶  ©¶  kabu.wav
-©¶  ©¶  kebi.wav
-©¶  ©¶  lika.wav
-©¶  ©¶  longni.wav
-©¶  ©¶  longsantaizi.wav
-©¶  ©¶  shiwaxi.wav
-©¶  ©¶  sunwukong.wav
-©¶  ©¶  tianlang.wav
-©¶  ©¶  tiluo.wav
-©¶  ©¶  tourist[0].txt
-©¶  ©¶  ui_effect_shuaiqi_01.wav
-©¶  ©¶  yunyang.wav
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§tourist[0]
-©¿©§tourist_vo[0]
-©¶  ©¶  npc_tourist_azhai_02.wav
-©¶  ©¶  npc_tourist_azhai_03.wav
-©¶  ©¶  npc_tourist_azhai_04.wav
-©¶  ©¶  npc_tourist_azhai_05.wav
-©¶  ©¶  npc_tourist_azhai_06.wav
-©¶  ©¶  npc_tourist_azhai_07.wav
-©¶  ©¶  npc_tourist_azhai_08.wav
-©¶  ©¶  npc_tourist_azhai_09.wav
-©¶  ©¶  npc_tourist_bailongzhanglao_02.wav
-©¶  ©¶  npc_tourist_bailongzhanglao_03.wav
-©¶  ©¶  npc_tourist_bailongzhanglao_04.wav
-©¶  ©¶  npc_tourist_bailongzhanglao_05.wav
-©¶  ©¶  npc_tourist_bailongzhanglao_06.wav
-©¶  ©¶  npc_tourist_bailongzhanglao_07.wav
-©¶  ©¶  npc_tourist_bailongzhanglao_08.wav
-©¶  ©¶  npc_tourist_bailongzhanglao_09.wav
-©¶  ©¶  npc_tourist_caiyi_02.wav
-©¶  ©¶  npc_tourist_caiyi_03.wav
-©¶  ©¶  npc_tourist_caiyi_04.wav
-©¶  ©¶  npc_tourist_caiyi_05.wav
-©¶  ©¶  npc_tourist_caiyi_06.wav
-©¶  ©¶  npc_tourist_caiyi_07.wav
-©¶  ©¶  npc_tourist_caiyi_08.wav
-©¶  ©¶  npc_tourist_caiyi_09.wav
-©¶  ©¶  npc_tourist_dajiaoxueguai_02.wav
-©¶  ©¶  npc_tourist_dajiaoxueguai_03.wav
-©¶  ©¶  npc_tourist_dajiaoxueguai_04.wav
-©¶  ©¶  npc_tourist_dajiaoxueguai_05.wav
-©¶  ©¶  npc_tourist_dajiaoxueguai_06.wav
-©¶  ©¶  npc_tourist_dajiaoxueguai_07.wav
-©¶  ©¶  npc_tourist_dajiaoxueguai_08.wav
-©¶  ©¶  npc_tourist_dajiaoxueguai_09.wav
-©¶  ©¶  npc_tourist_haotian_02.wav
-©¶  ©¶  npc_tourist_haotian_03.wav
-©¶  ©¶  npc_tourist_haotian_04.wav
-©¶  ©¶  npc_tourist_haotian_05.wav
-©¶  ©¶  npc_tourist_haotian_06.wav
-©¶  ©¶  npc_tourist_haotian_07.wav
-©¶  ©¶  npc_tourist_haotian_08.wav
-©¶  ©¶  npc_tourist_haotian_09.wav
-©¶  ©¶  npc_tourist_hongzhu_02.wav
-©¶  ©¶  npc_tourist_hongzhu_03.wav
-©¶  ©¶  npc_tourist_hongzhu_04.wav
-©¶  ©¶  npc_tourist_hongzhu_05.wav
-©¶  ©¶  npc_tourist_hongzhu_06.wav
-©¶  ©¶  npc_tourist_hongzhu_07.wav
-©¶  ©¶  npc_tourist_hongzhu_08.wav
-©¶  ©¶  npc_tourist_hongzhu_09.wav
-©¶  ©¶  npc_tourist_huadaifu_02.wav
-©¶  ©¶  npc_tourist_huadaifu_03.wav
-©¶  ©¶  npc_tourist_huadaifu_04.wav
-©¶  ©¶  npc_tourist_huadaifu_05.wav
-©¶  ©¶  npc_tourist_huadaifu_06.wav
-©¶  ©¶  npc_tourist_huadaifu_07.wav
-©¶  ©¶  npc_tourist_huadaifu_08.wav
-©¶  ©¶  npc_tourist_huadaifu_09.wav
-©¶  ©¶  npc_tourist_huofeng_02.wav
-©¶  ©¶  npc_tourist_huofeng_03.wav
-©¶  ©¶  npc_tourist_huofeng_04.wav
-©¶  ©¶  npc_tourist_huofeng_05.wav
-©¶  ©¶  npc_tourist_huofeng_06.wav
-©¶  ©¶  npc_tourist_huofeng_07.wav
-©¶  ©¶  npc_tourist_huofeng_08.wav
-©¶  ©¶  npc_tourist_huofeng_09.wav
-©¶  ©¶  npc_tourist_jindi_02.wav
-©¶  ©¶  npc_tourist_jindi_03.wav
-©¶  ©¶  npc_tourist_jindi_04.wav
-©¶  ©¶  npc_tourist_jindi_05.wav
-©¶  ©¶  npc_tourist_jindi_06.wav
-©¶  ©¶  npc_tourist_jindi_07.wav
-©¶  ©¶  npc_tourist_jindi_08.wav
-©¶  ©¶  npc_tourist_jindi_09.wav
-©¶  ©¶  npc_tourist_kabu_02.wav
-©¶  ©¶  npc_tourist_kabu_03.wav
-©¶  ©¶  npc_tourist_kabu_04.wav
-©¶  ©¶  npc_tourist_kabu_05.wav
-©¶  ©¶  npc_tourist_kabu_06.wav
-©¶  ©¶  npc_tourist_kabu_07.wav
-©¶  ©¶  npc_tourist_kabu_08.wav
-©¶  ©¶  npc_tourist_kabu_09.wav
-©¶  ©¶  npc_tourist_kebi_02.wav
-©¶  ©¶  npc_tourist_kebi_03.wav
-©¶  ©¶  npc_tourist_kebi_04.wav
-©¶  ©¶  npc_tourist_kebi_05.wav
-©¶  ©¶  npc_tourist_kebi_06.wav
-©¶  ©¶  npc_tourist_kebi_07.wav
-©¶  ©¶  npc_tourist_kebi_08.wav
-©¶  ©¶  npc_tourist_kebi_09.wav
-©¶  ©¶  npc_tourist_leiou_02.wav
-©¶  ©¶  npc_tourist_leiou_03.wav
-©¶  ©¶  npc_tourist_leiou_04.wav
-©¶  ©¶  npc_tourist_leiou_05.wav
-©¶  ©¶  npc_tourist_leiou_06.wav
-©¶  ©¶  npc_tourist_leiou_07.wav
-©¶  ©¶  npc_tourist_leiou_08.wav
-©¶  ©¶  npc_tourist_leiou_09.wav
-©¶  ©¶  npc_tourist_leiwen_02.wav
-©¶  ©¶  npc_tourist_leiwen_03.wav
-©¶  ©¶  npc_tourist_leiwen_04.wav
-©¶  ©¶  npc_tourist_leiwen_05.wav
-©¶  ©¶  npc_tourist_leiwen_06.wav
-©¶  ©¶  npc_tourist_leiwen_07.wav
-©¶  ©¶  npc_tourist_leiwen_08.wav
-©¶  ©¶  npc_tourist_leiwen_09.wav
-©¶  ©¶  npc_tourist_longni_02.wav
-©¶  ©¶  npc_tourist_longni_03.wav
-©¶  ©¶  npc_tourist_longni_04.wav
-©¶  ©¶  npc_tourist_longni_05.wav
-©¶  ©¶  npc_tourist_longni_06.wav
-©¶  ©¶  npc_tourist_longni_07.wav
-©¶  ©¶  npc_tourist_longni_08.wav
-©¶  ©¶  npc_tourist_longni_09.wav
-©¶  ©¶  npc_tourist_longsantaizi_02.wav
-©¶  ©¶  npc_tourist_longsantaizi_03.wav
-©¶  ©¶  npc_tourist_longsantaizi_04.wav
-©¶  ©¶  npc_tourist_longsantaizi_05.wav
-©¶  ©¶  npc_tourist_longsantaizi_06.wav
-©¶  ©¶  npc_tourist_longsantaizi_07.wav
-©¶  ©¶  npc_tourist_longsantaizi_08.wav
-©¶  ©¶  npc_tourist_longsantaizi_09.wav
-©¶  ©¶  npc_tourist_muyang_02.wav
-©¶  ©¶  npc_tourist_muyang_03.wav
-©¶  ©¶  npc_tourist_muyang_04.wav
-©¶  ©¶  npc_tourist_muyang_05.wav
-©¶  ©¶  npc_tourist_muyang_06.wav
-©¶  ©¶  npc_tourist_muyang_07.wav
-©¶  ©¶  npc_tourist_muyang_08.wav
-©¶  ©¶  npc_tourist_muyang_09.wav
-©¶  ©¶  npc_tourist_naduowangzi_02.wav
-©¶  ©¶  npc_tourist_naduowangzi_03.wav
-©¶  ©¶  npc_tourist_naduowangzi_04.wav
-©¶  ©¶  npc_tourist_naduowangzi_05.wav
-©¶  ©¶  npc_tourist_naduowangzi_06.wav
-©¶  ©¶  npc_tourist_naduowangzi_07.wav
-©¶  ©¶  npc_tourist_naduowangzi_08.wav
-©¶  ©¶  npc_tourist_naduowangzi_09.wav
-©¶  ©¶  npc_tourist_tianlang_02.wav
-©¶  ©¶  npc_tourist_tianlang_03.wav
-©¶  ©¶  npc_tourist_tianlang_04.wav
-©¶  ©¶  npc_tourist_tianlang_05.wav
-©¶  ©¶  npc_tourist_tianlang_06.wav
-©¶  ©¶  npc_tourist_tianlang_07.wav
-©¶  ©¶  npc_tourist_tianlang_08.wav
-©¶  ©¶  npc_tourist_tianlang_09.wav
-©¶  ©¶  npc_tourist_tiya_02.wav
-©¶  ©¶  npc_tourist_tiya_03.wav
-©¶  ©¶  npc_tourist_tiya_04.wav
-©¶  ©¶  npc_tourist_tiya_05.wav
-©¶  ©¶  npc_tourist_tiya_06.wav
-©¶  ©¶  npc_tourist_tiya_07.wav
-©¶  ©¶  npc_tourist_tiya_08.wav
-©¶  ©¶  npc_tourist_tiya_09.wav
-©¶  ©¶  npc_tourist_tulang_02.wav
-©¶  ©¶  npc_tourist_tulang_03.wav
-©¶  ©¶  npc_tourist_tulang_04.wav
-©¶  ©¶  npc_tourist_tulang_05.wav
-©¶  ©¶  npc_tourist_tulang_06.wav
-©¶  ©¶  npc_tourist_tulang_07.wav
-©¶  ©¶  npc_tourist_tulang_08.wav
-©¶  ©¶  npc_tourist_tulang_09.wav
-©¶  ©¶  npc_tourist_yunyang_02.wav
-©¶  ©¶  npc_tourist_yunyang_03.wav
-©¶  ©¶  npc_tourist_yunyang_04.wav
-©¶  ©¶  npc_tourist_yunyang_05.wav
-©¶  ©¶  npc_tourist_yunyang_06.wav
-©¶  ©¶  npc_tourist_yunyang_07.wav
-©¶  ©¶  npc_tourist_yunyang_08.wav
-©¶  ©¶  npc_tourist_yunyang_09.wav
-©¶  ©¶  tourist_vo[0].txt
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§tourist_vo[0]
-©¿©§tourist_vo_1[0]
-©¶  ©¶  npc_tourist_lika_02.wav
-©¶  ©¶  npc_tourist_lika_03.wav
-©¶  ©¶  npc_tourist_lika_04.wav
-©¶  ©¶  npc_tourist_lika_05.wav
-©¶  ©¶  npc_tourist_lika_06.wav
-©¶  ©¶  npc_tourist_lika_07.wav
-©¶  ©¶  npc_tourist_lika_08.wav
-©¶  ©¶  npc_tourist_lika_09.wav
-©¶  ©¶  npc_tourist_shiwaxi_02.wav
-©¶  ©¶  npc_tourist_shiwaxi_03.wav
-©¶  ©¶  npc_tourist_shiwaxi_04.wav
-©¶  ©¶  npc_tourist_shiwaxi_05.wav
-©¶  ©¶  npc_tourist_shiwaxi_06.wav
-©¶  ©¶  npc_tourist_shiwaxi_07.wav
-©¶  ©¶  npc_tourist_shiwaxi_08.wav
-©¶  ©¶  npc_tourist_shiwaxi_09.wav
-©¶  ©¶  npc_tourist_tiluo_02.wav
-©¶  ©¶  npc_tourist_tiluo_03.wav
-©¶  ©¶  npc_tourist_tiluo_04.wav
-©¶  ©¶  npc_tourist_tiluo_05.wav
-©¶  ©¶  npc_tourist_tiluo_06.wav
-©¶  ©¶  npc_tourist_tiluo_07.wav
-©¶  ©¶  npc_tourist_tiluo_08.wav
-©¶  ©¶  npc_tourist_tiluo_09.wav
-©¶  ©¶  tourist_vo_1[0].txt
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§tourist_vo_1[0]
-©¿©§ui[0]
-©¶  ©¶  4.10.wav
-©¶  ©¶  4.9.wav
-©¶  ©¶  acquire_exp.wav
-©¶  ©¶  acquire_heart.wav
-©¶  ©¶  ant_run.wav
-©¶  ©¶  Bgm_TradingBankMIX.wav
-©¶  ©¶  btn_off.wav
-©¶  ©¶  btn_on.wav
-©¶  ©¶  click_growing_sheep.wav
-©¶  ©¶  click_minus.wav
-©¶  ©¶  click_plants.wav
-©¶  ©¶  click_plus.wav
-©¶  ©¶  closetab.wav
-©¶  ©¶  collect_fruit_trees.wav
-©¶  ©¶  crack_petegg.wav
-©¶  ©¶  craft_cooking.wav
-©¶  ©¶  craft_dress.wav
-©¶  ©¶  crop_eject.wav
-©¶  ©¶  cut_sheep_hair.wav
-©¶  ©¶  doorbell.wav
-©¶  ©¶  eat.wav
-©¶  ©¶  fast_harvesting.wav
-©¶  ©¶  feed_excellent.wav
-©¶  ©¶  gathering.wav
-©¶  ©¶  get_pet_goods.wav
-©¶  ©¶  get_wow.wav
-©¶  ©¶  give_fabulous.wav
-©¶  ©¶  goblin_celebrate.wav
-©¶  ©¶  goblin_find.wav
-©¶  ©¶  goblin_tidy.wav
-©¶  ©¶  groundhog1.wav
-©¶  ©¶  groundhog2.wav
-©¶  ©¶  groundhog3.wav
-©¶  ©¶  harvest.wav
-©¶  ©¶  harvest_deer_hair.wav
-©¶  ©¶  harvest_egg.wav
-©¶  ©¶  harvest_goose_feather.wav
-©¶  ©¶  harvest_rabbit_hair.wav
-©¶  ©¶  open_room_door.wav
-©¶  ©¶  photo_take.wav
-©¶  ©¶  planting_crops.wav
-©¶  ©¶  receive_achievement_award.wav
-©¶  ©¶  seal.wav
-©¶  ©¶  seven_day_landing_award.wav
-©¶  ©¶  se_bush_gathering01.wav
-©¶  ©¶  se_cow_harvest01.wav
-©¶  ©¶  se_harvest.wav
-©¶  ©¶  shop_show.wav
-©¶  ©¶  touch_cow.wav
-©¶  ©¶  touch_goose.wav
-©¶  ©¶  touch_hen.wav
-©¶  ©¶  touch_honeybee.wav
-©¶  ©¶  touch_ore.wav
-©¶  ©¶  touch_rabbit.wav
-©¶  ©¶  touch_reindeer.wav
-©¶  ©¶  touch_ripe.wav
-©¶  ©¶  touch_sheep.wav
-©¶  ©¶  touch_tree.wav
-©¶  ©¶  ui[0].txt
-©¶  ©¶  ui_click_story_error.wav
-©¶  ©¶  ui_effect_blessing.wav
-©¶  ©¶  ui_effect_book_fly.wav
-©¶  ©¶  ui_effect_book_open.wav
-©¶  ©¶  ui_effect_buy_success.wav
-©¶  ©¶  ui_effect_creation_make.wav
-©¶  ©¶  ui_effect_creation_make_completed.wav
-©¶  ©¶  ui_effect_egg_birth.wav
-©¶  ©¶  ui_effect_egg_bubble_click.wav
-©¶  ©¶  ui_effect_egg_get.wav
-©¶  ©¶  ui_effect_egg_open.wav
-©¶  ©¶  ui_effect_egg_show.wav
-©¶  ©¶  ui_effect_general_get.wav
-©¶  ©¶  ui_effect_get_diamond.wav
-©¶  ©¶  ui_effect_get_gold.wav
-©¶  ©¶  ui_effect_item_unlock.wav
-©¶  ©¶  ui_effect_library_raffle.wav
-©¶  ©¶  ui_effect_pet_level_up.wav
-©¶  ©¶  ui_effect_player_upgrade.wav
-©¶  ©¶  ui_effect_quest_complete.wav
-©¶  ©¶  ui_effect_room_upgrade.wav
-©¶  ©¶  ui_effect_task_complete.wav
-©¶  ©¶  ui_effect_workshop_upgrade_completed.wav
-©¶  ©¶  ui_generic_button.wav
-©¶  ©¶  ui_generic_button_buy.wav
-©¶  ©¶  ui_generic_button_cancel.wav
-©¶  ©¶  ui_generic_button_sure.wav
-©¶  ©¶  ui_generic_click.wav
-©¶  ©¶  ui_generic_click_return.wav
-©¶  ©¶  ui_menu_click.wav
-©¶  ©¶  ui_menu_popup_close.wav
-©¶  ©¶  ui_menu_popup_open.wav
-©¶  ©¶  ui_page_aobi_news.wav
-©¶  ©¶  ui_page_aobi_news_turn.wav
-©¶  ©¶  ui_page_click_dress_up.wav
-©¶  ©¶  ui_popup_list_close.wav
-©¶  ©¶  ui_popup_list_open.wav
-©¶  ©¶  ui_system_draw_lottery_five_times.wav
-©¶  ©¶  ui_system_draw_lottery_once.wav
-©¶  ©¶  ui_system_knapsack.wav
-©¶  ©¶  ui_system_monopoly_dice.wav
-©¶  ©¶  ui_system_monopoly_jump.wav
-©¶  ©¶  ui_system_store_aobai.wav
-©¶  ©¶  ui_system_store_aobai_suit.wav
-©¶  ©¶  ui_system_store_market.wav
-©¶  ©¶  ui_system_store_money.wav
-©¶  ©¶  ui_tab_click.wav
-©¶  ©¶  ui_tab_click_workshop_clothes.wav
-©¶  ©¶  ui_tab_click_workshop_cooking.wav
-©¶  ©¶  ui_tab_click_workshop_creation.wav
-©¶  ©¶  ui_tab_click_workshop_crop.wav
-©¶  ©¶  ui_tab_click_workshop_seiko.wav
-©¶  ©¶  ui_window_click_close (2).wav
-©¶  ©¶  ui_window_click_close.wav
-©¶  ©¶  ui_window_error.wav
-©¶  ©¶  ui_window_open_achievement.wav
-©¶  ©¶  ui_window_open_activity.wav
-©¶  ©¶  ui_window_open_aobiquan.wav
-©¶  ©¶  ui_window_open_competition.wav
-©¶  ©¶  ui_window_open_competition_exchange.wav
-©¶  ©¶  ui_window_open_competition_rank.wav
-©¶  ©¶  ui_window_open_contents.wav
-©¶  ©¶  ui_window_open_daily.wav
-©¶  ©¶  ui_window_open_delicious_bus.wav
-©¶  ©¶  ui_window_open_dress_up.wav
-©¶  ©¶  ui_window_open_egg.wav
-©¶  ©¶  ui_window_open_friend.wav
-©¶  ©¶  ui_window_open_game_room.wav
-©¶  ©¶  ui_window_open_illustrated.wav
-©¶  ©¶  ui_window_open_information.wav
-©¶  ©¶  ui_window_open_mail.wav
-©¶  ©¶  ui_window_open_map.wav
-©¶  ©¶  ui_window_open_party.wav
-©¶  ©¶  ui_window_open_pet.wav
-©¶  ©¶  workshop_interface_upgrade_completed.wav
-©¶  ©¶  zone_complete.wav
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§ui[0]
-©¿©§ui_1[0]
-©¶  ©¶  attack.wav
-©¶  ©¶  casting.wav
-©¶  ©¶  compose_crystal_1.wav
-©¶  ©¶  compose_crystal_2.wav
-©¶  ©¶  eliminate.wav
-©¶  ©¶  fall_finished.wav
-©¶  ©¶  food_drop.wav
-©¶  ©¶  get.wav
-©¶  ©¶  hit.wav
-©¶  ©¶  jump.wav
-©¶  ©¶  make.wav
-©¶  ©¶  move.wav
-©¶  ©¶  rotate.wav
-©¶  ©¶  throw.wav
-©¶  ©¶  ui_1[0].txt
-©¶  ©¶  ui_effect_akimbo.wav
-©¶  ©¶  ui_effect_autistic_loop.wav
-©¶  ©¶  ui_effect_codeword_loop.wav
-©¶  ©¶  ui_effect_dance_joy_loop.wav
-©¶  ©¶  ui_effect_fail.wav
-©¶  ©¶  ui_effect_fashion_week_competition_score.wav
-©¶  ©¶  ui_effect_fashion_week_competition_start.wav
-©¶  ©¶  ui_effect_find_fault_correct.wav
-©¶  ©¶  ui_effect_find_fault_error.wav
-©¶  ©¶  ui_effect_flop_flop.wav
-©¶  ©¶  ui_effect_flop_pairing_failed.wav
-©¶  ©¶  ui_effect_flop_pairing_success.wav
-©¶  ©¶  ui_effect_flop_shuffle.wav
-©¶  ©¶  ui_effect_goodnight.wav
-©¶  ©¶  ui_effect_hypnosis_loop.wav
-©¶  ©¶  ui_effect_kink_loop.wav
-©¶  ©¶  ui_effect_learn_magic.wav
-©¶  ©¶  ui_effect_learn_magic_drag.wav
-©¶  ©¶  ui_effect_learn_magic_put.wav
-©¶  ©¶  ui_effect_learn_magic_success.wav
-©¶  ©¶  ui_effect_let_go.wav
-©¶  ©¶  ui_effect_lie_dowm.wav
-©¶  ©¶  ui_effect_moon_spirit_flutters.wav
-©¶  ©¶  ui_effect_raise_hand.wav
-©¶  ©¶  ui_effect_refuse.wav
-©¶  ©¶  ui_effect_shy.wav
-©¶  ©¶  ui_effect_skin_peeler.wav
-©¶  ©¶  ui_effect_spirit_battle_card.wav
-©¶  ©¶  ui_effect_spirit_battle_ready.wav
-©¶  ©¶  ui_effect_stunned.wav
-©¶  ©¶  ui_effect_success.wav
-©¶  ©¶  ui_effect_sugaring.wav
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§ui_1[0]
-©¿©§ui_2[0]
-©¶  ©¶  accordion_ribbon.wav
-©¶  ©¶  accordion_wreath.wav
-©¶  ©¶  aobizhaixing.wav
-©¶  ©¶  big_rainbow.wav
-©¶  ©¶  big_star.wav
-©¶  ©¶  block_cracked.wav
-©¶  ©¶  bomb.wav
-©¶  ©¶  box.wav
-©¶  ©¶  button.wav
-©¶  ©¶  celebrate.wav
-©¶  ©¶  countdown_over.wav
-©¶  ©¶  die.wav
-©¶  ©¶  electric guitar_future_door.wav
-©¶  ©¶  electric_guitar_1960s.wav
-©¶  ©¶  fail.wav
-©¶  ©¶  final_moment.wav
-©¶  ©¶  get_mark_1.wav
-©¶  ©¶  get_mark_2.wav
-©¶  ©¶  happy_bread_bomb.wav
-©¶  ©¶  happy_bread_hapi.wav
-©¶  ©¶  happy_bread_inkfish.wav
-©¶  ©¶  happy_bread_slipper.wav
-©¶  ©¶  hongbao.wav
-©¶  ©¶  impact_guard.wav
-©¶  ©¶  jelly_spring.wav
-©¶  ©¶  jianianhua_gold.wav
-©¶  ©¶  jianianhua_openiam.wav
-©¶  ©¶  jiesuan.wav
-©¶  ©¶  jump.wav
-©¶  ©¶  kill.wav
-©¶  ©¶  laser_cannon.wav
-©¶  ©¶  limai_hlcq.wav
-©¶  ©¶  limai_whyt.wav
-©¶  ©¶  liuxing.wav
-©¶  ©¶  love.wav
-©¶  ©¶  melody.wav
-©¶  ©¶  metal_spring.wav
-©¶  ©¶  missile_countdown.wav
-©¶  ©¶  missile_launch.wav
-©¶  ©¶  pan.wav
-©¶  ©¶  pass_1.wav
-©¶  ©¶  pass_2.wav
-©¶  ©¶  pass_3.wav
-©¶  ©¶  pass_4.wav
-©¶  ©¶  pass_5.wav
-©¶  ©¶  random.wav
-©¶  ©¶  resurrection.wav
-©¶  ©¶  rule_introduction.wav
-©¶  ©¶  show.wav
-©¶  ©¶  small_rainbow.wav
-©¶  ©¶  small_star.wav
-©¶  ©¶  stabbed.wav
-©¶  ©¶  star_1.wav
-©¶  ©¶  star_2.wav
-©¶  ©¶  star_3.wav
-©¶  ©¶  stop.wav
-©¶  ©¶  throw_dice.wav
-©¶  ©¶  ui_2[0].txt
-©¶  ©¶  ui_effect_applause.wav
-©¶  ©¶  ui_effect_bainian.wav
-©¶  ©¶  ui_effect_bp_upgrade.wav
-©¶  ©¶  ui_effect_double_annoying.wav
-©¶  ©¶  ui_effect_double_arrow.wav
-©¶  ©¶  ui_effect_double_beat_fly.wav
-©¶  ©¶  ui_effect_double_bixin.wav
-©¶  ©¶  ui_effect_double_catch.wav
-©¶  ©¶  ui_effect_double_clap.wav
-©¶  ©¶  ui_effect_double_coincide.wav
-©¶  ©¶  ui_effect_double_friendship_power.wav
-©¶  ©¶  ui_effect_double_give_flower.wav
-©¶  ©¶  ui_effect_double_hit_you.wav
-©¶  ©¶  ui_effect_double_hop_together.wav
-©¶  ©¶  ui_effect_double_lightning.wav
-©¶  ©¶  ui_effect_double_lovey_dovey.wav
-©¶  ©¶  ui_effect_double_raise_high.wav
-©¶  ©¶  ui_effect_double_see_me.wav
-©¶  ©¶  ui_effect_double_take_photo.wav
-©¶  ©¶  ui_effect_double_touch_head_kill.wav
-©¶  ©¶  ui_effect_double_wake_up.wav
-©¶  ©¶  ui_effect_double_wipe_mouth.wav
-©¶  ©¶  ui_effect_gongxifacai.wav
-©¶  ©¶  ui_effect_hongbao.wav
-©¶  ©¶  ui_effect_lianliankan_elimination.wav
-©¶  ©¶  ui_effect_monalisa_smile.wav
-©¶  ©¶  ui_effect_odin_flybear.wav
-©¶  ©¶  ui_effect_puppetry.wav
-©¶  ©¶  ui_effect_see.wav
-©¶  ©¶  ui_effect_shuaiqi_01.wav
-©¶  ©¶  ui_effect_shuaiqi_02.wav
-©¶  ©¶  ui_effect_shuaiqi_03.wav
-©¶  ©¶  ui_effect_shuaiqi_04.wav
-©¶  ©¶  ui_effect_shuaiqi_05.wav
-©¶  ©¶  ui_effect_shuaiqi_06.wav
-©¶  ©¶  ui_effect_thinker.wav
-©¶  ©¶  ui_effect_yell.wav
-©¶  ©¶  ui_effect_yuanqi_01.wav
-©¶  ©¶  ui_effect_yuanqi_02.wav
-©¶  ©¶  ui_effect_yuanqi_03.wav
-©¶  ©¶  ui_effect_yuanqi_04.wav
-©¶  ©¶  ui_effect_yuanqi_05.wav
-©¶  ©¶  ui_effect_yuanqi_06.wav
-©¶  ©¶  ui_window_open_diary.wav
-©¶  ©¶  ui_window_open_dream_journey.wav
-©¶  ©¶  ui_window_open_flora_day.wav
-©¶  ©¶  ui_window_open_shadow_mystery.wav
-©¶  ©¶  ui_window_open_star_game.wav
-©¶  ©¶  use_a_life.wav
-©¶  ©¶  victory.wav
-©¶  ©¶  victory_50.wav
-©¶  ©¶  xingxing.wav
-©¶  ©¶  xuli.wav
-©¶  ©¶  yuanbao.wav
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§ui_2[0]
-©¿©§ui_3[0]
-©¶  ©¶  4.7_1.wav
-©¶  ©¶  4.7_3.wav
-©¶  ©¶  4.7_5.wav
-©¶  ©¶  4.7_6.wav
-©¶  ©¶  additional_score.wav
-©¶  ©¶  attack_1.wav
-©¶  ©¶  attack_2.wav
-©¶  ©¶  attack_3.wav
-©¶  ©¶  byh_hybg.wav
-©¶  ©¶  byh_rozy.wav
-©¶  ©¶  cat_1.wav
-©¶  ©¶  cat_2.wav
-©¶  ©¶  cat_3.wav
-©¶  ©¶  cat_4.wav
-©¶  ©¶  cat_bell.wav
-©¶  ©¶  cat_success.wav
-©¶  ©¶  choupai.wav
-©¶  ©¶  chouxuan.wav
-©¶  ©¶  chupai.wav
-©¶  ©¶  click_next.wav
-©¶  ©¶  cloth_drop.wav
-©¶  ©¶  deyi.wav
-©¶  ©¶  epiano_wrzy.wav
-©¶  ©¶  epiano_ymxh.wav
-©¶  ©¶  fapai.wav
-©¶  ©¶  faxiannianshou.wav
-©¶  ©¶  fireworks_bomb_1.wav
-©¶  ©¶  fireworks_bomb_2.wav
-©¶  ©¶  fireworks_sax.wav
-©¶  ©¶  flower_brush.wav
-©¶  ©¶  flower_eliminate.wav
-©¶  ©¶  hanyan.wav
-©¶  ©¶  hecheng_wanmei.wav
-©¶  ©¶  hecheng_yiban.wav
-©¶  ©¶  hit_1.wav
-©¶  ©¶  hit_2.wav
-©¶  ©¶  hit_3.wav
-©¶  ©¶  jingkong.wav
-©¶  ©¶  kaixin.wav
-©¶  ©¶  lundaowo.wav
-©¶  ©¶  magic1.wav
-©¶  ©¶  magic5.wav
-©¶  ©¶  make_success.wav
-©¶  ©¶  mlb_ch.wav
-©¶  ©¶  mlb_sl.wav
-©¶  ©¶  ruan_gycd.wav
-©¶  ©¶  ruan_hmtx.wav
-©¶  ©¶  ruan_jsrh.wav
-©¶  ©¶  sax_csmb.wav
-©¶  ©¶  sax_stsy.wav
-©¶  ©¶  sayuanbao.wav
-©¶  ©¶  seal_1.wav
-©¶  ©¶  spurt.wav
-©¶  ©¶  stain.wav
-©¶  ©¶  swing_gugong.wav
-©¶  ©¶  tanyuanbao.wav
-©¶  ©¶  ui_3[0].txt
-©¶  ©¶  ui_effect_blowing_balloons.wav
-©¶  ©¶  ui_effect_double_princess_embrace.wav
-©¶  ©¶  ui_effect_flying_scarf.wav
-©¶  ©¶  ui_effect_pick_rose_appear.wav
-©¶  ©¶  ui_effect_sahongbao.wav
-©¶  ©¶  ui_effect_shuaipao.wav
-©¶  ©¶  ui_effect_speed_her_pen.wav
-©¶  ©¶  ui_effect_top_block.wav
-©¶  ©¶  ui_effect_transformation.wav
-©¶  ©¶  ui_effect_wisdom_light.wav
-©¶  ©¶  ui_effect_xiezi.wav
-©¶  ©¶  xhl_hhgm.wav
-©¶  ©¶  xhl_shxh.wav
-©¶  ©¶  xhl_xrpp.wav
-©¶  ©¶  xingchuyan_2.wav
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§ui_3[0]
-©¿©§ui_4[0]
-©¶  ©¶  clarinet_ddzy.wav
-©¶  ©¶  clarinet_hyzx.wav
-©¶  ©¶  cyq_qcwq.wav
-©¶  ©¶  cyq_qhxl.wav
-©¶  ©¶  cyq_tmfc.wav
-©¶  ©¶  deal.wav
-©¶  ©¶  dzq_cyjt.wav
-©¶  ©¶  dzq_oxyd.wav
-©¶  ©¶  dzq_qywd.wav
-©¶  ©¶  fall.wav
-©¶  ©¶  fly.wav
-©¶  ©¶  fly_into_xtra_rewards.wav
-©¶  ©¶  into_water.wav
-©¶  ©¶  klb_dhhg.wav
-©¶  ©¶  klb_fyzx.wav
-©¶  ©¶  klb_ygmj.wav
-©¶  ©¶  kouqin_shmz.wav
-©¶  ©¶  kouqin_ywcz.wav
-©¶  ©¶  laiyaqin1.wav
-©¶  ©¶  laiyaqin2.wav
-©¶  ©¶  light.wav
-©¶  ©¶  mine.wav
-©¶  ©¶  popcorn.wav
-©¶  ©¶  pot.wav
-©¶  ©¶  sheshou_attack.wav
-©¶  ©¶  sheshou_hit.wav
-©¶  ©¶  tomato_attack.wav
-©¶  ©¶  tomato_hit.wav
-©¶  ©¶  ui_4[0].txt
-©¶  ©¶  ui_card.wav
-©¶  ©¶  ui_effect_lucky_spray.wav
-©¶  ©¶  ui_effect_tianyimianmian.wav
-©¶  ©¶  ui_effect_zhuangku.wav
-©¶  ©¶  ui_effect_zuanshizhixin.wav
-©¶  ©¶  ykll_tgd.wav
-©¶  ©¶  ykll_xxt.wav
-©¶  ©¶  ykll_yxh.wav
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§ui_4[0]
-©¿©§ui_linshi[0]
-©¶  ©¶  1.wav
-©¶  ©¶  10.wav
-©¶  ©¶  2.wav
-©¶  ©¶  3.wav
-©¶  ©¶  4.7_7.wav
-©¶  ©¶  4.wav
-©¶  ©¶  5.wav
-©¶  ©¶  6.wav
-©¶  ©¶  7.wav
-©¶  ©¶  8.wav
-©¶  ©¶  9.wav
-©¶  ©¶  column_broken.wav
-©¶  ©¶  die.wav
-©¶  ©¶  disappear.wav
-©¶  ©¶  fanghua_book_fly.wav
-©¶  ©¶  fanghua_book_open.wav
-©¶  ©¶  fanghua_get_5_star.wav
-©¶  ©¶  fanghua_get_general.wav
-©¶  ©¶  fly.wav
-©¶  ©¶  mechanism_gate.wav
-©¶  ©¶  moon.wav
-©¶  ©¶  pixies_show_1.wav
-©¶  ©¶  pixies_show_2.wav
-©¶  ©¶  pixies_show_3.wav
-©¶  ©¶  publish_answers.wav
-©¶  ©¶  skill_sprint.wav
-©¶  ©¶  ui_linshi[0].txt
-©¶  ©¶  wipe.wav
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§ui_linshi[0]
-©¿©§ukulele[0]
-©¶  ©¶  ukulele1.wav
-©¶  ©¶  ukulele10.wav
-©¶  ©¶  ukulele11.wav
-©¶  ©¶  ukulele12.wav
-©¶  ©¶  ukulele13.wav
-©¶  ©¶  ukulele14.wav
-©¶  ©¶  ukulele15.wav
-©¶  ©¶  ukulele16.wav
-©¶  ©¶  ukulele17.wav
-©¶  ©¶  ukulele18.wav
-©¶  ©¶  ukulele19.wav
-©¶  ©¶  ukulele2.wav
-©¶  ©¶  ukulele20.wav
-©¶  ©¶  ukulele21.wav
-©¶  ©¶  ukulele22.wav
-©¶  ©¶  ukulele3.wav
-©¶  ©¶  ukulele4.wav
-©¶  ©¶  ukulele5.wav
-©¶  ©¶  ukulele6.wav
-©¶  ©¶  ukulele7.wav
-©¶  ©¶  ukulele8.wav
-©¶  ©¶  ukulele9.wav
-©¶  ©¶  ukulele[0].txt
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§ukulele[0]
-©¿©§uno_vo[0]
-©¶  ©¶  bianse.wav
-©¶  ©¶  bianse_1.wav
-©¶  ©¶  bianse_107.wav
-©¶  ©¶  bianse_1_79.wav
-©¶  ©¶  duihua1.wav
-©¶  ©¶  duihua1_1.wav
-©¶  ©¶  duihua2.wav
-©¶  ©¶  duihua2_1.wav
-©¶  ©¶  duihua3.wav
-©¶  ©¶  duihua3_1.wav
-©¶  ©¶  duihua3_1_48.wav
-©¶  ©¶  duihua4.wav
-©¶  ©¶  duihua4_1.wav
-©¶  ©¶  duihua4_1_106.wav
-©¶  ©¶  duihua4_94.wav
-©¶  ©¶  duihua5.wav
-©¶  ©¶  duihua5_1.wav
-©¶  ©¶  duihua5_19.wav
-©¶  ©¶  duihua_1.wav
-©¶  ©¶  duihua_2.wav
-©¶  ©¶  duihua_2_1.wav
-©¶  ©¶  duihua_3.wav
-©¶  ©¶  hong0.wav
-©¶  ©¶  hong0_88.wav
-©¶  ©¶  hong1.wav
-©¶  ©¶  hong1_78.wav
-©¶  ©¶  hong2.wav
-©¶  ©¶  hong2_41.wav
-©¶  ©¶  hong3.wav
-©¶  ©¶  hong3_77.wav
-©¶  ©¶  hong4.wav
-©¶  ©¶  hong4_7.wav
-©¶  ©¶  hong5.wav
-©¶  ©¶  hong5_105.wav
-©¶  ©¶  hong6.wav
-©¶  ©¶  hong6_95.wav
-©¶  ©¶  hong7.wav
-©¶  ©¶  hong7_100.wav
-©¶  ©¶  hong8.wav
-©¶  ©¶  hong8_101.wav
-©¶  ©¶  hong9.wav
-©¶  ©¶  hong9_84.wav
-©¶  ©¶  huang0.wav
-©¶  ©¶  huang0_46.wav
-©¶  ©¶  huang1.wav
-©¶  ©¶  huang1_21.wav
-©¶  ©¶  huang2.wav
-©¶  ©¶  huang2_9.wav
-©¶  ©¶  huang3.wav
-©¶  ©¶  huang3_85.wav
-©¶  ©¶  huang4.wav
-©¶  ©¶  huang4_110.wav
-©¶  ©¶  huang5.wav
-©¶  ©¶  huang5_108.wav
-©¶  ©¶  huang6.wav
-©¶  ©¶  huang6_97.wav
-©¶  ©¶  huang7.wav
-©¶  ©¶  huang7_111.wav
-©¶  ©¶  huang8.wav
-©¶  ©¶  huang8_93.wav
-©¶  ©¶  huang9.wav
-©¶  ©¶  huang9_103.wav
-©¶  ©¶  jia2.wav
-©¶  ©¶  jia2_1.wav
-©¶  ©¶  jia2_1_104.wav
-©¶  ©¶  jia2_45.wav
-©¶  ©¶  jia4.wav
-©¶  ©¶  jia4_1.wav
-©¶  ©¶  jia4_55.wav
-©¶  ©¶  jinshoupai.wav
-©¶  ©¶  jinshoupai_72.wav
-©¶  ©¶  lan0.wav
-©¶  ©¶  lan0_20.wav
-©¶  ©¶  lan1.wav
-©¶  ©¶  lan1_99.wav
-©¶  ©¶  lan2.wav
-©¶  ©¶  lan2_63.wav
-©¶  ©¶  lan3.wav
-©¶  ©¶  lan3_98.wav
-©¶  ©¶  lan4.wav
-©¶  ©¶  lan4_69.wav
-©¶  ©¶  lan5.wav
-©¶  ©¶  lan5_91.wav
-©¶  ©¶  lan6.wav
-©¶  ©¶  lan6_89.wav
-©¶  ©¶  lan7.wav
-©¶  ©¶  lan7_52.wav
-©¶  ©¶  lan8.wav
-©¶  ©¶  lan8_12.wav
-©¶  ©¶  lan9.wav
-©¶  ©¶  lan9_54.wav
-©¶  ©¶  lv0.wav
-©¶  ©¶  lv0_81.wav
-©¶  ©¶  lv1.wav
-©¶  ©¶  lv1_116.wav
-©¶  ©¶  lv2.wav
-©¶  ©¶  lv2_67.wav
-©¶  ©¶  lv3.wav
-©¶  ©¶  lv3_90.wav
-©¶  ©¶  lv4.wav
-©¶  ©¶  lv4_82.wav
-©¶  ©¶  lv5.wav
-©¶  ©¶  lv5_14.wav
-©¶  ©¶  lv6.wav
-©¶  ©¶  lv6_92.wav
-©¶  ©¶  lv7.wav
-©¶  ©¶  lv7_114.wav
-©¶  ©¶  lv8.wav
-©¶  ©¶  lv8_117.wav
-©¶  ©¶  lv9.wav
-©¶  ©¶  lv9_113.wav
-©¶  ©¶  uno_vo[0].txt
-©¶  ©¶  zhuanxiangpai.wav
-©¶  ©¶  zhuanxiangpai_1.wav
-©¶  ©¶  zhuanxiangpai_83.wav
-©¶  ©¶  zuihou.wav
-©¶  ©¶  zuihou_1.wav
-©¶  ©¶  zuihou_1_73.wav
-©¶  ©¶  zuihou_75.wav
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§uno_vo[0]
-©¿©§vo_expression[0]
-©¶  ©¶  vo_expression[0].txt
-©¶  ©¶  vo_expression_akimbo_man.wav
-©¶  ©¶  vo_expression_akimbo_woman.wav
-©¶  ©¶  vo_expression_angry_man_1.wav
-©¶  ©¶  vo_expression_angry_woman_1.wav
-©¶  ©¶  vo_expression_autistic_man.wav
-©¶  ©¶  vo_expression_autistic_man_1.wav
-©¶  ©¶  vo_expression_autistic_woman.wav
-©¶  ©¶  vo_expression_bang_se_man_1.wav
-©¶  ©¶  vo_expression_bang_se_woman_1.wav
-©¶  ©¶  vo_expression_beautiful_man_1.wav
-©¶  ©¶  vo_expression_beautiful_man_2.wav
-©¶  ©¶  vo_expression_beautiful_man_3.wav
-©¶  ©¶  vo_expression_beautiful_man_4.wav
-©¶  ©¶  vo_expression_beautiful_woman_1.wav
-©¶  ©¶  vo_expression_beautiful_woman_2.wav
-©¶  ©¶  vo_expression_beg_man_1.wav
-©¶  ©¶  vo_expression_beg_man_2.wav
-©¶  ©¶  vo_expression_beg_man_3.wav
-©¶  ©¶  vo_expression_beg_man_4.wav
-©¶  ©¶  vo_expression_beg_woman_1.wav
-©¶  ©¶  vo_expression_beg_woman_2.wav
-©¶  ©¶  vo_expression_beg_woman_3.wav
-©¶  ©¶  vo_expression_bye_man_1.wav
-©¶  ©¶  vo_expression_bye_man_2.wav
-©¶  ©¶  vo_expression_bye_man_3.wav
-©¶  ©¶  vo_expression_bye_man_4.wav
-©¶  ©¶  vo_expression_bye_woman_1.wav
-©¶  ©¶  vo_expression_cheer_man_1.wav
-©¶  ©¶  vo_expression_cheer_man_2.wav
-©¶  ©¶  vo_expression_cheer_man_3.wav
-©¶  ©¶  vo_expression_cheer_woman_1.wav
-©¶  ©¶  vo_expression_cheer_woman_2.wav
-©¶  ©¶  vo_expression_cheer_woman_3.wav
-©¶  ©¶  vo_expression_codeword_man.wav
-©¶  ©¶  vo_expression_codeword_man_1.wav
-©¶  ©¶  vo_expression_codeword_woman.wav
-©¶  ©¶  vo_expression_codeword_woman_1.wav
-©¶  ©¶  vo_expression_come_on_man_1.wav
-©¶  ©¶  vo_expression_come_on_man_2.wav
-©¶  ©¶  vo_expression_come_on_woman_1.wav
-©¶  ©¶  vo_expression_cry_man_1.wav
-©¶  ©¶  vo_expression_cry_man_2.wav
-©¶  ©¶  vo_expression_cry_man_3.wav
-©¶  ©¶  vo_expression_cry_woman_1.wav
-©¶  ©¶  vo_expression_cry_woman_2.wav
-©¶  ©¶  vo_expression_dance_joy_man.wav
-©¶  ©¶  vo_expression_dance_joy_man_1.wav
-©¶  ©¶  vo_expression_dance_joy_woman.wav
-©¶  ©¶  vo_expression_dance_joy_woman_1.wav
-©¶  ©¶  vo_expression_dislike_man_1.wav
-©¶  ©¶  vo_expression_dislike_man_2.wav
-©¶  ©¶  vo_expression_dislike_man_3.wav
-©¶  ©¶  vo_expression_dislike_man_4.wav
-©¶  ©¶  vo_expression_dislike_woman_1.wav
-©¶  ©¶  vo_expression_dislike_woman_2.wav
-©¶  ©¶  vo_expression_evil_smile_man_1.wav
-©¶  ©¶  vo_expression_evil_smile_man_2.wav
-©¶  ©¶  vo_expression_evil_smile_man_3.wav
-©¶  ©¶  vo_expression_evil_smile_woman_1.wav
-©¶  ©¶  vo_expression_fist_man_1.wav
-©¶  ©¶  vo_expression_fist_man_2.wav
-©¶  ©¶  vo_expression_fist_woman_1.wav
-©¶  ©¶  vo_expression_goodnight_man.wav
-©¶  ©¶  vo_expression_goodnight_woman.wav
-©¶  ©¶  vo_expression_happy_man_1.wav
-©¶  ©¶  vo_expression_happy_man_3.wav
-©¶  ©¶  vo_expression_happy_man_4.wav
-©¶  ©¶  vo_expression_happy_woman_1.wav
-©¶  ©¶  vo_expression_hello_man_1.wav
-©¶  ©¶  vo_expression_hello_man_2.wav
-©¶  ©¶  vo_expression_hello_man_3.wav
-©¶  ©¶  vo_expression_hello_woman_1.wav
-©¶  ©¶  vo_expression_hello_woman_2.wav
-©¶  ©¶  vo_expression_hypnosis_man.wav
-©¶  ©¶  vo_expression_hypnosis_man_1.wav
-©¶  ©¶  vo_expression_hypnosis_woman.wav
-©¶  ©¶  vo_expression_hypnosis_woman_1.wav
-©¶  ©¶  vo_expression_kink_man.wav
-©¶  ©¶  vo_expression_kink_man_1.wav
-©¶  ©¶  vo_expression_kink_woman.wav
-©¶  ©¶  vo_expression_kink_woman_1.wav
-©¶  ©¶  vo_expression_kiss_man_1.wav
-©¶  ©¶  vo_expression_kiss_man_2.wav
-©¶  ©¶  vo_expression_kiss_man_3.wav
-©¶  ©¶  vo_expression_kiss_woman_1.wav
-©¶  ©¶  vo_expression_laugh_man_1.wav
-©¶  ©¶  vo_expression_laugh_man_2.wav
-©¶  ©¶  vo_expression_laugh_man_3.wav
-©¶  ©¶  vo_expression_laugh_woman_1.wav
-©¶  ©¶  vo_expression_let_go_man.wav
-©¶  ©¶  vo_expression_let_go_man_1.wav
-©¶  ©¶  vo_expression_let_go_woman.wav
-©¶  ©¶  vo_expression_let_go_woman_1.wav
-©¶  ©¶  vo_expression_lie_dowm_man.wav
-©¶  ©¶  vo_expression_lie_dowm_man_1.wav
-©¶  ©¶  vo_expression_lie_dowm_woman.wav
-©¶  ©¶  vo_expression_lie_dowm_woman_1.wav
-©¶  ©¶  vo_expression_nod_man_1.wav
-©¶  ©¶  vo_expression_nod_man_2.wav
-©¶  ©¶  vo_expression_nod_man_3.wav
-©¶  ©¶  vo_expression_nod_woman_1.wav
-©¶  ©¶  vo_expression_raise_hand_man.wav
-©¶  ©¶  vo_expression_raise_hand_woman.wav
-©¶  ©¶  vo_expression_refuse_man.wav
-©¶  ©¶  vo_expression_refuse_man_1.wav
-©¶  ©¶  vo_expression_refuse_woman.wav
-©¶  ©¶  vo_expression_refuse_woman_1.wav
-©¶  ©¶  vo_expression_scare_man_1.wav
-©¶  ©¶  vo_expression_scare_woman_1.wav
-©¶  ©¶  vo_expression_scare_woman_2.wav
-©¶  ©¶  vo_expression_shy_man.wav
-©¶  ©¶  vo_expression_shy_woman.wav
-©¶  ©¶  vo_expression_sit_man_1.wav
-©¶  ©¶  vo_expression_sit_woman_1.wav
-©¶  ©¶  vo_expression_skating_man_1.wav
-©¶  ©¶  vo_expression_skating_man_2.wav
-©¶  ©¶  vo_expression_skating_man_3.wav
-©¶  ©¶  vo_expression_skating_man_4.wav
-©¶  ©¶  vo_expression_skating_woman_1.wav
-©¶  ©¶  vo_expression_skating_woman_2.wav
-©¶  ©¶  vo_expression_stunned_man.wav
-©¶  ©¶  vo_expression_stunned_man_1.wav
-©¶  ©¶  vo_expression_stunned_man_2.wav
-©¶  ©¶  vo_expression_stunned_woman.wav
-©¶  ©¶  vo_expression_stunned_woman_1.wav
-©¶  ©¶  vo_expression_thanks_man_1.wav
-©¶  ©¶  vo_expression_thanks_man_2.wav
-©¶  ©¶  vo_expression_thanks_man_3.wav
-©¶  ©¶  vo_expression_thanks_man_4.wav
-©¶  ©¶  vo_expression_thanks_woman_1.wav
-©¶  ©¶  vo_expression_thanks_woman_2.wav
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§vo_expression[0]
-©¿©§weiguang[0]
-©¶  ©¶  crab_attack.wav
-©¶  ©¶  eel_gun_attack_1.wav
-©¶  ©¶  eel_gun_attack_2.wav
-©¶  ©¶  eel_gun_attack_3.wav
-©¶  ©¶  eel_gun_hit_1.wav
-©¶  ©¶  eel_gun_hit_2.wav
-©¶  ©¶  eel_gun_hit_3.wav
-©¶  ©¶  eel_gun_no_hit_1.wav
-©¶  ©¶  eel_gun_no_hit_2.wav
-©¶  ©¶  eel_gun_no_hit_3.wav
-©¶  ©¶  exploration_completed.wav
-©¶  ©¶  exploration_failed.wav
-©¶  ©¶  inkfish_gun_attack_1.wav
-©¶  ©¶  inkfish_gun_attack_2.wav
-©¶  ©¶  inkfish_gun_attack_3.wav
-©¶  ©¶  inkfish_gun_hit_1.wav
-©¶  ©¶  inkfish_gun_hit_2.wav
-©¶  ©¶  inkfish_gun_hit_3.wav
-©¶  ©¶  inkfish_gun_no_hit_1.wav
-©¶  ©¶  inkfish_gun_no_hit_2.wav
-©¶  ©¶  inkfish_gun_no_hit_3.wav
-©¶  ©¶  starfish_move.wav
-©¶  ©¶  underwater.wav
-©¶  ©¶  weiguang[0].txt
-©¶  ©¶  whirlpool.wav
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§weiguang[0]
-©¿©§werewolf[0]
-©¶  ©¶  ui_effect_langrensha_change.wav
-©¶  ©¶  ui_effect_langrensha_civilian_victory.wav
-©¶  ©¶  ui_effect_langrensha_device_open.wav
-©¶  ©¶  ui_effect_langrensha_draw_water.wav
-©¶  ©¶  ui_effect_langrensha_drill_into_tunnel.wav
-©¶  ©¶  ui_effect_langrensha_drill_out_tunnel.wav
-©¶  ©¶  ui_effect_langrensha_emergency_meeting.wav
-©¶  ©¶  ui_effect_langrensha_game_start.wav
-©¶  ©¶  ui_effect_langrensha_get_black_status.wav
-©¶  ©¶  ui_effect_langrensha_get_items.wav
-©¶  ©¶  ui_effect_langrensha_get_white_status.wav
-©¶  ©¶  ui_effect_langrensha_light_tablet.wav
-©¶  ©¶  ui_effect_langrensha_lovers_changed.wav
-©¶  ©¶  ui_effect_langrensha_lovers_status.wav
-©¶  ©¶  ui_effect_langrensha_lovers_victory.wav
-©¶  ©¶  ui_effect_langrensha_make_medicine.wav
-©¶  ©¶  ui_effect_langrensha_meeting_reminder.wav
-©¶  ©¶  ui_effect_langrensha_MVP.wav
-©¶  ©¶  ui_effect_langrensha_nobody_out.wav
-©¶  ©¶  ui_effect_langrensha_pray.wav
-©¶  ©¶  ui_effect_langrensha_put_stick.wav
-©¶  ©¶  ui_effect_langrensha_rescue_spirit.wav
-©¶  ©¶  ui_effect_langrensha_scroll_splicing.wav
-©¶  ©¶  ui_effect_langrensha_throw_out_civilian.wav
-©¶  ©¶  ui_effect_langrensha_throw_out_werewolf.wav
-©¶  ©¶  ui_effect_langrensha_treehouse_guard.wav
-©¶  ©¶  ui_effect_langrensha_troubleshooting_device.wav
-©¶  ©¶  ui_effect_langrensha_uproot_flowers.wav
-©¶  ©¶  ui_effect_langrensha_vine_in.wav
-©¶  ©¶  ui_effect_langrensha_vine_out.wav
-©¶  ©¶  ui_effect_langrensha_washing_slate.wav
-©¶  ©¶  ui_effect_langrensha_werewolf_victory.wav
-©¶  ©¶  werewolf[0].txt
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§werewolf[0]
-©¿©§werewolf_taosheng[0]
-©¶  ©¶  boss_attack.wav
-©¶  ©¶  boss_insert.wav
-©¶  ©¶  boss_lift.wav
-©¶  ©¶  boss_put_dowm.wav
-©¶  ©¶  boss_skill.wav
-©¶  ©¶  close_smll_door.wav
-©¶  ©¶  conversion_successful.wav
-©¶  ©¶  defeat.wav
-©¶  ©¶  draw.wav
-©¶  ©¶  heartbeat.wav
-©¶  ©¶  open_big_door.wav
-©¶  ©¶  repair_machine_successful.wav
-©¶  ©¶  werewolf_taosheng[0].txt
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§werewolf_taosheng[0]
-©¿©§working[0]
-©¶  ©¶  boil_magic_drug.wav
-©¶  ©¶  cut_wheat.wav
-©¶  ©¶  distribute_leaflets.wav
-©¶  ©¶  grind_coffee.wav
-©¶  ©¶  grind_flour.wav
-©¶  ©¶  grind_wheat.wav
-©¶  ©¶  looking_for_medicine.wav
-©¶  ©¶  make_cloud.wav
-©¶  ©¶  make_coffee.wav
-©¶  ©¶  promotion.wav
-©¶  ©¶  spray_rainbow.wav
-©¶  ©¶  sun_wheat.wav
-©¶  ©¶  toast_bread.wav
-©¶  ©¶  transfer_brand.wav
-©¶  ©¶  weed.wav
-©¶  ©¶  weigh_magic_drug.wav
-©¶  ©¶  wipe_cup.wav
-©¶  ©¶  wipe_star.wav
-©¶  ©¶  wipe_wall.wav
-©¶  ©¶  wipe_window.wav
-©¶  ©¶  working[0].txt
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§working[0]
-©¿©§xiaotiqin[0]
-©¶  ©¶  1.wav
-©¶  ©¶  10.wav
-©¶  ©¶  11.wav
-©¶  ©¶  12.wav
-©¶  ©¶  13.wav
-©¶  ©¶  14.wav
-©¶  ©¶  15.wav
-©¶  ©¶  16.wav
-©¶  ©¶  17.wav
-©¶  ©¶  18.wav
-©¶  ©¶  19.wav
-©¶  ©¶  2.wav
-©¶  ©¶  20.wav
-©¶  ©¶  21.wav
-©¶  ©¶  22.wav
-©¶  ©¶  3.wav
-©¶  ©¶  4.wav
-©¶  ©¶  5.wav
-©¶  ©¶  6.wav
-©¶  ©¶  7.wav
-©¶  ©¶  8.wav
-©¶  ©¶  9.wav
-©¶  ©¶  xiaotiqin[0].txt
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§xiaotiqin[0]
-©¿©§xinshou[0]
-©¶  ©¶  xinshou[0].txt
-©¶  ©¶  xsjqdhz001.wav
-©¶  ©¶  xsjqdhz002.wav
-©¶  ©¶  xsjqdxz001.wav
-©¶  ©¶  xsjqdxz002.wav
-©¶  ©¶  xsjqdxz003.wav
-©¶  ©¶  xsjqdxz004.wav
-©¶  ©¶  xsjqdxz005.wav
-©¶  ©¶  xsjqdxz006.wav
-©¶  ©¶  xsjqdxz007.wav
-©¶  ©¶  xsjqdxz008.wav
-©¶  ©¶  xsjqdxz009.wav
-©¶  ©¶  xsjqdxz010.wav
-©¶  ©¶  xsjqdxz011.wav
-©¶  ©¶  xsjqdxz012.wav
-©¶  ©¶  xsjqdxz013.wav
-©¶  ©¶  xsjqdxz014.wav
-©¶  ©¶  xsjqdxz015.wav
-©¶  ©¶  xsjqdxz016.wav
-©¶  ©¶  xsjqdxz017.wav
-©¶  ©¶  xsjqdxz018.wav
-©¶  ©¶  xsjqdxz019.wav
-©¶  ©¶  xsjqdxz020.wav
-©¶  ©¶  xsjqdxz021.wav
-©¶  ©¶  xsjqdxz022.wav
-©¶  ©¶  xsjqdxz023.wav
-©¶  ©¶  xsjqdxz024.wav
-©¶  ©¶  xsjqdxz025.wav
-©¶  ©¶  xsjqdxz026.wav
-©¶  ©¶  xsjqlw001.wav
-©¶  ©¶  xsjqlw002.wav
-©¶  ©¶  xsjqlw003.wav
-©¶  ©¶  xsjqlw004.wav
-©¶  ©¶  xsjqlw005.wav
-©¶  ©¶  xsjqlw006.wav
-©¶  ©¶  xsjqlw007.wav
-©¶  ©¶  xsjqlw008.wav
-©¶  ©¶  xsjqlw009.wav
-©¶  ©¶  xsjqlw010.wav
-©¶  ©¶  xsjqlw011.wav
-©¶  ©¶  xsjqxy001.wav
-©¶  ©¶  xsjqxy002.wav
-©¶  ©¶  xsjqxy003.wav
-©¶  ©¶  xsjqxy004.wav
-©¶  ©¶  xsjqxy005.wav
-©¶  ©¶  xsjqxy006.wav
-©¶  ©¶  xsjqxy007.wav
-©¶  ©¶  xsjqxy008.wav
-©¶  ©¶  xsjqxy009.wav
-©¶  ©¶  xsjqxy010.wav
-©¶  ©¶  xsjqxy011.wav
-©¶  ©¶  xsjqxy012.wav
-©¶  ©¶  xsjqxy013.wav
-©¶  ©¶  xsjqxy014.wav
-©¶  ©¶  xsjqxy015.wav
-©¶  ©¶  xsjqxy016.wav
-©¶  ©¶  xsjqxy017.wav
-©¶  ©¶  xsjqxy018.wav
-©¶  ©¶  xsjqxy019.wav
-©¶  ©¶  xsjqxy020.wav
-©¶  ©¶  xsjqxy021.wav
-©¶  ©¶  xsjqxy022.wav
-©¶  ©¶  xsjqxy023.wav
-©¶  ©¶  xsjqxy024.wav
-©¶  ©¶  xsjqxy025.wav
-©¶  ©¶  xsjqxy026.wav
-©¶  ©¶  xsjqxy027.wav
-©¶  ©¶  xsjqxy028.wav
-©¶  ©¶  xsjqxy029.wav
-©¶  ©¶  xsjqxy030.wav
-©¶  ©¶  xsjqxy031.wav
-©¶  ©¶  xsjqxy032.wav
-©¶  ©¶  xsjqxy033.wav
-©¶  ©¶  xsjqxy034.wav
-©¶  ©¶  xsjqxy035.wav
-©¶  ©¶  xsjqxy036.wav
-©¶  ©¶  xsjqxy037.wav
-©¶  ©¶  xsjqxy038.wav
-©¶  ©¶  xsjqxy039.wav
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§xinshou[0]
-©¿©§zhenjiapaidui_vo[0]
-©¶  ©¶  boy_duihua_1.wav
-©¶  ©¶  boy_duihua_2.wav
-©¶  ©¶  boy_duihua_3.wav
-©¶  ©¶  boy_duihua_4.wav
-©¶  ©¶  boy_duihua_5.wav
-©¶  ©¶  girl_duihua_1.wav
-©¶  ©¶  girl_duihua_2.wav
-©¶  ©¶  girl_duihua_3.wav
-©¶  ©¶  girl_duihua_4.wav
-©¶  ©¶  girl_duihua_5.wav
-©¶  ©¶  zhenjiapaidui_vo[0].txt
-©¶  ©¶  
-©¶  ©∏©§wav
-©¶      ©∏©§zhenjiapaidui_vo[0]
-©∏©§zhongyuanwang[0]
-    ©¶  zhongyuanwang[0].txt
-    ©¶  zhongyuanwang_suxing.wav
-    ©¶  zhongyuanwang_theme.wav
-    ©¶  
-    ©∏©§wav
-        ©∏©§zhongyuanwang[0]
+‚îÇ  
+‚îú‚îÄ4.7[0]
+‚îÇ      4.7[0].txt
+‚îÇ      4.7_chunwan_fengrenyu001.wav
+‚îÇ      4.7_chunwan_fengrenyu002.wav
+‚îÇ      4.7_chunwan_fengrenyu003.wav
+‚îÇ      4.7_chunwan_fengrenyu004.wav
+‚îÇ      4.7_chunwan_he1.wav
+‚îÇ      4.7_chunwan_he10.wav
+‚îÇ      4.7_chunwan_he11.wav
+‚îÇ      4.7_chunwan_he12.wav
+‚îÇ      4.7_chunwan_he13.wav
+‚îÇ      4.7_chunwan_he14.wav
+‚îÇ      4.7_chunwan_he15.wav
+‚îÇ      4.7_chunwan_he16.wav
+‚îÇ      4.7_chunwan_he17.wav
+‚îÇ      4.7_chunwan_he18.wav
+‚îÇ      4.7_chunwan_he2.wav
+‚îÇ      4.7_chunwan_he3.wav
+‚îÇ      4.7_chunwan_he4.wav
+‚îÇ      4.7_chunwan_he5.wav
+‚îÇ      4.7_chunwan_he6.wav
+‚îÇ      4.7_chunwan_he7.wav
+‚îÇ      4.7_chunwan_he8.wav
+‚îÇ      4.7_chunwan_he9.wav
+‚îÇ      4.7_chunwan_jk001.wav
+‚îÇ      4.7_chunwan_jk002.wav
+‚îÇ      4.7_chunwan_jk003.wav
+‚îÇ      4.7_chunwan_jk004.wav
+‚îÇ      4.7_chunwan_jk005.wav
+‚îÇ      4.7_chunwan_jk006.wav
+‚îÇ      4.7_chunwan_jk007.wav
+‚îÇ      4.7_chunwan_kl001.wav
+‚îÇ      4.7_chunwan_kl002.wav
+‚îÇ      4.7_chunwan_kl003.wav
+‚îÇ      4.7_chunwan_kl004.wav
+‚îÇ      4.7_chunwan_kl005.wav
+‚îÇ      4.7_chunwan_kl006.wav
+‚îÇ      4.7_chunwan_kl007.wav
+‚îÇ      4.7_chunwan_kl008.wav
+‚îÇ      4.7_chunwan_kl009.wav
+‚îÇ      4.7_chunwan_kl010.wav
+‚îÇ      4.7_chunwan_kl011.wav
+‚îÇ      4.7_chunwan_kl012.wav
+‚îÇ      4.7_chunwan_kl013.wav
+‚îÇ      4.7_chunwan_kl014.wav
+‚îÇ      4.7_chunwan_kl015.wav
+‚îÇ      4.7_chunwan_kl016.wav
+‚îÇ      4.7_chunwan_kl017.wav
+‚îÇ      4.7_chunwan_kl018.wav
+‚îÇ      4.7_chunwan_kl019.wav
+‚îÇ      4.7_chunwan_kl020.wav
+‚îÇ      4.7_chunwan_kl021.wav
+‚îÇ      4.7_chunwan_kl022.wav
+‚îÇ      4.7_chunwan_kl023.wav
+‚îÇ      4.7_chunwan_kl024.wav
+‚îÇ      4.7_chunwan_kl025.wav
+‚îÇ      4.7_chunwan_kl026.wav
+‚îÇ      4.7_chunwan_kl027.wav
+‚îÇ      4.7_chunwan_kl028.wav
+‚îÇ      4.7_chunwan_kl029.wav
+‚îÇ      4.7_chunwan_kl030.wav
+‚îÇ      4.7_chunwan_kl031.wav
+‚îÇ      4.7_chunwan_kl032.wav
+‚îÇ      4.7_chunwan_kl033.wav
+‚îÇ      4.7_chunwan_kl034.wav
+‚îÇ      4.7_chunwan_kl035.wav
+‚îÇ      4.7_chunwan_kl036.wav
+‚îÇ      4.7_chunwan_kl037.wav
+‚îÇ      4.7_chunwan_kl038.wav
+‚îÇ      4.7_chunwan_kl039.wav
+‚îÇ      4.7_chunwan_kl040.wav
+‚îÇ      4.7_chunwan_kl041.wav
+‚îÇ      4.7_chunwan_kl042.wav
+‚îÇ      4.7_chunwan_lk001.wav
+‚îÇ      4.7_chunwan_lk002.wav
+‚îÇ      4.7_chunwan_lk003.wav
+‚îÇ      4.7_chunwan_lk004.wav
+‚îÇ      4.7_chunwan_lk005.wav
+‚îÇ      4.7_chunwan_lz001.wav
+‚îÇ      4.7_chunwan_lz002.wav
+‚îÇ      4.7_chunwan_lz003.wav
+‚îÇ      4.7_chunwan_lz004.wav
+‚îÇ      4.7_chunwan_lz005.wav
+‚îÇ      4.7_chunwan_lz006.wav
+‚îÇ      4.7_chunwan_lz007.wav
+‚îÇ      4.7_chunwan_lz008.wav
+‚îÇ      4.7_chunwan_lz009.wav
+‚îÇ      4.7_chunwan_lz010.wav
+‚îÇ      4.7_chunwan_lz011.wav
+‚îÇ      4.7_chunwan_lz012.wav
+‚îÇ      4.7_chunwan_lz013.wav
+‚îÇ      4.7_chunwan_lz014.wav
+‚îÇ      4.7_chunwan_lz015.wav
+‚îÇ      4.7_chunwan_lz016.wav
+‚îÇ      4.7_chunwan_lz017.wav
+‚îÇ      4.7_chunwan_lz018.wav
+‚îÇ      4.7_chunwan_lz019.wav
+‚îÇ      4.7_chunwan_lz020.wav
+‚îÇ      4.7_chunwan_lz021.wav
+‚îÇ      4.7_chunwan_lz022.wav
+‚îÇ      4.7_chunwan_lz023.wav
+‚îÇ      4.7_chunwan_lz024.wav
+‚îÇ      4.7_chunwan_lz025.wav
+‚îÇ      4.7_chunwan_lz026.wav
+‚îÇ      4.7_chunwan_lz027.wav
+‚îÇ      4.7_chunwan_lz028.wav
+‚îÇ      4.7_chunwan_lz029.wav
+‚îÇ      4.7_chunwan_lz030.wav
+‚îÇ      4.7_chunwan_lz031.wav
+‚îÇ      4.7_chunwan_lz032.wav
+‚îÇ      4.7_chunwan_lz033.wav
+‚îÇ      4.7_chunwan_lz034.wav
+‚îÇ      4.7_chunwan_lz035.wav
+‚îÇ      4.7_chunwan_lz036.wav
+‚îÇ      4.7_chunwan_lz037.wav
+‚îÇ      4.7_chunwan_lz038.wav
+‚îÇ      4.7_chunwan_lz039.wav
+‚îÇ      4.7_chunwan_lz040.wav
+‚îÇ      4.7_chunwan_lz041.wav
+‚îÇ      4.7_chunwan_lz042.wav
+‚îÇ      4.7_chunwan_lz043.wav
+‚îÇ      4.7_chunwan_lz044.wav
+‚îÇ      4.7_chunwan_lz045.wav
+‚îÇ      4.7_chunwan_lz046.wav
+‚îÇ      4.7_chunwan_lz047.wav
+‚îÇ      4.7_chunwan_lz048.wav
+‚îÇ      4.7_chunwan_lz049.wav
+‚îÇ      4.7_chunwan_lz050.wav
+‚îÇ      4.7_chunwan_lz051.wav
+‚îÇ      4.7_chunwan_lz052.wav
+‚îÇ      4.7_chunwan_lz053.wav
+‚îÇ      4.7_chunwan_lz054.wav
+‚îÇ      4.7_chunwan_lz055.wav
+‚îÇ      4.7_chunwan_lz056.wav
+‚îÇ      4.7_chunwan_lz057.wav
+‚îÇ      4.7_chunwan_lz058.wav
+‚îÇ      4.7_chunwan_lz059.wav
+‚îÇ      4.7_chunwan_lz060.wav
+‚îÇ      4.7_chunwan_lz061.wav
+‚îÇ      4.7_chunwan_lz062.wav
+‚îÇ      4.7_chunwan_lz063.wav
+‚îÇ      4.7_chunwan_lz064.wav
+‚îÇ      4.7_chunwan_lz065.wav
+‚îÇ      4.7_chunwan_lz066.wav
+‚îÇ      4.7_chunwan_lz067.wav
+‚îÇ      4.7_chunwan_lz068.wav
+‚îÇ      4.7_chunwan_swx001.wav
+‚îÇ      4.7_chunwan_swx002.wav
+‚îÇ      4.7_chunwan_swx003.wav
+‚îÇ      4.7_chunwan_swx004.wav
+‚îÇ      4.7_chunwan_swx005.wav
+‚îÇ      4.7_chunwan_swx006.wav
+‚îÇ      4.7_chunwan_swx007.wav
+‚îÇ      4.7_chunwan_swx008.wav
+‚îÇ      4.7_chunwan_swx009.wav
+‚îÇ      4.7_chunwan_swx010.wav
+‚îÇ      4.7_chunwan_swx011.wav
+‚îÇ      4.7_chunwan_swx012.wav
+‚îÇ      4.7_chunwan_swx013.wav
+‚îÇ      4.7_chunwan_swx014.wav
+‚îÇ      4.7_chunwan_swx015.wav
+‚îÇ      4.7_chunwan_swx016.wav
+‚îÇ      4.7_chunwan_swx017.wav
+‚îÇ      4.7_chunwan_swx018.wav
+‚îÇ      4.7_chunwan_swx019.wav
+‚îÇ      4.7_chunwan_swx020.wav
+‚îÇ      4.7_chunwan_swx021.wav
+‚îÇ      4.7_chunwan_swx022.wav
+‚îÇ      4.7_chunwan_swx023.wav
+‚îÇ      4.7_chunwan_swx024.wav
+‚îÇ      4.7_chunwan_swx025.wav
+‚îÇ      4.7_chunwan_swx026.wav
+‚îÇ      4.7_chunwan_swx027.wav
+‚îÇ      4.7_chunwan_swx028.wav
+‚îÇ      4.7_chunwan_swx029.wav
+‚îÇ      4.7_chunwan_swx030.wav
+‚îÇ      4.7_chunwan_swx031.wav
+‚îÇ      4.7_chunwan_swx032.wav
+‚îÇ      4.7_chunwan_swx033.wav
+‚îÇ      4.7_chunwan_swx034.wav
+‚îÇ      4.7_chunwan_swx035.wav
+‚îÇ      4.7_chunwan_swx036.wav
+‚îÇ      4.7_chunwan_swx037.wav
+‚îÇ      4.7_chunwan_swx038.wav
+‚îÇ      4.7_chunwan_swx039.wav
+‚îÇ      4.7_chunwan_swx040.wav
+‚îÇ      4.7_chunwan_swx041.wav
+‚îÇ      4.7_chunwan_swx042.wav
+‚îÇ      4.7_chunwan_swx043.wav
+‚îÇ      4.7_chunwan_swx044.wav
+‚îÇ      4.7_chunwan_swx045.wav
+‚îÇ      4.7_chunwan_swx046.wav
+‚îÇ      4.7_chunwan_swx047.wav
+‚îÇ      4.7_chunwan_swx048.wav
+‚îÇ      4.7_chunwan_swx049.wav
+‚îÇ      4.7_chunwan_swx050.wav
+‚îÇ      4.7_chunwan_swx051.wav
+‚îÇ      4.7_chunwan_swx052.wav
+‚îÇ      4.7_chunwan_swx053.wav
+‚îÇ      4.7_chunwan_swx054.wav
+‚îÇ      4.7_chunwan_swx055.wav
+‚îÇ      4.7_chunwan_swx056.wav
+‚îÇ      4.7_chunwan_swx057.wav
+‚îÇ      4.7_chunwan_swx058.wav
+‚îÇ      4.7_chunwan_swx059.wav
+‚îÇ      4.7_chunwan_swx060.wav
+‚îÇ      4.7_chunwan_swx061.wav
+‚îÇ      4.7_chunwan_swx062.wav
+‚îÇ      4.7_chunwan_swx063.wav
+‚îÇ      4.7_chunwan_swx064.wav
+‚îÇ      4.7_chunwan_swx065.wav
+‚îÇ      4.7_chunwan_swx066.wav
+‚îÇ      4.7_chunwan_tiluo001.wav
+‚îÇ      4.7_chunwan_tiluo002.wav
+‚îÇ      4.7_chunwan_tiluo003.wav
+‚îÇ      4.7_chunwan_tiluo004.wav
+‚îÇ      4.7_chunwan_tiluo005.wav
+‚îÇ      4.7_chunwan_wlt001.wav
+‚îÇ      4.7_chunwan_wlt002.wav
+‚îÇ      4.7_chunwan_wlt003.wav
+‚îÇ      4.7_chunwan_wlt004.wav
+‚îÇ      4.7_chunwan_wlt005.wav
+‚îÇ      4.7_chunwan_wlt006.wav
+‚îÇ      4.7_chunwan_wlt007.wav
+‚îÇ      4.7_chunwan_wlt008.wav
+‚îÇ      4.7_chunwan_wlt009.wav
+‚îÇ      4.7_chunwan_wlt010.wav
+‚îÇ      4.7_chunwan_wlt011.wav
+‚îÇ      4.7_chunwan_wlt012.wav
+‚îÇ      4.7_chunwan_wlt013.wav
+‚îÇ      4.7_chunwan_wlt014.wav
+‚îÇ      4.7_chunwan_wlt015.wav
+‚îÇ      4.7_chunwan_wlt016.wav
+‚îÇ      4.7_chunwan_wlt017.wav
+‚îÇ      4.7_chunwan_wlt018.wav
+‚îÇ      4.7_chunwan_wlt019.wav
+‚îÇ      4.7_chunwan_wlt020.wav
+‚îÇ      4.7_chunwan_wlt021.wav
+‚îÇ      4.7_chunwan_wlt022.wav
+‚îÇ      4.7_chunwan_wlt023.wav
+‚îÇ      4.7_chunwan_wlt024.wav
+‚îÇ      4.7_chunwan_wlt025.wav
+‚îÇ      4.7_chunwan_wlt026.wav
+‚îÇ      4.7_chunwan_wlt027.wav
+‚îÇ      4.7_chunwan_wlt028.wav
+‚îÇ      4.7_chunwan_wlt029.wav
+‚îÇ      4.7_chunwan_wlt030.wav
+‚îÇ      4.7_chunwan_wlt031.wav
+‚îÇ      4.7_chunwan_wlt032.wav
+‚îÇ      4.7_chunwan_wlt033.wav
+‚îÇ      4.7_chunwan_wlt034.wav
+‚îÇ      4.7_chunwan_wlt035.wav
+‚îÇ      4.7_chunwan_wlt036.wav
+‚îÇ      4.7_chunwan_wlt037.wav
+‚îÇ      4.7_chunwan_wlt038.wav
+‚îÇ      4.7_chunwan_wlt039.wav
+‚îÇ      4.7_chunwan_wlt040.wav
+‚îÇ      4.7_chunwan_wlt041.wav
+‚îÇ      4.7_chunwan_wlt042.wav
+‚îÇ      4.7_chunwan_wlt043.wav
+‚îÇ      4.7_chunwan_wlt044.wav
+‚îÇ      4.7_chunwan_wlt045.wav
+‚îÇ      4.7_chunwan_wlt046.wav
+‚îÇ      4.7_chunwan_wlt047.wav
+‚îÇ      4.7_chunwan_wlt048.wav
+‚îÇ      4.7_chunwan_wlt049.wav
+‚îÇ      4.7_chunwan_wlt050.wav
+‚îÇ      4.7_chunwan_wlt051.wav
+‚îÇ      4.7_chunwan_wlt052.wav
+‚îÇ      4.7_chunwan_wlt053.wav
+‚îÇ      4.7_chunwan_wlt054.wav
+‚îÇ      4.7_chunwan_wlt055.wav
+‚îÇ      4.7_chunwan_wlt056.wav
+‚îÇ      4.7_chunwan_wlt057.wav
+‚îÇ      4.7_chunwan_wlt058.wav
+‚îÇ      4.7_chunwan_wlt059.wav
+‚îÇ      4.7_chunwan_wlt060 .wav
+‚îÇ      4.7_chunwan_wlt061.wav
+‚îÇ      4.7_chunwan_wlt062.wav
+‚îÇ      4.7_chunwan_wlt063.wav
+‚îÇ      4.7_chunwan_wlt064.wav
+‚îÇ      4.7_chunwan_wlt065.wav
+‚îÇ      4.7_chunwan_wlt066.wav
+‚îÇ      4.7_chunwan_wlt067.wav
+‚îÇ      4.7_chunwan_wlt068.wav
+‚îÇ      4.7_chunwan_wlt069.wav
+‚îÇ      4.7_chunwan_wlt070.wav
+‚îÇ      4.7_chunwan_wlt071.wav
+‚îÇ      4.7_chunwan_wlt072.wav
+‚îÇ      4.7_chunwan_wlt073.wav
+‚îÇ      4.7_chunwan_wlt074.wav
+‚îÇ      4.7_chunwan_wlt075.wav
+‚îÇ      4.7_chunwan_wlt076.wav
+‚îÇ      4.7_chunwan_wlt077.wav
+‚îÇ      4.7_chunwan_wlt078.wav
+‚îÇ      4.7_chunwan_wlt079.wav
+‚îÇ      4.7_chunwan_wlt080.wav
+‚îÇ      4.7_chunwan_wlt081.wav
+‚îÇ      4.7_chunwan_wlt082.wav
+‚îÇ      4.7_chunwan_wlt083.wav
+‚îÇ      4.7_chunwan_wlt084.wav
+‚îÇ      4.7_chunwan_wlt085.wav
+‚îÇ      4.7_chunwan_wlt086.wav
+‚îÇ      4.7_chunwan_wlt087.wav
+‚îÇ      4.7_chunwan_wlt088.wav
+‚îÇ      4.7_chunwan_wlt089.wav
+‚îÇ      4.7_chunwan_wlt090.wav
+‚îÇ      4.7_chunwan_wlt091.wav
+‚îÇ      4.7_chunwan_wlt092.wav
+‚îÇ      4.7_chunwan_wlt093.wav
+‚îÇ      4.7_chunwan_wlt094.wav
+‚îÇ      4.7_chunwan_xed001.wav
+‚îÇ      4.7_chunwan_xed002.wav
+‚îÇ      4.7_chunwan_xed003.wav
+‚îÇ      4.7_chunwan_xed004.wav
+‚îÇ      4.7_chunwan_xed005.wav
+‚îÇ      4.7_chunwan_xed006.wav
+‚îÇ      4.7_chunwan_xed007.wav
+‚îÇ      4.7_chunwan_xed008.wav
+‚îÇ      4.7_chunwan_xed009.wav
+‚îÇ      4.7_chunwan_xed010.wav
+‚îÇ      4.7_chunwan_xed011.wav
+‚îÇ      4.7_chunwan_xed012.wav
+‚îÇ      4.7_chunwan_xed013.wav
+‚îÇ      4.7_chunwan_xed014.wav
+‚îÇ      4.7_chunwan_xed015.wav
+‚îÇ      4.7_chunwan_xed016.wav
+‚îÇ      4.7_chunwan_xed017.wav
+‚îÇ      4.7_chunwan_xed018.wav
+‚îÇ      4.7_chunwan_xed019.wav
+‚îÇ      4.7_chunwan_xed020.wav
+‚îÇ      4.7_chunwan_xed021.wav
+‚îÇ      4.7_chunwan_xed022.wav
+‚îÇ      4.7_chunwan_xed023.wav
+‚îÇ      4.7_chunwan_xed024.wav
+‚îÇ      4.7_chunwan_xed025.wav
+‚îÇ      4.7_chunwan_xed026.wav
+‚îÇ      4.7_chunwan_xed027.wav
+‚îÇ      4.7_chunwan_xed028.wav
+‚îÇ      4.7_chunwan_xed029.wav
+‚îÇ      4.7_chunwan_xed030.wav
+‚îÇ      4.7_chunwan_xed031.wav
+‚îÇ      4.7_chunwan_xed032.wav
+‚îÇ      4.7_chunwan_xed033.wav
+‚îÇ      4.7_chunwan_xed034.wav
+‚îÇ      4.7_chunwan_xed035.wav
+‚îÇ      4.7_chunwan_xed036.wav
+‚îÇ      4.7_chunwan_xed037.wav
+‚îÇ      4.7_chunwan_xed038.wav
+‚îÇ      4.7_chunwan_xed039.wav
+‚îÇ      4.7_chunwan_xed040.wav
+‚îÇ      4.7_chunwan_xed041.wav
+‚îÇ      4.7_chunwan_xed042.wav
+‚îÇ      4.7_chunwan_xed043.wav
+‚îÇ      4.7_chunwan_xed044.wav
+‚îÇ      4.7_chunwan_xed045.wav
+‚îÇ      4.7_chunwan_xed046.wav
+‚îÇ      4.7_chunwan_xed047.wav
+‚îÇ      4.7_chunwan_xed048.wav
+‚îÇ      4.7_chunwan_xed049.wav
+‚îÇ      4.7_chunwan_xed050.wav
+‚îÇ      4.7_chunwan_xed051.wav
+‚îÇ      4.7_chunwan_xed052.wav
+‚îÇ      4.7_chunwan_xed053.wav
+‚îÇ      4.7_chunwan_xed054.wav
+‚îÇ      4.7_chunwan_xed055.wav
+‚îÇ      4.7_chunwan_xed056.wav
+‚îÇ      4.7_chunwan_xed057.wav
+‚îÇ      4.7_chunwan_xed058.wav
+‚îÇ      4.7_chunwan_xed059.wav
+‚îÇ      4.7_chunwan_xed060.wav
+‚îÇ      4.7_chunwan_xed061.wav
+‚îÇ      4.7_chunwan_xed062.wav
+‚îÇ      4.7_chunwan_xed063.wav
+‚îÇ      4.7_chunwan_xed064.wav
+‚îÇ      4.7_chunwan_xed065.wav
+‚îÇ      4.7_chunwan_xed066.wav
+‚îÇ      4.7_chunwan_xed067.wav
+‚îÇ      4.7_chunwan_xed068.wav
+‚îÇ      4.7_chunwan_xed069.wav
+‚îÇ      4.7_chunwan_xn001.wav
+‚îÇ      4.7_chunwan_xn002.wav
+‚îÇ      4.7_chunwan_xn003.wav
+‚îÇ      4.7_chunwan_xn004.wav
+‚îÇ      4.7_chunwan_xn005.wav
+‚îÇ      4.7_chunwan_xn006.wav
+‚îÇ      4.7_chunwan_xn007.wav
+‚îÇ      4.7_chunwan_xn008.wav
+‚îÇ      4.7_chunwan_xn009.wav
+‚îÇ      4.7_chunwan_xn010.wav
+‚îÇ      4.7_chunwan_xn011.wav
+‚îÇ      4.7_chunwan_xn012.wav
+‚îÇ      4.7_chunwan_xn013.wav
+‚îÇ      4.7_chunwan_xn014.wav
+‚îÇ      4.7_chunwan_xn015.wav
+‚îÇ      4.7_chunwan_xn016.wav
+‚îÇ      4.7_chunwan_xn017.wav
+‚îÇ      4.7_chunwan_xn018.wav
+‚îÇ      4.7_chunwan_xn019.wav
+‚îÇ      4.7_chunwan_xn020.wav
+‚îÇ      4.7_chunwan_xn021.wav
+‚îÇ      4.7_chunwan_xn022.wav
+‚îÇ      4.7_chunwan_xn023.wav
+‚îÇ      4.7_chunwan_xn024.wav
+‚îÇ      4.7_chunwan_xn025.wav
+‚îÇ      4.7_chunwan_xn026.wav
+‚îÇ      4.7_chunwan_xn027.wav
+‚îÇ      4.7_chunwan_xn028.wav
+‚îÇ      4.7_chunwan_xn029.wav
+‚îÇ      4.7_chunwan_xn030.wav
+‚îÇ      4.7_chunwan_xn031.wav
+‚îÇ      4.7_chunwan_xn032.wav
+‚îÇ      4.7_chunwan_xn033.wav
+‚îÇ      4.7_chunwan_xn034.wav
+‚îÇ      4.7_chunwan_xn035.wav
+‚îÇ      4.7_chunwan_xn036.wav
+‚îÇ      4.7_chunwan_xn037.wav
+‚îÇ      4.7_chunwan_xn038.wav
+‚îÇ      4.7_chunwan_xn039.wav
+‚îÇ      4.7_chunwan_xn040.wav
+‚îÇ      4.7_chunwan_xn041.wav
+‚îÇ      4.7_chunwan_xn042.wav
+‚îÇ      4.7_chunwan_xn043.wav
+‚îÇ      4.7_chunwan_xn044.wav
+‚îÇ      4.7_chunwan_xn045.wav
+‚îÇ      4.7_chunwan_xn046.wav
+‚îÇ      4.7_chunwan_xn047.wav
+‚îÇ      4.7_chunwan_xn048.wav
+‚îÇ      4.7_chunwan_xn049.wav
+‚îÇ      4.7_chunwan_xn050.wav
+‚îÇ      4.7_chunwan_xn051.wav
+‚îÇ      4.7_chunwan_xn052.wav
+‚îÇ      4.7_chunwan_xn053.wav
+‚îÇ      4.7_chunwan_xn054.wav
+‚îÇ      4.7_chunwan_xn055.wav
+‚îÇ      4.7_chunwan_xn056.wav
+‚îÇ      4.7_chunwan_xn057.wav
+‚îÇ      4.7_chunwan_xn058.wav
+‚îÇ      4.7_chunwan_xn059.wav
+‚îÇ      4.7_chunwan_xn060.wav
+‚îÇ      4.7_chunwan_xn061.wav
+‚îÇ      4.7_chunwan_xn062.wav
+‚îÇ      4.7_chunwan_xn063.wav
+‚îÇ      4.7_chunwan_xn064.wav
+‚îÇ      4.7_chunwan_xn065.wav
+‚îÇ      4.7_chunwan_xn066.wav
+‚îÇ      4.7_chunwan_xn067.wav
+‚îÇ      4.7_chunwan_xn068.wav
+‚îÇ      4.7_chunwan_xn069.wav
+‚îÇ      4.7_chunwan_xn070.wav
+‚îÇ      4.7_chunwan_xn071.wav
+‚îÇ      4.7_chunwan_xuanshuang001.wav
+‚îÇ      4.7_chunwan_xuanshuang002.wav
+‚îÇ      4.7_chunwan_xuanshuang003.wav
+‚îÇ      4.7_chunwan_xuanshuang004.wav
+‚îÇ      4.7_chunwan_xy001.wav
+‚îÇ      4.7_chunwan_xy002.wav
+‚îÇ      4.7_chunwan_xy003.wav
+‚îÇ      4.7_chunwan_xy004.wav
+‚îÇ      4.7_chunwan_xy005.wav
+‚îÇ      4.7_chunwan_xy006.wav
+‚îÇ      4.7_chunwan_xy007.wav
+‚îÇ      
+‚îú‚îÄ5.0_anniversary[0]
+‚îÇ      5.0_anniversary[0].txt
+‚îÇ      anniversary_park.wav
+‚îÇ      douwu_01.wav
+‚îÇ      douwu_02.wav
+‚îÇ      huachexunyou.wav
+‚îÇ      mengkehuache.wav
+‚îÇ      qiwumengke.wav
+‚îÇ      qiwuzhuzhuxia.wav
+‚îÇ      zhuzhuxiahuache.wav
+‚îÇ      ziyouwu_01.wav
+‚îÇ      ziyouwu_02.wav
+‚îÇ      
+‚îú‚îÄactivity[0]
+‚îÇ      activity[0].txt
+‚îÇ      npc_hello_aila_101.wav
+‚îÇ      npc_hello_alasi_101.wav
+‚îÇ      npc_hello_aoli_101.wav
+‚îÇ      npc_hello_dahuzi_101.wav
+‚îÇ      npc_hello_daixi_101.wav
+‚îÇ      npc_hello_fenger_101.wav
+‚îÇ      npc_hello_fengwa_101.wav
+‚îÇ      npc_hello_fengwa_102.wav
+‚îÇ      npc_hello_haila_101.wav
+‚îÇ      npc_hello_haila_102.wav
+‚îÇ      npc_hello_jinkuai_101.wav
+‚îÇ      npc_hello_kelai_101.wav
+‚îÇ      npc_hello_laiang_101.wav
+‚îÇ      npc_hello_laiang_102.wav
+‚îÇ      npc_hello_lizhen_101.wav
+‚îÇ      npc_hello_lizhen_102.wav
+‚îÇ      npc_hello_lizhen_103.wav
+‚îÇ      npc_hello_maguli_101.wav
+‚îÇ      npc_hello_malu_101.wav
+‚îÇ      npc_hello_malu_102.wav
+‚îÇ      npc_hello_meier_101.wav
+‚îÇ      npc_hello_modun_101.wav
+‚îÇ      npc_hello_panpan_101.wav
+‚îÇ      npc_hello_suofeiya_101.wav
+‚îÇ      npc_hello_suoya_101.wav
+‚îÇ      npc_hello_suoya_102.wav
+‚îÇ      npc_hello_tianji_101.wav
+‚îÇ      npc_hello_wayi_101.wav
+‚îÇ      npc_hello_weikeduo_101.wav
+‚îÇ      npc_hello_weilita_101.wav
+‚îÇ      npc_hello_wendi_101.wav
+‚îÇ      npc_hello_wendi_102.wav
+‚îÇ      npc_hello_xiaoye_101.wav
+‚îÇ      npc_hello_xiaoye_102.wav
+‚îÇ      npc_hello_xiaoye_103.wav
+‚îÇ      npc_hello_xierda_101.wav
+‚îÇ      npc_hello_yexi_101.wav
+‚îÇ      
+‚îú‚îÄamb_2d[0]
+‚îÇ      amb_2d[0].txt
+‚îÇ      amb_under_sea.wav
+‚îÇ      black_bird_1.wav
+‚îÇ      black_bird_2.wav
+‚îÇ      black_bird_3.wav
+‚îÇ      black_bird_4.wav
+‚îÇ      forest_night_owl_01.wav
+‚îÇ      forest_night_owl_02.wav
+‚îÇ      forest_night_owl_03.wav
+‚îÇ      forest_night_owl_04.wav
+‚îÇ      forest_night_owl_05.wav
+‚îÇ      forest_rain_1.wav
+‚îÇ      forest_rain_2.wav
+‚îÇ      forest_rain_3.wav
+‚îÇ      forest_rain_4.wav
+‚îÇ      island_bird.wav
+‚îÇ      island_bird_10.wav
+‚îÇ      island_bird_11.wav
+‚îÇ      island_bird_12.wav
+‚îÇ      island_bird_2.wav
+‚îÇ      island_bird_3.wav
+‚îÇ      island_bird_4.wav
+‚îÇ      island_bird_5.wav
+‚îÇ      island_bird_6.wav
+‚îÇ      island_bird_7.wav
+‚îÇ      island_bird_8.wav
+‚îÇ      island_bird_9.wav
+‚îÇ      langrensha_1.wav
+‚îÇ      langrensha_2.wav
+‚îÇ      langrensha_wind_1.wav
+‚îÇ      longwa_story.wav
+‚îÇ      loon_1.wav
+‚îÇ      loon_13.wav
+‚îÇ      loon_16.wav
+‚îÇ      mf_night_1.wav
+‚îÇ      mtf_bird_01.wav
+‚îÇ      mtf_bird_02.wav
+‚îÇ      mtf_bird_03.wav
+‚îÇ      mtf_bird_04.wav
+‚îÇ      mtf_bird_05.wav
+‚îÇ      mtf_bird_06.wav
+‚îÇ      mtf_bird_07.wav
+‚îÇ      mtf_bird_08.wav
+‚îÇ      mtf_bird_09.wav
+‚îÇ      rain.wav
+‚îÇ      rain_hard.wav
+‚îÇ      renou_bujing.wav
+‚îÇ      Seagull_Caws01.wav
+‚îÇ      Seagull_Caws02.wav
+‚îÇ      Seagull_Caws03.wav
+‚îÇ      Seagull_Caws04.wav
+‚îÇ      Seagull_Caws05.wav
+‚îÇ      Seagull_Caws06.wav
+‚îÇ      thunder_1.wav
+‚îÇ      thunder_2.wav
+‚îÇ      thunder_3.wav
+‚îÇ      thunder_4.wav
+‚îÇ      thunder_5.wav
+‚îÇ      thunder_6.wav
+‚îÇ      thunder_7.wav
+‚îÇ      wave.wav
+‚îÇ      
+‚îú‚îÄamb_2d_1[0]
+‚îÇ      amb_2d_1[0].txt
+‚îÇ      amb_snow.wav
+‚îÇ      biyeji.wav
+‚îÇ      erlili_huazhan.wav
+‚îÇ      hanghai.wav
+‚îÇ      
+‚îú‚îÄamb_3d[0]
+‚îÇ      amb_3d[0].txt
+‚îÇ      campfire.wav
+‚îÇ      fireworks_01.wav
+‚îÇ      fireworks_01_all.wav
+‚îÇ      fireworks_01_sp.wav
+‚îÇ      fireworks_02.wav
+‚îÇ      fireworks_02_all.wav
+‚îÇ      fireworks_02_sp.wav
+‚îÇ      fireworks_03.wav
+‚îÇ      fireworks_03_all.wav
+‚îÇ      fireworks_03_sp.wav
+‚îÇ      fireworks_04.wav
+‚îÇ      fireworks_04_all.wav
+‚îÇ      fireworks_04_sp.wav
+‚îÇ      fireworks_05.wav
+‚îÇ      fireworks_05_all.wav
+‚îÇ      fireworks_05_sp.wav
+‚îÇ      fireworks_5.wav
+‚îÇ      fireworks_6.wav
+‚îÇ      fireworks_7.wav
+‚îÇ      fireworks_8.wav
+‚îÇ      fireworks_bomb_1.wav
+‚îÇ      fireworks_bomb_2.wav
+‚îÇ      fireworks_bomb_3.wav
+‚îÇ      fireworks_bomb_4.wav
+‚îÇ      fireworks_bomb_5.wav
+‚îÇ      fireworks_pubuxing.wav
+‚îÇ      fireworks_pugongying.wav
+‚îÇ      fireworks_shexian.wav
+‚îÇ      fireworks_whistle_1.wav
+‚îÇ      fireworks_whistle_2.wav
+‚îÇ      fireworks_whistle_3.wav
+‚îÇ      fireworks_whistle_4.wav
+‚îÇ      fireworks_word.wav
+‚îÇ      fireworks_xiazhuixiaosan.wav
+‚îÇ      fireworks_zhanfangbaozha.wav
+‚îÇ      huojianpao.wav
+‚îÇ      pigeon.wav
+‚îÇ      pigeon1.wav
+‚îÇ      pigeon2.wav
+‚îÇ      pigeon3.wav
+‚îÇ      
+‚îú‚îÄamb_family[0]
+‚îÇ      amb_family[0].txt
+‚îÇ      bird_10.wav
+‚îÇ      bird_11.wav
+‚îÇ      bird_12.wav
+‚îÇ      bird_square_1.wav
+‚îÇ      bird_square_2.wav
+‚îÇ      bird_square_3.wav
+‚îÇ      bird_square_4.wav
+‚îÇ      island_bird_7.wav
+‚îÇ      island_night_1.wav
+‚îÇ      island_night_2.wav
+‚îÇ      island_night_3.wav
+‚îÇ      island_night_4.wav
+‚îÇ      island_night_5.wav
+‚îÇ      island_night_6.wav
+‚îÇ      island_night_7.wav
+‚îÇ      island_night_8.wav
+‚îÇ      island_night_9.wav
+‚îÇ      square_dog.wav
+‚îÇ      square_dog_1.wav
+‚îÇ      square_dog_2.wav
+‚îÇ      square_dog_3.wav
+‚îÇ      square_dog_4.wav
+‚îÇ      square_dog_5.wav
+‚îÇ      
+‚îú‚îÄamb_forest[0]
+‚îÇ      1.wav
+‚îÇ      1_33.wav
+‚îÇ      2.wav
+‚îÇ      2_51.wav
+‚îÇ      3.wav
+‚îÇ      3_45.wav
+‚îÇ      4.wav
+‚îÇ      4_52.wav
+‚îÇ      5.wav
+‚îÇ      5_71.wav
+‚îÇ      6.wav
+‚îÇ      6_48.wav
+‚îÇ      7.wav
+‚îÇ      7_35.wav
+‚îÇ      8.wav
+‚îÇ      8_63.wav
+‚îÇ      amb_forest[0].txt
+‚îÇ      bee.wav
+‚îÇ      bird.wav
+‚îÇ      bird_1.wav
+‚îÇ      bird_10.wav
+‚îÇ      bird_11.wav
+‚îÇ      bird_12.wav
+‚îÇ      bird_13.wav
+‚îÇ      bird_2.wav
+‚îÇ      bird_3.wav
+‚îÇ      bird_4.wav
+‚îÇ      bird_5.wav
+‚îÇ      bird_6.wav
+‚îÇ      bird_7.wav
+‚îÇ      bird_8.wav
+‚îÇ      bird_9.wav
+‚îÇ      bird_song_1.wav
+‚îÇ      bird_song_2.wav
+‚îÇ      bird_song_3.wav
+‚îÇ      bird_song_4.wav
+‚îÇ      bird_song_5.wav
+‚îÇ      bird_song_6.wav
+‚îÇ      bird_song_7.wav
+‚îÇ      black_bird_1.wav
+‚îÇ      black_bird_2.wav
+‚îÇ      black_bird_3.wav
+‚îÇ      black_bird_4.wav
+‚îÇ      forest_night_7.wav
+‚îÇ      forest_night_owl_01.wav
+‚îÇ      forest_night_owl_02.wav
+‚îÇ      forest_night_owl_03.wav
+‚îÇ      forest_night_owl_04.wav
+‚îÇ      forest_night_owl_05.wav
+‚îÇ      frog_1.wav
+‚îÇ      frog_2.wav
+‚îÇ      frog_3.wav
+‚îÇ      loon_1.wav
+‚îÇ      loon_10.wav
+‚îÇ      loon_11.wav
+‚îÇ      loon_12.wav
+‚îÇ      loon_13.wav
+‚îÇ      loon_14.wav
+‚îÇ      loon_15.wav
+‚îÇ      loon_16.wav
+‚îÇ      loon_2.wav
+‚îÇ      loon_3.wav
+‚îÇ      loon_4.wav
+‚îÇ      loon_5.wav
+‚îÇ      loon_6.wav
+‚îÇ      loon_7.wav
+‚îÇ      loon_8.wav
+‚îÇ      loon_9.wav
+‚îÇ      ring.wav
+‚îÇ      waterfall-1.wav
+‚îÇ      waterfall-2.wav
+‚îÇ      waterwheel_1.wav
+‚îÇ      waterwheel_2.wav
+‚îÇ      waterwheel_3.wav
+‚îÇ      waterwheel_4.wav
+‚îÇ      waterwheel_5.wav
+‚îÇ      
+‚îú‚îÄamb_friendship_manor[0]
+‚îÇ      amb_friendship_manor[0].txt
+‚îÇ      fountain_1.wav
+‚îÇ      friendship_manor_wave.wav
+‚îÇ      island_bird.wav
+‚îÇ      island_bird_10.wav
+‚îÇ      island_bird_11.wav
+‚îÇ      island_bird_12.wav
+‚îÇ      island_bird_2.wav
+‚îÇ      island_bird_3.wav
+‚îÇ      island_bird_4.wav
+‚îÇ      island_bird_5.wav
+‚îÇ      island_bird_6.wav
+‚îÇ      island_bird_7.wav
+‚îÇ      island_bird_8.wav
+‚îÇ      island_bird_9.wav
+‚îÇ      island_night_2.wav
+‚îÇ      island_night_3.wav
+‚îÇ      island_night_4.wav
+‚îÇ      island_night_5.wav
+‚îÇ      island_night_6.wav
+‚îÇ      island_night_7.wav
+‚îÇ      island_night_8.wav
+‚îÇ      manor_day_1.wav
+‚îÇ      manor_day_2.wav
+‚îÇ      manor_day_3.wav
+‚îÇ      manor_day_4.wav
+‚îÇ      manor_day_5.wav
+‚îÇ      manor_day_6.wav
+‚îÇ      manor_day_7.wav
+‚îÇ      manor_day_8.wav
+‚îÇ      manor_day_9.wav
+‚îÇ      seagull_01.wav
+‚îÇ      seagull_02.wav
+‚îÇ      seagull_03.wav
+‚îÇ      seagull_04.wav
+‚îÇ      seagull_05.wav
+‚îÇ      seagull_06.wav
+‚îÇ      seagull_07.wav
+‚îÇ      seagull_08.wav
+‚îÇ      taobao_night.wav
+‚îÇ      
+‚îú‚îÄamb_island[0]
+‚îÇ      amb_island[0].txt
+‚îÇ      island_bird.wav
+‚îÇ      island_bird_10.wav
+‚îÇ      island_bird_11.wav
+‚îÇ      island_bird_12.wav
+‚îÇ      island_bird_2.wav
+‚îÇ      island_bird_3.wav
+‚îÇ      island_bird_4.wav
+‚îÇ      island_bird_5.wav
+‚îÇ      island_bird_6.wav
+‚îÇ      island_bird_7.wav
+‚îÇ      island_bird_8.wav
+‚îÇ      island_bird_9.wav
+‚îÇ      island_day_1.wav
+‚îÇ      island_day_2.wav
+‚îÇ      island_day_3.wav
+‚îÇ      island_day_4.wav
+‚îÇ      island_night_2.wav
+‚îÇ      island_night_3.wav
+‚îÇ      island_night_4.wav
+‚îÇ      island_night_5.wav
+‚îÇ      island_night_6.wav
+‚îÇ      island_night_7.wav
+‚îÇ      island_night_8.wav
+‚îÇ      island_night_9.wav
+‚îÇ      island_wave.wav
+‚îÇ      seagull_01.wav
+‚îÇ      seagull_02.wav
+‚îÇ      seagull_03.wav
+‚îÇ      seagull_04.wav
+‚îÇ      seagull_05.wav
+‚îÇ      seagull_06.wav
+‚îÇ      seagull_07.wav
+‚îÇ      seagull_08.wav
+‚îÇ      Seagull_Caws01.wav
+‚îÇ      Seagull_Caws02.wav
+‚îÇ      Seagull_Caws03.wav
+‚îÇ      Seagull_Caws04.wav
+‚îÇ      Seagull_Caws05.wav
+‚îÇ      Seagull_Caws06.wav
+‚îÇ      
+‚îú‚îÄamb_mine_cave[0]
+‚îÇ      ambience_2d_drip.wav
+‚îÇ      amb_mine_cave[0].txt
+‚îÇ      
+‚îú‚îÄamb_mountainfoot[0]
+‚îÇ      amb_mountainfoot[0].txt
+‚îÇ      day_1.wav
+‚îÇ      day_2.wav
+‚îÇ      day_3.wav
+‚îÇ      day_4.wav
+‚îÇ      day_5.wav
+‚îÇ      day_6.wav
+‚îÇ      flowing_water.wav
+‚îÇ      grasshopper_1.wav
+‚îÇ      grasshopper_2.wav
+‚îÇ      grasshopper_3.wav
+‚îÇ      hot_pot.wav
+‚îÇ      island_bird.wav
+‚îÇ      island_bird_10.wav
+‚îÇ      island_bird_11.wav
+‚îÇ      island_bird_12.wav
+‚îÇ      island_bird_2.wav
+‚îÇ      island_bird_3.wav
+‚îÇ      island_bird_4.wav
+‚îÇ      island_bird_5.wav
+‚îÇ      island_bird_6.wav
+‚îÇ      island_bird_7.wav
+‚îÇ      island_bird_8.wav
+‚îÇ      island_bird_9.wav
+‚îÇ      ladybug_1.wav
+‚îÇ      ladybug_2.wav
+‚îÇ      ladybug_3.wav
+‚îÇ      mf_night_1.wav
+‚îÇ      mountainfoot_waterfall.wav
+‚îÇ      mtf_bird_01.wav
+‚îÇ      mtf_bird_02.wav
+‚îÇ      mtf_bird_03.wav
+‚îÇ      mtf_bird_04.wav
+‚îÇ      mtf_bird_05.wav
+‚îÇ      mtf_bird_06.wav
+‚îÇ      mtf_bird_07.wav
+‚îÇ      mtf_bird_08.wav
+‚îÇ      mtf_bird_09.wav
+‚îÇ      sheep_1_1.wav
+‚îÇ      sheep_1_2.wav
+‚îÇ      sheep_1_3.wav
+‚îÇ      sheep_2_1.wav
+‚îÇ      sheep_2_2.wav
+‚îÇ      sheep_2_3.wav
+‚îÇ      sheep_3_1.wav
+‚îÇ      sheep_3_2.wav
+‚îÇ      sheep_3_3.wav
+‚îÇ      sheep_3_4.wav
+‚îÇ      sheep_3_5.wav
+‚îÇ      sheep_4_1.wav
+‚îÇ      sheep_4_2.wav
+‚îÇ      sheep_4_3.wav
+‚îÇ      sheep_5_1.wav
+‚îÇ      sheep_5_2.wav
+‚îÇ      sheep_5_3.wav
+‚îÇ      sheep_5_4.wav
+‚îÇ      sheep_5_5.wav
+‚îÇ      sheep_6_1.wav
+‚îÇ      sheep_6_2.wav
+‚îÇ      sheep_6_3.wav
+‚îÇ      sheep_6_4.wav
+‚îÇ      sheep_6_5.wav
+‚îÇ      sheep_footstep_01.wav
+‚îÇ      sheep_footstep_02.wav
+‚îÇ      sheep_footstep_03.wav
+‚îÇ      sheep_footstep_04.wav
+‚îÇ      sheep_footstep_05.wav
+‚îÇ      sheep_footstep_06.wav
+‚îÇ      sheep_footstep_07.wav
+‚îÇ      sheep_footstep_08.wav
+‚îÇ      sheep_footstep_09.wav
+‚îÇ      sheep_footstep_10.wav
+‚îÇ      
+‚îú‚îÄamb_odin[0]
+‚îÇ      amb_odin[0].txt
+‚îÇ      music_fountain_1.wav
+‚îÇ      music_fountain_2.wav
+‚îÇ      music_fountain_3.wav
+‚îÇ      music_fountain_4.wav
+‚îÇ      
+‚îú‚îÄamb_square[0]
+‚îÇ      amb_square[0].txt
+‚îÇ      bird_10.wav
+‚îÇ      bird_11.wav
+‚îÇ      bird_12.wav
+‚îÇ      bird_square_1.wav
+‚îÇ      bird_square_2.wav
+‚îÇ      bird_square_3.wav
+‚îÇ      bird_square_4.wav
+‚îÇ      firework.wav
+‚îÇ      fountain.wav
+‚îÇ      island_bird_7.wav
+‚îÇ      island_night_1.wav
+‚îÇ      island_night_2.wav
+‚îÇ      island_night_3.wav
+‚îÇ      island_night_4.wav
+‚îÇ      island_night_5.wav
+‚îÇ      island_night_6.wav
+‚îÇ      island_night_7.wav
+‚îÇ      island_night_8.wav
+‚îÇ      island_night_9.wav
+‚îÇ      Seagull_Caws01.wav
+‚îÇ      Seagull_Caws02.wav
+‚îÇ      Seagull_Caws03.wav
+‚îÇ      Seagull_Caws04.wav
+‚îÇ      Seagull_Caws05.wav
+‚îÇ      Seagull_Caws06.wav
+‚îÇ      square_dog.wav
+‚îÇ      square_dog_1.wav
+‚îÇ      square_dog_2.wav
+‚îÇ      square_dog_3.wav
+‚îÇ      square_dog_4.wav
+‚îÇ      square_dog_5.wav
+‚îÇ      square_wave_1.wav
+‚îÇ      square_wave_2.wav
+‚îÇ      
+‚îú‚îÄamb_taobao[0]
+‚îÇ      amb_taobao[0].txt
+‚îÇ      bird_10.wav
+‚îÇ      bird_9.wav
+‚îÇ      bird_square_1.wav
+‚îÇ      bird_square_2.wav
+‚îÇ      bird_square_3.wav
+‚îÇ      bird_square_4.wav
+‚îÇ      island_bird.wav
+‚îÇ      island_bird_7.wav
+‚îÇ      island_night_1.wav
+‚îÇ      island_night_2.wav
+‚îÇ      island_night_3.wav
+‚îÇ      island_night_4.wav
+‚îÇ      island_night_5.wav
+‚îÇ      island_night_6.wav
+‚îÇ      island_night_7.wav
+‚îÇ      island_night_8.wav
+‚îÇ      island_night_9.wav
+‚îÇ      Seagull_Caws01.wav
+‚îÇ      Seagull_Caws02.wav
+‚îÇ      Seagull_Caws03.wav
+‚îÇ      Seagull_Caws04.wav
+‚îÇ      Seagull_Caws05.wav
+‚îÇ      Seagull_Caws06.wav
+‚îÇ      taobao_night.wav
+‚îÇ      wave.wav
+‚îÇ      
+‚îú‚îÄarchery[0]
+‚îÇ      archery[0].txt
+‚îÇ      arrow_fly_1.wav
+‚îÇ      arrow_fly_2.wav
+‚îÇ      arrow_fly_3.wav
+‚îÇ      arrow_hit_1.wav
+‚îÇ      arrow_hit_2.wav
+‚îÇ      pull_bow_1.wav
+‚îÇ      pull_bow_2.wav
+‚îÇ      
+‚îú‚îÄbayinhe[0]
+‚îÇ      bayinhe1.wav
+‚îÇ      bayinhe10.wav
+‚îÇ      bayinhe11.wav
+‚îÇ      bayinhe12.wav
+‚îÇ      bayinhe13.wav
+‚îÇ      bayinhe14.wav
+‚îÇ      bayinhe15.wav
+‚îÇ      bayinhe16.wav
+‚îÇ      bayinhe17.wav
+‚îÇ      bayinhe18.wav
+‚îÇ      bayinhe19.wav
+‚îÇ      bayinhe2.wav
+‚îÇ      bayinhe20.wav
+‚îÇ      bayinhe21.wav
+‚îÇ      bayinhe22.wav
+‚îÇ      bayinhe3.wav
+‚îÇ      bayinhe4.wav
+‚îÇ      bayinhe5.wav
+‚îÇ      bayinhe6.wav
+‚îÇ      bayinhe7.wav
+‚îÇ      bayinhe8.wav
+‚îÇ      bayinhe9.wav
+‚îÇ      bayinhe[0].txt
+‚îÇ      
+‚îú‚îÄbee_speaker[0]
+‚îÇ      Accordion.wav
+‚îÇ      Bass.wav
+‚îÇ      bee_speaker[0].txt
+‚îÇ      Clarinet.wav
+‚îÇ      Drum.wav
+‚îÇ      Flute.wav
+‚îÇ      Guitar.wav
+‚îÇ      Piano.wav
+‚îÇ      Str.wav
+‚îÇ      
+‚îú‚îÄbirthday[0]
+‚îÇ      birthday[0].txt
+‚îÇ      story_birthday_dhz001.wav
+‚îÇ      story_birthday_dj001.wav
+‚îÇ      story_birthday_jk001.wav
+‚îÇ      story_birthday_jk002.wav
+‚îÇ      story_birthday_jk003.wav
+‚îÇ      story_birthday_jk004.wav
+‚îÇ      story_birthday_way001.wav
+‚îÇ      story_birthday_way002.wav
+‚îÇ      story_birthday_way003.wav
+‚îÇ      story_birthday_way004.wav
+‚îÇ      story_birthday_way005.wav
+‚îÇ      story_birthday_wd001.wav
+‚îÇ      
+‚îú‚îÄcatch_pet[0]
+‚îÇ      catch_pet[0].txt
+‚îÇ      catch_pet_appear.wav
+‚îÇ      catch_pet_correct.wav
+‚îÇ      catch_pet_start.wav
+‚îÇ      flute.wav
+‚îÇ      ui_effect_catch_pet_fail.wav
+‚îÇ      ui_effect_catch_pet_success.wav
+‚îÇ      
+‚îú‚îÄciyuanqin[0]
+‚îÇ      ciyuanqin[0].txt
+‚îÇ      ciyuanqin_1.wav
+‚îÇ      ciyuanqin_10.wav
+‚îÇ      ciyuanqin_11.wav
+‚îÇ      ciyuanqin_12.wav
+‚îÇ      ciyuanqin_13.wav
+‚îÇ      ciyuanqin_14.wav
+‚îÇ      ciyuanqin_15.wav
+‚îÇ      ciyuanqin_16.wav
+‚îÇ      ciyuanqin_17.wav
+‚îÇ      ciyuanqin_18.wav
+‚îÇ      ciyuanqin_19.wav
+‚îÇ      ciyuanqin_2.wav
+‚îÇ      ciyuanqin_20.wav
+‚îÇ      ciyuanqin_21.wav
+‚îÇ      ciyuanqin_22.wav
+‚îÇ      ciyuanqin_3.wav
+‚îÇ      ciyuanqin_4.wav
+‚îÇ      ciyuanqin_5.wav
+‚îÇ      ciyuanqin_6.wav
+‚îÇ      ciyuanqin_7.wav
+‚îÇ      ciyuanqin_8.wav
+‚îÇ      ciyuanqin_9.wav
+‚îÇ      
+‚îú‚îÄclarinet[0]
+‚îÇ      clarinet1.wav
+‚îÇ      clarinet10.wav
+‚îÇ      clarinet11.wav
+‚îÇ      clarinet12.wav
+‚îÇ      clarinet13.wav
+‚îÇ      clarinet14.wav
+‚îÇ      clarinet15.wav
+‚îÇ      clarinet16.wav
+‚îÇ      clarinet17.wav
+‚îÇ      clarinet18.wav
+‚îÇ      clarinet19.wav
+‚îÇ      clarinet2.wav
+‚îÇ      clarinet20.wav
+‚îÇ      clarinet21.wav
+‚îÇ      clarinet22.wav
+‚îÇ      clarinet3.wav
+‚îÇ      clarinet4.wav
+‚îÇ      clarinet5.wav
+‚îÇ      clarinet6.wav
+‚îÇ      clarinet7.wav
+‚îÇ      clarinet8.wav
+‚îÇ      clarinet9.wav
+‚îÇ      clarinet[0].txt
+‚îÇ      
+‚îú‚îÄclock[0]
+‚îÇ      clock[0].txt
+‚îÇ      half_hour.wav
+‚îÇ      integral_point.wav
+‚îÇ      quarter.wav
+‚îÇ      quarter_after_half_past.wav
+‚îÇ      
+‚îú‚îÄdiangangqin[0]
+‚îÇ      diangangqin1.wav
+‚îÇ      diangangqin10.wav
+‚îÇ      diangangqin11.wav
+‚îÇ      diangangqin12.wav
+‚îÇ      diangangqin13.wav
+‚îÇ      diangangqin14.wav
+‚îÇ      diangangqin15.wav
+‚îÇ      diangangqin16.wav
+‚îÇ      diangangqin17.wav
+‚îÇ      diangangqin18.wav
+‚îÇ      diangangqin19.wav
+‚îÇ      diangangqin2.wav
+‚îÇ      diangangqin20.wav
+‚îÇ      diangangqin21.wav
+‚îÇ      diangangqin22.wav
+‚îÇ      diangangqin3.wav
+‚îÇ      diangangqin4.wav
+‚îÇ      diangangqin5.wav
+‚îÇ      diangangqin6.wav
+‚îÇ      diangangqin7.wav
+‚îÇ      diangangqin8.wav
+‚îÇ      diangangqin9.wav
+‚îÇ      diangangqin[0].txt
+‚îÇ      
+‚îú‚îÄdianjita[0]
+‚îÇ      dianjita1.wav
+‚îÇ      dianjita10.wav
+‚îÇ      dianjita11.wav
+‚îÇ      dianjita12.wav
+‚îÇ      dianjita13.wav
+‚îÇ      dianjita14.wav
+‚îÇ      dianjita15.wav
+‚îÇ      dianjita16.wav
+‚îÇ      dianjita17.wav
+‚îÇ      dianjita18.wav
+‚îÇ      dianjita19.wav
+‚îÇ      dianjita2.wav
+‚îÇ      dianjita20.wav
+‚îÇ      dianjita21.wav
+‚îÇ      dianjita22.wav
+‚îÇ      dianjita3.wav
+‚îÇ      dianjita4.wav
+‚îÇ      dianjita5.wav
+‚îÇ      dianjita6.wav
+‚îÇ      dianjita7.wav
+‚îÇ      dianjita8.wav
+‚îÇ      dianjita9.wav
+‚îÇ      dianjita[0].txt
+‚îÇ      
+‚îú‚îÄdianziqin[0]
+‚îÇ      dianziqin1.wav
+‚îÇ      dianziqin10.wav
+‚îÇ      dianziqin11.wav
+‚îÇ      dianziqin12.wav
+‚îÇ      dianziqin13.wav
+‚îÇ      dianziqin14.wav
+‚îÇ      dianziqin15.wav
+‚îÇ      dianziqin16.wav
+‚îÇ      dianziqin17.wav
+‚îÇ      dianziqin18.wav
+‚îÇ      dianziqin19.wav
+‚îÇ      dianziqin2.wav
+‚îÇ      dianziqin20.wav
+‚îÇ      dianziqin21.wav
+‚îÇ      dianziqin22.wav
+‚îÇ      dianziqin3.wav
+‚îÇ      dianziqin4.wav
+‚îÇ      dianziqin5.wav
+‚îÇ      dianziqin6.wav
+‚îÇ      dianziqin7.wav
+‚îÇ      dianziqin8.wav
+‚îÇ      dianziqin9.wav
+‚îÇ      dianziqin[0].txt
+‚îÇ      
+‚îú‚îÄdizi[0]
+‚îÇ      1.wav
+‚îÇ      10.wav
+‚îÇ      11.wav
+‚îÇ      12.wav
+‚îÇ      13.wav
+‚îÇ      14.wav
+‚îÇ      15.wav
+‚îÇ      16.wav
+‚îÇ      17.wav
+‚îÇ      18.wav
+‚îÇ      19.wav
+‚îÇ      2.wav
+‚îÇ      20.wav
+‚îÇ      21.wav
+‚îÇ      22.wav
+‚îÇ      3.wav
+‚îÇ      4.wav
+‚îÇ      5.wav
+‚îÇ      6.wav
+‚îÇ      7.wav
+‚îÇ      8.wav
+‚îÇ      9.wav
+‚îÇ      dizi[0].txt
+‚îÇ      
+‚îú‚îÄdoudizhu_vo[0]
+‚îÇ      boy_a.wav
+‚îÇ      boy_ba.wav
+‚îÇ      boy_bujiao.wav
+‚îÇ      boy_bujiao_2.wav
+‚îÇ      boy_buqiang.wav
+‚îÇ      boy_buqiang_2.wav
+‚îÇ      boy_buqiang_3.wav
+‚îÇ      boy_dawang.wav
+‚îÇ      boy_duia.wav
+‚îÇ      boy_duia_2.wav
+‚îÇ      boy_duiba.wav
+‚îÇ      boy_duier.wav
+‚îÇ      boy_duihua_1.wav
+‚îÇ      boy_duihua_1_2.wav
+‚îÇ      boy_duihua_2.wav
+‚îÇ      boy_duihua_2_2.wav
+‚îÇ      boy_duihua_3.wav
+‚îÇ      boy_duihua_3_2.wav
+‚îÇ      boy_duihua_3_3.wav
+‚îÇ      boy_duihua_4.wav
+‚îÇ      boy_duihua_4_2.wav
+‚îÇ      boy_duihua_5.wav
+‚îÇ      boy_duihua_5_2.wav
+‚îÇ      boy_duihua_6.wav
+‚îÇ      boy_duihua_6_2.wav
+‚îÇ      boy_duihua_7.wav
+‚îÇ      boy_duihua_7_2.wav
+‚îÇ      boy_duihua_8.wav
+‚îÇ      boy_duihua_8_2.wav
+‚îÇ      boy_duihua_9.wav
+‚îÇ      boy_duihua_9_2.wav
+‚îÇ      boy_duihua_9_3.wav
+‚îÇ      boy_duij.wav
+‚îÇ      boy_duijiu.wav
+‚îÇ      boy_duik.wav
+‚îÇ      boy_duiliu.wav
+‚îÇ      boy_duiq.wav
+‚îÇ      boy_duiqi.wav
+‚îÇ      boy_duisan.wav
+‚îÇ      boy_duishi.wav
+‚îÇ      boy_duisi.wav
+‚îÇ      boy_duiwu.wav
+‚îÇ      boy_er.wav
+‚îÇ      boy_feiji.wav
+‚îÇ      boy_j.wav
+‚îÇ      boy_jiaodizhu.wav
+‚îÇ      boy_jiaodizhu_2.wav
+‚îÇ      boy_jiu.wav
+‚îÇ      boy_k.wav
+‚îÇ      boy_liandui.wav
+‚îÇ      boy_liandui_2.wav
+‚îÇ      boy_liu.wav
+‚îÇ      boy_q.wav
+‚îÇ      boy_qi.wav
+‚îÇ      boy_san.wav
+‚îÇ      boy_sandaier.wav
+‚îÇ      boy_sandaiyi.wav
+‚îÇ      boy_sangea.wav
+‚îÇ      boy_sangea_2.wav
+‚îÇ      boy_sangeba.wav
+‚îÇ      boy_sangeer.wav
+‚îÇ      boy_sangej.wav
+‚îÇ      boy_sangejiu.wav
+‚îÇ      boy_sangej_2.wav
+‚îÇ      boy_sangek.wav
+‚îÇ      boy_sangeliu.wav
+‚îÇ      boy_sangeq.wav
+‚îÇ      boy_sangeqi.wav
+‚îÇ      boy_sangesan.wav
+‚îÇ      boy_sangeshi.wav
+‚îÇ      boy_sangesi.wav
+‚îÇ      boy_sangewu.wav
+‚îÇ      boy_shengliangzhang.wav
+‚îÇ      boy_shengliangzhang_2.wav
+‚îÇ      boy_shengyizhang.wav
+‚îÇ      boy_shengyizhang_2.wav
+‚îÇ      boy_shengyizhang_3.wav
+‚îÇ      boy_shi.wav
+‚îÇ      boy_shunzi.wav
+‚îÇ      boy_si.wav
+‚îÇ      boy_sidaier.wav
+‚îÇ      boy_sidailiangdui.wav
+‚îÇ      boy_wangzha.wav
+‚îÇ      boy_woqiang.wav
+‚îÇ      boy_woqiang_2.wav
+‚îÇ      boy_woqiang_3.wav
+‚îÇ      boy_wu.wav
+‚îÇ      boy_xiaowang.wav
+‚îÇ      boy_yaobuqi.wav
+‚îÇ      boy_yaobuqi_2.wav
+‚îÇ      boy_yaobuqi_3.wav
+‚îÇ      boy_zhadan.wav
+‚îÇ      boy_zhadan_2.wav
+‚îÇ      boy_zhadan_3.wav
+‚îÇ      doudizhu_vo[0].txt
+‚îÇ      girl_a.wav
+‚îÇ      girl_ba.wav
+‚îÇ      girl_ba_2.wav
+‚îÇ      girl_bujiao.wav
+‚îÇ      girl_bujiao_2.wav
+‚îÇ      girl_buqiang.wav
+‚îÇ      girl_buqiang_2.wav
+‚îÇ      girl_dawang.wav
+‚îÇ      girl_dawang_2.wav
+‚îÇ      girl_duia.wav
+‚îÇ      girl_duia_2.wav
+‚îÇ      girl_duiba.wav
+‚îÇ      girl_duiba_2.wav
+‚îÇ      girl_duier.wav
+‚îÇ      girl_duihua_1.wav
+‚îÇ      girl_duihua_2.wav
+‚îÇ      girl_duihua_2_1.wav
+‚îÇ      girl_duihua_3.wav
+‚îÇ      girl_duihua_3_1.wav
+‚îÇ      girl_duihua_3_2.wav
+‚îÇ      girl_duihua_4.wav
+‚îÇ      girl_duihua_4_2.wav
+‚îÇ      girl_duihua_4_3.wav
+‚îÇ      girl_duihua_4_4.wav
+‚îÇ      girl_duihua_4_5.wav
+‚îÇ      girl_duihua_5.wav
+‚îÇ      girl_duihua_5_1.wav
+‚îÇ      girl_duihua_6.wav
+‚îÇ      girl_duihua_6_1.wav
+‚îÇ      girl_duihua_6_2.wav
+‚îÇ      girl_duihua_7.wav
+‚îÇ      girl_duihua_7_1.wav
+‚îÇ      girl_duihua_7_2.wav
+‚îÇ      girl_duihua_8.wav
+‚îÇ      girl_duihua_8_1.wav
+‚îÇ      girl_duihua_8_2.wav
+‚îÇ      girl_duihua_9.wav
+‚îÇ      girl_duihua_9_1.wav
+‚îÇ      girl_duihua_9_2.wav
+‚îÇ      girl_duihua_9_3.wav
+‚îÇ      girl_duij.wav
+‚îÇ      girl_duijiu.wav
+‚îÇ      girl_duij_2.wav
+‚îÇ      girl_duik.wav
+‚îÇ      girl_duik_2.wav
+‚îÇ      girl_duiliu.wav
+‚îÇ      girl_duiq.wav
+‚îÇ      girl_duiqi.wav
+‚îÇ      girl_duiq_2.wav
+‚îÇ      girl_duisan.wav
+‚îÇ      girl_duishi.wav
+‚îÇ      girl_duishi_2.wav
+‚îÇ      girl_duisi.wav
+‚îÇ      girl_duiwu.wav
+‚îÇ      girl_er.wav
+‚îÇ      girl_er_2.wav
+‚îÇ      girl_feiji.wav
+‚îÇ      girl_j.wav
+‚îÇ      girl_jiaodizhu.wav
+‚îÇ      girl_jiaodizhu_2.wav
+‚îÇ      girl_jiu.wav
+‚îÇ      girl_jiu_2.wav
+‚îÇ      girl_j_2.wav
+‚îÇ      girl_k.wav
+‚îÇ      girl_k_2.wav
+‚îÇ      girl_k_3.wav
+‚îÇ      girl_liandui.wav
+‚îÇ      girl_liandui_2.wav
+‚îÇ      girl_liu.wav
+‚îÇ      girl_q.wav
+‚îÇ      girl_qi.wav
+‚îÇ      girl_qi_2.wav
+‚îÇ      girl_q_2.wav
+‚îÇ      girl_san.wav
+‚îÇ      girl_sandaier.wav
+‚îÇ      girl_sandaiyi.wav
+‚îÇ      girl_sandaiyi_2.wav
+‚îÇ      girl_sangea.wav
+‚îÇ      girl_sangeba.wav
+‚îÇ      girl_sangeer.wav
+‚îÇ      girl_sangeer_2.wav
+‚îÇ      girl_sangej.wav
+‚îÇ      girl_sangejiu.wav
+‚îÇ      girl_sangej_2.wav
+‚îÇ      girl_sangek.wav
+‚îÇ      girl_sangeliu.wav
+‚îÇ      girl_sangeq.wav
+‚îÇ      girl_sangeqi.wav
+‚îÇ      girl_sangesan.wav
+‚îÇ      girl_sangeshi.wav
+‚îÇ      girl_sangesi.wav
+‚îÇ      girl_sangewu.wav
+‚îÇ      girl_san_2.wav
+‚îÇ      girl_shengliangzhang.wav
+‚îÇ      girl_shengliangzhang_2.wav
+‚îÇ      girl_shengyizhang.wav
+‚îÇ      girl_shengyizhang_2.wav
+‚îÇ      girl_shi.wav
+‚îÇ      girl_shi_2.wav
+‚îÇ      girl_shunzi.wav
+‚îÇ      girl_shunzi_2.wav
+‚îÇ      girl_si.wav
+‚îÇ      girl_sidaier.wav
+‚îÇ      girl_sidailiangdui.wav
+‚îÇ      girl_wangzha.wav
+‚îÇ      girl_wangzha_2.wav
+‚îÇ      girl_woqiang.wav
+‚îÇ      girl_woqiang_2.wav
+‚îÇ      girl_wu.wav
+‚îÇ      girl_xiaowang.wav
+‚îÇ      girl_xiaowang_2.wav
+‚îÇ      girl_yaobuqi.wav
+‚îÇ      girl_yaobuqi_2.wav
+‚îÇ      girl_yaobuqi_3.wav
+‚îÇ      girl_zhadan.wav
+‚îÇ      
+‚îú‚îÄdreamland[0]
+‚îÇ      dreamland[0].txt
+‚îÇ      ui_effect_correct_answer.wav
+‚îÇ      ui_effect_find_the_end_1.wav
+‚îÇ      ui_effect_find_the_end_2.wav
+‚îÇ      ui_effect_general_item_get.wav
+‚îÇ      ui_effect_green_crystal_get.wav
+‚îÇ      ui_effect_lucky_turntable.wav
+‚îÇ      ui_effect_move_grid.wav
+‚îÇ      ui_effect_tornado.wav
+‚îÇ      ui_effect_wrong_answer.wav
+‚îÇ      ui_effect_zone_unlock.wav
+‚îÇ      
+‚îú‚îÄdrum_band[0]
+‚îÇ      dance_dragon.wav
+‚îÇ      dance_lion.wav
+‚îÇ      drum_1.wav
+‚îÇ      drum_2.wav
+‚îÇ      drum_3.wav
+‚îÇ      drum_4.wav
+‚îÇ      drum_5.wav
+‚îÇ      drum_band[0].txt
+‚îÇ      flute_1.wav
+‚îÇ      flute_2.wav
+‚îÇ      gongnv.wav
+‚îÇ      maracas_1.wav
+‚îÇ      maracas_2.wav
+‚îÇ      sax_1.wav
+‚îÇ      sax_2.wav
+‚îÇ      shiwei.wav
+‚îÇ      violin_1.wav
+‚îÇ      violin_2.wav
+‚îÇ      
+‚îú‚îÄduomaomao[0]
+‚îÇ      aoe.wav
+‚îÇ      bianshen.wav
+‚îÇ      buzhixianjing.wav
+‚îÇ      caihongchuansong.wav
+‚îÇ      duomaomao[0].txt
+‚îÇ      duomaomao_dgw1.wav
+‚îÇ      duomaomao_dgw2_1.wav
+‚îÇ      duomaomao_dgw3.wav
+‚îÇ      duomaomao_dgw3_1.wav
+‚îÇ      duomaomao_dgw4.wav
+‚îÇ      duomaomao_dgw4_1.wav
+‚îÇ      duomaomao_player1.wav
+‚îÇ      duomaomao_player1_1.wav
+‚îÇ      duomaomao_player1_2.wav
+‚îÇ      duomaomao_player2.wav
+‚îÇ      duomaomao_player2_1.wav
+‚îÇ      duomaomao_player2_2.wav
+‚îÇ      duomaomao_player3.wav
+‚îÇ      duomaomao_player3_1.wav
+‚îÇ      duomaomao_player3_2.wav
+‚îÇ      duomaomao_player4.wav
+‚îÇ      duomaomao_player4_1.wav
+‚îÇ      duomaomao_player4_2.wav
+‚îÇ      duomaomao_xgw1.wav
+‚îÇ      duomaomao_xgw1_1.wav
+‚îÇ      fengyin.wav
+‚îÇ      footstep_1.wav
+‚îÇ      footstep_2.wav
+‚îÇ      footstep_3.wav
+‚îÇ      hudietansong.wav
+‚îÇ      huizhua_1.wav
+‚îÇ      huizhua_2.wav
+‚îÇ      jiansudai.wav
+‚îÇ      jiasuadai.wav
+‚îÇ      pofeng.wav
+‚îÇ      tance.wav
+‚îÇ      xianjing.wav
+‚îÇ      yinshen.wav
+‚îÇ      yuancheng_attack.wav
+‚îÇ      yuancheng_hit.wav
+‚îÇ      
+‚îú‚îÄevent[0]
+‚îÇ      accuracy_eject.wav
+‚îÇ      alarm_shake.wav
+‚îÇ      ball_move_1.wav
+‚îÇ      ball_move_2.wav
+‚îÇ      bell.wav
+‚îÇ      cable_car.wav
+‚îÇ      cable_car_bell_1.wav
+‚îÇ      cable_car_bell_2.wav
+‚îÇ      cable_car_bell_3.wav
+‚îÇ      cake.wav
+‚îÇ      chop.wav
+‚îÇ      click_pony.wav
+‚îÇ      collect_mushrooms.wav
+‚îÇ      completed.wav
+‚îÇ      count_down.wav
+‚îÇ      dress_drop.wav
+‚îÇ      drop_the_block.wav
+‚îÇ      eagle_1.wav
+‚îÇ      eagle_2.wav
+‚îÇ      event[0].txt
+‚îÇ      fetch_water.wav
+‚îÇ      forest_vine.wav
+‚îÇ      get_points.wav
+‚îÇ      goblin_cheers.wav
+‚îÇ      goblin_drills_earth.wav
+‚îÇ      goblin_jump out.wav
+‚îÇ      guitar.wav
+‚îÇ      harvest_horsetail.wav
+‚îÇ      jump_to_boat.wav
+‚îÇ      jump_to_ground.wav
+‚îÇ      Leaves,Grab,Rustles,Short 2.wav
+‚îÇ      LeavesObjectDrop.wav
+‚îÇ      mattock.wav
+‚îÇ      mining.wav
+‚îÇ      new_order_appears.wav
+‚îÇ      order_destruction.wav
+‚îÇ      pick_apple.wav
+‚îÇ      picture_dissolution.wav
+‚îÇ      placing_materials.wav
+‚îÇ      prop_female _sing.wav
+‚îÇ      put_the_block.wav
+‚îÇ      qte_move.wav
+‚îÇ      rabbit_attack.wav
+‚îÇ      rabbit_sleeping.wav
+‚îÇ      rat_idle_1.wav
+‚îÇ      rat_idle_2.wav
+‚îÇ      rat_idle_3.wav
+‚îÇ      rat_slip_away.wav
+‚îÇ      reach_combo.wav
+‚îÇ      se_honeybee_harvest01.wav
+‚îÇ      shovel.wav
+‚îÇ      signal.wav
+‚îÇ      skateboard.wav
+‚îÇ      skunk_bomb.wav
+‚îÇ      skunk_bomb_influenced.wav
+‚îÇ      slime.wav
+‚îÇ      snow_drop.wav
+‚îÇ      submit_wrong_order.wav
+‚îÇ      swing.wav
+‚îÇ      synthetic_material_success.wav
+‚îÇ      teleporting.wav
+‚îÇ      throw_waterball_1.wav
+‚îÇ      throw_waterball_2.wav
+‚îÇ      throw_waterball_3.wav
+‚îÇ      touch_bucket.wav
+‚îÇ      waterball_hit_1.wav
+‚îÇ      waterball_hit_2.wav
+‚îÇ      waterball_hit_3.wav
+‚îÇ      Water_1.wav
+‚îÇ      weeding.wav
+‚îÇ      
+‚îú‚îÄevent_1[0]
+‚îÇ      add_egg.wav
+‚îÇ      add_potatoes.wav
+‚îÇ      add_seasoning.wav
+‚îÇ      add_tomatoes.wav
+‚îÇ      alarm.wav
+‚îÇ      anniu.wav
+‚îÇ      apple_shake.wav
+‚îÇ      arrow_hit_1.wav
+‚îÇ      arrow_hit_2.wav
+‚îÇ      arrow_hit_3.wav
+‚îÇ      arrow_throw_1.wav
+‚îÇ      arrow_throw_2.wav
+‚îÇ      arrow_throw_3.wav
+‚îÇ      attribute_promotion.wav
+‚îÇ      baojian.wav
+‚îÇ      beetle_appear.wav
+‚îÇ      beetle_attack.wav
+‚îÇ      bee_attack.wav
+‚îÇ      bee_die.wav
+‚îÇ      Bgm_party_sakura.wav
+‚îÇ      bird_attack.wav
+‚îÇ      bird_die.wav
+‚îÇ      bite.wav
+‚îÇ      bite_boy.wav
+‚îÇ      bite_girl.wav
+‚îÇ      blade_snake.wav
+‚îÇ      boar_attack.wav
+‚îÇ      boar_die.wav
+‚îÇ      boy_die.wav
+‚îÇ      boy_drop.wav
+‚îÇ      boy_repel.wav
+‚îÇ      cannon_firing.wav
+‚îÇ      cannon_hit.wav
+‚îÇ      catch_oil.wav
+‚îÇ      chimpanzee_attack.wav
+‚îÇ      chimpanzee_die.wav
+‚îÇ      command_attack.wav
+‚îÇ      command_bee.wav
+‚îÇ      command_bulid.wav
+‚îÇ      command_collect.wav
+‚îÇ      command_flute.wav
+‚îÇ      command_impulse.wav
+‚îÇ      command_impulse_hit.wav
+‚îÇ      command_play.wav
+‚îÇ      command_warm_up.wav
+‚îÇ      cooking_finish.wav
+‚îÇ      cooking_rice.wav
+‚îÇ      crushed_stone.wav
+‚îÇ      defeated.wav
+‚îÇ      dongwu.wav
+‚îÇ      dragon_AOE.wav
+‚îÇ      dragon_appears.wav
+‚îÇ      dragon_break_attack.wav
+‚îÇ      dragon_break_hit.wav
+‚îÇ      dragon_break_hit_1.wav
+‚îÇ      dragon_call_goblins.wav
+‚îÇ      dragon_die.wav
+‚îÇ      dragon_disappears.wav
+‚îÇ      dragon_earthquake_wave.wav
+‚îÇ      dragon_earth_anger.wav
+‚îÇ      dragon_earth_anger_1.wav
+‚îÇ      dragon_electric_flint_attack.wav
+‚îÇ      dragon_electric_flint_hit.wav
+‚îÇ      dragon_escapes.wav
+‚îÇ      dragon_zhuan_2.wav
+‚îÇ      dragon_zhuan_3.wav
+‚îÇ      drop.wav
+‚îÇ      drop_56.wav
+‚îÇ      drop_boy.wav
+‚îÇ      drop_column.wav
+‚îÇ      drop_crystal_column.wav
+‚îÇ      drop_girl.wav
+‚îÇ      drop_tree.wav
+‚îÇ      dump_trash_can.wav
+‚îÇ      event_1[0].txt
+‚îÇ      get_bread.wav
+‚îÇ      girl_die.wav
+‚îÇ      girl_drop.wav
+‚îÇ      girl_repel.wav
+‚îÇ      goblin_appear.wav
+‚îÇ      goblin_attack.wav
+‚îÇ      goblin_die.wav
+‚îÇ      goblin_hit.wav
+‚îÇ      good.wav
+‚îÇ      hammer_1.wav
+‚îÇ      hammer_2.wav
+‚îÇ      hammer_3.wav
+‚îÇ      hapi_dance_1.wav
+‚îÇ      hapi_dance_2.wav
+‚îÇ      hapi_dance_3.wav
+‚îÇ      huaxian_appear.wav
+‚îÇ      huaxian_attack.wav
+‚îÇ      huaxian_die.wav
+‚îÇ      huayan_skill_shield.wav
+‚îÇ      huayan_skill_suck.wav
+‚îÇ      huayan_skill_tornado.wav
+‚îÇ      huayan_skill_tornado_hit.wav
+‚îÇ      item_unlock.wav
+‚îÇ      jump.wav
+‚îÇ      jump_into_cave.wav
+‚îÇ      kaiguizi.wav
+‚îÇ      machinegun_firing.wav
+‚îÇ      machinegun_hit.wav
+‚îÇ      magic_medicine_into_bucket.wav
+‚îÇ      magic_transmission_machine.wav
+‚îÇ      medicine_bottle_hit_1.wav
+‚îÇ      medicine_bottle_hit_2.wav
+‚îÇ      medicine_bottle_hit_3.wav
+‚îÇ      medicine_bottle_throw_1.wav
+‚îÇ      medicine_bottle_throw_2.wav
+‚îÇ      medicine_bottle_throw_3.wav
+‚îÇ      open_door.wav
+‚îÇ      partylove.wav
+‚îÇ      party_balloon.wav
+‚îÇ      party_flower.wav
+‚îÇ      party_rainbow.wav
+‚îÇ      party_ring.wav
+‚îÇ      party_star.wav
+‚îÇ      select_ingredients.wav
+‚îÇ      stone_island1.wav
+‚îÇ      stone_island2.wav
+‚îÇ      stone_island3.wav
+‚îÇ      stone_island4.wav
+‚îÇ      stone_island5.wav
+‚îÇ      stone_island6.wav
+‚îÇ      stone_island7.wav
+‚îÇ      stone_island8.wav
+‚îÇ      swallow_attack.wav
+‚îÇ      swallow_die.wav
+‚îÇ      tree_apple_shake.wav
+‚îÇ      tree_shake.wav
+‚îÇ      victory.wav
+‚îÇ      weapon_fix_success.wav
+‚îÇ      weapon_water.wav
+‚îÇ      weed.wav
+‚îÇ      xuli.wav
+‚îÇ      xuman.wav
+‚îÇ      yanse.wav
+‚îÇ      yao.wav
+‚îÇ      
+‚îú‚îÄevent_2[0]
+‚îÇ      anniversary_melody_mountainfoot.wav
+‚îÇ      anniversary_melody_snowmountain.wav
+‚îÇ      anniversary_melody_square_left.wav
+‚îÇ      anniversary_melody_square_right.wav
+‚îÇ      clearance.wav
+‚îÇ      dreamland3_101.wav
+‚îÇ      dreamland3_102.wav
+‚îÇ      dreamland3_106.wav
+‚îÇ      dreamland3_107.wav
+‚îÇ      dreamland3_108.wav
+‚îÇ      dreamland3_109.wav
+‚îÇ      dreamland3_110.wav
+‚îÇ      dreamland3_111.wav
+‚îÇ      dreamland3_112.wav
+‚îÇ      dreamland3_113.wav
+‚îÇ      dreamland3_114.wav
+‚îÇ      dreamland3_115.wav
+‚îÇ      dreamland3_116.wav
+‚îÇ      dreamland3_117.wav
+‚îÇ      event_2[0].txt
+‚îÇ      five_bears.wav
+‚îÇ      put_fail.wav
+‚îÇ      put_success.wav
+‚îÇ      spirit_accompany.wav
+‚îÇ      theme.wav
+‚îÇ      throw_cake.wav
+‚îÇ      venus.wav
+‚îÇ      xiyangyang.wav
+‚îÇ      xuanzhuanmuma.wav
+‚îÇ      
+‚îú‚îÄevent_3[0]
+‚îÇ      alasi.wav
+‚îÇ      announce_anwser.wav
+‚îÇ      ballet_bear.wav
+‚îÇ      color_window_bear.wav
+‚îÇ      countdown.wav
+‚îÇ      event_3[0].txt
+‚îÇ      gyzzb.wav
+‚îÇ      horn_1.wav
+‚îÇ      horn_2.wav
+‚îÇ      kaiguizi.wav
+‚îÇ      kuanian_1.wav
+‚îÇ      kuanian_2.wav
+‚îÇ      lizhen.wav
+‚îÇ      mushroom_fox.wav
+‚îÇ      nanci.wav
+‚îÇ      open_sesame.wav
+‚îÇ      qingdianche_footstep.wav
+‚îÇ      scroll_dowm.wav
+‚îÇ      scroll_fly.wav
+‚îÇ      throw_cup.wav
+‚îÇ      throw_flower.wav
+‚îÇ      throw_slipper.wav
+‚îÇ      wensidun.wav
+‚îÇ      yifan.wav
+‚îÇ      
+‚îú‚îÄevent_4[0]
+‚îÇ      1.wav
+‚îÇ      2.wav
+‚îÇ      3.wav
+‚îÇ      action_swim_fast_01.wav
+‚îÇ      action_swim_fast_02.wav
+‚îÇ      action_swim_fast_03.wav
+‚îÇ      action_swim_fast_04.wav
+‚îÇ      balala_speaker.wav
+‚îÇ      baoxiang.wav
+‚îÇ      bianzhong.wav
+‚îÇ      boom.wav
+‚îÇ      caidai.wav
+‚îÇ      cat_1.wav
+‚îÇ      cat_2.wav
+‚îÇ      cat_3.wav
+‚îÇ      cat_4.wav
+‚îÇ      cat_5.wav
+‚îÇ      danci.wav
+‚îÇ      dizzy.wav
+‚îÇ      dog.wav
+‚îÇ      dog_1.wav
+‚îÇ      emma_speaker.wav
+‚îÇ      event_4[0].txt
+‚îÇ      fall.wav
+‚îÇ      fat_cat.wav
+‚îÇ      fengwuluomei.wav
+‚îÇ      fight.wav
+‚îÇ      finish.wav
+‚îÇ      fish_struggle.wav
+‚îÇ      flower.wav
+‚îÇ      hit.wav
+‚îÇ      jmhc_speaker.wav
+‚îÇ      jump.wav
+‚îÇ      kuaiban.wav
+‚îÇ      no_hit.wav
+‚îÇ      paper_plane.wav
+‚îÇ      rain_on_umbrella.wav
+‚îÇ      renouzhuangyuan_renbuqi.wav
+‚îÇ      renouzhuangyuan_renqi.wav
+‚îÇ      run.wav
+‚îÇ      save.wav
+‚îÇ      shengridangao_renbuqi.wav
+‚îÇ      shengridangao_renqi.wav
+‚îÇ      shifa.wav
+‚îÇ      skill_a.wav
+‚îÇ      skill_b.wav
+‚îÇ      speed_up.wav
+‚îÇ      spell.wav
+‚îÇ      sweep.wav
+‚îÇ      throw.wav
+‚îÇ      wonder.wav
+‚îÇ      xiongxiongticao.wav
+‚îÇ      xiongxiongticao_reshen.wav
+‚îÇ      xuanlv.wav
+‚îÇ      yundongjiaolian.wav
+‚îÇ      zhiliao.wav
+‚îÇ      
+‚îú‚îÄevent_5[0]
+‚îÇ      action_1 - Trimmed.wav
+‚îÇ      action_1.wav
+‚îÇ      action_2.wav
+‚îÇ      action_3.wav
+‚îÇ      bianpao.wav
+‚îÇ      bomb_boy.wav
+‚îÇ      bomb_girl.wav
+‚îÇ      cat.wav
+‚îÇ      chupai.wav
+‚îÇ      dangong.wav
+‚îÇ      daojushengcheng.wav
+‚îÇ      datiehua.wav
+‚îÇ      datiehua_sfx.wav
+‚îÇ      dongzhu.wav
+‚îÇ      drop.wav
+‚îÇ      event_5[0].txt
+‚îÇ      fapai.wav
+‚îÇ      fashe.wav
+‚îÇ      feiji.wav
+‚îÇ      fengzheng.wav
+‚îÇ      fire.wav
+‚îÇ      fishing.wav
+‚îÇ      generate.wav
+‚îÇ      gongji.wav
+‚îÇ      guochang_speaker.wav
+‚îÇ      hey_1.wav
+‚îÇ      hey_2.wav
+‚îÇ      hey_3.wav
+‚îÇ      huobawu.wav
+‚îÇ      jiequ.wav
+‚îÇ      jisui.wav
+‚îÇ      jisui_1.wav
+‚îÇ      launch.wav
+‚îÇ      leidian.wav
+‚îÇ      majiang.wav
+‚îÇ      majiang_renbuqi.wav
+‚îÇ      majiang_renqi.wav
+‚îÇ      meilidianyin_zuodian.wav
+‚îÇ      monster.wav
+‚îÇ      old_school_zuodian.wav
+‚îÇ      prop.wav
+‚îÇ      put.wav
+‚îÇ      qimenglizeng_renbuqi.wav
+‚îÇ      qimenglizeng_renqi.wav
+‚îÇ      qiutipengzhuang.wav
+‚îÇ      shuaxin.wav
+‚îÇ      suilie.wav
+‚îÇ      suilie_53.wav
+‚îÇ      wangzha.wav
+‚îÇ      wanwushengzhang_zuodian.wav
+‚îÇ      wudi.wav
+‚îÇ      wushi.wav
+‚îÇ      xiajiang.wav
+‚îÇ      xiaochitan.wav
+‚îÇ      xiaochu.wav
+‚îÇ      yaoguwu.wav
+‚îÇ      zhadan.wav
+‚îÇ      
+‚îú‚îÄevent_6[0]
+‚îÇ      aoaotangguowu.wav
+‚îÇ      aojichadang.wav
+‚îÇ      ballon_broken.wav
+‚îÇ      birthday.wav
+‚îÇ      bonus.wav
+‚îÇ      boss_skill_1.wav
+‚îÇ      car.wav
+‚îÇ      cat_1.wav
+‚îÇ      cat_2.wav
+‚îÇ      cat_3.wav
+‚îÇ      cat_act_1.wav
+‚îÇ      cat_act_2.wav
+‚îÇ      cat_act_3.wav
+‚îÇ      cat_purrs.wav
+‚îÇ      chuansong.wav
+‚îÇ      commoner_skill.wav
+‚îÇ      current.wav
+‚îÇ      dance_lion.wav
+‚îÇ      dream_theft_far.wav
+‚îÇ      dream_theft_near.wav
+‚îÇ      evacuate_success.wav
+‚îÇ      event_6[0].txt
+‚îÇ      footsteps_grass_run_01.wav
+‚îÇ      footsteps_grass_run_02.wav
+‚îÇ      footsteps_grass_run_03.wav
+‚îÇ      footsteps_grass_run_04.wav
+‚îÇ      footsteps_grass_run_05.wav
+‚îÇ      footsteps_grass_run_06.wav
+‚îÇ      footsteps_grass_run_07.wav
+‚îÇ      footsteps_grass_run_08.wav
+‚îÇ      footsteps_grass_run_09.wav
+‚îÇ      footsteps_grass_run_10.wav
+‚îÇ      gangshihaowei.wav
+‚îÇ      get_seed.wav
+‚îÇ      glass_broken_item.wav
+‚îÇ      guardian_far.wav
+‚îÇ      guardian_near.wav
+‚îÇ      guzheng_qdy.wav
+‚îÇ      guzheng_shy.wav
+‚îÇ      guzheng_yyhx.wav
+‚îÇ      horn1.wav
+‚îÇ      horn2.wav
+‚îÇ      horn_01.wav
+‚îÇ      horn_02.wav
+‚îÇ      horn_3.wav
+‚îÇ      horn_4.wav
+‚îÇ      horse_fs_1.wav
+‚îÇ      horse_fs_10.wav
+‚îÇ      horse_fs_2.wav
+‚îÇ      horse_fs_3.wav
+‚îÇ      horse_fs_4.wav
+‚îÇ      horse_fs_5.wav
+‚îÇ      horse_fs_6.wav
+‚îÇ      horse_fs_7.wav
+‚îÇ      horse_fs_8.wav
+‚îÇ      horse_fs_9.wav
+‚îÇ      jizhang_1.wav
+‚îÇ      jizhang_2.wav
+‚îÇ      jizhang_3.wav
+‚îÇ      mengkehao_footstep.wav
+‚îÇ      mosha.wav
+‚îÇ      motor.wav
+‚îÇ      piyingxi_renbuqi.wav
+‚îÇ      piyingxi_renqi.wav
+‚îÇ      qiqiutan.wav
+‚îÇ      reduce.wav
+‚îÇ      repelled.wav
+‚îÇ      shikonghuayuan_renbuqi.wav
+‚îÇ      shikonghuayuan_renqi.wav
+‚îÇ      shuiyipaidui_renbuqi.wav
+‚îÇ      shuiyipaidui_renqi.wav
+‚îÇ      spring.wav
+‚îÇ      tiaotiaoqi_renbuqi.wav
+‚îÇ      tiaotiaoqi_renqi.wav
+‚îÇ      ui_effect_errenzhuan.wav
+‚îÇ      ui_effect_haoshi.wav
+‚îÇ      ui_effect_zhucha.wav
+‚îÇ      use_disguise_props.wav
+‚îÇ      wamaoyingchun.wav
+‚îÇ      wawaji.wav
+‚îÇ      xinghaimaoxianchuan_renbuqi.wav
+‚îÇ      xinghaimaoxianchuan_renqi.wav
+‚îÇ      yimengfenghua.wav
+‚îÇ      yingwu_footstep.wav
+‚îÇ      yishujiaoluo.wav
+‚îÇ      yongyeyinyuehui_renbuqi.wav
+‚îÇ      yongyeyinyuehui_renqi.wav
+‚îÇ      zhangxinlihe.wav
+‚îÇ      zhengjingmingxiang_renbuqi.wav
+‚îÇ      zhengjingmingxiang_renqi.wav
+‚îÇ      zhifeiji.wav
+‚îÇ      
+‚îú‚îÄevent_7[0]
+‚îÇ      cat_1.wav
+‚îÇ      cat_2.wav
+‚îÇ      cat_3.wav
+‚îÇ      cat_4.wav
+‚îÇ      event_7[0].txt
+‚îÇ      maomizuodian.wav
+‚îÇ      marble_cast.wav
+‚îÇ      marble_fall.wav
+‚îÇ      marble_impact.wav
+‚îÇ      marble_reward.wav
+‚îÇ      marble_spring.wav
+‚îÇ      marble_x1.wav
+‚îÇ      marble_x3.wav
+‚îÇ      shanyaoliuxingchengbao_renbuqi.wav
+‚îÇ      shanyaoliuxingchengbao_renqi.wav
+‚îÇ      
+‚îú‚îÄexpression[0]
+‚îÇ      expression[0].txt
+‚îÇ      ui_effect_bang_se.wav
+‚îÇ      ui_effect_beauty.wav
+‚îÇ      ui_effect_blink.wav
+‚îÇ      ui_effect_brilliant_appearance.wav
+‚îÇ      ui_effect_bye.wav
+‚îÇ      ui_effect_cheer.wav
+‚îÇ      ui_effect_come_on.wav
+‚îÇ      ui_effect_cry.wav
+‚îÇ      ui_effect_dislike.wav
+‚îÇ      ui_effect_divination.wav
+‚îÇ      ui_effect_doubt.wav
+‚îÇ      ui_effect_enen.wav
+‚îÇ      ui_effect_evil_smile.wav
+‚îÇ      ui_effect_fist.wav
+‚îÇ      ui_effect_fright.wav
+‚îÇ      ui_effect_hello.wav
+‚îÇ      ui_effect_jump.wav
+‚îÇ      ui_effect_kissfly.wav
+‚îÇ      ui_effect_laugh.wav
+‚îÇ      ui_effect_look_on.wav
+‚îÇ      ui_effect_magic.wav
+‚îÇ      ui_effect_please.wav
+‚îÇ      ui_effect_skating.wav
+‚îÇ      ui_effect_snowball.wav
+‚îÇ      ui_effect_stamp_feet.wav
+‚îÇ      ui_effect_stamp_salute.wav
+‚îÇ      ui_effect_thanks.wav
+‚îÇ      
+‚îú‚îÄfeixingqi[0]
+‚îÇ      alarm.wav
+‚îÇ      chufashijian.wav
+‚îÇ      dadaozhongdian.wav
+‚îÇ      feiqi.wav
+‚îÇ      feixingqi[0].txt
+‚îÇ      jieshu.wav
+‚îÇ      qizhichuxian.wav
+‚îÇ      suijichouqu.wav
+‚îÇ      touzhi.wav
+‚îÇ      xuanzeqizi.wav
+‚îÇ      zhuangzi.wav
+‚îÇ      
+‚îú‚îÄfishing[0]
+‚îÇ      fishing[0].txt
+‚îÇ      fishing_gathering.wav
+‚îÇ      fishing_get.wav
+‚îÇ      fishing_raise_pole.wav
+‚îÇ      se_fishing_start01.wav
+‚îÇ      se_fishing_touch01.wav
+‚îÇ      
+‚îú‚îÄfishing_1[0]
+‚îÇ      boy_fishing_1.wav
+‚îÇ      boy_fishing_2.wav
+‚îÇ      boy_fishing_3.wav
+‚îÇ      boy_fishing_4.wav
+‚îÇ      boy_fishing_5.wav
+‚îÇ      boy_fishing_6.wav
+‚îÇ      boy_fishing_7.wav
+‚îÇ      fishing_1[0].txt
+‚îÇ      girl_fishing_1.wav
+‚îÇ      girl_fishing_2.wav
+‚îÇ      girl_fishing_3.wav
+‚îÇ      girl_fishing_4.wav
+‚îÇ      girl_fishing_5.wav
+‚îÇ      girl_fishing_6.wav
+‚îÇ      girl_fishing_7.wav
+‚îÇ      
+‚îú‚îÄfish_speaker[0]
+‚îÇ      Bgm_Speaker_Hippocampus_Piano.wav
+‚îÇ      Bgm_Speaker_Merlion_Violin.wav
+‚îÇ      Bgm_Speaker_Salamander_Drum.wav
+‚îÇ      Bgm_Speaker_Salted_Fish_Guitar.wav
+‚îÇ      Bgm_Speaker_shark_Dj.wav
+‚îÇ      fish_speaker[0].txt
+‚îÇ      mermaid_song.wav
+‚îÇ      mermaid_vocal.wav
+‚îÇ      underwater.wav
+‚îÇ      
+‚îú‚îÄfootstep[0]
+‚îÇ      bell_1.wav
+‚îÇ      bell_3.wav
+‚îÇ      bell_4.wav
+‚îÇ      bell_5.wav
+‚îÇ      carpet1.wav
+‚îÇ      carpet2.wav
+‚îÇ      carpet3.wav
+‚îÇ      carpet4.wav
+‚îÇ      carpet5.wav
+‚îÇ      carpet6.wav
+‚îÇ      carpet7.wav
+‚îÇ      carpet8.wav
+‚îÇ      cat_1.wav
+‚îÇ      cat_2.wav
+‚îÇ      cat_3.wav
+‚îÇ      cizhuan1.wav
+‚îÇ      cizhuan2.wav
+‚îÇ      cizhuan3.wav
+‚îÇ      cizhuan4.wav
+‚îÇ      cizhuan5.wav
+‚îÇ      cizhuan6.wav
+‚îÇ      cizhuan7.wav
+‚îÇ      cizhuan8.wav
+‚îÇ      earth_fast_1.wav
+‚îÇ      earth_fast_2.wav
+‚îÇ      earth_fast_3.wav
+‚îÇ      earth_fast_4.wav
+‚îÇ      earth_fast_5.wav
+‚îÇ      earth_fast_6.wav
+‚îÇ      earth_fast_7.wav
+‚îÇ      earth_fast_8.wav
+‚îÇ      earth_fast_9.wav
+‚îÇ      floor_run_01.wav
+‚îÇ      floor_run_02.wav
+‚îÇ      floor_run_03.wav
+‚îÇ      floor_run_04.wav
+‚îÇ      floor_run_05.wav
+‚îÇ      floor_run_06.wav
+‚îÇ      floor_run_07.wav
+‚îÇ      floor_run_08.wav
+‚îÇ      footsteps_grass_run_01.wav
+‚îÇ      footsteps_grass_run_02.wav
+‚îÇ      footsteps_grass_run_03.wav
+‚îÇ      footsteps_grass_run_04.wav
+‚îÇ      footsteps_grass_run_05.wav
+‚îÇ      footsteps_grass_run_06.wav
+‚îÇ      footsteps_grass_run_07.wav
+‚îÇ      footsteps_grass_run_08.wav
+‚îÇ      footsteps_grass_run_09.wav
+‚îÇ      footsteps_grass_run_10.wav
+‚îÇ      footstep[0].txt
+‚îÇ      footstep_liantiyi.wav
+‚îÇ      footstep_shuzhan_1.wav
+‚îÇ      footstep_shuzhan_2.wav
+‚îÇ      footstep_shuzhan_3.wav
+‚îÇ      footstep_shuzhan_4.wav
+‚îÇ      footstep_shuzhan_5.wav
+‚îÇ      footstep_yhy_1.wav
+‚îÇ      footstep_yhy_2.wav
+‚îÇ      footstep_yhy_3.wav
+‚îÇ      footstep_yhy_4.wav
+‚îÇ      footstep_yhy_5.wav
+‚îÇ      footstep_yhy_6.wav
+‚îÇ      grass_island1.wav
+‚îÇ      grass_island2.wav
+‚îÇ      grass_island3.wav
+‚îÇ      grass_island4.wav
+‚îÇ      grass_island5.wav
+‚îÇ      grass_island6.wav
+‚îÇ      sand_island1.wav
+‚îÇ      sand_island2.wav
+‚îÇ      sand_island3.wav
+‚îÇ      sand_island4.wav
+‚îÇ      sand_island5.wav
+‚îÇ      sand_island6.wav
+‚îÇ      sand_island7.wav
+‚îÇ      sand_island8.wav
+‚îÇ      snow_1.wav
+‚îÇ      snow_2.wav
+‚îÇ      snow_3.wav
+‚îÇ      snow_4.wav
+‚îÇ      snow_5.wav
+‚îÇ      snow_6.wav
+‚îÇ      stone_island1.wav
+‚îÇ      stone_island2.wav
+‚îÇ      stone_island3.wav
+‚îÇ      stone_island4.wav
+‚îÇ      stone_island5.wav
+‚îÇ      stone_island6.wav
+‚îÇ      stone_island7.wav
+‚îÇ      stone_island8.wav
+‚îÇ      swimming_1.wav
+‚îÇ      swimming_2.wav
+‚îÇ      swimming_3.wav
+‚îÇ      swimming_4.wav
+‚îÇ      swimming_6.wav
+‚îÇ      swimming_7.wav
+‚îÇ      woodstair1.wav
+‚îÇ      woodstair2.wav
+‚îÇ      woodstair3.wav
+‚îÇ      woodstair4.wav
+‚îÇ      woodstair5.wav
+‚îÇ      woodstair6.wav
+‚îÇ      woodstair7.wav
+‚îÇ      woodstair8.wav
+‚îÇ      wood_run1.wav
+‚îÇ      wood_run2.wav
+‚îÇ      wood_run3.wav
+‚îÇ      wood_run4.wav
+‚îÇ      wood_run5.wav
+‚îÇ      wood_run6.wav
+‚îÇ      wood_run7.wav
+‚îÇ      wood_run8.wav
+‚îÇ      
+‚îú‚îÄgangqin[0]
+‚îÇ      1.wav
+‚îÇ      10.wav
+‚îÇ      11.wav
+‚îÇ      12.wav
+‚îÇ      13.wav
+‚îÇ      14.wav
+‚îÇ      15.wav
+‚îÇ      16.wav
+‚îÇ      17.wav
+‚îÇ      18.wav
+‚îÇ      19.wav
+‚îÇ      2.wav
+‚îÇ      20.wav
+‚îÇ      21.wav
+‚îÇ      22.wav
+‚îÇ      3.wav
+‚îÇ      4.wav
+‚îÇ      5.wav
+‚îÇ      6.wav
+‚îÇ      7.wav
+‚îÇ      8.wav
+‚îÇ      9.wav
+‚îÇ      gangqin[0].txt
+‚îÇ      
+‚îú‚îÄgathering_honey[0]
+‚îÇ      call_honeybee.wav
+‚îÇ      gathering_honey.wav
+‚îÇ      gathering_honey[0].txt
+‚îÇ      leaking_honey.wav
+‚îÇ      
+‚îú‚îÄgreedy_snake[0]
+‚îÇ      end.wav
+‚îÇ      greedy_snake[0].txt
+‚îÇ      moon.wav
+‚îÇ      star.wav
+‚îÇ      
+‚îú‚îÄguitar[0]
+‚îÇ      guitar1.wav
+‚îÇ      guitar10.wav
+‚îÇ      guitar11.wav
+‚îÇ      guitar12.wav
+‚îÇ      guitar13.wav
+‚îÇ      guitar14.wav
+‚îÇ      guitar15.wav
+‚îÇ      guitar16.wav
+‚îÇ      guitar17.wav
+‚îÇ      guitar18.wav
+‚îÇ      guitar19.wav
+‚îÇ      guitar2.wav
+‚îÇ      guitar20.wav
+‚îÇ      guitar21.wav
+‚îÇ      guitar22.wav
+‚îÇ      guitar3.wav
+‚îÇ      guitar4.wav
+‚îÇ      guitar5.wav
+‚îÇ      guitar6.wav
+‚îÇ      guitar7.wav
+‚îÇ      guitar8.wav
+‚îÇ      guitar9.wav
+‚îÇ      guitar[0].txt
+‚îÇ      
+‚îú‚îÄguzheng[0]
+‚îÇ      guzheng1.wav
+‚îÇ      guzheng10.wav
+‚îÇ      guzheng11.wav
+‚îÇ      guzheng12.wav
+‚îÇ      guzheng13.wav
+‚îÇ      guzheng14.wav
+‚îÇ      guzheng15.wav
+‚îÇ      guzheng16.wav
+‚îÇ      guzheng17.wav
+‚îÇ      guzheng18.wav
+‚îÇ      guzheng19.wav
+‚îÇ      guzheng2.wav
+‚îÇ      guzheng20.wav
+‚îÇ      guzheng21.wav
+‚îÇ      guzheng22.wav
+‚îÇ      guzheng3.wav
+‚îÇ      guzheng4.wav
+‚îÇ      guzheng5.wav
+‚îÇ      guzheng6.wav
+‚îÇ      guzheng7.wav
+‚îÇ      guzheng8.wav
+‚îÇ      guzheng9.wav
+‚îÇ      guzheng[0].txt
+‚îÇ      
+‚îú‚îÄhailuo[0]
+‚îÇ      hailuo1.wav
+‚îÇ      hailuo10.wav
+‚îÇ      hailuo11.wav
+‚îÇ      hailuo12.wav
+‚îÇ      hailuo13.wav
+‚îÇ      hailuo14.wav
+‚îÇ      hailuo15.wav
+‚îÇ      hailuo16.wav
+‚îÇ      hailuo17.wav
+‚îÇ      hailuo18.wav
+‚îÇ      hailuo19.wav
+‚îÇ      hailuo2.wav
+‚îÇ      hailuo20.wav
+‚îÇ      hailuo21.wav
+‚îÇ      hailuo22.wav
+‚îÇ      hailuo3.wav
+‚îÇ      hailuo4.wav
+‚îÇ      hailuo5.wav
+‚îÇ      hailuo6.wav
+‚îÇ      hailuo7.wav
+‚îÇ      hailuo8.wav
+‚îÇ      hailuo9.wav
+‚îÇ      hailuo[0].txt
+‚îÇ      
+‚îú‚îÄhandbell_speaker[0]
+‚îÇ      handbell_speaker.wav
+‚îÇ      handbell_speaker[0].txt
+‚îÇ      
+‚îú‚îÄhapi_huayan[0]
+‚îÇ      faxianhuayan.wav
+‚îÇ      hapi_huayan[0].txt
+‚îÇ      huayan_voice_hit_1.wav
+‚îÇ      huayan_voice_hit_2.wav
+‚îÇ      huayan_voice_hit_3.wav
+‚îÇ      slipper_hit_1.wav
+‚îÇ      slipper_hit_2.wav
+‚îÇ      slipper_hit_3.wav
+‚îÇ      throw_shoes_1.wav
+‚îÇ      throw_shoes_2.wav
+‚îÇ      throw_shoes_3.wav
+‚îÇ      ui_effect_faxianhapi.wav
+‚îÇ      voice_boy_1.wav
+‚îÇ      voice_boy_2.wav
+‚îÇ      voice_boy_3.wav
+‚îÇ      voice_boy_4.wav
+‚îÇ      voice_girl_1.wav
+‚îÇ      voice_girl_2.wav
+‚îÇ      voice_girl_3.wav
+‚îÇ      voice_hit_1.wav
+‚îÇ      voice_hit_2.wav
+‚îÇ      voice_hit_3.wav
+‚îÇ      
+‚îú‚îÄharp[0]
+‚îÇ      1.wav
+‚îÇ      10.wav
+‚îÇ      11.wav
+‚îÇ      12.wav
+‚îÇ      13.wav
+‚îÇ      14.wav
+‚îÇ      15.wav
+‚îÇ      16.wav
+‚îÇ      17.wav
+‚îÇ      18.wav
+‚îÇ      19.wav
+‚îÇ      2.wav
+‚îÇ      20.wav
+‚îÇ      21.wav
+‚îÇ      22.wav
+‚îÇ      3.wav
+‚îÇ      4.wav
+‚îÇ      5.wav
+‚îÇ      6.wav
+‚îÇ      7.wav
+‚îÇ      8.wav
+‚îÇ      9.wav
+‚îÇ      harp[0].txt
+‚îÇ      
+‚îú‚îÄhello[0]
+‚îÇ      hello[0].txt
+‚îÇ      npc_hello_aila_01.wav
+‚îÇ      npc_hello_aila_02.wav
+‚îÇ      npc_hello_aila_03.wav
+‚îÇ      npc_hello_aila_04.wav
+‚îÇ      npc_hello_aila_05.wav
+‚îÇ      npc_hello_aila_101.wav
+‚îÇ      npc_hello_alasi_101.wav
+‚îÇ      npc_hello_alasi_102.wav
+‚îÇ      npc_hello_aoli_01.wav
+‚îÇ      npc_hello_aoli_02.wav
+‚îÇ      npc_hello_aoli_03.wav
+‚îÇ      npc_hello_aoli_04.wav
+‚îÇ      npc_hello_aoli_05.wav
+‚îÇ      npc_hello_aoli_101.wav
+‚îÇ      npc_hello_dahuzi_101.wav
+‚îÇ      npc_hello_daixi_101.wav
+‚îÇ      npc_hello_fenger_01.wav
+‚îÇ      npc_hello_fenger_02.wav
+‚îÇ      npc_hello_fenger_03.wav
+‚îÇ      npc_hello_fenger_04.wav
+‚îÇ      npc_hello_fenger_05.wav
+‚îÇ      npc_hello_fenger_101.wav
+‚îÇ      npc_hello_haila_01.wav
+‚îÇ      npc_hello_haila_02.wav
+‚îÇ      npc_hello_haila_03.wav
+‚îÇ      npc_hello_haila_04.wav
+‚îÇ      npc_hello_haila_05.wav
+‚îÇ      npc_hello_haila_101.wav
+‚îÇ      npc_hello_jinkuai_101.wav
+‚îÇ      npc_hello_kasili_01.wav
+‚îÇ      npc_hello_kasili_02.wav
+‚îÇ      npc_hello_kasili_03.wav
+‚îÇ      npc_hello_kasili_04.wav
+‚îÇ      npc_hello_kasili_05.wav
+‚îÇ      npc_hello_kasili_06.wav
+‚îÇ      npc_hello_kelai_01.wav
+‚îÇ      npc_hello_kelai_02.wav
+‚îÇ      npc_hello_kelai_03.wav
+‚îÇ      npc_hello_kelai_04.wav
+‚îÇ      npc_hello_kelai_05.wav
+‚îÇ      npc_hello_kelai_101.wav
+‚îÇ      npc_hello_laiang_01.wav
+‚îÇ      npc_hello_laiang_02.wav
+‚îÇ      npc_hello_laiang_03.wav
+‚îÇ      npc_hello_laiang_04.wav
+‚îÇ      npc_hello_laiang_05.wav
+‚îÇ      npc_hello_laiang_06.wav
+‚îÇ      npc_hello_laiang_101.wav
+‚îÇ      npc_hello_lizhen_101.wav
+‚îÇ      npc_hello_lizhen_102.wav
+‚îÇ      npc_hello_maguli_01.wav
+‚îÇ      npc_hello_maguli_02.wav
+‚îÇ      npc_hello_maguli_03.wav
+‚îÇ      npc_hello_maguli_04.wav
+‚îÇ      npc_hello_maguli_05.wav
+‚îÇ      npc_hello_maguli_101.wav
+‚îÇ      npc_hello_malu_101.wav
+‚îÇ      npc_hello_malu_102.wav
+‚îÇ      npc_hello_meier_101.wav
+‚îÇ      npc_hello_meier_znq_1.wav
+‚îÇ      npc_hello_modun_101.wav
+‚îÇ      npc_hello_panpan_101.wav
+‚îÇ      npc_hello_songsong_01.wav
+‚îÇ      npc_hello_songsong_01_1.wav
+‚îÇ      npc_hello_songsong_02.wav
+‚îÇ      npc_hello_songsong_02_1.wav
+‚îÇ      npc_hello_suofeiya_01.wav
+‚îÇ      npc_hello_suofeiya_02.wav
+‚îÇ      npc_hello_suofeiya_03.wav
+‚îÇ      npc_hello_suofeiya_04.wav
+‚îÇ      npc_hello_suofeiya_05.wav
+‚îÇ      npc_hello_suofeiya_101.wav
+‚îÇ      npc_hello_suoya_01.wav
+‚îÇ      npc_hello_suoya_02.wav
+‚îÇ      npc_hello_suoya_03.wav
+‚îÇ      npc_hello_suoya_04.wav
+‚îÇ      npc_hello_suoya_05.wav
+‚îÇ      npc_hello_suoya_101.wav
+‚îÇ      npc_hello_suoya_102.wav
+‚îÇ      npc_hello_tianji_01.wav
+‚îÇ      npc_hello_tianji_02.wav
+‚îÇ      npc_hello_tianji_03.wav
+‚îÇ      npc_hello_tianji_04.wav
+‚îÇ      npc_hello_tianji_05.wav
+‚îÇ      npc_hello_wayi_101.wav
+‚îÇ      npc_hello_weikeduo_101.wav
+‚îÇ      npc_hello_weikeduo_102.wav
+‚îÇ      npc_hello_weilita_101.wav
+‚îÇ      npc_hello_wendi_101.wav
+‚îÇ      npc_hello_wendi_znq_1.wav
+‚îÇ      npc_hello_xiaoye_101.wav
+‚îÇ      npc_hello_xiaoye_102.wav
+‚îÇ      npc_hello_xiaoye_103.wav
+‚îÇ      npc_hello_xiaoye_znq_1.wav
+‚îÇ      npc_hello_xide_01.wav
+‚îÇ      npc_hello_xide_02.wav
+‚îÇ      npc_hello_xide_03.wav
+‚îÇ      npc_hello_xide_04.wav
+‚îÇ      npc_hello_xide_05.wav
+‚îÇ      npc_hello_xierda_101.wav
+‚îÇ      npc_hello_xierda_102.wav
+‚îÇ      npc_hello_xierda_znq_1.wav
+‚îÇ      npc_hello_yexi_101.wav
+‚îÇ      npc_hello_yien_01.wav
+‚îÇ      npc_hello_yien_02.wav
+‚îÇ      npc_hello_yien_03.wav
+‚îÇ      npc_hello_yien_04.wav
+‚îÇ      npc_hello_yien_05.wav
+‚îÇ      
+‚îú‚îÄhello_guangchang[0]
+‚îÇ      hello_guangchang[0].txt
+‚îÇ      npc_hello_dahuzi_01.wav
+‚îÇ      npc_hello_dahuzi_02.wav
+‚îÇ      npc_hello_dahuzi_03.wav
+‚îÇ      npc_hello_dahuzi_04.wav
+‚îÇ      npc_hello_dahuzi_05.wav
+‚îÇ      npc_hello_daixi_01.wav
+‚îÇ      npc_hello_daixi_02.wav
+‚îÇ      npc_hello_daixi_03.wav
+‚îÇ      npc_hello_daixi_04.wav
+‚îÇ      npc_hello_daixi_05.wav
+‚îÇ      npc_hello_fengrenyu_01.wav
+‚îÇ      npc_hello_fengrenyu_02.wav
+‚îÇ      npc_hello_fengrenyu_03.wav
+‚îÇ      npc_hello_fengrenyu_04.wav
+‚îÇ      npc_hello_fengrenyu_05.wav
+‚îÇ      npc_hello_lizhen_01.wav
+‚îÇ      npc_hello_lizhen_02.wav
+‚îÇ      npc_hello_lizhen_03.wav
+‚îÇ      npc_hello_lizhen_04.wav
+‚îÇ      npc_hello_lizhen_05.wav
+‚îÇ      npc_hello_lizhen_06.wav
+‚îÇ      npc_hello_malu_01.wav
+‚îÇ      npc_hello_malu_02.wav
+‚îÇ      npc_hello_malu_03.wav
+‚îÇ      npc_hello_malu_04.wav
+‚îÇ      npc_hello_malu_05.wav
+‚îÇ      npc_hello_meier_01.wav
+‚îÇ      npc_hello_meier_02.wav
+‚îÇ      npc_hello_meier_03.wav
+‚îÇ      npc_hello_meier_04.wav
+‚îÇ      npc_hello_meier_05.wav
+‚îÇ      npc_hello_wayi_01.wav
+‚îÇ      npc_hello_wayi_02.wav
+‚îÇ      npc_hello_wayi_03.wav
+‚îÇ      npc_hello_wayi_04.wav
+‚îÇ      npc_hello_wayi_05.wav
+‚îÇ      npc_hello_weilita_01.wav
+‚îÇ      npc_hello_weilita_02.wav
+‚îÇ      npc_hello_weilita_03.wav
+‚îÇ      npc_hello_weilita_04.wav
+‚îÇ      npc_hello_weilita_05.wav
+‚îÇ      npc_hello_weilita_06.wav
+‚îÇ      npc_hello_xierda_01.wav
+‚îÇ      npc_hello_xierda_02.wav
+‚îÇ      npc_hello_xierda_03.wav
+‚îÇ      npc_hello_xierda_04.wav
+‚îÇ      npc_hello_xierda_05.wav
+‚îÇ      
+‚îú‚îÄhello_taobaojie[0]
+‚îÇ      hello_taobaojie[0].txt
+‚îÇ      npc_hello_alasi_01.wav
+‚îÇ      npc_hello_alasi_02.wav
+‚îÇ      npc_hello_alasi_03.wav
+‚îÇ      npc_hello_alasi_04.wav
+‚îÇ      npc_hello_alasi_05.wav
+‚îÇ      npc_hello_fengwa_01.wav
+‚îÇ      npc_hello_fengwa_02.wav
+‚îÇ      npc_hello_fengwa_03.wav
+‚îÇ      npc_hello_fengwa_04.wav
+‚îÇ      npc_hello_fengwa_05.wav
+‚îÇ      npc_hello_fuliqi_01.wav
+‚îÇ      npc_hello_fuliqi_02.wav
+‚îÇ      npc_hello_fuliqi_03.wav
+‚îÇ      npc_hello_fuliqi_04.wav
+‚îÇ      npc_hello_fuliqi_05.wav
+‚îÇ      npc_hello_jinkuai_01.wav
+‚îÇ      npc_hello_jinkuai_02.wav
+‚îÇ      npc_hello_jinkuai_03.wav
+‚îÇ      npc_hello_jinkuai_04.wav
+‚îÇ      npc_hello_jinkuai_05.wav
+‚îÇ      npc_hello_modun_01.wav
+‚îÇ      npc_hello_modun_02.wav
+‚îÇ      npc_hello_modun_03.wav
+‚îÇ      npc_hello_modun_04.wav
+‚îÇ      npc_hello_modun_05.wav
+‚îÇ      npc_hello_panpan_01.wav
+‚îÇ      npc_hello_panpan_02.wav
+‚îÇ      npc_hello_panpan_03.wav
+‚îÇ      npc_hello_panpan_04.wav
+‚îÇ      npc_hello_panpan_05.wav
+‚îÇ      npc_hello_weikeduo_01.wav
+‚îÇ      npc_hello_weikeduo_02.wav
+‚îÇ      npc_hello_weikeduo_03.wav
+‚îÇ      npc_hello_weikeduo_04.wav
+‚îÇ      npc_hello_weikeduo_05.wav
+‚îÇ      npc_hello_wendi_01.wav
+‚îÇ      npc_hello_wendi_02.wav
+‚îÇ      npc_hello_wendi_03.wav
+‚îÇ      npc_hello_wendi_04.wav
+‚îÇ      npc_hello_wendi_05.wav
+‚îÇ      npc_hello_xiaoye_01.wav
+‚îÇ      npc_hello_xiaoye_02.wav
+‚îÇ      npc_hello_xiaoye_03.wav
+‚îÇ      npc_hello_xiaoye_04.wav
+‚îÇ      npc_hello_xiaoye_05.wav
+‚îÇ      npc_hello_yexi_01.wav
+‚îÇ      npc_hello_yexi_02.wav
+‚îÇ      npc_hello_yexi_03.wav
+‚îÇ      npc_hello_yexi_04.wav
+‚îÇ      npc_hello_yexi_05.wav
+‚îÇ      
+‚îú‚îÄhuanyinling[0]
+‚îÇ      dizi_jzgs.wav
+‚îÇ      dizi_ylzg.wav
+‚îÇ      dizi_zybc.wav
+‚îÇ      harp_blzf.wav
+‚îÇ      harp_hlxr.wav
+‚îÇ      huanyinling[0].txt
+‚îÇ      violin_ylxx.wav
+‚îÇ      violin_yyyj.wav
+‚îÇ      
+‚îú‚îÄkalinba[0]
+‚îÇ      kalinba1.wav
+‚îÇ      kalinba10.wav
+‚îÇ      kalinba11.wav
+‚îÇ      kalinba12.wav
+‚îÇ      kalinba13.wav
+‚îÇ      kalinba14.wav
+‚îÇ      kalinba15.wav
+‚îÇ      kalinba16.wav
+‚îÇ      kalinba17.wav
+‚îÇ      kalinba18.wav
+‚îÇ      kalinba19.wav
+‚îÇ      kalinba2.wav
+‚îÇ      kalinba20.wav
+‚îÇ      kalinba21.wav
+‚îÇ      kalinba22.wav
+‚îÇ      kalinba3.wav
+‚îÇ      kalinba4.wav
+‚îÇ      kalinba5.wav
+‚îÇ      kalinba6.wav
+‚îÇ      kalinba7.wav
+‚îÇ      kalinba8.wav
+‚îÇ      kalinba9.wav
+‚îÇ      kalinba[0].txt
+‚îÇ      
+‚îú‚îÄknock_hamster[0]
+‚îÇ      hamster_appear.wav
+‚îÇ      hit_hamster.wav
+‚îÇ      hit_spirit.wav
+‚îÇ      knock_hamster[0].txt
+‚îÇ      spirit_appear.wav
+‚îÇ      
+‚îú‚îÄkouqin[0]
+‚îÇ      kouqin1.wav
+‚îÇ      kouqin10.wav
+‚îÇ      kouqin11.wav
+‚îÇ      kouqin12.wav
+‚îÇ      kouqin13.wav
+‚îÇ      kouqin14.wav
+‚îÇ      kouqin15.wav
+‚îÇ      kouqin16.wav
+‚îÇ      kouqin17.wav
+‚îÇ      kouqin18.wav
+‚îÇ      kouqin19.wav
+‚îÇ      kouqin2.wav
+‚îÇ      kouqin20.wav
+‚îÇ      kouqin21.wav
+‚îÇ      kouqin22.wav
+‚îÇ      kouqin3.wav
+‚îÇ      kouqin4.wav
+‚îÇ      kouqin5.wav
+‚îÇ      kouqin6.wav
+‚îÇ      kouqin7.wav
+‚îÇ      kouqin8.wav
+‚îÇ      kouqin9.wav
+‚îÇ      kouqin[0].txt
+‚îÇ      
+‚îú‚îÄlaiyaqin[0]
+‚îÇ      laiyaqin1.wav
+‚îÇ      laiyaqin10.wav
+‚îÇ      laiyaqin11.wav
+‚îÇ      laiyaqin12.wav
+‚îÇ      laiyaqin13.wav
+‚îÇ      laiyaqin14.wav
+‚îÇ      laiyaqin15.wav
+‚îÇ      laiyaqin16.wav
+‚îÇ      laiyaqin17.wav
+‚îÇ      laiyaqin18.wav
+‚îÇ      laiyaqin19.wav
+‚îÇ      laiyaqin2.wav
+‚îÇ      laiyaqin20.wav
+‚îÇ      laiyaqin21.wav
+‚îÇ      laiyaqin22.wav
+‚îÇ      laiyaqin3.wav
+‚îÇ      laiyaqin4.wav
+‚îÇ      laiyaqin5.wav
+‚îÇ      laiyaqin6.wav
+‚îÇ      laiyaqin7.wav
+‚îÇ      laiyaqin8.wav
+‚îÇ      laiyaqin9.wav
+‚îÇ      laiyaqin[0].txt
+‚îÇ      
+‚îú‚îÄlimai[0]
+‚îÇ      1.wav
+‚îÇ      10.wav
+‚îÇ      11.wav
+‚îÇ      12.wav
+‚îÇ      13.wav
+‚îÇ      14.wav
+‚îÇ      15.wav
+‚îÇ      16.wav
+‚îÇ      17.wav
+‚îÇ      18.wav
+‚îÇ      19.wav
+‚îÇ      2.wav
+‚îÇ      20.wav
+‚îÇ      21.wav
+‚îÇ      22.wav
+‚îÇ      3.wav
+‚îÇ      4.wav
+‚îÇ      5.wav
+‚îÇ      6.wav
+‚îÇ      7.wav
+‚îÇ      8.wav
+‚îÇ      9.wav
+‚îÇ      limai[0].txt
+‚îÇ      
+‚îú‚îÄmajiang[0]
+‚îÇ      boy_baiban.wav
+‚îÇ      boy_batiao.wav
+‚îÇ      boy_batong.wav
+‚îÇ      boy_bawan.wav
+‚îÇ      boy_beifeng.wav
+‚îÇ      boy_dongfeng.wav
+‚îÇ      boy_ertiao.wav
+‚îÇ      boy_ertong.wav
+‚îÇ      boy_erwan.wav
+‚îÇ      boy_facai.wav
+‚îÇ      boy_gang.wav
+‚îÇ      boy_hongzhong.wav
+‚îÇ      boy_hu.wav
+‚îÇ      boy_jiutiao.wav
+‚îÇ      boy_jiutong.wav
+‚îÇ      boy_jiuwan.wav
+‚îÇ      boy_liutiao.wav
+‚îÇ      boy_liutong.wav
+‚îÇ      boy_liuwan.wav
+‚îÇ      boy_nanfeng.wav
+‚îÇ      boy_peng.wav
+‚îÇ      boy_qianggang.wav
+‚îÇ      boy_qitiao.wav
+‚îÇ      boy_qitong.wav
+‚îÇ      boy_qiwan.wav
+‚îÇ      boy_santiao.wav
+‚îÇ      boy_santong.wav
+‚îÇ      boy_sanwan.wav
+‚îÇ      boy_sitiao.wav
+‚îÇ      boy_sitong.wav
+‚îÇ      boy_siwan.wav
+‚îÇ      boy_wutiao.wav
+‚îÇ      boy_wutong.wav
+‚îÇ      boy_wuwan.wav
+‚îÇ      boy_xifeng.wav
+‚îÇ      boy_yaoji.wav
+‚îÇ      boy_yitong.wav
+‚îÇ      boy_yiwan.wav
+‚îÇ      girl_baiban.wav
+‚îÇ      girl_batiao.wav
+‚îÇ      girl_batong.wav
+‚îÇ      girl_bawan.wav
+‚îÇ      girl_beifeng.wav
+‚îÇ      girl_dongfeng.wav
+‚îÇ      girl_ertiao.wav
+‚îÇ      girl_ertong.wav
+‚îÇ      girl_erwan.wav
+‚îÇ      girl_facai.wav
+‚îÇ      girl_gang.wav
+‚îÇ      girl_hongzhong.wav
+‚îÇ      girl_hu.wav
+‚îÇ      girl_jiutiao.wav
+‚îÇ      girl_jiutong.wav
+‚îÇ      girl_jiuwan.wav
+‚îÇ      girl_liutiao.wav
+‚îÇ      girl_liutong.wav
+‚îÇ      girl_liuwan.wav
+‚îÇ      girl_nanfeng.wav
+‚îÇ      girl_peng.wav
+‚îÇ      girl_qianggang.wav
+‚îÇ      girl_qitiao.wav
+‚îÇ      girl_qitong.wav
+‚îÇ      girl_qiwan.wav
+‚îÇ      girl_santiao.wav
+‚îÇ      girl_santong.wav
+‚îÇ      girl_sanwan.wav
+‚îÇ      girl_sitiao.wav
+‚îÇ      girl_sitong.wav
+‚îÇ      girl_siwan.wav
+‚îÇ      girl_wutiao.wav
+‚îÇ      girl_wutong.wav
+‚îÇ      girl_wuwan.wav
+‚îÇ      girl_xifeng.wav
+‚îÇ      girl_yaoji.wav
+‚îÇ      girl_yitong.wav
+‚îÇ      girl_yiwan.wav
+‚îÇ      majiang[0].txt
+‚îÇ      
+‚îú‚îÄmalinba[0]
+‚îÇ      1.wav
+‚îÇ      10.wav
+‚îÇ      11.wav
+‚îÇ      12.wav
+‚îÇ      13.wav
+‚îÇ      14.wav
+‚îÇ      15.wav
+‚îÇ      16.wav
+‚îÇ      17.wav
+‚îÇ      18.wav
+‚îÇ      19.wav
+‚îÇ      2.wav
+‚îÇ      20.wav
+‚îÇ      21.wav
+‚îÇ      22.wav
+‚îÇ      3.wav
+‚îÇ      4.wav
+‚îÇ      5.wav
+‚îÇ      6.wav
+‚îÇ      7.wav
+‚îÇ      8.wav
+‚îÇ      9.wav
+‚îÇ      malinba[0].txt
+‚îÇ      
+‚îú‚îÄmalinba_1[0]
+‚îÇ      malinba_1.wav
+‚îÇ      malinba_10.wav
+‚îÇ      malinba_11.wav
+‚îÇ      malinba_12.wav
+‚îÇ      malinba_13.wav
+‚îÇ      malinba_14.wav
+‚îÇ      malinba_15.wav
+‚îÇ      malinba_16.wav
+‚îÇ      malinba_17.wav
+‚îÇ      malinba_18.wav
+‚îÇ      malinba_19.wav
+‚îÇ      malinba_1[0].txt
+‚îÇ      malinba_2.wav
+‚îÇ      malinba_20.wav
+‚îÇ      malinba_21.wav
+‚îÇ      malinba_22.wav
+‚îÇ      malinba_3.wav
+‚îÇ      malinba_4.wav
+‚îÇ      malinba_5.wav
+‚îÇ      malinba_6.wav
+‚îÇ      malinba_7.wav
+‚îÇ      malinba_8.wav
+‚îÇ      malinba_9.wav
+‚îÇ      
+‚îú‚îÄmug[0]
+‚îÇ      key_sound_1.wav
+‚îÇ      key_sound_2.wav
+‚îÇ      key_sound_3.wav
+‚îÇ      key_sound_4.wav
+‚îÇ      mug[0].txt
+‚îÇ      
+‚îú‚îÄmushroom_brother[0]
+‚îÇ      accordion_1.wav
+‚îÇ      accordion_10.wav
+‚îÇ      accordion_2.wav
+‚îÇ      accordion_3.wav
+‚îÇ      accordion_4.wav
+‚îÇ      accordion_5.wav
+‚îÇ      accordion_6.wav
+‚îÇ      accordion_7.wav
+‚îÇ      accordion_8.wav
+‚îÇ      accordion_9.wav
+‚îÇ      mushroom_brother[0].txt
+‚îÇ      
+‚îú‚îÄmusic_10[0]
+‚îÇ      bgm_spirit_battle.wav
+‚îÇ      kuanian.wav
+‚îÇ      music_10[0].txt
+‚îÇ      spirit_battle_fail.wav
+‚îÇ      spirit_battle_intro.wav
+‚îÇ      spirit_battle_success.wav
+‚îÇ      
+‚îú‚îÄmusic_11[0]
+‚îÇ      bgm_story_angry.wav
+‚îÇ      bgm_story_calm.wav
+‚îÇ      bgm_story_dangerous.wav
+‚îÇ      bgm_story_depressed.wav
+‚îÇ      music_11[0].txt
+‚îÇ      
+‚îú‚îÄmusic_12[0]
+‚îÇ      bgm_story_funny.wav
+‚îÇ      bgm_story_happy.wav
+‚îÇ      bgm_story_heigula.wav
+‚îÇ      bgm_story_holy.wav
+‚îÇ      bgm_story_leisurely.wav
+‚îÇ      music_12[0].txt
+‚îÇ      
+‚îú‚îÄmusic_13[0]
+‚îÇ      bgm_story_meditate.wav
+‚îÇ      bgm_story_mysterious_funny.wav
+‚îÇ      bgm_story_sad.wav
+‚îÇ      bgm_story_suspense.wav
+‚îÇ      bgm_story_warmth.wav
+‚îÇ      music_13[0].txt
+‚îÇ      
+‚îú‚îÄmusic_14[0]
+‚îÇ      Bgm_DreamLandMIX.wav
+‚îÇ      Bgm_LangRenSha_atmosphere.wav
+‚îÇ      Bgm_LangRenSha_Filling.wav
+‚îÇ      Bgm_LangRenSha_Nervous.wav
+‚îÇ      music_14[0].txt
+‚îÇ      
+‚îú‚îÄmusic_15[0]
+‚îÇ      Bgm_InterstellarCompetition.wav
+‚îÇ      Bgm_IntimacyAssessment_2MIX.wav
+‚îÇ      cake.wav
+‚îÇ      music_15[0].txt
+‚îÇ      
+‚îú‚îÄmusic_16[0]
+‚îÇ      Bgm_GameOffice.wav
+‚îÇ      Bgm_gobang.wav
+‚îÇ      Bgm_IntimacyAssessment_3.wav
+‚îÇ      music_16[0].txt
+‚îÇ      
+‚îú‚îÄmusic_17[0]
+‚îÇ      Bgm_dragon_cave.wav
+‚îÇ      bgm_pick_star.wav
+‚îÇ      intimacyassessment_4.wav
+‚îÇ      music_17[0].txt
+‚îÇ      
+‚îú‚îÄmusic_18[0]
+‚îÇ      battle_heigula.wav
+‚îÇ      bgm_fenghua_street.wav
+‚îÇ      bgm_happy_restaurant.wav
+‚îÇ      Bgm_match_house_waiting.wav
+‚îÇ      gaming_nervous.wav
+‚îÇ      gaming_normal.wav
+‚îÇ      gaming_transition.wav
+‚îÇ      music_18[0].txt
+‚îÇ      
+‚îú‚îÄmusic_19[0]
+‚îÇ      bgm_retro_snaker.wav
+‚îÇ      bgm_retro_snaker_gaming.wav
+‚îÇ      mug16.wav
+‚îÇ      mug17.wav
+‚îÇ      music_19[0].txt
+‚îÇ      
+‚îú‚îÄmusic_1[0]
+‚îÇ      bgm_aquarium.wav
+‚îÇ      bgm_island_day.wav
+‚îÇ      bgm_island_night.wav
+‚îÇ      bgm_room.wav
+‚îÇ      fireworks_bomb_1.wav
+‚îÇ      fireworks_bomb_2.wav
+‚îÇ      fireworks_bomb_3.wav
+‚îÇ      fireworks_bomb_4.wav
+‚îÇ      fireworks_bomb_5.wav
+‚îÇ      fireworks_whistle_1.wav
+‚îÇ      fireworks_whistle_2.wav
+‚îÇ      fireworks_whistle_3.wav
+‚îÇ      fireworks_whistle_4.wav
+‚îÇ      music_1[0].txt
+‚îÇ      undersea_island.wav
+‚îÇ      
+‚îú‚îÄmusic_20[0]
+‚îÇ      mug1.wav
+‚îÇ      mug18.wav
+‚îÇ      mug19.wav
+‚îÇ      mug20.wav
+‚îÇ      music_20[0].txt
+‚îÇ      
+‚îú‚îÄmusic_21[0]
+‚îÇ      mug2.wav
+‚îÇ      mug3.wav
+‚îÇ      mug4.wav
+‚îÇ      mug5.wav
+‚îÇ      music_21[0].txt
+‚îÇ      
+‚îú‚îÄmusic_22[0]
+‚îÇ      mug6.wav
+‚îÇ      mug7.wav
+‚îÇ      mug8.wav
+‚îÇ      mug9.wav
+‚îÇ      music_22[0].txt
+‚îÇ      
+‚îú‚îÄmusic_23[0]
+‚îÇ      mug10.wav
+‚îÇ      mug11.wav
+‚îÇ      mug12.wav
+‚îÇ      mug13.wav
+‚îÇ      music_23[0].txt
+‚îÇ      
+‚îú‚îÄmusic_24[0]
+‚îÇ      mug14.wav
+‚îÇ      mug15.wav
+‚îÇ      mug_metronome.wav
+‚îÇ      music_24[0].txt
+‚îÇ      
+‚îú‚îÄmusic_26[0]
+‚îÇ      disco_dancing_5_bpm_161.wav
+‚îÇ      disco_dancing_6_bpm_170.wav
+‚îÇ      disco_dancing_7_bpm_180.wav
+‚îÇ      disco_dancing_8_bpm_170.wav
+‚îÇ      disco_dancing_9_bpm_140.wav
+‚îÇ      music_26[0].txt
+‚îÇ      
+‚îú‚îÄmusic_27[0]
+‚îÇ      birthday.wav
+‚îÇ      childlike.wav
+‚îÇ      confrontation.wav
+‚îÇ      confrontation_fierce.wav
+‚îÇ      music_27[0].txt
+‚îÇ      mysterious.wav
+‚îÇ      unhappy.wav
+‚îÇ      
+‚îú‚îÄmusic_28[0]
+‚îÇ      bgm_colorbear_make.wav
+‚îÇ      bgm_move_or_die_game.wav
+‚îÇ      bgm_move_or_die_waiting.wav
+‚îÇ      bgm_zhounianleyuan_outdoor.wav
+‚îÇ      cake_division.wav
+‚îÇ      music_28[0].txt
+‚îÇ      yanhuabiaoyan.wav
+‚îÇ      zhounianleyuan_indoor_hou.wav
+‚îÇ      zhounianleyuan_indoor_qian.wav
+‚îÇ      
+‚îú‚îÄmusic_29[0]
+‚îÇ      bgm_odin_planet.wav
+‚îÇ      dangerous.wav
+‚îÇ      general.wav
+‚îÇ      music_29[0].txt
+‚îÇ      waiting.wav
+‚îÇ      
+‚îú‚îÄmusic_2[0]
+‚îÇ      Bgm_AobiSquare_NightMIX.wav
+‚îÇ      bgm_aobi_day.wav
+‚îÇ      bgm_cave.wav
+‚îÇ      music_2[0].txt
+‚îÇ      
+‚îú‚îÄmusic_30[0]
+‚îÇ      16.wav
+‚îÇ      mug10.wav
+‚îÇ      mug12.wav
+‚îÇ      music_30[0].txt
+‚îÇ      theme.wav
+‚îÇ      
+‚îú‚îÄmusic_31[0]
+‚îÇ      exciting.wav
+‚îÇ      music_31[0].txt
+‚îÇ      nervous.wav
+‚îÇ      space_platform.wav
+‚îÇ      virtual_world.wav
+‚îÇ      
+‚îú‚îÄmusic_32[0]
+‚îÇ      1.wav
+‚îÇ      17.wav
+‚îÇ      18.wav
+‚îÇ      2.wav
+‚îÇ      music_32[0].txt
+‚îÇ      
+‚îú‚îÄmusic_33[0]
+‚îÇ      bgm_mini_game_nervous.wav
+‚îÇ      bgm_retro_snaker.wav
+‚îÇ      bgm_retro_snaker_gaming.wav
+‚îÇ      music_33[0].txt
+‚îÇ      
+‚îú‚îÄmusic_34[0]
+‚îÇ      business_negotiation.wav
+‚îÇ      explore.wav
+‚îÇ      funny_negotiation.wav
+‚îÇ      music_34[0].txt
+‚îÇ      warm_leisurely.wav
+‚îÇ      
+‚îú‚îÄmusic_35[0]
+‚îÇ      20.wav
+‚îÇ      21.wav
+‚îÇ      22.wav
+‚îÇ      23.wav
+‚îÇ      bgm_dream_land_4.wav
+‚îÇ      mini_game_slow.wav
+‚îÇ      music_35[0].txt
+‚îÇ      
+‚îú‚îÄmusic_36[0]
+‚îÇ      bgm_shengtaiyuan .wav
+‚îÇ      duomaomao.wav
+‚îÇ      gugong.wav
+‚îÇ      huazhongxian.wav
+‚îÇ      music_36[0].txt
+‚îÇ      
+‚îú‚îÄmusic_37[0]
+‚îÇ      bgm_old_school.wav
+‚îÇ      bgm_wanwushengzhang.wav
+‚îÇ      bgm_weilaiqianxian.wav
+‚îÇ      cloudytales.wav
+‚îÇ      disco_dancing_1 bpm_130.wav
+‚îÇ      disco_dancing_2 bpm_140.wav
+‚îÇ      disco_dancing_3 bpm_130.wav
+‚îÇ      disco_dancing_4 bpm_141.wav
+‚îÇ      disco_dancing_5_bpm_161.wav
+‚îÇ      disco_dancing_6_bpm_170.wav
+‚îÇ      disco_dancing_7_bpm_180.wav
+‚îÇ      disco_dancing_8_bpm_170.wav
+‚îÇ      disco_dancing_9_bpm_140.wav
+‚îÇ      mug1.wav
+‚îÇ      mug10.wav
+‚îÇ      mug11.wav
+‚îÇ      mug12.wav
+‚îÇ      mug13.wav
+‚îÇ      mug14.wav
+‚îÇ      mug15.wav
+‚îÇ      mug16.wav
+‚îÇ      mug17.wav
+‚îÇ      mug18.wav
+‚îÇ      mug2.wav
+‚îÇ      mug20.wav
+‚îÇ      mug3.wav
+‚îÇ      mug4.wav
+‚îÇ      mug5.wav
+‚îÇ      mug6.wav
+‚îÇ      mug7.wav
+‚îÇ      mug8.wav
+‚îÇ      music_37[0].txt
+‚îÇ      noteparty.wav
+‚îÇ      
+‚îú‚îÄmusic_38[0]
+‚îÇ      bgm_wanxianggang.wav
+‚îÇ      doudizhu.wav
+‚îÇ      fenghuayingshicheng.wav
+‚îÇ      langrensha_taosheng.wav
+‚îÇ      music_38[0].txt
+‚îÇ      
+‚îú‚îÄmusic_39[0]
+‚îÇ      music_39[0].txt
+‚îÇ      undersea_1.wav
+‚îÇ      undersea_2.wav
+‚îÇ      undersea_3.wav
+‚îÇ      undersea_4.wav
+‚îÇ      undersea_island.wav
+‚îÇ      
+‚îú‚îÄmusic_3[0]
+‚îÇ      bgm_catch_pet.wav
+‚îÇ      Bgm_Login.wav
+‚îÇ      bgm_MiniGame.wav
+‚îÇ      Bgm_TrasureHouseMIX.wav
+‚îÇ      Bgm_TreeHouseShopMIX.wav
+‚îÇ      music_3[0].txt
+‚îÇ      
+‚îú‚îÄmusic_40[0]
+‚îÇ      bedroom_day.wav
+‚îÇ      bedroom_night.wav
+‚îÇ      music_40[0].txt
+‚îÇ      zhounianxunyou_1.wav
+‚îÇ      zhounianxunyou_2.wav
+‚îÇ      zhounianxunyou_3.wav
+‚îÇ      
+‚îú‚îÄmusic_41[0]
+‚îÇ      bgm_dream_land_6.wav
+‚îÇ      fenghuayuan.wav
+‚îÇ      lemengxingdong.wav
+‚îÇ      music_41[0].txt
+‚îÇ      piyingxi.wav
+‚îÇ      qunxingjiequ_day.wav
+‚îÇ      qunxingjiequ_night.wav
+‚îÇ      yuandanyanhua.wav
+‚îÇ      
+‚îú‚îÄmusic_42[0]
+‚îÇ      banjiangdianli.wav
+‚îÇ      bianzhonggu.wav
+‚îÇ      bubugao.wav
+‚îÇ      doukongzhu.wav
+‚îÇ      music_42[0].txt
+‚îÇ      npc.wav
+‚îÇ      qunwu.wav
+‚îÇ      rechang.wav
+‚îÇ      tanhuawu.wav
+‚îÇ      xiyangyang.wav
+‚îÇ      yudengxunyou.wav
+‚îÇ      
+‚îú‚îÄmusic_43[0]
+‚îÇ      music_43[0].txt
+‚îÇ      sdc_base.wav
+‚îÇ      sdc_copy.wav
+‚îÇ      story_mengke.wav
+‚îÇ      
+‚îú‚îÄmusic_4[0]
+‚îÇ      Bgm_FlowerCloudMIX.wav
+‚îÇ      Bgm_TaoBaoStreet_DayMIX.wav
+‚îÇ      bgm_taobaostreet_night.wav
+‚îÇ      music_4[0].txt
+‚îÇ      
+‚îú‚îÄmusic_5[0]
+‚îÇ      Bgm_LibraryMIX.wav
+‚îÇ      bgm_SnowMountain.wav
+‚îÇ      Bgm_SnowMountain_DayMIX.wav
+‚îÇ      music_5[0].txt
+‚îÇ      
+‚îú‚îÄmusic_6[0]
+‚îÇ      bgm_arcane_star_palace.wav
+‚îÇ      Bgm_Forest_DayMIX.wav
+‚îÇ      Bgm_Forest_NightMIX.wav
+‚îÇ      music_6[0].txt
+‚îÇ      
+‚îú‚îÄmusic_7[0]
+‚îÇ      Bgm_FriendshipManor_DayMIX.wav
+‚îÇ      Bgm_FriendshipManor_NightMIX.wav
+‚îÇ      music_7[0].txt
+‚îÇ      
+‚îú‚îÄmusic_8[0]
+‚îÇ      Bgm_ResidentOfficeMIX.wav
+‚îÇ      Bgm_SnowMountainFoot_DayMIX.wav
+‚îÇ      Bgm_SnowMountainFoot_NightMIX.wav
+‚îÇ      music_8[0].txt
+‚îÇ      
+‚îú‚îÄmusic_9[0]
+‚îÇ      Bgm_FamilyScene_MIX.wav
+‚îÇ      Bgm_IntimacyAssessment_1MIX.wav
+‚îÇ      bgm_miwu.wav
+‚îÇ      music_9[0].txt
+‚îÇ      
+‚îú‚îÄnpc_event[0]
+‚îÇ      npc_event[0].txt
+‚îÇ      npc_event_hagen_01.wav
+‚îÇ      npc_event_heilian_01.wav
+‚îÇ      npc_event_lingdang_01.wav
+‚îÇ      npc_event_longwa_01.wav
+‚îÇ      npc_event_shuiyan_01.wav
+‚îÇ      npc_event_xuanshuang_01.wav
+‚îÇ      p11xn059.wav
+‚îÇ      
+‚îú‚îÄoctopus[0]
+‚îÇ      appear.wav
+‚îÇ      naughty.wav
+‚îÇ      octopus[0].txt
+‚îÇ      octopus_appear.wav
+‚îÇ      octopus_disappear.wav
+‚îÇ      octopus_hit_1.wav
+‚îÇ      octopus_hit_2.wav
+‚îÇ      octopus_hit_3.wav
+‚îÇ      water1.wav
+‚îÇ      water2.wav
+‚îÇ      water3.wav
+‚îÇ      water5.wav
+‚îÇ      waterball_hit_1.wav
+‚îÇ      waterball_hit_2.wav
+‚îÇ      waterball_hit_3.wav
+‚îÇ      
+‚îú‚îÄparrot[0]
+‚îÇ      parrot[0].txt
+‚îÇ      vo_parrot_idle_1.wav
+‚îÇ      vo_parrot_idle_2.wav
+‚îÇ      vo_parrot_idle_3.wav
+‚îÇ      vo_parrot_interactive_1a.wav
+‚îÇ      vo_parrot_interactive_1b.wav
+‚îÇ      vo_parrot_interactive_2.wav
+‚îÇ      vo_parrot_interactive_3.wav
+‚îÇ      vo_parrot_interactive_4.wav
+‚îÇ      vo_parrot_interactive_5.wav
+‚îÇ      vo_parrot_interactive_6.wav
+‚îÇ      vo_parrot_interactive_7.wav
+‚îÇ      
+‚îú‚îÄpiano_step[0]
+‚îÇ      1.wav
+‚îÇ      10.wav
+‚îÇ      10_29.wav
+‚îÇ      11.wav
+‚îÇ      11_12.wav
+‚îÇ      12.wav
+‚îÇ      12_39.wav
+‚îÇ      13.wav
+‚îÇ      13_3.wav
+‚îÇ      14.wav
+‚îÇ      14_9.wav
+‚îÇ      15.wav
+‚îÇ      15_27.wav
+‚îÇ      16.wav
+‚îÇ      16_30.wav
+‚îÇ      17.wav
+‚îÇ      17_22.wav
+‚îÇ      18.wav
+‚îÇ      18_40.wav
+‚îÇ      19.wav
+‚îÇ      1_25.wav
+‚îÇ      2.wav
+‚îÇ      20.wav
+‚îÇ      21.wav
+‚îÇ      22.wav
+‚îÇ      23.wav
+‚îÇ      24.wav
+‚îÇ      25.wav
+‚îÇ      26.wav
+‚îÇ      2_33.wav
+‚îÇ      3.wav
+‚îÇ      3_24.wav
+‚îÇ      4.wav
+‚îÇ      4_37.wav
+‚îÇ      5.wav
+‚îÇ      5_13.wav
+‚îÇ      6.wav
+‚îÇ      6_35.wav
+‚îÇ      7.wav
+‚îÇ      7_16.wav
+‚îÇ      8.wav
+‚îÇ      8_43.wav
+‚îÇ      9.wav
+‚îÇ      9_38.wav
+‚îÇ      piano_step[0].txt
+‚îÇ      
+‚îú‚îÄplot_01[0]
+‚îÇ      p1dxz001.wav
+‚îÇ      p1dxz002.wav
+‚îÇ      p1dxz003.wav
+‚îÇ      p1dxz004.wav
+‚îÇ      p1dxz005.wav
+‚îÇ      p1dxz006.wav
+‚îÇ      p1dxz007.wav
+‚îÇ      p1dxz008.wav
+‚îÇ      p1dxz009.wav
+‚îÇ      p1dxz010.wav
+‚îÇ      p1dxz011.wav
+‚îÇ      p1dxz012.wav
+‚îÇ      p1dxz013.wav
+‚îÇ      p1dxz014.wav
+‚îÇ      p1dxz015.wav
+‚îÇ      p1jk001.wav
+‚îÇ      p1jk002.wav
+‚îÇ      p1jk003.wav
+‚îÇ      p1jk004.wav
+‚îÇ      p1jk005.wav
+‚îÇ      p1jk006.wav
+‚îÇ      p1jk007.wav
+‚îÇ      p1jk008.wav
+‚îÇ      p1jk009.wav
+‚îÇ      p1jk010.wav
+‚îÇ      p1jk011.wav
+‚îÇ      p1jk012.wav
+‚îÇ      p1jk013.wav
+‚îÇ      p1jk014.wav
+‚îÇ      p1jk015.wav
+‚îÇ      p1jk016.wav
+‚îÇ      p1jk017.wav
+‚îÇ      p1jk018.wav
+‚îÇ      p1jk019.wav
+‚îÇ      p1jk020.wav
+‚îÇ      p1jk021.wav
+‚îÇ      p1jk022.wav
+‚îÇ      p1jk023.wav
+‚îÇ      p1jk024.wav
+‚îÇ      p1jk025.wav
+‚îÇ      p1jk026.wav
+‚îÇ      p1jk027.wav
+‚îÇ      p1jk028.wav
+‚îÇ      p1jk029.wav
+‚îÇ      p1sfy001.wav
+‚îÇ      p1sfy002.wav
+‚îÇ      p1sfy003.wav
+‚îÇ      p1sfy004.wav
+‚îÇ      p1sfy005.wav
+‚îÇ      p1sfy006.wav
+‚îÇ      p1sfy007.wav
+‚îÇ      p1sfy008.wav
+‚îÇ      p1sfy009.wav
+‚îÇ      p1sy001.wav
+‚îÇ      p1sy002.wav
+‚îÇ      p1sy003.wav
+‚îÇ      p1sy004.wav
+‚îÇ      p1sy005.wav
+‚îÇ      p1sy006.wav
+‚îÇ      p1sy007.wav
+‚îÇ      p1sy008.wav
+‚îÇ      p1sy009.wav
+‚îÇ      p1sy010.wav
+‚îÇ      p1sy011.wav
+‚îÇ      p1sy012.wav
+‚îÇ      p1sy013.wav
+‚îÇ      p1sy014.wav
+‚îÇ      p1sy015.wav
+‚îÇ      p1sy016.wav
+‚îÇ      p1wd001.wav
+‚îÇ      p1wd002.wav
+‚îÇ      p1wd003.wav
+‚îÇ      p1wd004.wav
+‚îÇ      p1wd005.wav
+‚îÇ      p1wd006.wav
+‚îÇ      p1wd007.wav
+‚îÇ      p1xn001.wav
+‚îÇ      p1xn002.wav
+‚îÇ      p1xn003.wav
+‚îÇ      p1xn004.wav
+‚îÇ      p1xn005.wav
+‚îÇ      p1xn006.wav
+‚îÇ      p1xn007.wav
+‚îÇ      p1xn008.wav
+‚îÇ      p1xn009.wav
+‚îÇ      p1xn010.wav
+‚îÇ      p1xn011.wav
+‚îÇ      p1xn012.wav
+‚îÇ      p1xn013.wav
+‚îÇ      p1xn014.wav
+‚îÇ      p1xn015.wav
+‚îÇ      p1xn016.wav
+‚îÇ      p1xn017.wav
+‚îÇ      p1xn018.wav
+‚îÇ      p1xn019.wav
+‚îÇ      p1xn020.wav
+‚îÇ      p1xn021.wav
+‚îÇ      p1xn022.wav
+‚îÇ      p1xn023.wav
+‚îÇ      p1xn024.wav
+‚îÇ      p1xn025.wav
+‚îÇ      p1xn026.wav
+‚îÇ      p1xn027.wav
+‚îÇ      p1xn028.wav
+‚îÇ      p1xn029.wav
+‚îÇ      p1xn030.wav
+‚îÇ      p1xn031.wav
+‚îÇ      p1xn032.wav
+‚îÇ      p1xn033.wav
+‚îÇ      p1xn034.wav
+‚îÇ      p1xn035.wav
+‚îÇ      p1yx001.wav
+‚îÇ      p1yx002.wav
+‚îÇ      p1yx003.wav
+‚îÇ      p1yx004.wav
+‚îÇ      p1yx005.wav
+‚îÇ      p1yx006.wav
+‚îÇ      p1yx007.wav
+‚îÇ      p1yx008.wav
+‚îÇ      p1yx009.wav
+‚îÇ      p1yx010.wav
+‚îÇ      p1yx011.wav
+‚îÇ      p1yx012.wav
+‚îÇ      p1yx013.wav
+‚îÇ      p1yx014.wav
+‚îÇ      plot_01[0].txt
+‚îÇ      
+‚îú‚îÄplot_02[0]
+‚îÇ      p2al001.wav
+‚îÇ      p2al002.wav
+‚îÇ      p2al003.wav
+‚îÇ      p2al004.wav
+‚îÇ      p2al005.wav
+‚îÇ      p2al006.wav
+‚îÇ      p2al007.wav
+‚îÇ      p2al008.wav
+‚îÇ      p2dxz001.wav
+‚îÇ      p2dxz002.wav
+‚îÇ      p2dxz003.wav
+‚îÇ      p2dxz004.wav
+‚îÇ      p2dxz005.wav
+‚îÇ      p2dxz006.wav
+‚îÇ      p2dxz007.wav
+‚îÇ      p2dxz008.wav
+‚îÇ      p2dxz009.wav
+‚îÇ      p2dxz010.wav
+‚îÇ      p2dxz011.wav
+‚îÇ      p2dxz012.wav
+‚îÇ      p2dxz013.wav
+‚îÇ      p2flq001.wav
+‚îÇ      p2flq002.wav
+‚îÇ      p2flq003.wav
+‚îÇ      p2flq004.wav
+‚îÇ      p2flq005.wav
+‚îÇ      p2flq006.wav
+‚îÇ      p2flq007.wav
+‚îÇ      p2flq008.wav
+‚îÇ      p2flq009.wav
+‚îÇ      p2flq010.wav
+‚îÇ      p2flq011.wav
+‚îÇ      p2flq012.wav
+‚îÇ      p2flq013.wav
+‚îÇ      p2flq014.wav
+‚îÇ      p2flq015.wav
+‚îÇ      p2flq016.wav
+‚îÇ      p2flq017.wav
+‚îÇ      p2flq018.wav
+‚îÇ      p2flq019.wav
+‚îÇ      p2flq020.wav
+‚îÇ      p2flq021.wav
+‚îÇ      p2flq022.wav
+‚îÇ      p2flq023.wav
+‚îÇ      p2flq024.wav
+‚îÇ      p2flq025.wav
+‚îÇ      p2flq026.wav
+‚îÇ      p2flq027.wav
+‚îÇ      p2flq028.wav
+‚îÇ      p2flq029.wav
+‚îÇ      p2flq030.wav
+‚îÇ      p2flq031.wav
+‚îÇ      p2flq032.wav
+‚îÇ      p2flq033.wav
+‚îÇ      p2flq034.wav
+‚îÇ      p2flq035.wav
+‚îÇ      p2flq036.wav
+‚îÇ      p2flq037.wav
+‚îÇ      p2flq038.wav
+‚îÇ      p2flq039.wav
+‚îÇ      p2flq040.wav
+‚îÇ      p2flq041.wav
+‚îÇ      p2flq042.wav
+‚îÇ      p2flq043.wav
+‚îÇ      p2flq044.wav
+‚îÇ      p2flq045.wav
+‚îÇ      p2flq046.wav
+‚îÇ      p2flq047.wav
+‚îÇ      p2flq048.wav
+‚îÇ      p2flq049.wav
+‚îÇ      p2flq050.wav
+‚îÇ      p2flq051.wav
+‚îÇ      p2flq052.wav
+‚îÇ      p2flq053.wav
+‚îÇ      p2flq054.wav
+‚îÇ      p2flq055.wav
+‚îÇ      p2flq056.wav
+‚îÇ      p2flq057.wav
+‚îÇ      p2flq058.wav
+‚îÇ      p2flq059.wav
+‚îÇ      p2flq060.wav
+‚îÇ      p2flq061.wav
+‚îÇ      p2flq062.wav
+‚îÇ      p2flq063.wav
+‚îÇ      p2flq064.wav
+‚îÇ      p2flq065.wav
+‚îÇ      p2flq066.wav
+‚îÇ      p2flq067.wav
+‚îÇ      p2flq068.wav
+‚îÇ      p2flq069.wav
+‚îÇ      p2jk001.wav
+‚îÇ      p2jk002.wav
+‚îÇ      p2jk003.wav
+‚îÇ      p2jk004.wav
+‚îÇ      p2ml001.wav
+‚îÇ      p2ml002.wav
+‚îÇ      p2ml003.wav
+‚îÇ      p2ml004.wav
+‚îÇ      p2ml005.wav
+‚îÇ      p2ml006.wav
+‚îÇ      p2ml007.wav
+‚îÇ      p2ml008.wav
+‚îÇ      p2ml009.wav
+‚îÇ      p2ml010.wav
+‚îÇ      p2ml011.wav
+‚îÇ      p2ml012.wav
+‚îÇ      p2ml013.wav
+‚îÇ      p2ml014.wav
+‚îÇ      p2ml015.wav
+‚îÇ      p2ml016.wav
+‚îÇ      p2pp001.wav
+‚îÇ      p2pp002.wav
+‚îÇ      p2pp003.wav
+‚îÇ      p2pp004.wav
+‚îÇ      p2pp005.wav
+‚îÇ      p2pp006.wav
+‚îÇ      p2pp007.wav
+‚îÇ      p2pp008.wav
+‚îÇ      p2pp009.wav
+‚îÇ      p2wd001.wav
+‚îÇ      p2wd002.wav
+‚îÇ      p2wd003.wav
+‚îÇ      p2wd004.wav
+‚îÇ      p2wd005.wav
+‚îÇ      p2wd006.wav
+‚îÇ      p2wd007.wav
+‚îÇ      p2wd008.wav
+‚îÇ      p2wd009.wav
+‚îÇ      p2wd010.wav
+‚îÇ      p2wd011.wav
+‚îÇ      p2wd012.wav
+‚îÇ      p2wd013.wav
+‚îÇ      p2wd014.wav
+‚îÇ      p2wd015.wav
+‚îÇ      p2wd016.wav
+‚îÇ      p2wd017.wav
+‚îÇ      p2xed001.wav
+‚îÇ      p2xed002.wav
+‚îÇ      p2xed003.wav
+‚îÇ      p2xed004.wav
+‚îÇ      p2xed005.wav
+‚îÇ      p2xed006.wav
+‚îÇ      p2xed007.wav
+‚îÇ      p2xed008.wav
+‚îÇ      p2xed009.wav
+‚îÇ      p2xed010.wav
+‚îÇ      p2xed011.wav
+‚îÇ      p2xed012.wav
+‚îÇ      p2xed013.wav
+‚îÇ      p2xed014.wav
+‚îÇ      p2xed015.wav
+‚îÇ      p2xed016.wav
+‚îÇ      p2xed017.wav
+‚îÇ      p2xed018.wav
+‚îÇ      p2xed019.wav
+‚îÇ      p2xed020.wav
+‚îÇ      p2xed021.wav
+‚îÇ      p2xed022.wav
+‚îÇ      p2xed023.wav
+‚îÇ      p2xed024.wav
+‚îÇ      p2xed025.wav
+‚îÇ      p2xed026.wav
+‚îÇ      p2xed027.wav
+‚îÇ      p2xed028.wav
+‚îÇ      p2xed029.wav
+‚îÇ      p2xn001.wav
+‚îÇ      p2xn002.wav
+‚îÇ      p2xn003.wav
+‚îÇ      p2xn004.wav
+‚îÇ      p2xn005.wav
+‚îÇ      p2xn006.wav
+‚îÇ      p2xn007.wav
+‚îÇ      p2xn008.wav
+‚îÇ      p2xn009.wav
+‚îÇ      p2xn010.wav
+‚îÇ      p2xn011.wav
+‚îÇ      p2xn012.wav
+‚îÇ      p2xn013.wav
+‚îÇ      p2xn014.wav
+‚îÇ      p2xn015.wav
+‚îÇ      p2xn016.wav
+‚îÇ      p2xn017.wav
+‚îÇ      p2xn018.wav
+‚îÇ      p2xn019.wav
+‚îÇ      plot_02[0].txt
+‚îÇ      
+‚îú‚îÄplot_02_01[0]
+‚îÇ      p2p1al001.wav
+‚îÇ      p2p1al002.wav
+‚îÇ      p2p1al003.wav
+‚îÇ      p2p1al004.wav
+‚îÇ      p2p1al005.wav
+‚îÇ      p2p1al006.wav
+‚îÇ      p2p1al007.wav
+‚îÇ      p2p1al008.wav
+‚îÇ      p2p1al009.wav
+‚îÇ      p2p1al010.wav
+‚îÇ      p2p1al011.wav
+‚îÇ      p2p1als001.wav
+‚îÇ      p2p1als002.wav
+‚îÇ      p2p1als003.wav
+‚îÇ      p2p1als004.wav
+‚îÇ      p2p1als005.wav
+‚îÇ      p2p1als006.wav
+‚îÇ      p2p1als007.wav
+‚îÇ      p2p1als008.wav
+‚îÇ      p2p1als009.wav
+‚îÇ      p2p1als010.wav
+‚îÇ      p2p1als011.wav
+‚îÇ      p2p1als012.wav
+‚îÇ      p2p1als013.wav
+‚îÇ      p2p1bje001.wav
+‚îÇ      p2p1bje002.wav
+‚îÇ      p2p1bje003.wav
+‚îÇ      p2p1bje004.wav
+‚îÇ      p2p1bje005.wav
+‚îÇ      p2p1bje006.wav
+‚îÇ      p2p1bje007.wav
+‚îÇ      p2p1bje008.wav
+‚îÇ      p2p1bje009.wav
+‚îÇ      p2p1bje010.wav
+‚îÇ      p2p1bje011.wav
+‚îÇ      p2p1bje012.wav
+‚îÇ      p2p1bje013.wav
+‚îÇ      p2p1bje014.wav
+‚îÇ      p2p1bje015.wav
+‚îÇ      p2p1flq001.wav
+‚îÇ      p2p1flq002.wav
+‚îÇ      p2p1flq003.wav
+‚îÇ      p2p1flq004.wav
+‚îÇ      p2p1flq005.wav
+‚îÇ      p2p1flq006.wav
+‚îÇ      p2p1flq007.wav
+‚îÇ      p2p1flq008.wav
+‚îÇ      p2p1flq009.wav
+‚îÇ      p2p1flq010.wav
+‚îÇ      p2p1flq011.wav
+‚îÇ      p2p1flq012.wav
+‚îÇ      p2p1flq013.wav
+‚îÇ      p2p1flq014.wav
+‚îÇ      p2p1flq015.wav
+‚îÇ      p2p1flq016.wav
+‚îÇ      p2p1flq017.wav
+‚îÇ      p2p1flq018.wav
+‚îÇ      p2p1flq019.wav
+‚îÇ      p2p1flq020.wav
+‚îÇ      p2p1flq021.wav
+‚îÇ      p2p1flq022.wav
+‚îÇ      p2p1flq023.wav
+‚îÇ      p2p1flq024.wav
+‚îÇ      p2p1flq025.wav
+‚îÇ      p2p1flq026.wav
+‚îÇ      p2p1flq027.wav
+‚îÇ      p2p1flq028.wav
+‚îÇ      p2p1flq029.wav
+‚îÇ      p2p1flq030.wav
+‚îÇ      p2p1hgl001.wav
+‚îÇ      p2p1hgl002.wav
+‚îÇ      p2p1hgl003.wav
+‚îÇ      p2p1hgl004.wav
+‚îÇ      p2p1hgl005.wav
+‚îÇ      p2p1hgl006.wav
+‚îÇ      p2p1hgl007.wav
+‚îÇ      p2p1hgl008.wav
+‚îÇ      p2p1hgl009.wav
+‚îÇ      p2p1hgl010.wav
+‚îÇ      p2p1hgl011.wav
+‚îÇ      p2p1hgl012.wav
+‚îÇ      p2p1hgl013.wav
+‚îÇ      p2p1hgl014.wav
+‚îÇ      p2p1hgl015.wav
+‚îÇ      p2p1jk001.wav
+‚îÇ      p2p1jk002.wav
+‚îÇ      p2p1kla001.wav
+‚îÇ      p2p1kla002.wav
+‚îÇ      p2p1kla003.wav
+‚îÇ      p2p1kla004.wav
+‚îÇ      p2p1kla005.wav
+‚îÇ      p2p1kla006.wav
+‚îÇ      p2p1kla007.wav
+‚îÇ      p2p1kla008.wav
+‚îÇ      p2p1kla009.wav
+‚îÇ      p2p1kla010.wav
+‚îÇ      p2p1kla011.wav
+‚îÇ      p2p1kla012.wav
+‚îÇ      p2p1kla013.wav
+‚îÇ      p2p1kla014.wav
+‚îÇ      p2p1lz001.wav
+‚îÇ      p2p1lz002.wav
+‚îÇ      p2p1lz003.wav
+‚îÇ      p2p1lz004.wav
+‚îÇ      p2p1lz005.wav
+‚îÇ      p2p1lz006.wav
+‚îÇ      p2p1lz007.wav
+‚îÇ      p2p1lz008.wav
+‚îÇ      p2p1lz009.wav
+‚îÇ      p2p1lz010.wav
+‚îÇ      p2p1lz011.wav
+‚îÇ      p2p1lz012.wav
+‚îÇ      p2p1lz013.wav
+‚îÇ      p2p1lz014.wav
+‚îÇ      p2p1ml001.wav
+‚îÇ      p2p1ml002.wav
+‚îÇ      p2p1ml003.wav
+‚îÇ      p2p1ml004.wav
+‚îÇ      p2p1ml005.wav
+‚îÇ      p2p1ml006.wav
+‚îÇ      p2p1ml007.wav
+‚îÇ      p2p1ml008.wav
+‚îÇ      p2p1ml009.wav
+‚îÇ      p2p1ml010.wav
+‚îÇ      p2p1ml011.wav
+‚îÇ      p2p1ml012.wav
+‚îÇ      p2p1ml013.wav
+‚îÇ      p2p1ml014.wav
+‚îÇ      p2p1ml015.wav
+‚îÇ      p2p1ml016.wav
+‚îÇ      p2p1ml017.wav
+‚îÇ      p2p1ml018.wav
+‚îÇ      p2p1ml019.wav
+‚îÇ      p2p1ml020.wav
+‚îÇ      p2p1ml021.wav
+‚îÇ      p2p1ml022.wav
+‚îÇ      p2p1ml023.wav
+‚îÇ      p2p1ml024.wav
+‚îÇ      p2p1ml025.wav
+‚îÇ      p2p1ml026.wav
+‚îÇ      p2p1ml027.wav
+‚îÇ      p2p1ml028.wav
+‚îÇ      p2p1ml029.wav
+‚îÇ      p2p1ml030.wav
+‚îÇ      p2p1ml031.wav
+‚îÇ      p2p1ml032.wav
+‚îÇ      p2p1ml033.wav
+‚îÇ      p2p1ml034.wav
+‚îÇ      p2p1ml035.wav
+‚îÇ      p2p1ml036.wav
+‚îÇ      p2p1ml037.wav
+‚îÇ      p2p1ml038.wav
+‚îÇ      p2p1ml039.wav
+‚îÇ      p2p1ml040.wav
+‚îÇ      p2p1ml041.wav
+‚îÇ      p2p1ml042.wav
+‚îÇ      p2p1ml043.wav
+‚îÇ      p2p1ml044.wav
+‚îÇ      p2p1ml045.wav
+‚îÇ      p2p1ml046.wav
+‚îÇ      p2p1ml047.wav
+‚îÇ      p2p1ml048.wav
+‚îÇ      p2p1ml049.wav
+‚îÇ      p2p1ml050.wav
+‚îÇ      p2p1wkd001.wav
+‚îÇ      p2p1wkd002.wav
+‚îÇ      p2p1wkd003.wav
+‚îÇ      p2p1wkd004.wav
+‚îÇ      p2p1wkd005.wav
+‚îÇ      p2p1wkd006.wav
+‚îÇ      p2p1wkd007.wav
+‚îÇ      p2p1wkd008.wav
+‚îÇ      p2p1wkd009.wav
+‚îÇ      p2p1wkd010.wav
+‚îÇ      p2p1wkd011.wav
+‚îÇ      p2p1wkd012.wav
+‚îÇ      p2p1wkd013.wav
+‚îÇ      p2p1wkd014.wav
+‚îÇ      p2p1wkd015.wav
+‚îÇ      p2p1wkd016.wav
+‚îÇ      p2p1wkd017.wav
+‚îÇ      p2p1wkd018.wav
+‚îÇ      p2p1wkd019.wav
+‚îÇ      p2p1wkd020.wav
+‚îÇ      p2p1wkd021.wav
+‚îÇ      p2p1wkd022.wav
+‚îÇ      p2p1wkd023.wav
+‚îÇ      p2p1wkd024.wav
+‚îÇ      p2p1wkd025.wav
+‚îÇ      p2p1wkd026.wav
+‚îÇ      p2p1wkd027.wav
+‚îÇ      p2p1wkd028.wav
+‚îÇ      p2p1wkd029.wav
+‚îÇ      p2p1wkd030.wav
+‚îÇ      p2p1wkd031.wav
+‚îÇ      p2p1wkd032.wav
+‚îÇ      p2p1wkd033.wav
+‚îÇ      p2p1wkd034.wav
+‚îÇ      p2p1wkd035.wav
+‚îÇ      p2p1wkd036.wav
+‚îÇ      p2p1wkd037.wav
+‚îÇ      p2p1wkd038.wav
+‚îÇ      p2p1wkd039.wav
+‚îÇ      p2p1wkd040.wav
+‚îÇ      p2p1wlt001.wav
+‚îÇ      p2p1wlt002.wav
+‚îÇ      p2p1wlt003.wav
+‚îÇ      p2p1wlt004.wav
+‚îÇ      p2p1wlt005.wav
+‚îÇ      p2p1wlt006.wav
+‚îÇ      p2p1wlt007.wav
+‚îÇ      p2p1wlt008.wav
+‚îÇ      p2p1wlt009.wav
+‚îÇ      p2p1wlt010.wav
+‚îÇ      p2p1wlt011.wav
+‚îÇ      p2p1wlt012.wav
+‚îÇ      p2p1wlt013.wav
+‚îÇ      p2p1wlt014.wav
+‚îÇ      p2p1wlt015.wav
+‚îÇ      p2p1xn001.wav
+‚îÇ      p2p1xn002.wav
+‚îÇ      p2p1xn003.wav
+‚îÇ      p2p1xn004.wav
+‚îÇ      p2p1xn005.wav
+‚îÇ      p2p1xnx001.wav
+‚îÇ      p2p1xnx002.wav
+‚îÇ      p2p1xnx003.wav
+‚îÇ      p2p1xnx004.wav
+‚îÇ      p2p1xnx005.wav
+‚îÇ      p2p1xnx006.wav
+‚îÇ      p2p1xnx007.wav
+‚îÇ      p2p1xnx008.wav
+‚îÇ      p2p1xnx009.wav
+‚îÇ      p2p1xnx010.wav
+‚îÇ      plot_02_01[0].txt
+‚îÇ      
+‚îú‚îÄplot_02_02[0]
+‚îÇ      p2p2al001.wav
+‚îÇ      p2p2al002.wav
+‚îÇ      p2p2al003.wav
+‚îÇ      p2p2al004.wav
+‚îÇ      p2p2al005.wav
+‚îÇ      p2p2al006.wav
+‚îÇ      p2p2al007.wav
+‚îÇ      p2p2al008.wav
+‚îÇ      p2p2al009.wav
+‚îÇ      p2p2al010.wav
+‚îÇ      p2p2al011.wav
+‚îÇ      p2p2al012.wav
+‚îÇ      p2p2al013.wav
+‚îÇ      p2p2bje001.wav
+‚îÇ      p2p2bje002.wav
+‚îÇ      p2p2bje003.wav
+‚îÇ      p2p2bje004.wav
+‚îÇ      p2p2bje005.wav
+‚îÇ      p2p2hgl001.wav
+‚îÇ      p2p2hgl002.wav
+‚îÇ      p2p2hgl003.wav
+‚îÇ      p2p2hgl004.wav
+‚îÇ      p2p2hgl005.wav
+‚îÇ      p2p2hgl006.wav
+‚îÇ      p2p2hgl007.wav
+‚îÇ      p2p2hgl008.wav
+‚îÇ      p2p2hgl009.wav
+‚îÇ      p2p2hgl010.wav
+‚îÇ      p2p2hgl011.wav
+‚îÇ      p2p2hgl012.wav
+‚îÇ      p2p2hgl013.wav
+‚îÇ      p2p2hgl014.wav
+‚îÇ      p2p2hgl015.wav
+‚îÇ      p2p2hgl016.wav
+‚îÇ      p2p2lk001.wav
+‚îÇ      p2p2lk002.wav
+‚îÇ      p2p2lk003.wav
+‚îÇ      p2p2lk004.wav
+‚îÇ      p2p2lk005.wav
+‚îÇ      p2p2lz001.wav
+‚îÇ      p2p2lz002.wav
+‚îÇ      p2p2lz003.wav
+‚îÇ      p2p2lz004.wav
+‚îÇ      p2p2lz005.wav
+‚îÇ      p2p2lz006.wav
+‚îÇ      p2p2lz007.wav
+‚îÇ      p2p2lz008.wav
+‚îÇ      p2p2lz009.wav
+‚îÇ      p2p2lz010.wav
+‚îÇ      p2p2lz011.wav
+‚îÇ      p2p2tl001.wav
+‚îÇ      p2p2tl002.wav
+‚îÇ      p2p2tl003.wav
+‚îÇ      p2p2tl004.wav
+‚îÇ      p2p2tl005.wav
+‚îÇ      p2p2tl006.wav
+‚îÇ      p2p2tl007.wav
+‚îÇ      p2p2tl008.wav
+‚îÇ      p2p2tl009.wav
+‚îÇ      p2p2tl010.wav
+‚îÇ      p2p2tl011.wav
+‚îÇ      p2p2tl012.wav
+‚îÇ      p2p2tl013.wav
+‚îÇ      p2p2tl014.wav
+‚îÇ      p2p2tl015.wav
+‚îÇ      p2p2tl016.wav
+‚îÇ      p2p2tl017.wav
+‚îÇ      p2p2tl018.wav
+‚îÇ      p2p2tl019.wav
+‚îÇ      p2p2tl020.wav
+‚îÇ      p2p2tl021.wav
+‚îÇ      p2p2tl022.wav
+‚îÇ      p2p2tl023.wav
+‚îÇ      p2p2tl024.wav
+‚îÇ      p2p2tl025.wav
+‚îÇ      p2p2tl026.wav
+‚îÇ      p2p2tl027.wav
+‚îÇ      p2p2tl028.wav
+‚îÇ      p2p2tl029.wav
+‚îÇ      p2p2tl030.wav
+‚îÇ      p2p2tl031.wav
+‚îÇ      p2p2tl032.wav
+‚îÇ      p2p2tl033.wav
+‚îÇ      p2p2tl034.wav
+‚îÇ      p2p2tl035.wav
+‚îÇ      p2p2tl036.wav
+‚îÇ      p2p2tl037.wav
+‚îÇ      p2p2tl038.wav
+‚îÇ      p2p2tl039.wav
+‚îÇ      p2p2tl040.wav
+‚îÇ      p2p2tl041.wav
+‚îÇ      p2p2tl042.wav
+‚îÇ      p2p2tl043.wav
+‚îÇ      p2p2tl044.wav
+‚îÇ      p2p2tl045.wav
+‚îÇ      p2p2tl046.wav
+‚îÇ      p2p2tl047.wav
+‚îÇ      p2p2tl048.wav
+‚îÇ      p2p2tl049.wav
+‚îÇ      p2p2tl050.wav
+‚îÇ      p2p2tl051.wav
+‚îÇ      p2p2tl052.wav
+‚îÇ      p2p2tl053.wav
+‚îÇ      p2p2tl054.wav
+‚îÇ      p2p2tl055.wav
+‚îÇ      p2p2tl056.wav
+‚îÇ      p2p2tl057.wav
+‚îÇ      p2p2tl058.wav
+‚îÇ      p2p2tl059.wav
+‚îÇ      p2p2tl060.wav
+‚îÇ      p2p2tl061.wav
+‚îÇ      p2p2tl062.wav
+‚îÇ      p2p2tl063.wav
+‚îÇ      p2p2tl064.wav
+‚îÇ      p2p2tl065.wav
+‚îÇ      p2p2tl066.wav
+‚îÇ      p2p2tl067.wav
+‚îÇ      p2p2tl068.wav
+‚îÇ      p2p2tl069.wav
+‚îÇ      p2p2tl070.wav
+‚îÇ      p2p2tl071.wav
+‚îÇ      p2p2tl072.wav
+‚îÇ      p2p2tl073.wav
+‚îÇ      p2p2tl074.wav
+‚îÇ      p2p2tl075.wav
+‚îÇ      p2p2tl076.wav
+‚îÇ      p2p2tl077.wav
+‚îÇ      p2p2tl078.wav
+‚îÇ      p2p2tl079.wav
+‚îÇ      p2p2tl080.wav
+‚îÇ      p2p2tl081.wav
+‚îÇ      p2p2tl082.wav
+‚îÇ      p2p2tl083.wav
+‚îÇ      p2p2tl084.wav
+‚îÇ      p2p2wlt001.wav
+‚îÇ      p2p2wlt002.wav
+‚îÇ      p2p2wlt003.wav
+‚îÇ      p2p2wlt004.wav
+‚îÇ      p2p2wlt005.wav
+‚îÇ      p2p2wlt006.wav
+‚îÇ      p2p2wlt007.wav
+‚îÇ      p2p2wlt008.wav
+‚îÇ      p2p2wlt009.wav
+‚îÇ      p2p2wlt010.wav
+‚îÇ      p2p2wlt011.wav
+‚îÇ      p2p2wlt012.wav
+‚îÇ      p2p2wlt013.wav
+‚îÇ      p2p2wlt014.wav
+‚îÇ      p2p2wlt015.wav
+‚îÇ      p2p2wlt016.wav
+‚îÇ      p2p2wlt017.wav
+‚îÇ      p2p2wlt018.wav
+‚îÇ      p2p2wlt019.wav
+‚îÇ      p2p2xnx001.wav
+‚îÇ      p2p2xnx002.wav
+‚îÇ      p2p2xnx003.wav
+‚îÇ      p2p2xnx004.wav
+‚îÇ      p2p2xnx005.wav
+‚îÇ      p2p2xnx006.wav
+‚îÇ      p2p2xnx007.wav
+‚îÇ      p2p2xnx008.wav
+‚îÇ      p2p2xnx009.wav
+‚îÇ      plot_02_02[0].txt
+‚îÇ      
+‚îú‚îÄplot_02_03[0]
+‚îÇ      p2p3al001.wav
+‚îÇ      p2p3al002.wav
+‚îÇ      p2p3al003.wav
+‚îÇ      p2p3al004.wav
+‚îÇ      p2p3al005.wav
+‚îÇ      p2p3al006.wav
+‚îÇ      p2p3al007.wav
+‚îÇ      p2p3al008.wav
+‚îÇ      p2p3bje001.wav
+‚îÇ      p2p3bje002.wav
+‚îÇ      p2p3bje003.wav
+‚îÇ      p2p3bje004.wav
+‚îÇ      p2p3bje005.wav
+‚îÇ      p2p3bje006.wav
+‚îÇ      p2p3bje007.wav
+‚îÇ      p2p3bje008.wav
+‚îÇ      p2p3bje009.wav
+‚îÇ      p2p3hgl001.wav
+‚îÇ      p2p3hgl002.wav
+‚îÇ      p2p3hgl003.wav
+‚îÇ      p2p3hgl004.wav
+‚îÇ      p2p3hgl005.wav
+‚îÇ      p2p3hgl006.wav
+‚îÇ      p2p3hgl007.wav
+‚îÇ      p2p3hgl008.wav
+‚îÇ      p2p3hgl009.wav
+‚îÇ      p2p3hgl010.wav
+‚îÇ      p2p3hgl011.wav
+‚îÇ      p2p3hgl012.wav
+‚îÇ      p2p3hgl013.wav
+‚îÇ      p2p3hgl014.wav
+‚îÇ      p2p3hgl015.wav
+‚îÇ      p2p3hgl016.wav
+‚îÇ      p2p3hgl017.wav
+‚îÇ      p2p3hgl018.wav
+‚îÇ      p2p3hgl019.wav
+‚îÇ      p2p3hgl020.wav
+‚îÇ      p2p3hgl021.wav
+‚îÇ      p2p3hgl022.wav
+‚îÇ      p2p3hgl023.wav
+‚îÇ      p2p3hgl024.wav
+‚îÇ      p2p3hgl025.wav
+‚îÇ      p2p3hgl026.wav
+‚îÇ      p2p3lk001.wav
+‚îÇ      p2p3lk002.wav
+‚îÇ      p2p3lk003.wav
+‚îÇ      p2p3lk004.wav
+‚îÇ      p2p3lk005.wav
+‚îÇ      p2p3lk006.wav
+‚îÇ      p2p3lk007.wav
+‚îÇ      p2p3lk008.wav
+‚îÇ      p2p3lk009.wav
+‚îÇ      p2p3lk010.wav
+‚îÇ      p2p3lk011.wav
+‚îÇ      p2p3lk012.wav
+‚îÇ      p2p3lk013.wav
+‚îÇ      p2p3lk014.wav
+‚îÇ      p2p3lk015.wav
+‚îÇ      p2p3lk016.wav
+‚îÇ      p2p3lk017.wav
+‚îÇ      p2p3lk018.wav
+‚îÇ      p2p3lk019.wav
+‚îÇ      p2p3lk020.wav
+‚îÇ      p2p3nvyjy001.wav
+‚îÇ      p2p3nvyjy002.wav
+‚îÇ      p2p3nvyjy003.wav
+‚îÇ      p2p3nvyjy004.wav
+‚îÇ      p2p3nvyjy005.wav
+‚îÇ      p2p3nvyjy006.wav
+‚îÇ      p2p3nvyjy007.wav
+‚îÇ      p2p3nyjy001.wav
+‚îÇ      p2p3nyjy002.wav
+‚îÇ      p2p3nyjy003.wav
+‚îÇ      p2p3qxbby001.wav
+‚îÇ      p2p3qxbby002.wav
+‚îÇ      p2p3qxbby003.wav
+‚îÇ      p2p3qxbby004.wav
+‚îÇ      p2p3tl001.wav
+‚îÇ      p2p3tl002.wav
+‚îÇ      p2p3tl003.wav
+‚îÇ      p2p3tl004.wav
+‚îÇ      p2p3tl005.wav
+‚îÇ      p2p3tl006.wav
+‚îÇ      p2p3tl007.wav
+‚îÇ      p2p3tl008.wav
+‚îÇ      p2p3tl009.wav
+‚îÇ      p2p3tl010.wav
+‚îÇ      p2p3tl011.wav
+‚îÇ      p2p3tl012.wav
+‚îÇ      p2p3tl013.wav
+‚îÇ      p2p3tl014.wav
+‚îÇ      p2p3tl015.wav
+‚îÇ      p2p3wkd001.wav
+‚îÇ      p2p3wkd002.wav
+‚îÇ      p2p3wkd003.wav
+‚îÇ      p2p3wkd004.wav
+‚îÇ      p2p3wkd005.wav
+‚îÇ      p2p3wkd006.wav
+‚îÇ      p2p3xnx001.wav
+‚îÇ      p2p3xnx002.wav
+‚îÇ      p2p3xnx003.wav
+‚îÇ      p2p3xnx004.wav
+‚îÇ      p2p3xnx005.wav
+‚îÇ      p2p3xwzcr001.wav
+‚îÇ      p2p3xwzcr002.wav
+‚îÇ      p2p3xwzcr003.wav
+‚îÇ      plot_02_03[0].txt
+‚îÇ      
+‚îú‚îÄplot_02_04[0]
+‚îÇ      p2p4al001.wav
+‚îÇ      p2p4al002.wav
+‚îÇ      p2p4al003.wav
+‚îÇ      p2p4al004.wav
+‚îÇ      p2p4al005.wav
+‚îÇ      p2p4al006.wav
+‚îÇ      p2p4al007.wav
+‚îÇ      p2p4al008.wav
+‚îÇ      p2p4al009.wav
+‚îÇ      p2p4al010.wav
+‚îÇ      p2p4al011.wav
+‚îÇ      p2p4al012.wav
+‚îÇ      p2p4al013.wav
+‚îÇ      p2p4al014.wav
+‚îÇ      p2p4al015.wav
+‚îÇ      p2p4al016.wav
+‚îÇ      p2p4bje001.wav
+‚îÇ      p2p4bje002.wav
+‚îÇ      p2p4bje003.wav
+‚îÇ      p2p4bje004.wav
+‚îÇ      p2p4bje005.wav
+‚îÇ      p2p4bje006.wav
+‚îÇ      p2p4bje007.wav
+‚îÇ      p2p4bje008.wav
+‚îÇ      p2p4bje009.wav
+‚îÇ      p2p4bje010.wav
+‚îÇ      p2p4bje011.wav
+‚îÇ      p2p4bje012.wav
+‚îÇ      p2p4bje013.wav
+‚îÇ      p2p4bje014.wav
+‚îÇ      p2p4bje015.wav
+‚îÇ      p2p4bje016.wav
+‚îÇ      p2p4bje017.wav
+‚îÇ      p2p4hgl001.wav
+‚îÇ      p2p4hgl002.wav
+‚îÇ      p2p4hgl003.wav
+‚îÇ      p2p4hgl004.wav
+‚îÇ      p2p4hgl005.wav
+‚îÇ      p2p4hgl006.wav
+‚îÇ      p2p4hgl007.wav
+‚îÇ      p2p4hgl008.wav
+‚îÇ      p2p4hgl009.wav
+‚îÇ      p2p4hgl010.wav
+‚îÇ      p2p4hgl011.wav
+‚îÇ      p2p4hgl012.wav
+‚îÇ      p2p4hgl013.wav
+‚îÇ      p2p4hgl014.wav
+‚îÇ      p2p4hgl015.wav
+‚îÇ      p2p4hgl016.wav
+‚îÇ      p2p4hgl017.wav
+‚îÇ      p2p4hgl018.wav
+‚îÇ      p2p4hgl019.wav
+‚îÇ      p2p4hgl020.wav
+‚îÇ      p2p4hgl021.wav
+‚îÇ      p2p4lk001.wav
+‚îÇ      p2p4lk002.wav
+‚îÇ      p2p4lk003.wav
+‚îÇ      p2p4lk004.wav
+‚îÇ      p2p4lk005.wav
+‚îÇ      p2p4lk006.wav
+‚îÇ      p2p4lk007.wav
+‚îÇ      p2p4lk008.wav
+‚îÇ      p2p4lk009.wav
+‚îÇ      p2p4lk010.wav
+‚îÇ      p2p4lk011.wav
+‚îÇ      p2p4lk012.wav
+‚îÇ      p2p4lk013.wav
+‚îÇ      p2p4lk014.wav
+‚îÇ      p2p4lk015.wav
+‚îÇ      p2p4lk016.wav
+‚îÇ      p2p4lk017.wav
+‚îÇ      p2p4lk018.wav
+‚îÇ      p2p4lk019.wav
+‚îÇ      p2p4lk020.wav
+‚îÇ      p2p4lk021.wav
+‚îÇ      p2p4lk022.wav
+‚îÇ      p2p4lk023.wav
+‚îÇ      p2p4lk024.wav
+‚îÇ      p2p4lk025.wav
+‚îÇ      p2p4lk026.wav
+‚îÇ      p2p4lk027.wav
+‚îÇ      p2p4lk028.wav
+‚îÇ      p2p4lk029.wav
+‚îÇ      p2p4lk030.wav
+‚îÇ      p2p4lk031.wav
+‚îÇ      p2p4lk032.wav
+‚îÇ      p2p4lk033.wav
+‚îÇ      p2p4lk034.wav
+‚îÇ      p2p4lk035.wav
+‚îÇ      p2p4lk036.wav
+‚îÇ      p2p4lk037.wav
+‚îÇ      p2p4lk038.wav
+‚îÇ      p2p4lk039.wav
+‚îÇ      p2p4lk040.wav
+‚îÇ      p2p4lk041.wav
+‚îÇ      p2p4lk042.wav
+‚îÇ      p2p4lk043.wav
+‚îÇ      p2p4lk044.wav
+‚îÇ      p2p4lk045.wav
+‚îÇ      p2p4lk046.wav
+‚îÇ      p2p4lk047.wav
+‚îÇ      p2p4lk048.wav
+‚îÇ      p2p4lk049.wav
+‚îÇ      p2p4lz001.wav
+‚îÇ      p2p4lz002.wav
+‚îÇ      p2p4lz003.wav
+‚îÇ      p2p4lz004.wav
+‚îÇ      p2p4lz005.wav
+‚îÇ      p2p4lz006.wav
+‚îÇ      p2p4lz007.wav
+‚îÇ      p2p4lz008.wav
+‚îÇ      p2p4lz009.wav
+‚îÇ      p2p4lz010.wav
+‚îÇ      p2p4lz011.wav
+‚îÇ      p2p4lz012.wav
+‚îÇ      p2p4lz013.wav
+‚îÇ      p2p4lz014.wav
+‚îÇ      p2p4lz015.wav
+‚îÇ      p2p4lz016.wav
+‚îÇ      p2p4lz017.wav
+‚îÇ      p2p4lz018.wav
+‚îÇ      p2p4lz019.wav
+‚îÇ      p2p4ml001.wav
+‚îÇ      p2p4ml002.wav
+‚îÇ      p2p4ml003.wav
+‚îÇ      p2p4ml004.wav
+‚îÇ      p2p4ml005.wav
+‚îÇ      p2p4ml006.wav
+‚îÇ      p2p4ml007.wav
+‚îÇ      p2p4ml008.wav
+‚îÇ      p2p4ml009.wav
+‚îÇ      p2p4ml010.wav
+‚îÇ      p2p4ml011.wav
+‚îÇ      p2p4ml012.wav
+‚îÇ      p2p4ml013.wav
+‚îÇ      p2p4wkd001.wav
+‚îÇ      p2p4wkd002.wav
+‚îÇ      p2p4wkd003.wav
+‚îÇ      p2p4wkd004.wav
+‚îÇ      p2p4wkd005.wav
+‚îÇ      p2p4wkd006.wav
+‚îÇ      p2p4wkd007.wav
+‚îÇ      p2p4wkd008.wav
+‚îÇ      p2p4wkd009.wav
+‚îÇ      p2p4wkd010.wav
+‚îÇ      plot_02_04[0].txt
+‚îÇ      
+‚îú‚îÄplot_02_05[0]
+‚îÇ      p2p5flq001.wav
+‚îÇ      p2p5flq002.wav
+‚îÇ      p2p5flq003.wav
+‚îÇ      p2p5flq004.wav
+‚îÇ      p2p5flq005.wav
+‚îÇ      p2p5flq006.wav
+‚îÇ      p2p5flq007.wav
+‚îÇ      p2p5flq008.wav
+‚îÇ      p2p5flq009.wav
+‚îÇ      p2p5flq010.wav
+‚îÇ      p2p5flq011.wav
+‚îÇ      p2p5flq012.wav
+‚îÇ      p2p5flq013.wav
+‚îÇ      p2p5hgl001.wav
+‚îÇ      p2p5hgl002.wav
+‚îÇ      p2p5hgl003.wav
+‚îÇ      p2p5hgl004.wav
+‚îÇ      p2p5hgl005.wav
+‚îÇ      p2p5hgl006.wav
+‚îÇ      p2p5hgl007.wav
+‚îÇ      p2p5hgl008.wav
+‚îÇ      p2p5hgl009.wav
+‚îÇ      p2p5hgl010.wav
+‚îÇ      p2p5hgl011.wav
+‚îÇ      p2p5hgl012.wav
+‚îÇ      p2p5hgl013.wav
+‚îÇ      p2p5hgl014.wav
+‚îÇ      p2p5hgl015.wav
+‚îÇ      p2p5hgl016.wav
+‚îÇ      p2p5hgl018.wav
+‚îÇ      p2p5hgl019.wav
+‚îÇ      p2p5hgl020.wav
+‚îÇ      p2p5hgl021.wav
+‚îÇ      p2p5hgl022.wav
+‚îÇ      p2p5hgl023.wav
+‚îÇ      p2p5hgl024.wav
+‚îÇ      p2p5hgl025.wav
+‚îÇ      p2p5hgl026.wav
+‚îÇ      p2p5hgl027.wav
+‚îÇ      p2p5hgl028.wav
+‚îÇ      p2p5hgl029.wav
+‚îÇ      p2p5hgl030.wav
+‚îÇ      p2p5hgl031.wav
+‚îÇ      p2p5hgl032.wav
+‚îÇ      p2p5hgl033.wav
+‚îÇ      p2p5hgl034.wav
+‚îÇ      p2p5hgl035.wav
+‚îÇ      p2p5hgl036.wav
+‚îÇ      p2p5hgl037.wav
+‚îÇ      p2p5hgl038.wav
+‚îÇ      p2p5lk001.wav
+‚îÇ      p2p5lk002.wav
+‚îÇ      p2p5lk003.wav
+‚îÇ      p2p5lk004.wav
+‚îÇ      p2p5lk005.wav
+‚îÇ      p2p5lk006.wav
+‚îÇ      p2p5lk007.wav
+‚îÇ      p2p5lk008.wav
+‚îÇ      p2p5lk009.wav
+‚îÇ      p2p5lk010.wav
+‚îÇ      p2p5lk011.wav
+‚îÇ      p2p5lk012.wav
+‚îÇ      p2p5lk013.wav
+‚îÇ      p2p5lk014.wav
+‚îÇ      p2p5lk015.wav
+‚îÇ      p2p5lk016.wav
+‚îÇ      p2p5lk017.wav
+‚îÇ      p2p5lk018.wav
+‚îÇ      p2p5lk019.wav
+‚îÇ      p2p5lk020.wav
+‚îÇ      p2p5lk021.wav
+‚îÇ      p2p5lk022.wav
+‚îÇ      p2p5lk023.wav
+‚îÇ      p2p5lk024.wav
+‚îÇ      p2p5lk025.wav
+‚îÇ      p2p5lk026.wav
+‚îÇ      p2p5lk027.wav
+‚îÇ      p2p5lk028.wav
+‚îÇ      p2p5lk029.wav
+‚îÇ      p2p5lk030.wav
+‚îÇ      p2p5lk031.wav
+‚îÇ      p2p5lk032.wav
+‚îÇ      p2p5smsy001.wav
+‚îÇ      p2p5smsy002.wav
+‚îÇ      p2p5smsy003.wav
+‚îÇ      p2p5smsy004.wav
+‚îÇ      p2p5smsy005.wav
+‚îÇ      p2p5smsy006.wav
+‚îÇ      p2p5smsy007.wav
+‚îÇ      p2p5smsy008.wav
+‚îÇ      p2p5smsy009.wav
+‚îÇ      p2p5tl001.wav
+‚îÇ      p2p5tl002.wav
+‚îÇ      p2p5tl003.wav
+‚îÇ      p2p5tl004.wav
+‚îÇ      p2p5tl005.wav
+‚îÇ      p2p5tl006.wav
+‚îÇ      p2p5tl007.wav
+‚îÇ      p2p5tl008.wav
+‚îÇ      p2p5tl009.wav
+‚îÇ      p2p5tl010.wav
+‚îÇ      p2p5tl011.wav
+‚îÇ      p2p5tl012.wav
+‚îÇ      p2p5tl013.wav
+‚îÇ      p2p5tl014.wav
+‚îÇ      p2p5tl015.wav
+‚îÇ      p2p5tl016.wav
+‚îÇ      p2p5tl017.wav
+‚îÇ      p2p5tl018.wav
+‚îÇ      p2p5tl019.wav
+‚îÇ      p2p5tl020.wav
+‚îÇ      p2p5tl021.wav
+‚îÇ      p2p5tl022.wav
+‚îÇ      p2p5tl023.wav
+‚îÇ      p2p5tl024.wav
+‚îÇ      p2p5tl025.wav
+‚îÇ      p2p5tl026.wav
+‚îÇ      p2p5tl027.wav
+‚îÇ      p2p5tl028.wav
+‚îÇ      p2p5tl029.wav
+‚îÇ      p2p5tl030.wav
+‚îÇ      p2p5tl031.wav
+‚îÇ      p2p5tl032.wav
+‚îÇ      p2p5tl033.wav
+‚îÇ      p2p5tl034.wav
+‚îÇ      p2p5wkd001.wav
+‚îÇ      p2p5wkd002.wav
+‚îÇ      p2p5wkd003.wav
+‚îÇ      p2p5wkd004.wav
+‚îÇ      p2p5wkd005.wav
+‚îÇ      p2p5wkd006.wav
+‚îÇ      p2p5wkd007.wav
+‚îÇ      p2p5wkd008.wav
+‚îÇ      p2p5wkd009.wav
+‚îÇ      p2p5wkd010.wav
+‚îÇ      p2p5wkd011.wav
+‚îÇ      p2p5wkd012.wav
+‚îÇ      plot_02_05[0].txt
+‚îÇ      
+‚îú‚îÄplot_02_06[0]
+‚îÇ      p2p6al001.wav
+‚îÇ      p2p6al002.wav
+‚îÇ      p2p6al003.wav
+‚îÇ      p2p6flq001.wav
+‚îÇ      p2p6flq002.wav
+‚îÇ      p2p6flq003.wav
+‚îÇ      p2p6flq004.wav
+‚îÇ      p2p6flq005.wav
+‚îÇ      p2p6flq006.wav
+‚îÇ      p2p6flq007.wav
+‚îÇ      p2p6flq008.wav
+‚îÇ      p2p6flq009.wav
+‚îÇ      p2p6flq010.wav
+‚îÇ      p2p6hgl001.wav
+‚îÇ      p2p6hgl002.wav
+‚îÇ      p2p6hgl003.wav
+‚îÇ      p2p6hgl004.wav
+‚îÇ      p2p6hgl005.wav
+‚îÇ      p2p6hgl006.wav
+‚îÇ      p2p6hgl007.wav
+‚îÇ      p2p6hgl008.wav
+‚îÇ      p2p6hgl009.wav
+‚îÇ      p2p6hgl010.wav
+‚îÇ      p2p6hgl011.wav
+‚îÇ      p2p6hgl012.wav
+‚îÇ      p2p6hgl013.wav
+‚îÇ      p2p6hgl014.wav
+‚îÇ      p2p6hgl015.wav
+‚îÇ      p2p6hgl016.wav
+‚îÇ      p2p6hgl017.wav
+‚îÇ      p2p6hgl018.wav
+‚îÇ      p2p6hgl019.wav
+‚îÇ      p2p6jk001.wav
+‚îÇ      p2p6jk002.wav
+‚îÇ      p2p6lk001.wav
+‚îÇ      p2p6lk002.wav
+‚îÇ      p2p6lk003.wav
+‚îÇ      p2p6lk004.wav
+‚îÇ      p2p6lk005.wav
+‚îÇ      p2p6lk006.wav
+‚îÇ      p2p6lk007.wav
+‚îÇ      p2p6lz001.wav
+‚îÇ      p2p6sfy001.wav
+‚îÇ      p2p6sfy002.wav
+‚îÇ      p2p6sfy003.wav
+‚îÇ      p2p6sfy004.wav
+‚îÇ      p2p6swx001.wav
+‚îÇ      p2p6swx002.wav
+‚îÇ      p2p6swx003.wav
+‚îÇ      p2p6swx004.wav
+‚îÇ      p2p6swx005.wav
+‚îÇ      p2p6swx006.wav
+‚îÇ      p2p6swx007.wav
+‚îÇ      p2p6swx008.wav
+‚îÇ      p2p6swx009.wav
+‚îÇ      p2p6swx010.wav
+‚îÇ      p2p6swx011.wav
+‚îÇ      p2p6swx012.wav
+‚îÇ      p2p6swx013.wav
+‚îÇ      p2p6swx014.wav
+‚îÇ      p2p6swx015.wav
+‚îÇ      p2p6swx016.wav
+‚îÇ      p2p6swx017.wav
+‚îÇ      p2p6swx018.wav
+‚îÇ      p2p6swx019.wav
+‚îÇ      p2p6swx020.wav
+‚îÇ      p2p6swx021.wav
+‚îÇ      p2p6swx022.wav
+‚îÇ      p2p6swx023.wav
+‚îÇ      p2p6swx024.wav
+‚îÇ      p2p6swx025.wav
+‚îÇ      p2p6swx026.wav
+‚îÇ      p2p6swx027.wav
+‚îÇ      p2p6swx028.wav
+‚îÇ      p2p6swx029.wav
+‚îÇ      p2p6swx030.wav
+‚îÇ      p2p6swx031.wav
+‚îÇ      p2p6swx032.wav
+‚îÇ      p2p6swx033.wav
+‚îÇ      p2p6swx034.wav
+‚îÇ      p2p6swx035.wav
+‚îÇ      p2p6swx036.wav
+‚îÇ      p2p6swx037.wav
+‚îÇ      p2p6swx038.wav
+‚îÇ      p2p6swx039.wav
+‚îÇ      p2p6swx040.wav
+‚îÇ      p2p6swx041.wav
+‚îÇ      p2p6swx042.wav
+‚îÇ      p2p6swx043.wav
+‚îÇ      p2p6swx044.wav
+‚îÇ      p2p6swx045.wav
+‚îÇ      p2p6swx046.wav
+‚îÇ      p2p6swx047.wav
+‚îÇ      p2p6swx048.wav
+‚îÇ      p2p6swx049.wav
+‚îÇ      p2p6swx050.wav
+‚îÇ      p2p6swx051.wav
+‚îÇ      p2p6swx052.wav
+‚îÇ      p2p6swx053.wav
+‚îÇ      p2p6swx054.wav
+‚îÇ      p2p6wd001.wav
+‚îÇ      p2p6wd002.wav
+‚îÇ      p2p6wd003.wav
+‚îÇ      p2p6wd004.wav
+‚îÇ      p2p6wd005.wav
+‚îÇ      p2p6wd006.wav
+‚îÇ      p2p6wkd001.wav
+‚îÇ      p2p6wkd002.wav
+‚îÇ      p2p6wkd003.wav
+‚îÇ      p2p6wkd004.wav
+‚îÇ      p2p6wkd005.wav
+‚îÇ      p2p6wkd006.wav
+‚îÇ      p2p6wkd007.wav
+‚îÇ      p2p6wkd008.wav
+‚îÇ      p2p6wkd009.wav
+‚îÇ      p2p6wkd010.wav
+‚îÇ      p2p6wkd011.wav
+‚îÇ      p2p6wkd012.wav
+‚îÇ      p2p6wkd013.wav
+‚îÇ      p2p6wkd014.wav
+‚îÇ      p2p6wkd015.wav
+‚îÇ      p2p6wkd016.wav
+‚îÇ      p2p6wkd017.wav
+‚îÇ      p2p6wkd018.wav
+‚îÇ      p2p6wkd019.wav
+‚îÇ      p2p6wkd020.wav
+‚îÇ      p2p6wkd021.wav
+‚îÇ      p2p6wkd022.wav
+‚îÇ      p2p6wkd023.wav
+‚îÇ      p2p6wkd024.wav
+‚îÇ      p2p6wkd025.wav
+‚îÇ      p2p6wkd026.wav
+‚îÇ      p2p6wkd027.wav
+‚îÇ      p2p6wkd028.wav
+‚îÇ      p2p6wkd029.wav
+‚îÇ      p2p6wkd030.wav
+‚îÇ      p2p6wlt001.wav
+‚îÇ      p2p6wlt002.wav
+‚îÇ      p2p6wlt003.wav
+‚îÇ      p2p6wlt004.wav
+‚îÇ      p2p6wndb001.wav
+‚îÇ      p2p6wndb002.wav
+‚îÇ      p2p6wndb003.wav
+‚îÇ      p2p6wndb004.wav
+‚îÇ      p2p6wndb005.wav
+‚îÇ      p2p6wndb006.wav
+‚îÇ      p2p6wndb007.wav
+‚îÇ      p2p6wndb008.wav
+‚îÇ      p2p6wndb009.wav
+‚îÇ      p2p6wndb010.wav
+‚îÇ      p2p6wndb011.wav
+‚îÇ      p2p6wndb012.wav
+‚îÇ      p2p6wndb013.wav
+‚îÇ      p2p6wndb014.wav
+‚îÇ      p2p6wndb015.wav
+‚îÇ      p2p6wndb016.wav
+‚îÇ      p2p6wndb017.wav
+‚îÇ      p2p6wndb018.wav
+‚îÇ      p2p6wndb019.wav
+‚îÇ      p2p6wndb020.wav
+‚îÇ      p2p6wndb021.wav
+‚îÇ      p2p6wndb022.wav
+‚îÇ      p2p6wndb023.wav
+‚îÇ      p2p6wndb024.wav
+‚îÇ      p2p6wndb025.wav
+‚îÇ      p2p6xn001.wav
+‚îÇ      p2p6xn002.wav
+‚îÇ      p2p6xn003.wav
+‚îÇ      p2p6xn004.wav
+‚îÇ      p2p6xn005.wav
+‚îÇ      p2p6xn006.wav
+‚îÇ      p2p6xn007.wav
+‚îÇ      p2p6xn008.wav
+‚îÇ      p2p6xn009.wav
+‚îÇ      p2p6xn010.wav
+‚îÇ      p2p6xn011.wav
+‚îÇ      p2p6xn012.wav
+‚îÇ      p2p6xn013.wav
+‚îÇ      p2p6xn014.wav
+‚îÇ      p2p6xn015.wav
+‚îÇ      p2p6xn016.wav
+‚îÇ      p2p6xn017.wav
+‚îÇ      p2p6xn018.wav
+‚îÇ      p2p6xn019.wav
+‚îÇ      p2p6xn020.wav
+‚îÇ      p2p6xn021.wav
+‚îÇ      p2p6xn022.wav
+‚îÇ      p2p6xn023.wav
+‚îÇ      p2p6xn024.wav
+‚îÇ      p2p6xn025.wav
+‚îÇ      p2p6xn026.wav
+‚îÇ      p2p6xn027.wav
+‚îÇ      p2p6xn028.wav
+‚îÇ      p2p6xn029.wav
+‚îÇ      p2p6xn030.wav
+‚îÇ      p2p6xn031.wav
+‚îÇ      p2p6xn032.wav
+‚îÇ      p2p6xn033.wav
+‚îÇ      p2p6yx001.wav
+‚îÇ      p2p6yx002.wav
+‚îÇ      p2p6yx003.wav
+‚îÇ      plot_02_06[0].txt
+‚îÇ      
+‚îú‚îÄplot_02_07[0]
+‚îÇ      p2p7al001.wav
+‚îÇ      p2p7al002.wav
+‚îÇ      p2p7al003.wav
+‚îÇ      p2p7al004.wav
+‚îÇ      p2p7al005.wav
+‚îÇ      p2p7al006.wav
+‚îÇ      p2p7al007.wav
+‚îÇ      p2p7al008.wav
+‚îÇ      p2p7al009.wav
+‚îÇ      p2p7hgl001.wav
+‚îÇ      p2p7hgl002.wav
+‚îÇ      p2p7hgl003.wav
+‚îÇ      p2p7hgl004.wav
+‚îÇ      p2p7hgl005.wav
+‚îÇ      p2p7hgl006.wav
+‚îÇ      p2p7hgl007.wav
+‚îÇ      p2p7hgl008.wav
+‚îÇ      p2p7hgl009.wav
+‚îÇ      p2p7hgl010.wav
+‚îÇ      p2p7hgl011.wav
+‚îÇ      p2p7hgl012.wav
+‚îÇ      p2p7hgl013.wav
+‚îÇ      p2p7hgl014.wav
+‚îÇ      p2p7hgl015.wav
+‚îÇ      p2p7hgl016.wav
+‚îÇ      p2p7hgl017.wav
+‚îÇ      p2p7hgl018.wav
+‚îÇ      p2p7hgl019.wav
+‚îÇ      p2p7hgl020.wav
+‚îÇ      p2p7hgl021.wav
+‚îÇ      p2p7hgl022.wav
+‚îÇ      p2p7hgl023.wav
+‚îÇ      p2p7hgl024.wav
+‚îÇ      p2p7hgl025.wav
+‚îÇ      p2p7hgl026.wav
+‚îÇ      p2p7hgl027.wav
+‚îÇ      p2p7hgl028.wav
+‚îÇ      p2p7hgl029.wav
+‚îÇ      p2p7hgl030.wav
+‚îÇ      p2p7hgl031.wav
+‚îÇ      p2p7hgl032.wav
+‚îÇ      p2p7hgl033.wav
+‚îÇ      p2p7hgl034.wav
+‚îÇ      p2p7lk001.wav
+‚îÇ      p2p7lk002.wav
+‚îÇ      p2p7lk003.wav
+‚îÇ      p2p7lk004.wav
+‚îÇ      p2p7lk005.wav
+‚îÇ      p2p7lk006.wav
+‚îÇ      p2p7lk007.wav
+‚îÇ      p2p7lk008.wav
+‚îÇ      p2p7lk009.wav
+‚îÇ      p2p7lk010.wav
+‚îÇ      p2p7lk011.wav
+‚îÇ      p2p7lk012.wav
+‚îÇ      p2p7lk013.wav
+‚îÇ      p2p7lk014.wav
+‚îÇ      p2p7lk015.wav
+‚îÇ      p2p7lk016.wav
+‚îÇ      p2p7lk017.wav
+‚îÇ      p2p7lk018.wav
+‚îÇ      p2p7lk019.wav
+‚îÇ      p2p7lk020.wav
+‚îÇ      p2p7lk021.wav
+‚îÇ      p2p7lk022.wav
+‚îÇ      p2p7lk023.wav
+‚îÇ      p2p7lk024.wav
+‚îÇ      p2p7lk025.wav
+‚îÇ      p2p7lk026.wav
+‚îÇ      p2p7lk027.wav
+‚îÇ      p2p7lk028.wav
+‚îÇ      p2p7lk029.wav
+‚îÇ      p2p7lk030.wav
+‚îÇ      p2p7lk031.wav
+‚îÇ      p2p7lk032.wav
+‚îÇ      p2p7lk033.wav
+‚îÇ      p2p7lk034.wav
+‚îÇ      p2p7lk035.wav
+‚îÇ      p2p7lk036.wav
+‚îÇ      p2p7lk037.wav
+‚îÇ      p2p7lk038.wav
+‚îÇ      p2p7lk039.wav
+‚îÇ      p2p7lk040.wav
+‚îÇ      p2p7lk041.wav
+‚îÇ      p2p7lk042.wav
+‚îÇ      p2p7lk043.wav
+‚îÇ      p2p7lk044.wav
+‚îÇ      p2p7lk045.wav
+‚îÇ      p2p7lk046.wav
+‚îÇ      p2p7lk047.wav
+‚îÇ      p2p7lk048.wav
+‚îÇ      p2p7lk049.wav
+‚îÇ      p2p7lk050.wav
+‚îÇ      p2p7lk051.wav
+‚îÇ      p2p7lk052.wav
+‚îÇ      p2p7lk053.wav
+‚îÇ      p2p7lk054.wav
+‚îÇ      p2p7lk055.wav
+‚îÇ      p2p7lk056.wav
+‚îÇ      p2p7lk057.wav
+‚îÇ      p2p7lk058.wav
+‚îÇ      p2p7lk059.wav
+‚îÇ      p2p7lk060.wav
+‚îÇ      p2p7lk061.wav
+‚îÇ      p2p7lk062.wav
+‚îÇ      p2p7lk063.wav
+‚îÇ      p2p7lk064.wav
+‚îÇ      p2p7lk065.wav
+‚îÇ      p2p7lk066.wav
+‚îÇ      p2p7lk067.wav
+‚îÇ      p2p7lk068.wav
+‚îÇ      p2p7lk069.wav
+‚îÇ      p2p7lk070.wav
+‚îÇ      p2p7swx001.wav
+‚îÇ      p2p7swx002.wav
+‚îÇ      p2p7swx003.wav
+‚îÇ      p2p7swx004.wav
+‚îÇ      p2p7swx005.wav
+‚îÇ      p2p7swx006.wav
+‚îÇ      p2p7swx007.wav
+‚îÇ      p2p7swx008.wav
+‚îÇ      p2p7swx009.wav
+‚îÇ      p2p7swx010.wav
+‚îÇ      p2p7swx011.wav
+‚îÇ      p2p7swx012.wav
+‚îÇ      p2p7swx013.wav
+‚îÇ      p2p7swx014.wav
+‚îÇ      p2p7swx015.wav
+‚îÇ      p2p7swx016.wav
+‚îÇ      p2p7swx017.wav
+‚îÇ      p2p7swx018.wav
+‚îÇ      p2p7swx019.wav
+‚îÇ      p2p7swx020.wav
+‚îÇ      p2p7swx021.wav
+‚îÇ      p2p7swx022.wav
+‚îÇ      p2p7swx023.wav
+‚îÇ      p2p7swx024.wav
+‚îÇ      p2p7swx025.wav
+‚îÇ      p2p7swx026.wav
+‚îÇ      p2p7swx027.wav
+‚îÇ      p2p7swx028.wav
+‚îÇ      p2p7swx029.wav
+‚îÇ      p2p7swx030.wav
+‚îÇ      p2p7swx031.wav
+‚îÇ      p2p7swx032.wav
+‚îÇ      p2p7swx033.wav
+‚îÇ      p2p7swx034.wav
+‚îÇ      p2p7swx035.wav
+‚îÇ      p2p7swx036.wav
+‚îÇ      p2p7swx037.wav
+‚îÇ      p2p7swx038.wav
+‚îÇ      p2p7swx039.wav
+‚îÇ      p2p7swx040.wav
+‚îÇ      p2p7swx041.wav
+‚îÇ      p2p7swx042.wav
+‚îÇ      p2p7swx043.wav
+‚îÇ      p2p7swx044.wav
+‚îÇ      p2p7swx045.wav
+‚îÇ      p2p7swx046.wav
+‚îÇ      p2p7swx047.wav
+‚îÇ      p2p7swx048.wav
+‚îÇ      p2p7swx049.wav
+‚îÇ      p2p7swx050.wav
+‚îÇ      p2p7swx051.wav
+‚îÇ      p2p7swx052.wav
+‚îÇ      p2p7swx053.wav
+‚îÇ      p2p7swx054.wav
+‚îÇ      p2p7swx055.wav
+‚îÇ      p2p7swx056.wav
+‚îÇ      p2p7swx057.wav
+‚îÇ      p2p7swx058.wav
+‚îÇ      p2p7swx059.wav
+‚îÇ      p2p7swx060.wav
+‚îÇ      p2p7swx061.wav
+‚îÇ      p2p7swx062.wav
+‚îÇ      p2p7swx063.wav
+‚îÇ      p2p7swx064.wav
+‚îÇ      p2p7swx065.wav
+‚îÇ      p2p7tl001.wav
+‚îÇ      p2p7tl002.wav
+‚îÇ      p2p7tl003.wav
+‚îÇ      p2p7tl004.wav
+‚îÇ      p2p7tl005.wav
+‚îÇ      p2p7tl006.wav
+‚îÇ      p2p7tl007.wav
+‚îÇ      p2p7tl008.wav
+‚îÇ      p2p7tl009.wav
+‚îÇ      p2p7tl010.wav
+‚îÇ      p2p7tl011.wav
+‚îÇ      p2p7tl012.wav
+‚îÇ      p2p7tl013.wav
+‚îÇ      p2p7tl014.wav
+‚îÇ      p2p7tl015.wav
+‚îÇ      p2p7tl016.wav
+‚îÇ      p2p7tl017.wav
+‚îÇ      p2p7tl018.wav
+‚îÇ      p2p7tl019.wav
+‚îÇ      p2p7tl020.wav
+‚îÇ      p2p7wkd001.wav
+‚îÇ      p2p7wkd002.wav
+‚îÇ      p2p7wkd003.wav
+‚îÇ      p2p7wkd004.wav
+‚îÇ      p2p7wkd005.wav
+‚îÇ      p2p7xn001.wav
+‚îÇ      p2p7xn002.wav
+‚îÇ      p2p7xn003.wav
+‚îÇ      p2p7xn004.wav
+‚îÇ      plot_02_07[0].txt
+‚îÇ      
+‚îú‚îÄplot_02_08[0]
+‚îÇ      p2p8al001.wav
+‚îÇ      p2p8al002.wav
+‚îÇ      p2p8al003.wav
+‚îÇ      p2p8al004.wav
+‚îÇ      p2p8al005.wav
+‚îÇ      p2p8hd01.wav
+‚îÇ      p2p8hd010.wav
+‚îÇ      p2p8hd011.wav
+‚îÇ      p2p8hd012.wav
+‚îÇ      p2p8hd013.wav
+‚îÇ      p2p8hd014.wav
+‚îÇ      p2p8hd015.wav
+‚îÇ      p2p8hd016.wav
+‚îÇ      p2p8hd017.wav
+‚îÇ      p2p8hd02.wav
+‚îÇ      p2p8hd03.wav
+‚îÇ      p2p8hd04.wav
+‚îÇ      p2p8hd05.wav
+‚îÇ      p2p8hd06.wav
+‚îÇ      p2p8hd07.wav
+‚îÇ      p2p8hd08.wav
+‚îÇ      p2p8hd09.wav
+‚îÇ      p2p8hgl001.wav
+‚îÇ      p2p8hgl002.wav
+‚îÇ      p2p8hgl003.wav
+‚îÇ      p2p8hgl004.wav
+‚îÇ      p2p8hgl005.wav
+‚îÇ      p2p8hgl006.wav
+‚îÇ      p2p8hgl007.wav
+‚îÇ      p2p8hgl008.wav
+‚îÇ      p2p8hgl009.wav
+‚îÇ      p2p8hgl010.wav
+‚îÇ      p2p8hgl011.wav
+‚îÇ      p2p8hgl012.wav
+‚îÇ      p2p8hgl013.wav
+‚îÇ      p2p8hgl014.wav
+‚îÇ      p2p8hgl015.wav
+‚îÇ      p2p8hgl016.wav
+‚îÇ      p2p8hgl017.wav
+‚îÇ      p2p8hgl018.wav
+‚îÇ      p2p8hgl019.wav
+‚îÇ      p2p8hgl020.wav
+‚îÇ      p2p8hgl021.wav
+‚îÇ      p2p8hgl022.wav
+‚îÇ      p2p8hgl023.wav
+‚îÇ      p2p8hgl024.wav
+‚îÇ      p2p8nvyjy001.wav
+‚îÇ      p2p8nvyjy002.wav
+‚îÇ      p2p8nvyjy003.wav
+‚îÇ      p2p8nvyjy004.wav
+‚îÇ      p2p8nvyjy005.wav
+‚îÇ      p2p8nyjy001.wav
+‚îÇ      p2p8nyjy002.wav
+‚îÇ      p2p8nyjy003.wav
+‚îÇ      p2p8nyjy004.wav
+‚îÇ      p2p8nyjy005.wav
+‚îÇ      p2p8ssdb001.wav
+‚îÇ      p2p8ssdb002.wav
+‚îÇ      p2p8ssdb003.wav
+‚îÇ      p2p8ssdb004.wav
+‚îÇ      p2p8ssdb005.wav
+‚îÇ      p2p8ssdb006.wav
+‚îÇ      p2p8ssdb007.wav
+‚îÇ      p2p8ssdb008.wav
+‚îÇ      p2p8ssdb009.wav
+‚îÇ      p2p8ssdb010.wav
+‚îÇ      p2p8ssdb011.wav
+‚îÇ      p2p8ssdb012.wav
+‚îÇ      p2p8ssdb013.wav
+‚îÇ      p2p8ssdb014.wav
+‚îÇ      p2p8ssdb015.wav
+‚îÇ      p2p8ssdb016.wav
+‚îÇ      p2p8ssdb017.wav
+‚îÇ      p2p8ssdb018.wav
+‚îÇ      p2p8ssdb019.wav
+‚îÇ      p2p8ssdb020.wav
+‚îÇ      p2p8ssdb021.wav
+‚îÇ      p2p8ssdb022.wav
+‚îÇ      p2p8ssdb023.wav
+‚îÇ      p2p8ssdb024.wav
+‚îÇ      p2p8ssdb025.wav
+‚îÇ      p2p8ssdb026.wav
+‚îÇ      p2p8ssdb027.wav
+‚îÇ      p2p8ssdb028.wav
+‚îÇ      p2p8ssdb029.wav
+‚îÇ      p2p8ssdb030.wav
+‚îÇ      p2p8ssdb031.wav
+‚îÇ      p2p8ssdb032.wav
+‚îÇ      p2p8ssdb033.wav
+‚îÇ      p2p8ssdb034.wav
+‚îÇ      p2p8ssdb035.wav
+‚îÇ      p2p8ssdb036.wav
+‚îÇ      p2p8ssdb037.wav
+‚îÇ      p2p8ssdb038.wav
+‚îÇ      p2p8tl001.wav
+‚îÇ      p2p8tl002.wav
+‚îÇ      p2p8tl003.wav
+‚îÇ      p2p8tl004.wav
+‚îÇ      p2p8tl005.wav
+‚îÇ      p2p8tl006.wav
+‚îÇ      p2p8tl007.wav
+‚îÇ      p2p8tl008.wav
+‚îÇ      p2p8tl009.wav
+‚îÇ      p2p8tl010.wav
+‚îÇ      p2p8tl011.wav
+‚îÇ      p2p8tl012.wav
+‚îÇ      p2p8tl013.wav
+‚îÇ      p2p8tl014.wav
+‚îÇ      p2p8tl015.wav
+‚îÇ      p2p8tl016.wav
+‚îÇ      p2p8tl017.wav
+‚îÇ      p2p8tl018.wav
+‚îÇ      p2p8tl019.wav
+‚îÇ      p2p8tl020.wav
+‚îÇ      p2p8tl021.wav
+‚îÇ      p2p8tl022.wav
+‚îÇ      p2p8tl023.wav
+‚îÇ      p2p8tl024.wav
+‚îÇ      p2p8tl025.wav
+‚îÇ      p2p8tl026.wav
+‚îÇ      p2p8tl027.wav
+‚îÇ      p2p8tl028.wav
+‚îÇ      p2p8tl029.wav
+‚îÇ      p2p8xn001.wav
+‚îÇ      p2p8xn002.wav
+‚îÇ      p2p8xn003.wav
+‚îÇ      p2p8xn004.wav
+‚îÇ      p2p8xn005.wav
+‚îÇ      p2p8xn006.wav
+‚îÇ      p2p8xn007.wav
+‚îÇ      p2p8xn008.wav
+‚îÇ      p2p8xn009.wav
+‚îÇ      plot_02_08[0].txt
+‚îÇ      
+‚îú‚îÄplot_02_09[0]
+‚îÇ      p2p9al001.wav
+‚îÇ      p2p9al002.wav
+‚îÇ      p2p9al003.wav
+‚îÇ      p2p9al004.wav
+‚îÇ      p2p9al005.wav
+‚îÇ      p2p9al006.wav
+‚îÇ      p2p9al007.wav
+‚îÇ      p2p9al008.wav
+‚îÇ      p2p9al009.wav
+‚îÇ      p2p9al010.wav
+‚îÇ      p2p9al011.wav
+‚îÇ      p2p9al012.wav
+‚îÇ      p2p9al013.wav
+‚îÇ      p2p9al014.wav
+‚îÇ      p2p9hgl001.wav
+‚îÇ      p2p9hgl002.wav
+‚îÇ      p2p9hgl003.wav
+‚îÇ      p2p9hgl004.wav
+‚îÇ      p2p9hgl005.wav
+‚îÇ      p2p9hgl006.wav
+‚îÇ      p2p9hgl007.wav
+‚îÇ      p2p9hgl008.wav
+‚îÇ      p2p9hgl009.wav
+‚îÇ      p2p9hgl010.wav
+‚îÇ      p2p9hgl011.wav
+‚îÇ      p2p9hgl012.wav
+‚îÇ      p2p9hgl013.wav
+‚îÇ      p2p9hgl014.wav
+‚îÇ      p2p9hgl015.wav
+‚îÇ      p2p9hgl016.wav
+‚îÇ      p2p9hgl017.wav
+‚îÇ      p2p9hgl018.wav
+‚îÇ      p2p9hgl019.wav
+‚îÇ      p2p9hgl020.wav
+‚îÇ      p2p9hgl021.wav
+‚îÇ      p2p9hgl022.wav
+‚îÇ      p2p9hgl023.wav
+‚îÇ      p2p9hgl024.wav
+‚îÇ      p2p9hgl025.wav
+‚îÇ      p2p9hgl026.wav
+‚îÇ      p2p9lk001.wav
+‚îÇ      p2p9lk002.wav
+‚îÇ      p2p9lk003.wav
+‚îÇ      p2p9lk004.wav
+‚îÇ      p2p9lk005.wav
+‚îÇ      p2p9lk006.wav
+‚îÇ      p2p9lk007.wav
+‚îÇ      p2p9ssdb001.wav
+‚îÇ      p2p9ssdb002.wav
+‚îÇ      p2p9ssdb003.wav
+‚îÇ      p2p9swx001.wav
+‚îÇ      p2p9swx002.wav
+‚îÇ      p2p9swx003.wav
+‚îÇ      p2p9swx004.wav
+‚îÇ      p2p9swx005.wav
+‚îÇ      p2p9swx006.wav
+‚îÇ      p2p9swx007.wav
+‚îÇ      p2p9swx008.wav
+‚îÇ      p2p9swx009.wav
+‚îÇ      p2p9swx010.wav
+‚îÇ      p2p9swx011.wav
+‚îÇ      p2p9swx012.wav
+‚îÇ      p2p9swx013.wav
+‚îÇ      p2p9swx014.wav
+‚îÇ      p2p9swx015.wav
+‚îÇ      p2p9swx016.wav
+‚îÇ      p2p9swx017.wav
+‚îÇ      p2p9swx018.wav
+‚îÇ      p2p9swx019.wav
+‚îÇ      p2p9swx020.wav
+‚îÇ      p2p9swx021.wav
+‚îÇ      p2p9swx022.wav
+‚îÇ      p2p9swx023.wav
+‚îÇ      p2p9swx024.wav
+‚îÇ      p2p9swx025.wav
+‚îÇ      p2p9tl001.wav
+‚îÇ      p2p9tl002.wav
+‚îÇ      p2p9tl003.wav
+‚îÇ      p2p9tl004.wav
+‚îÇ      p2p9tl005.wav
+‚îÇ      p2p9tl006.wav
+‚îÇ      p2p9tl007.wav
+‚îÇ      p2p9tl008.wav
+‚îÇ      p2p9wndb001.wav
+‚îÇ      p2p9wndb002.wav
+‚îÇ      p2p9wndb003.wav
+‚îÇ      p2p9wndb004.wav
+‚îÇ      p2p9wndb005.wav
+‚îÇ      p2p9wndb006.wav
+‚îÇ      p2p9wndb007.wav
+‚îÇ      p2p9wndb008.wav
+‚îÇ      p2p9wndb009.wav
+‚îÇ      p2p9wndb010.wav
+‚îÇ      p2p9wndb011.wav
+‚îÇ      p2p9wndb012.wav
+‚îÇ      p2p9wndb013.wav
+‚îÇ      p2p9wndb014.wav
+‚îÇ      p2p9wndb015.wav
+‚îÇ      p2p9wndb016.wav
+‚îÇ      p2p9wndb017.wav
+‚îÇ      p2p9wndb018.wav
+‚îÇ      p2p9wndb019.wav
+‚îÇ      p2p9xn001.wav
+‚îÇ      p2p9xn002.wav
+‚îÇ      p2p9xn003.wav
+‚îÇ      p2p9xn004.wav
+‚îÇ      p2p9xn005.wav
+‚îÇ      p2p9xn006.wav
+‚îÇ      p2p9xn007.wav
+‚îÇ      p2p9xn008.wav
+‚îÇ      p2p9xn009.wav
+‚îÇ      plot_02_09[0].txt
+‚îÇ      
+‚îú‚îÄplot_02_10[0]
+‚îÇ      p2p10hd001.wav
+‚îÇ      p2p10hgl001.wav
+‚îÇ      p2p10hgl002.wav
+‚îÇ      p2p10hgl003.wav
+‚îÇ      p2p10hgl004.wav
+‚îÇ      p2p10hgl005.wav
+‚îÇ      p2p10hgl006.wav
+‚îÇ      p2p10hgl007.wav
+‚îÇ      p2p10hgl008.wav
+‚îÇ      p2p10hgl009.wav
+‚îÇ      p2p10hgl010.wav
+‚îÇ      p2p10hgl011.wav
+‚îÇ      p2p10hgl012.wav
+‚îÇ      p2p10hgl013.wav
+‚îÇ      p2p10hgl014.wav
+‚îÇ      p2p10hgl015.wav
+‚îÇ      p2p10hgl016.wav
+‚îÇ      p2p10hgl017.wav
+‚îÇ      p2p10hgl018.wav
+‚îÇ      p2p10hgl019.wav
+‚îÇ      p2p10hgl020.wav
+‚îÇ      p2p10hgl021.wav
+‚îÇ      p2p10hgl022.wav
+‚îÇ      p2p10hgl023.wav
+‚îÇ      p2p10hgl024.wav
+‚îÇ      p2p10hgl025.wav
+‚îÇ      p2p10hgl026.wav
+‚îÇ      p2p10hgl027.wav
+‚îÇ      p2p10hgl028.wav
+‚îÇ      p2p10hgl029.wav
+‚îÇ      p2p10hgl030.wav
+‚îÇ      p2p10hgl031.wav
+‚îÇ      p2p10hgl032.wav
+‚îÇ      p2p10hgl033.wav
+‚îÇ      p2p10hgl034.wav
+‚îÇ      p2p10hgl035.wav
+‚îÇ      p2p10hgl036.wav
+‚îÇ      p2p10hgl037.wav
+‚îÇ      p2p10hgl038.wav
+‚îÇ      p2p10hgl039.wav
+‚îÇ      p2p10hgl040.wav
+‚îÇ      p2p10hgl041.wav
+‚îÇ      p2p10hgl042.wav
+‚îÇ      p2p10hgl043.wav
+‚îÇ      p2p10hgl044.wav
+‚îÇ      p2p10hgl045.wav
+‚îÇ      p2p10hgl046.wav
+‚îÇ      p2p10hgl047.wav
+‚îÇ      p2p10hgl048.wav
+‚îÇ      p2p10hgl049.wav
+‚îÇ      p2p10hgl050.wav
+‚îÇ      p2p10hgl051.wav
+‚îÇ      p2p10hgl052.wav
+‚îÇ      p2p10hgl053.wav
+‚îÇ      p2p10hgl054.wav
+‚îÇ      p2p10hgl055.wav
+‚îÇ      p2p10hgl056.wav
+‚îÇ      p2p10lk001.wav
+‚îÇ      p2p10lk002.wav
+‚îÇ      p2p10lk003.wav
+‚îÇ      p2p10lk004.wav
+‚îÇ      p2p10lk005.wav
+‚îÇ      p2p10lk006.wav
+‚îÇ      p2p10lk007.wav
+‚îÇ      p2p10lk008.wav
+‚îÇ      p2p10lk009.wav
+‚îÇ      p2p10lk010.wav
+‚îÇ      p2p10lk011.wav
+‚îÇ      p2p10lk012.wav
+‚îÇ      p2p10lk013.wav
+‚îÇ      p2p10lk014.wav
+‚îÇ      p2p10lk015.wav
+‚îÇ      p2p10lk016.wav
+‚îÇ      p2p10lk017.wav
+‚îÇ      p2p10lk018.wav
+‚îÇ      p2p10lk019.wav
+‚îÇ      p2p10lk020.wav
+‚îÇ      p2p10lk021.wav
+‚îÇ      p2p10lk022.wav
+‚îÇ      p2p10lk023.wav
+‚îÇ      p2p10lk024.wav
+‚îÇ      p2p10lk025.wav
+‚îÇ      p2p10lk026.wav
+‚îÇ      p2p10lk027.wav
+‚îÇ      p2p10lk028.wav
+‚îÇ      p2p10lk029.wav
+‚îÇ      p2p10lk030.wav
+‚îÇ      p2p10lk031.wav
+‚îÇ      p2p10lk032.wav
+‚îÇ      p2p10lk033.wav
+‚îÇ      p2p10lk034.wav
+‚îÇ      p2p10swx001.wav
+‚îÇ      p2p10swx002.wav
+‚îÇ      p2p10swx003.wav
+‚îÇ      p2p10swx004.wav
+‚îÇ      p2p10swx005.wav
+‚îÇ      p2p10swx006.wav
+‚îÇ      p2p10swx007.wav
+‚îÇ      p2p10swx008.wav
+‚îÇ      p2p10swx009.wav
+‚îÇ      p2p10swx010.wav
+‚îÇ      p2p10swx011.wav
+‚îÇ      p2p10swx012.wav
+‚îÇ      p2p10swx013.wav
+‚îÇ      p2p10swx014.wav
+‚îÇ      p2p10swx015.wav
+‚îÇ      p2p10swx016.wav
+‚îÇ      p2p10tl001.wav
+‚îÇ      p2p10tl002.wav
+‚îÇ      p2p10tl003.wav
+‚îÇ      p2p10tl004.wav
+‚îÇ      p2p10tl005.wav
+‚îÇ      p2p10tl006.wav
+‚îÇ      p2p10tl007.wav
+‚îÇ      p2p10tl008.wav
+‚îÇ      p2p10tl009.wav
+‚îÇ      p2p10tl010.wav
+‚îÇ      p2p10tl011.wav
+‚îÇ      p2p10tl012.wav
+‚îÇ      p2p10tl013.wav
+‚îÇ      p2p10tl014.wav
+‚îÇ      p2p10tl015.wav
+‚îÇ      p2p10tl016.wav
+‚îÇ      p2p10tl017.wav
+‚îÇ      p2p10tl018.wav
+‚îÇ      p2p10tl019.wav
+‚îÇ      p2p10xn001.wav
+‚îÇ      p2p10xn002.wav
+‚îÇ      p2p10xn003.wav
+‚îÇ      p2p10xn004.wav
+‚îÇ      p2p10xn005.wav
+‚îÇ      p2p10xn006.wav
+‚îÇ      p2p10xn007.wav
+‚îÇ      plot_02_10[0].txt
+‚îÇ      
+‚îú‚îÄplot_02_11[0]
+‚îÇ      p2p11al001.wav
+‚îÇ      p2p11bje001.wav
+‚îÇ      p2p11bje002.wav
+‚îÇ      p2p11bje003.wav
+‚îÇ      p2p11bje004.wav
+‚îÇ      p2p11bje005.wav
+‚îÇ      p2p11bje006.wav
+‚îÇ      p2p11bje007.wav
+‚îÇ      p2p11bje008.wav
+‚îÇ      p2p11bje009.wav
+‚îÇ      p2p11dhz001.wav
+‚îÇ      p2p11dhz002.wav
+‚îÇ      p2p11hgl001.wav
+‚îÇ      p2p11hgl002.wav
+‚îÇ      p2p11hgl003.wav
+‚îÇ      p2p11hgl004.wav
+‚îÇ      p2p11hgl005.wav
+‚îÇ      p2p11hgl006.wav
+‚îÇ      p2p11hgl007.wav
+‚îÇ      p2p11hgl008.wav
+‚îÇ      p2p11hgl009.wav
+‚îÇ      p2p11hgl010.wav
+‚îÇ      p2p11hgl011.wav
+‚îÇ      p2p11hgl012.wav
+‚îÇ      p2p11hgl013.wav
+‚îÇ      p2p11hgl014.wav
+‚îÇ      p2p11hgl015.wav
+‚îÇ      p2p11hgl016.wav
+‚îÇ      p2p11hgl017.wav
+‚îÇ      p2p11hgl018.wav
+‚îÇ      p2p11hgl019.wav
+‚îÇ      p2p11hgl020.wav
+‚îÇ      p2p11hgl021.wav
+‚îÇ      p2p11hgl022.wav
+‚îÇ      p2p11hgl023.wav
+‚îÇ      p2p11hgl024.wav
+‚îÇ      p2p11hgl025.wav
+‚îÇ      p2p11hgl026.wav
+‚îÇ      p2p11hgl027.wav
+‚îÇ      p2p11hgl028.wav
+‚îÇ      p2p11hgl029.wav
+‚îÇ      p2p11hgl030.wav
+‚îÇ      p2p11hgl031.wav
+‚îÇ      p2p11hgl032.wav
+‚îÇ      p2p11hgl033.wav
+‚îÇ      p2p11hgl034.wav
+‚îÇ      p2p11hgl035.wav
+‚îÇ      p2p11hgl036.wav
+‚îÇ      p2p11hgl037.wav
+‚îÇ      p2p11hgl038.wav
+‚îÇ      p2p11lk001.wav
+‚îÇ      p2p11lk002.wav
+‚îÇ      p2p11lk003.wav
+‚îÇ      p2p11lk004.wav
+‚îÇ      p2p11lk005.wav
+‚îÇ      p2p11lk006.wav
+‚îÇ      p2p11lk007.wav
+‚îÇ      p2p11lk008.wav
+‚îÇ      p2p11lk009.wav
+‚îÇ      p2p11lk010.wav
+‚îÇ      p2p11lk011.wav
+‚îÇ      p2p11lk012.wav
+‚îÇ      p2p11lk013.wav
+‚îÇ      p2p11lk014.wav
+‚îÇ      p2p11lk015.wav
+‚îÇ      p2p11lk016.wav
+‚îÇ      p2p11lk017.wav
+‚îÇ      p2p11lk018.wav
+‚îÇ      p2p11lk019.wav
+‚îÇ      p2p11lk020.wav
+‚îÇ      p2p11lk021.wav
+‚îÇ      p2p11lk022.wav
+‚îÇ      p2p11lk023.wav
+‚îÇ      p2p11lk024.wav
+‚îÇ      p2p11lk025.wav
+‚îÇ      p2p11lz001.wav
+‚îÇ      p2p11lz002.wav
+‚îÇ      p2p11sfy001.wav
+‚îÇ      p2p11sfy002.wav
+‚îÇ      p2p11sfy003.wav
+‚îÇ      p2p11ssdb001.wav
+‚îÇ      p2p11ssdb002.wav
+‚îÇ      p2p11ssdb003.wav
+‚îÇ      p2p11ssdb004.wav
+‚îÇ      p2p11ssdb005.wav
+‚îÇ      p2p11ssdb006.wav
+‚îÇ      p2p11swx001.wav
+‚îÇ      p2p11swx002.wav
+‚îÇ      p2p11swx003.wav
+‚îÇ      p2p11swx004.wav
+‚îÇ      p2p11swx005.wav
+‚îÇ      p2p11swx006.wav
+‚îÇ      p2p11swx007.wav
+‚îÇ      p2p11swx008.wav
+‚îÇ      p2p11swx009.wav
+‚îÇ      p2p11swx010.wav
+‚îÇ      p2p11swx011.wav
+‚îÇ      p2p11swx012.wav
+‚îÇ      p2p11swx013.wav
+‚îÇ      p2p11swx014.wav
+‚îÇ      p2p11swx015.wav
+‚îÇ      p2p11sy001.wav
+‚îÇ      p2p11sy002.wav
+‚îÇ      p2p11sy003.wav
+‚îÇ      p2p11sy004.wav
+‚îÇ      p2p11sy005.wav
+‚îÇ      p2p11tl001.wav
+‚îÇ      p2p11tl002.wav
+‚îÇ      p2p11tl003.wav
+‚îÇ      p2p11tl004.wav
+‚îÇ      p2p11tl005.wav
+‚îÇ      p2p11tl006.wav
+‚îÇ      p2p11tl007.wav
+‚îÇ      p2p11tl008.wav
+‚îÇ      p2p11tl009.wav
+‚îÇ      p2p11tl010.wav
+‚îÇ      p2p11wndb001.wav
+‚îÇ      p2p11wndb002.wav
+‚îÇ      p2p11wndb003.wav
+‚îÇ      p2p11wndb004.wav
+‚îÇ      p2p11wndb005.wav
+‚îÇ      p2p11wndb006.wav
+‚îÇ      p2p11wndb007.wav
+‚îÇ      p2p11wndb008.wav
+‚îÇ      p2p11wndb009.wav
+‚îÇ      p2p11wndb010.wav
+‚îÇ      p2p11wndb011.wav
+‚îÇ      p2p11wndb012.wav
+‚îÇ      p2p11wndb013.wav
+‚îÇ      p2p11wndb014.wav
+‚îÇ      p2p11wndb015.wav
+‚îÇ      p2p11wndb016.wav
+‚îÇ      p2p11wndb017.wav
+‚îÇ      p2p11wndb018.wav
+‚îÇ      p2p11wndb019.wav
+‚îÇ      p2p11wndb020.wav
+‚îÇ      p2p11xn001.wav
+‚îÇ      p2p11xn002.wav
+‚îÇ      p2p11xn003.wav
+‚îÇ      p2p11xn004.wav
+‚îÇ      p2p11xn005.wav
+‚îÇ      p2p11xn006.wav
+‚îÇ      p2p11xn007.wav
+‚îÇ      p2p11xn008.wav
+‚îÇ      p2p11xn009.wav
+‚îÇ      p2p11xn010.wav
+‚îÇ      p2p11xn011.wav
+‚îÇ      p2p11xn012.wav
+‚îÇ      p2p11xn013.wav
+‚îÇ      p2p11xn014.wav
+‚îÇ      p2p11xn015.wav
+‚îÇ      p2p11xn016.wav
+‚îÇ      p2p11xn017.wav
+‚îÇ      plot_02_11[0].txt
+‚îÇ      
+‚îú‚îÄplot_02_12[0]
+‚îÇ      p2p12bje001.wav
+‚îÇ      p2p12bje002.wav
+‚îÇ      p2p12bje003.wav
+‚îÇ      p2p12bje004.wav
+‚îÇ      p2p12bje005.wav
+‚îÇ      p2p12bje006.wav
+‚îÇ      p2p12hd001.wav
+‚îÇ      p2p12hd002.wav
+‚îÇ      p2p12hd003.wav
+‚îÇ      p2p12hd004.wav
+‚îÇ      p2p12hd005.wav
+‚îÇ      p2p12hd006.wav
+‚îÇ      p2p12hd007.wav
+‚îÇ      p2p12hd008.wav
+‚îÇ      p2p12hd009.wav
+‚îÇ      p2p12hd010.wav
+‚îÇ      p2p12hd011.wav
+‚îÇ      p2p12hd012.wav
+‚îÇ      p2p12hd013.wav
+‚îÇ      p2p12hd014.wav
+‚îÇ      p2p12hd015.wav
+‚îÇ      p2p12hd016.wav
+‚îÇ      p2p12hgl001.wav
+‚îÇ      p2p12hgl002.wav
+‚îÇ      p2p12hgl003.wav
+‚îÇ      p2p12hgl004.wav
+‚îÇ      p2p12hgl005.wav
+‚îÇ      p2p12hgl006.wav
+‚îÇ      p2p12hgl007.wav
+‚îÇ      p2p12hgl008.wav
+‚îÇ      p2p12hgl009.wav
+‚îÇ      p2p12hgl010.wav
+‚îÇ      p2p12hgl011.wav
+‚îÇ      p2p12hgl012.wav
+‚îÇ      p2p12hgl013.wav
+‚îÇ      p2p12hgl014.wav
+‚îÇ      p2p12hgl015.wav
+‚îÇ      p2p12hgl016.wav
+‚îÇ      p2p12hgl017.wav
+‚îÇ      p2p12hgl018.wav
+‚îÇ      p2p12hgl019.wav
+‚îÇ      p2p12hgl020.wav
+‚îÇ      p2p12hgl021.wav
+‚îÇ      p2p12hgl022.wav
+‚îÇ      p2p12hgl023.wav
+‚îÇ      p2p12hgl024.wav
+‚îÇ      p2p12hgl025.wav
+‚îÇ      p2p12hgl026.wav
+‚îÇ      p2p12hgl027.wav
+‚îÇ      p2p12hgl028.wav
+‚îÇ      p2p12hgl029.wav
+‚îÇ      p2p12hgl030.wav
+‚îÇ      p2p12hgl031.wav
+‚îÇ      p2p12hgl032.wav
+‚îÇ      p2p12hgl033.wav
+‚îÇ      p2p12hgl034.wav
+‚îÇ      p2p12hgl035.wav
+‚îÇ      p2p12hgl036.wav
+‚îÇ      p2p12hgl037.wav
+‚îÇ      p2p12hgl038.wav
+‚îÇ      p2p12hgl039.wav
+‚îÇ      p2p12hgl040.wav
+‚îÇ      p2p12hgl041.wav
+‚îÇ      p2p12hgl042.wav
+‚îÇ      p2p12hgl043.wav
+‚îÇ      p2p12hgl044.wav
+‚îÇ      p2p12hgl045.wav
+‚îÇ      p2p12hgl046.wav
+‚îÇ      p2p12hgl047.wav
+‚îÇ      p2p12hgl048.wav
+‚îÇ      p2p12hgl049.wav
+‚îÇ      p2p12hgl050.wav
+‚îÇ      p2p12hgl051.wav
+‚îÇ      p2p12hgl052.wav
+‚îÇ      p2p12hgl053.wav
+‚îÇ      p2p12hgl054.wav
+‚îÇ      p2p12hgl055.wav
+‚îÇ      p2p12hgl056.wav
+‚îÇ      p2p12hgl057.wav
+‚îÇ      p2p12hgl058.wav
+‚îÇ      p2p12hgl059.wav
+‚îÇ      p2p12hgl060.wav
+‚îÇ      p2p12hgl061.wav
+‚îÇ      p2p12hgl062.wav
+‚îÇ      p2p12hgl063.wav
+‚îÇ      p2p12hgl064.wav
+‚îÇ      p2p12hgl065.wav
+‚îÇ      p2p12hgl066.wav
+‚îÇ      p2p12hgl067.wav
+‚îÇ      p2p12lk001.wav
+‚îÇ      p2p12lk002.wav
+‚îÇ      p2p12lk003.wav
+‚îÇ      p2p12lk004.wav
+‚îÇ      p2p12lk005.wav
+‚îÇ      p2p12lk006.wav
+‚îÇ      p2p12lk007.wav
+‚îÇ      p2p12lk008.wav
+‚îÇ      p2p12lk009.wav
+‚îÇ      p2p12lk010.wav
+‚îÇ      p2p12lk011.wav
+‚îÇ      p2p12lk012.wav
+‚îÇ      p2p12lk013.wav
+‚îÇ      p2p12lk014.wav
+‚îÇ      p2p12lk015.wav
+‚îÇ      p2p12lk016.wav
+‚îÇ      p2p12lk017.wav
+‚îÇ      p2p12lk018.wav
+‚îÇ      p2p12lk019.wav
+‚îÇ      p2p12lk020.wav
+‚îÇ      p2p12lk021.wav
+‚îÇ      p2p12lz001.wav
+‚îÇ      p2p12lz002.wav
+‚îÇ      p2p12ssdb001.wav
+‚îÇ      p2p12ssdb002.wav
+‚îÇ      p2p12ssdb003.wav
+‚îÇ      p2p12ssdb004.wav
+‚îÇ      p2p12ssdb005.wav
+‚îÇ      p2p12ssdb006.wav
+‚îÇ      p2p12ssdb007.wav
+‚îÇ      p2p12swx001.wav
+‚îÇ      p2p12swx002.wav
+‚îÇ      p2p12swx003.wav
+‚îÇ      p2p12swx004.wav
+‚îÇ      p2p12swx005.wav
+‚îÇ      p2p12swx006.wav
+‚îÇ      p2p12swx007.wav
+‚îÇ      p2p12tl001.wav
+‚îÇ      p2p12tl002.wav
+‚îÇ      p2p12tl003.wav
+‚îÇ      p2p12tl004.wav
+‚îÇ      p2p12tl005.wav
+‚îÇ      p2p12tl006.wav
+‚îÇ      p2p12tl007.wav
+‚îÇ      p2p12tl008.wav
+‚îÇ      p2p12tl009.wav
+‚îÇ      p2p12tl010.wav
+‚îÇ      p2p12tl011.wav
+‚îÇ      p2p12tl012.wav
+‚îÇ      p2p12tl013.wav
+‚îÇ      p2p12tl014.wav
+‚îÇ      p2p12tl015.wav
+‚îÇ      p2p12tl016.wav
+‚îÇ      p2p12tl017.wav
+‚îÇ      p2p12tl018.wav
+‚îÇ      p2p12tl019.wav
+‚îÇ      p2p12tl020.wav
+‚îÇ      p2p12tl021.wav
+‚îÇ      p2p12tl022.wav
+‚îÇ      p2p12tl023.wav
+‚îÇ      p2p12tl024.wav
+‚îÇ      p2p12tl025.wav
+‚îÇ      p2p12tl026.wav
+‚îÇ      p2p12way001.wav
+‚îÇ      p2p12wkd001.wav
+‚îÇ      p2p12wkd002.wav
+‚îÇ      p2p12wlt001.wav
+‚îÇ      p2p12wlt002.wav
+‚îÇ      p2p12wlt003.wav
+‚îÇ      p2p12wlt004.wav
+‚îÇ      p2p12wlt005.wav
+‚îÇ      p2p12wlt006.wav
+‚îÇ      p2p12wlt007.wav
+‚îÇ      p2p12wlt008.wav
+‚îÇ      p2p12xel001.wav
+‚îÇ      p2p12xel002.wav
+‚îÇ      p2p12xel003.wav
+‚îÇ      p2p12xel004.wav
+‚îÇ      p2p12xel005.wav
+‚îÇ      p2p12xel006.wav
+‚îÇ      p2p12xel007.wav
+‚îÇ      p2p12xel008.wav
+‚îÇ      p2p12xel009.wav
+‚îÇ      p2p12xel010.wav
+‚îÇ      p2p12xel011.wav
+‚îÇ      p2p12xel012.wav
+‚îÇ      p2p12xel013.wav
+‚îÇ      p2p12xn001.wav
+‚îÇ      p2p12xn002.wav
+‚îÇ      p2p12xn003.wav
+‚îÇ      p2p12xn004.wav
+‚îÇ      p2p12xn005.wav
+‚îÇ      p2p12xn006.wav
+‚îÇ      p2p12xn007.wav
+‚îÇ      p2p12xn008.wav
+‚îÇ      p2p12xn009.wav
+‚îÇ      p2p12xn010.wav
+‚îÇ      p2p12xy001.wav
+‚îÇ      p2p12xy002.wav
+‚îÇ      p2p12xy003.wav
+‚îÇ      plot_02_12[0].txt
+‚îÇ      
+‚îú‚îÄplot_03[0]
+‚îÇ      p3bje001.wav
+‚îÇ      p3bje002.wav
+‚îÇ      p3bje003.wav
+‚îÇ      p3bje004.wav
+‚îÇ      p3bje005.wav
+‚îÇ      p3bje006.wav
+‚îÇ      p3bje007.wav
+‚îÇ      p3bje008.wav
+‚îÇ      p3bje009.wav
+‚îÇ      p3bje010.wav
+‚îÇ      p3bje011.wav
+‚îÇ      p3bje012.wav
+‚îÇ      p3bje013.wav
+‚îÇ      p3bje014.wav
+‚îÇ      p3bje015.wav
+‚îÇ      p3bje016.wav
+‚îÇ      p3bje017.wav
+‚îÇ      p3bje018.wav
+‚îÇ      p3bje019.wav
+‚îÇ      p3bje020.wav
+‚îÇ      p3bje021.wav
+‚îÇ      p3bje022.wav
+‚îÇ      p3bje023.wav
+‚îÇ      p3bje024.wav
+‚îÇ      p3bje025.wav
+‚îÇ      p3bje026.wav
+‚îÇ      p3bje027.wav
+‚îÇ      p3bje028.wav
+‚îÇ      p3bje029.wav
+‚îÇ      p3bje030.wav
+‚îÇ      p3dxz001.wav
+‚îÇ      p3dxz002.wav
+‚îÇ      p3dxz003.wav
+‚îÇ      p3dxz004.wav
+‚îÇ      p3dxz005.wav
+‚îÇ      p3dxz006.wav
+‚îÇ      p3dxz007.wav
+‚îÇ      p3dxz008.wav
+‚îÇ      p3dxz009.wav
+‚îÇ      p3dxz010.wav
+‚îÇ      p3flq001.wav
+‚îÇ      p3flq002.wav
+‚îÇ      p3flq003.wav
+‚îÇ      p3flq004.wav
+‚îÇ      p3flq005.wav
+‚îÇ      p3flq006.wav
+‚îÇ      p3flq007.wav
+‚îÇ      p3flq008.wav
+‚îÇ      p3flq009.wav
+‚îÇ      p3flq010.wav
+‚îÇ      p3flq011.wav
+‚îÇ      p3flq012.wav
+‚îÇ      p3flq013.wav
+‚îÇ      p3flq014.wav
+‚îÇ      p3flq015.wav
+‚îÇ      p3flq017.wav
+‚îÇ      p3flq018.wav
+‚îÇ      p3flq019.wav
+‚îÇ      p3flq020.wav
+‚îÇ      p3flq021.wav
+‚îÇ      p3flq022.wav
+‚îÇ      p3flq023.wav
+‚îÇ      p3flq024.wav
+‚îÇ      p3flq025.wav
+‚îÇ      p3flq026.wav
+‚îÇ      p3flq027.wav
+‚îÇ      p3flq028.wav
+‚îÇ      p3flq029.wav
+‚îÇ      p3flq030.wav
+‚îÇ      p3flq031.wav
+‚îÇ      p3flq032.wav
+‚îÇ      p3flq033.wav
+‚îÇ      p3flq034.wav
+‚îÇ      p3flq035.wav
+‚îÇ      p3flq036.wav
+‚îÇ      p3flq037.wav
+‚îÇ      p3flq038.wav
+‚îÇ      p3flq039.wav
+‚îÇ      p3flq040.wav
+‚îÇ      p3jk001.wav
+‚îÇ      p3jk002.wav
+‚îÇ      p3lz001.wav
+‚îÇ      p3lz002.wav
+‚îÇ      p3lz003.wav
+‚îÇ      p3lz004.wav
+‚îÇ      p3lz005.wav
+‚îÇ      p3lz006.wav
+‚îÇ      p3lz007.wav
+‚îÇ      p3lz008.wav
+‚îÇ      p3lz009.wav
+‚îÇ      p3lz010.wav
+‚îÇ      p3lz011.wav
+‚îÇ      p3lz012.wav
+‚îÇ      p3lz013.wav
+‚îÇ      p3lz014.wav
+‚îÇ      p3lz015.wav
+‚îÇ      p3lz016.wav
+‚îÇ      p3lz017.wav
+‚îÇ      p3lz018.wav
+‚îÇ      p3lz019.wav
+‚îÇ      p3lz020.wav
+‚îÇ      p3lz021.wav
+‚îÇ      p3lz022.wav
+‚îÇ      p3lz023.wav
+‚îÇ      p3lz024.wav
+‚îÇ      p3lz025.wav
+‚îÇ      p3lz026.wav
+‚îÇ      p3lz027.wav
+‚îÇ      p3ml001.wav
+‚îÇ      p3ml002.wav
+‚îÇ      p3ml003.wav
+‚îÇ      p3ml004.wav
+‚îÇ      p3ml005.wav
+‚îÇ      p3ml006.wav
+‚îÇ      p3ml007.wav
+‚îÇ      p3ml008.wav
+‚îÇ      p3ml009.wav
+‚îÇ      p3ml010.wav
+‚îÇ      p3ml011.wav
+‚îÇ      p3ml012.wav
+‚îÇ      p3ml013.wav
+‚îÇ      p3ml014.wav
+‚îÇ      p3ml015.wav
+‚îÇ      p3ml016.wav
+‚îÇ      p3ml017.wav
+‚îÇ      p3ml018.wav
+‚îÇ      p3ml019.wav
+‚îÇ      p3ml020.wav
+‚îÇ      p3ml021.wav
+‚îÇ      p3wkd001.wav
+‚îÇ      p3wkd002.wav
+‚îÇ      p3wkd003.wav
+‚îÇ      p3wkd004.wav
+‚îÇ      p3wkd005.wav
+‚îÇ      p3wkd006.wav
+‚îÇ      p3wkd007.wav
+‚îÇ      p3wkd008.wav
+‚îÇ      p3wkd009.wav
+‚îÇ      p3wkd010.wav
+‚îÇ      p3wkd011.wav
+‚îÇ      p3wkd012.wav
+‚îÇ      p3wkd013.wav
+‚îÇ      p3wkd014.wav
+‚îÇ      p3wkd015.wav
+‚îÇ      p3wkd016.wav
+‚îÇ      p3wkd017.wav
+‚îÇ      p3wkd018.wav
+‚îÇ      p3wkd019.wav
+‚îÇ      p3wlt001.wav
+‚îÇ      p3wlt002.wav
+‚îÇ      p3wlt003.wav
+‚îÇ      p3wlt004.wav
+‚îÇ      p3wlt005.wav
+‚îÇ      p3wlt006.wav
+‚îÇ      p3wlt007.wav
+‚îÇ      p3wlt008.wav
+‚îÇ      p3wlt009.wav
+‚îÇ      p3wlt010.wav
+‚îÇ      p3wlt011.wav
+‚îÇ      p3wlt012.wav
+‚îÇ      p3wlt013.wav
+‚îÇ      p3wlt014.wav
+‚îÇ      p3wlt015.wav
+‚îÇ      p3wlt016.wav
+‚îÇ      p3wlt017.wav
+‚îÇ      p3wlt018.wav
+‚îÇ      p3wlt019.wav
+‚îÇ      p3wlt020.wav
+‚îÇ      p3wlt021.wav
+‚îÇ      p3wlt022.wav
+‚îÇ      p3wlt023.wav
+‚îÇ      p3wlt024.wav
+‚îÇ      p3xed001.wav
+‚îÇ      p3xed002.wav
+‚îÇ      p3xed003.wav
+‚îÇ      p3xed004.wav
+‚îÇ      p3xed005.wav
+‚îÇ      p3xed006.wav
+‚îÇ      p3xed007.wav
+‚îÇ      p3xed008.wav
+‚îÇ      p3xed009.wav
+‚îÇ      p3xed010.wav
+‚îÇ      p3xn001.wav
+‚îÇ      p3xn002.wav
+‚îÇ      p3xn003.wav
+‚îÇ      p3xn004.wav
+‚îÇ      p3xn005.wav
+‚îÇ      p3xn006.wav
+‚îÇ      p3xn007.wav
+‚îÇ      p3xn008.wav
+‚îÇ      p3xn009.wav
+‚îÇ      p3xn010.wav
+‚îÇ      p3xn011.wav
+‚îÇ      p3xn012.wav
+‚îÇ      p3xn013.wav
+‚îÇ      p3xn014.wav
+‚îÇ      p3xn015.wav
+‚îÇ      p3xn016.wav
+‚îÇ      p3xn017.wav
+‚îÇ      p3xn018.wav
+‚îÇ      p3xn019.wav
+‚îÇ      p3xn020.wav
+‚îÇ      p3xn021.wav
+‚îÇ      p3xn022.wav
+‚îÇ      p3xn023.wav
+‚îÇ      p3xn024.wav
+‚îÇ      p3xn025.wav
+‚îÇ      p3xn026.wav
+‚îÇ      p3xn027.wav
+‚îÇ      p3xn028.wav
+‚îÇ      plot_03[0].txt
+‚îÇ      
+‚îú‚îÄplot_03_01[0]
+‚îÇ      p3p1flq001.wav
+‚îÇ      p3p1flq002.wav
+‚îÇ      p3p1flq003.wav
+‚îÇ      p3p1flq004.wav
+‚îÇ      p3p1flq005.wav
+‚îÇ      p3p1flq006.wav
+‚îÇ      p3p1flq007.wav
+‚îÇ      p3p1flq008.wav
+‚îÇ      p3p1flq009.wav
+‚îÇ      p3p1flq010.wav
+‚îÇ      p3p1flq011.wav
+‚îÇ      p3p1flq012.wav
+‚îÇ      p3p1flq013.wav
+‚îÇ      p3p1flq014.wav
+‚îÇ      p3p1flq015.wav
+‚îÇ      p3p1flq016.wav
+‚îÇ      p3p1flq017.wav
+‚îÇ      p3p1flq018.wav
+‚îÇ      p3p1flq019.wav
+‚îÇ      p3p1flq020.wav
+‚îÇ      p3p1flq021.wav
+‚îÇ      p3p1hgl001.wav
+‚îÇ      p3p1hgl002.wav
+‚îÇ      p3p1hgl003.wav
+‚îÇ      p3p1hgl004.wav
+‚îÇ      p3p1lk001.wav
+‚îÇ      p3p1lk002.wav
+‚îÇ      p3p1lk003.wav
+‚îÇ      p3p1lk004.wav
+‚îÇ      p3p1lk005.wav
+‚îÇ      p3p1lk006.wav
+‚îÇ      p3p1lk007.wav
+‚îÇ      p3p1lk008.wav
+‚îÇ      p3p1lk009.wav
+‚îÇ      p3p1lk010.wav
+‚îÇ      p3p1lk011.wav
+‚îÇ      p3p1lk012.wav
+‚îÇ      p3p1lk013.wav
+‚îÇ      p3p1lk014.wav
+‚îÇ      p3p1lk015.wav
+‚îÇ      p3p1lk016.wav
+‚îÇ      p3p1lk017.wav
+‚îÇ      p3p1lk018.wav
+‚îÇ      p3p1lk019.wav
+‚îÇ      p3p1lk020.wav
+‚îÇ      p3p1lk021.wav
+‚îÇ      p3p1lk022.wav
+‚îÇ      p3p1lk023.wav
+‚îÇ      p3p1lk024.wav
+‚îÇ      p3p1lk025.wav
+‚îÇ      p3p1lk026.wav
+‚îÇ      p3p1lk027.wav
+‚îÇ      p3p1lk028.wav
+‚îÇ      p3p1lk029.wav
+‚îÇ      p3p1lk030.wav
+‚îÇ      p3p1lk031.wav
+‚îÇ      p3p1lk032.wav
+‚îÇ      p3p1lk033.wav
+‚îÇ      p3p1lk034.wav
+‚îÇ      p3p1lk035.wav
+‚îÇ      p3p1lk036.wav
+‚îÇ      p3p1lk037.wav
+‚îÇ      p3p1lk038.wav
+‚îÇ      p3p1lk039.wav
+‚îÇ      p3p1lk040.wav
+‚îÇ      p3p1lk041.wav
+‚îÇ      p3p1lk042.wav
+‚îÇ      p3p1lk043.wav
+‚îÇ      p3p1lk044.wav
+‚îÇ      p3p1lk045.wav
+‚îÇ      p3p1lk046.wav
+‚îÇ      p3p1lk047.wav
+‚îÇ      p3p1lk048.wav
+‚îÇ      p3p1lk049.wav
+‚îÇ      p3p1lk050.wav
+‚îÇ      p3p1lk051.wav
+‚îÇ      p3p1lk052.wav
+‚îÇ      p3p1lk053.wav
+‚îÇ      p3p1lk054.wav
+‚îÇ      p3p1lk055.wav
+‚îÇ      p3p1lk056.wav
+‚îÇ      p3p1lk057.wav
+‚îÇ      p3p1lk058.wav
+‚îÇ      p3p1lk059.wav
+‚îÇ      p3p1lk060.wav
+‚îÇ      p3p1lk061.wav
+‚îÇ      p3p1lk062.wav
+‚îÇ      p3p1lk063.wav
+‚îÇ      p3p1lk064.wav
+‚îÇ      p3p1lk065.wav
+‚îÇ      p3p1lk066.wav
+‚îÇ      p3p1lk067.wav
+‚îÇ      p3p1lk068.wav
+‚îÇ      p3p1lk069.wav
+‚îÇ      p3p1lk070.wav
+‚îÇ      p3p1lk071.wav
+‚îÇ      p3p1ln001.wav
+‚îÇ      p3p1ln002.wav
+‚îÇ      p3p1ln003.wav
+‚îÇ      p3p1ln004.wav
+‚îÇ      p3p1ln005.wav
+‚îÇ      p3p1ln006.wav
+‚îÇ      p3p1ln007.wav
+‚îÇ      p3p1ln008.wav
+‚îÇ      p3p1ln009.wav
+‚îÇ      p3p1ln010.wav
+‚îÇ      p3p1ln011.wav
+‚îÇ      p3p1ln012.wav
+‚îÇ      p3p1ln013.wav
+‚îÇ      p3p1ln014.wav
+‚îÇ      p3p1ln015.wav
+‚îÇ      p3p1ln016.wav
+‚îÇ      p3p1ln017.wav
+‚îÇ      p3p1ln018.wav
+‚îÇ      p3p1ln019.wav
+‚îÇ      p3p1ln020.wav
+‚îÇ      p3p1ln021.wav
+‚îÇ      p3p1ln022.wav
+‚îÇ      p3p1ln023.wav
+‚îÇ      p3p1ln024.wav
+‚îÇ      p3p1ln025.wav
+‚îÇ      p3p1ln026.wav
+‚îÇ      p3p1ln027.wav
+‚îÇ      p3p1ln028.wav
+‚îÇ      p3p1ln029.wav
+‚îÇ      p3p1ln030.wav
+‚îÇ      p3p1ln031.wav
+‚îÇ      p3p1ln032.wav
+‚îÇ      p3p1ln033.wav
+‚îÇ      p3p1ln034.wav
+‚îÇ      p3p1ln035.wav
+‚îÇ      p3p1ln036.wav
+‚îÇ      p3p1ln037.wav
+‚îÇ      p3p1ln038.wav
+‚îÇ      p3p1ln039.wav
+‚îÇ      p3p1ln040.wav
+‚îÇ      p3p1ln041.wav
+‚îÇ      p3p1ln042.wav
+‚îÇ      p3p1ln043.wav
+‚îÇ      p3p1ln044.wav
+‚îÇ      p3p1ln045.wav
+‚îÇ      p3p1ln046.wav
+‚îÇ      p3p1ln047.wav
+‚îÇ      p3p1ln048.wav
+‚îÇ      p3p1ln049.wav
+‚îÇ      p3p1ln050.wav
+‚îÇ      p3p1ln051.wav
+‚îÇ      p3p1ln052.wav
+‚îÇ      p3p1ssdb001.wav
+‚îÇ      p3p1ssdb002.wav
+‚îÇ      p3p1ssdb003.wav
+‚îÇ      p3p1ssdb004.wav
+‚îÇ      p3p1ssdb005.wav
+‚îÇ      p3p1ssdb006.wav
+‚îÇ      p3p1ssdb007.wav
+‚îÇ      p3p1ssdb008.wav
+‚îÇ      p3p1ssdb009.wav
+‚îÇ      p3p1ssdb010.wav
+‚îÇ      p3p1ssdb011.wav
+‚îÇ      p3p1ssdb012.wav
+‚îÇ      p3p1ssdb013.wav
+‚îÇ      p3p1ssdb014.wav
+‚îÇ      p3p1ssdb015.wav
+‚îÇ      p3p1ssdb016.wav
+‚îÇ      p3p1ssdb017.wav
+‚îÇ      p3p1swx001.wav
+‚îÇ      p3p1swx002.wav
+‚îÇ      p3p1swx003.wav
+‚îÇ      p3p1swx004.wav
+‚îÇ      p3p1swx005.wav
+‚îÇ      p3p1swx006.wav
+‚îÇ      p3p1swx007.wav
+‚îÇ      p3p1swx008.wav
+‚îÇ      p3p1swx009.wav
+‚îÇ      p3p1swx010.wav
+‚îÇ      p3p1swx011.wav
+‚îÇ      p3p1swx012.wav
+‚îÇ      p3p1swx013.wav
+‚îÇ      p3p1swx014.wav
+‚îÇ      p3p1swx015.wav
+‚îÇ      p3p1swx016.wav
+‚îÇ      p3p1swx017.wav
+‚îÇ      p3p1swx018.wav
+‚îÇ      p3p1swx019.wav
+‚îÇ      p3p1swx020.wav
+‚îÇ      p3p1swx021.wav
+‚îÇ      p3p1tz1001.wav
+‚îÇ      p3p1tz1002.wav
+‚îÇ      p3p1tz1003.wav
+‚îÇ      p3p1tz1004.wav
+‚îÇ      p3p1tz1005.wav
+‚îÇ      p3p1tz2001.wav
+‚îÇ      p3p1tz2002.wav
+‚îÇ      p3p1tz2003.wav
+‚îÇ      p3p1tz2004.wav
+‚îÇ      p3p1tz3001.wav
+‚îÇ      p3p1tz3002.wav
+‚îÇ      p3p1tz3003.wav
+‚îÇ      p3p1xn001.wav
+‚îÇ      p3p1xn002.wav
+‚îÇ      p3p1xn003.wav
+‚îÇ      p3p1xn004.wav
+‚îÇ      p3p1xn005.wav
+‚îÇ      p3p1xn006.wav
+‚îÇ      p3p1xn007.wav
+‚îÇ      p3p1xn008.wav
+‚îÇ      p3p1xn009.wav
+‚îÇ      p3p1xt001.wav
+‚îÇ      p3p1xt002.wav
+‚îÇ      p3p1xt003.wav
+‚îÇ      p3p1xt004.wav
+‚îÇ      p3p1xt005.wav
+‚îÇ      p3p1xt006.wav
+‚îÇ      p3p1yk001.wav
+‚îÇ      p3p1yk002.wav
+‚îÇ      plot_03_01[0].txt
+‚îÇ      
+‚îú‚îÄplot_03_02[0]
+‚îÇ      p3p2ba001.wav
+‚îÇ      p3p2ba002.wav
+‚îÇ      p3p2ba003.wav
+‚îÇ      p3p2bk1001.wav
+‚îÇ      p3p2bk1002.wav
+‚îÇ      p3p2bk1003.wav
+‚îÇ      p3p2bk1004.wav
+‚îÇ      p3p2bk1005.wav
+‚îÇ      p3p2bk1006.wav
+‚îÇ      p3p2bk1007.wav
+‚îÇ      p3p2bk2001.wav
+‚îÇ      p3p2bk2002.wav
+‚îÇ      p3p2bk2003.wav
+‚îÇ      p3p2bk2004.wav
+‚îÇ      p3p2bk2005.wav
+‚îÇ      p3p2bk2006.wav
+‚îÇ      p3p2bk2007.wav
+‚îÇ      p3p2bk2008.wav
+‚îÇ      p3p2bk3001.wav
+‚îÇ      p3p2bk3002.wav
+‚îÇ      p3p2bk3003.wav
+‚îÇ      p3p2hgl001.wav
+‚îÇ      p3p2hgl002.wav
+‚îÇ      p3p2hgl003.wav
+‚îÇ      p3p2hgl004.wav
+‚îÇ      p3p2hgl005.wav
+‚îÇ      p3p2hgl006.wav
+‚îÇ      p3p2hgl007.wav
+‚îÇ      p3p2hgl008.wav
+‚îÇ      p3p2hgl009.wav
+‚îÇ      p3p2hgl010.wav
+‚îÇ      p3p2hgl011.wav
+‚îÇ      p3p2hgl012.wav
+‚îÇ      p3p2hgl013.wav
+‚îÇ      p3p2hgl014.wav
+‚îÇ      p3p2hgl015.wav
+‚îÇ      p3p2hgl016.wav
+‚îÇ      p3p2hgl017.wav
+‚îÇ      p3p2hgl018.wav
+‚îÇ      p3p2hgl019.wav
+‚îÇ      p3p2hgl020.wav
+‚îÇ      p3p2hgl021.wav
+‚îÇ      p3p2hgl022.wav
+‚îÇ      p3p2hgl023.wav
+‚îÇ      p3p2hgl024.wav
+‚îÇ      p3p2hgl025.wav
+‚îÇ      p3p2hgl026.wav
+‚îÇ      p3p2hgl027.wav
+‚îÇ      p3p2hgl028.wav
+‚îÇ      p3p2hgl029.wav
+‚îÇ      p3p2hgl030.wav
+‚îÇ      p3p2hgl031.wav
+‚îÇ      p3p2hgl032.wav
+‚îÇ      p3p2hgl033.wav
+‚îÇ      p3p2hgl034.wav
+‚îÇ      p3p2ln001.wav
+‚îÇ      p3p2ln002.wav
+‚îÇ      p3p2ln003.wav
+‚îÇ      p3p2ln004.wav
+‚îÇ      p3p2ln005.wav
+‚îÇ      p3p2ln006.wav
+‚îÇ      p3p2ln007.wav
+‚îÇ      p3p2ln008.wav
+‚îÇ      p3p2ln009.wav
+‚îÇ      p3p2ln010.wav
+‚îÇ      p3p2ln011.wav
+‚îÇ      p3p2ln012.wav
+‚îÇ      p3p2ln013.wav
+‚îÇ      p3p2ln014.wav
+‚îÇ      p3p2ln015.wav
+‚îÇ      p3p2ln016.wav
+‚îÇ      p3p2ln017.wav
+‚îÇ      p3p2ln018.wav
+‚îÇ      p3p2ln019.wav
+‚îÇ      p3p2ln020.wav
+‚îÇ      p3p2ln021.wav
+‚îÇ      p3p2ln022.wav
+‚îÇ      p3p2ln023.wav
+‚îÇ      p3p2ln024.wav
+‚îÇ      p3p2ln025.wav
+‚îÇ      p3p2ln026.wav
+‚îÇ      p3p2ssdb001.wav
+‚îÇ      p3p2ssdb002.wav
+‚îÇ      p3p2ssdb003.wav
+‚îÇ      p3p2ssdb004.wav
+‚îÇ      p3p2ssdb005.wav
+‚îÇ      p3p2ssdb006.wav
+‚îÇ      p3p2ssdb007.wav
+‚îÇ      p3p2ssdb008.wav
+‚îÇ      p3p2ssdb009.wav
+‚îÇ      p3p2ssdb010.wav
+‚îÇ      p3p2ssdb011.wav
+‚îÇ      p3p2ssdb012.wav
+‚îÇ      p3p2ssdb013.wav
+‚îÇ      p3p2swx001.wav
+‚îÇ      p3p2swx002.wav
+‚îÇ      p3p2swx003.wav
+‚îÇ      p3p2swx004.wav
+‚îÇ      p3p2swx005.wav
+‚îÇ      p3p2swx006.wav
+‚îÇ      p3p2swx007.wav
+‚îÇ      p3p2swx008.wav
+‚îÇ      p3p2swx009.wav
+‚îÇ      p3p2swx010.wav
+‚îÇ      p3p2swx011.wav
+‚îÇ      p3p2swx012.wav
+‚îÇ      p3p2swx013.wav
+‚îÇ      p3p2swx014.wav
+‚îÇ      p3p2swx015.wav
+‚îÇ      p3p2swx016.wav
+‚îÇ      p3p2swx017.wav
+‚îÇ      p3p2sys001.wav
+‚îÇ      p3p2sys002.wav
+‚îÇ      p3p2sys003.wav
+‚îÇ      p3p2sys004.wav
+‚îÇ      p3p2sys005.wav
+‚îÇ      p3p2sys006.wav
+‚îÇ      p3p2sys007.wav
+‚îÇ      p3p2sys008.wav
+‚îÇ      p3p2sys009.wav
+‚îÇ      p3p2tiluo001.wav
+‚îÇ      p3p2tiluo002.wav
+‚îÇ      p3p2tiluo003.wav
+‚îÇ      p3p2tiluo004.wav
+‚îÇ      p3p2tiluo005.wav
+‚îÇ      p3p2tiluo006.wav
+‚îÇ      p3p2tiluo007.wav
+‚îÇ      p3p2tiluo008.wav
+‚îÇ      p3p2tiluo009.wav
+‚îÇ      p3p2tiluo010.wav
+‚îÇ      p3p2tiluo011.wav
+‚îÇ      p3p2tiluo012.wav
+‚îÇ      p3p2tiluo013.wav
+‚îÇ      p3p2tiluo014.wav
+‚îÇ      p3p2tiluo015.wav
+‚îÇ      p3p2tiluo016.wav
+‚îÇ      p3p2tiluo017.wav
+‚îÇ      p3p2tiluo018.wav
+‚îÇ      p3p2tiluo019.wav
+‚îÇ      p3p2tiluo020.wav
+‚îÇ      p3p2tiluo021.wav
+‚îÇ      p3p2tiluo022.wav
+‚îÇ      p3p2tiluo023.wav
+‚îÇ      p3p2tiluo024.wav
+‚îÇ      p3p2tiluo025.wav
+‚îÇ      p3p2tiluo026.wav
+‚îÇ      p3p2tiluo027.wav
+‚îÇ      p3p2tiluo028.wav
+‚îÇ      p3p2tiluo029.wav
+‚îÇ      p3p2tiluo030.wav
+‚îÇ      p3p2tiluo031.wav
+‚îÇ      p3p2tiluo032.wav
+‚îÇ      p3p2tiluo033.wav
+‚îÇ      p3p2tiluo034.wav
+‚îÇ      p3p2tiluo035.wav
+‚îÇ      p3p2tiluo036.wav
+‚îÇ      p3p2tiluo037.wav
+‚îÇ      p3p2tiluo038.wav
+‚îÇ      p3p2tiluo039.wav
+‚îÇ      p3p2tiluo040.wav
+‚îÇ      p3p2tiluo041.wav
+‚îÇ      p3p2tiluo042.wav
+‚îÇ      p3p2tiluo043.wav
+‚îÇ      p3p2tiluo044.wav
+‚îÇ      p3p2tiluo045.wav
+‚îÇ      p3p2tx1001.wav
+‚îÇ      p3p2tx1002.wav
+‚îÇ      p3p2tx1003.wav
+‚îÇ      p3p2tx1004.wav
+‚îÇ      p3p2tx1005.wav
+‚îÇ      p3p2tx1006.wav
+‚îÇ      p3p2tx1007.wav
+‚îÇ      p3p2tx2001.wav
+‚îÇ      p3p2tx2002.wav
+‚îÇ      p3p2tx2003.wav
+‚îÇ      p3p2tx2004.wav
+‚îÇ      p3p2tx2005.wav
+‚îÇ      p3p2tx2006.wav
+‚îÇ      p3p2tx2007.wav
+‚îÇ      p3p2tx2008.wav
+‚îÇ      p3p2xn001.wav
+‚îÇ      p3p2xn002.wav
+‚îÇ      p3p2xn003.wav
+‚îÇ      p3p2xn004.wav
+‚îÇ      p3p2xn005.wav
+‚îÇ      p3p2xn006.wav
+‚îÇ      p3p2xn007.wav
+‚îÇ      p3p2xn008.wav
+‚îÇ      p3p2xn009.wav
+‚îÇ      p3p2xn010.wav
+‚îÇ      p3p2xn011.wav
+‚îÇ      p3p2xn012.wav
+‚îÇ      p3p2xn013.wav
+‚îÇ      p3p2xn014.wav
+‚îÇ      p3p2xn015.wav
+‚îÇ      plot_03_02[0].txt
+‚îÇ      
+‚îú‚îÄplot_03_03[0]
+‚îÇ      p3p3daoshi1001.wav
+‚îÇ      p3p3daoshi1002.wav
+‚îÇ      p3p3daoshi1003.wav
+‚îÇ      p3p3daoshi1004.wav
+‚îÇ      p3p3daoshi1005.wav
+‚îÇ      p3p3daoshi1006.wav
+‚îÇ      p3p3daoshi1007.wav
+‚îÇ      p3p3daoshi1008.wav
+‚îÇ      p3p3daoshi1009.wav
+‚îÇ      p3p3daoshi2001.wav
+‚îÇ      p3p3daoshi2002.wav
+‚îÇ      p3p3daoshi2003.wav
+‚îÇ      p3p3daoshi2004.wav
+‚îÇ      p3p3daoshi2005.wav
+‚îÇ      p3p3hgl001.wav
+‚îÇ      p3p3hgl002.wav
+‚îÇ      p3p3hgl003.wav
+‚îÇ      p3p3hgl004.wav
+‚îÇ      p3p3hgl005.wav
+‚îÇ      p3p3hgl006.wav
+‚îÇ      p3p3hgl007.wav
+‚îÇ      p3p3hgl008.wav
+‚îÇ      p3p3hgl009.wav
+‚îÇ      p3p3hgl010.wav
+‚îÇ      p3p3hgl011.wav
+‚îÇ      p3p3hgl012.wav
+‚îÇ      p3p3hgl013.wav
+‚îÇ      p3p3hgl014.wav
+‚îÇ      p3p3hgl015.wav
+‚îÇ      p3p3hgl016.wav
+‚îÇ      p3p3hgl017.wav
+‚îÇ      p3p3hgl018.wav
+‚îÇ      p3p3hgl019.wav
+‚îÇ      p3p3hgl020.wav
+‚îÇ      p3p3hgl021.wav
+‚îÇ      p3p3hgl022.wav
+‚îÇ      p3p3hgl023.wav
+‚îÇ      p3p3hgl024.wav
+‚îÇ      p3p3hgl025.wav
+‚îÇ      p3p3hgl026.wav
+‚îÇ      p3p3hgl027.wav
+‚îÇ      p3p3hgl028.wav
+‚îÇ      p3p3hgl029.wav
+‚îÇ      p3p3hgl030.wav
+‚îÇ      p3p3hgl031.wav
+‚îÇ      p3p3hgl032.wav
+‚îÇ      p3p3hgl033.wav
+‚îÇ      p3p3hgl034.wav
+‚îÇ      p3p3hgl035.wav
+‚îÇ      p3p3hgl036.wav
+‚îÇ      p3p3hgl037.wav
+‚îÇ      p3p3hgl038.wav
+‚îÇ      p3p3hgl039.wav
+‚îÇ      p3p3hgl040.wav
+‚îÇ      p3p3hgl041.wav
+‚îÇ      p3p3hgl042.wav
+‚îÇ      p3p3hgl043.wav
+‚îÇ      p3p3hgl044.wav
+‚îÇ      p3p3hgl045.wav
+‚îÇ      p3p3hgl046.wav
+‚îÇ      p3p3hgl047.wav
+‚îÇ      p3p3hgl048.wav
+‚îÇ      p3p3hgl049.wav
+‚îÇ      p3p3hgl050.wav
+‚îÇ      p3p3hgl051.wav
+‚îÇ      p3p3hgl052.wav
+‚îÇ      p3p3hgl053.wav
+‚îÇ      p3p3hgl054.wav
+‚îÇ      p3p3hgl055.wav
+‚îÇ      p3p3hgl056.wav
+‚îÇ      p3p3hgl057.wav
+‚îÇ      p3p3hgl058.wav
+‚îÇ      p3p3hgl059.wav
+‚îÇ      p3p3hgl060.wav
+‚îÇ      p3p3hgl061.wav
+‚îÇ      p3p3hgl062.wav
+‚îÇ      p3p3jiefei001.wav
+‚îÇ      p3p3jiefei002.wav
+‚îÇ      p3p3jiefei003.wav
+‚îÇ      p3p3jiefei004.wav
+‚îÇ      p3p3jiefei005.wav
+‚îÇ      p3p3jiefei006.wav
+‚îÇ      p3p3jiefei007.wav
+‚îÇ      p3p3jiefei008.wav
+‚îÇ      p3p3jiefei009.wav
+‚îÇ      p3p3jiefei010.wav
+‚îÇ      p3p3lk001.wav
+‚îÇ      p3p3lk002.wav
+‚îÇ      p3p3lk003.wav
+‚îÇ      p3p3lk004.wav
+‚îÇ      p3p3lk005.wav
+‚îÇ      p3p3lk006.wav
+‚îÇ      p3p3lk007.wav
+‚îÇ      p3p3ln001.wav
+‚îÇ      p3p3ln002.wav
+‚îÇ      p3p3ln003.wav
+‚îÇ      p3p3ln004.wav
+‚îÇ      p3p3ln005.wav
+‚îÇ      p3p3ln006.wav
+‚îÇ      p3p3ln007.wav
+‚îÇ      p3p3ln008.wav
+‚îÇ      p3p3ln009.wav
+‚îÇ      p3p3ln010.wav
+‚îÇ      p3p3ln011.wav
+‚îÇ      p3p3ln012.wav
+‚îÇ      p3p3ln013.wav
+‚îÇ      p3p3ln014.wav
+‚îÇ      p3p3ln015.wav
+‚îÇ      p3p3ln016.wav
+‚îÇ      p3p3ln017.wav
+‚îÇ      p3p3ln018.wav
+‚îÇ      p3p3ln019.wav
+‚îÇ      p3p3ln020.wav
+‚îÇ      p3p3ln021.wav
+‚îÇ      p3p3ln022.wav
+‚îÇ      p3p3ln023.wav
+‚îÇ      p3p3ln024.wav
+‚îÇ      p3p3ln025.wav
+‚îÇ      p3p3ln026.wav
+‚îÇ      p3p3ln027.wav
+‚îÇ      p3p3ln028.wav
+‚îÇ      p3p3ln029.wav
+‚îÇ      p3p3ln030.wav
+‚îÇ      p3p3ln031.wav
+‚îÇ      p3p3ln032.wav
+‚îÇ      p3p3ln033.wav
+‚îÇ      p3p3ln034.wav
+‚îÇ      p3p3ln035.wav
+‚îÇ      p3p3ln036.wav
+‚îÇ      p3p3ln037.wav
+‚îÇ      p3p3ln038.wav
+‚îÇ      p3p3ssdb001.wav
+‚îÇ      p3p3ssdb002.wav
+‚îÇ      p3p3ssdb003.wav
+‚îÇ      p3p3ssdb004.wav
+‚îÇ      p3p3ssdb005.wav
+‚îÇ      p3p3ssdb006.wav
+‚îÇ      p3p3ssdb007.wav
+‚îÇ      p3p3ssdb008.wav
+‚îÇ      p3p3ssdb009.wav
+‚îÇ      p3p3ssdb010.wav
+‚îÇ      p3p3ssdb011.wav
+‚îÇ      p3p3ssdb012.wav
+‚îÇ      p3p3ssdb013.wav
+‚îÇ      p3p3ssdb014.wav
+‚îÇ      p3p3ssdb015.wav
+‚îÇ      p3p3ssdb016.wav
+‚îÇ      p3p3ssdb017.wav
+‚îÇ      p3p3ssdb018.wav
+‚îÇ      p3p3ssdb019.wav
+‚îÇ      p3p3ssdb020.wav
+‚îÇ      p3p3ssdb021.wav
+‚îÇ      p3p3ssdb022.wav
+‚îÇ      p3p3ssdb023.wav
+‚îÇ      p3p3ssdb024.wav
+‚îÇ      p3p3ssdb025.wav
+‚îÇ      p3p3ssdb026.wav
+‚îÇ      p3p3ssdb027.wav
+‚îÇ      p3p3ssdb028.wav
+‚îÇ      p3p3ssdb029.wav
+‚îÇ      p3p3ssdb030.wav
+‚îÇ      p3p3ssdb031.wav
+‚îÇ      p3p3ssdb032.wav
+‚îÇ      p3p3ssdb033.wav
+‚îÇ      p3p3ssdb034.wav
+‚îÇ      p3p3ssdb035.wav
+‚îÇ      p3p3ssdb036.wav
+‚îÇ      p3p3ssdb037.wav
+‚îÇ      p3p3ssdb038.wav
+‚îÇ      p3p3ssdb039.wav
+‚îÇ      p3p3ssdb040.wav
+‚îÇ      p3p3tiluo001.wav
+‚îÇ      p3p3tiluo002.wav
+‚îÇ      p3p3tiluo003.wav
+‚îÇ      p3p3tiluo004.wav
+‚îÇ      p3p3tiluo005.wav
+‚îÇ      p3p3tiluo006.wav
+‚îÇ      p3p3tiluo007.wav
+‚îÇ      p3p3tiluo008.wav
+‚îÇ      p3p3tiluo009.wav
+‚îÇ      p3p3tiluo010.wav
+‚îÇ      p3p3tiluo011.wav
+‚îÇ      p3p3tiluo012.wav
+‚îÇ      p3p3tiluo013.wav
+‚îÇ      p3p3tiluo014.wav
+‚îÇ      p3p3tiluo015.wav
+‚îÇ      p3p3tiluo016.wav
+‚îÇ      p3p3tiluo017.wav
+‚îÇ      p3p3tiluo018.wav
+‚îÇ      p3p3tiluo019.wav
+‚îÇ      p3p3tiluo020.wav
+‚îÇ      p3p3tiluo021.wav
+‚îÇ      p3p3tiluo022.wav
+‚îÇ      p3p3tiluo023.wav
+‚îÇ      p3p3tiluo024.wav
+‚îÇ      p3p3tiluo025.wav
+‚îÇ      p3p3tiluo026.wav
+‚îÇ      p3p3tiluo027.wav
+‚îÇ      p3p3tiluo028.wav
+‚îÇ      p3p3tiluo029.wav
+‚îÇ      p3p3tiluo030.wav
+‚îÇ      p3p3tiluo031.wav
+‚îÇ      p3p3tiluo032.wav
+‚îÇ      p3p3tiluo033.wav
+‚îÇ      p3p3tiluo034.wav
+‚îÇ      p3p3tiluo035.wav
+‚îÇ      p3p3tiluo036.wav
+‚îÇ      p3p3tiluo037.wav
+‚îÇ      p3p3tiluo038.wav
+‚îÇ      p3p3tiluo039.wav
+‚îÇ      p3p3tiluo040.wav
+‚îÇ      p3p3tiluo041.wav
+‚îÇ      p3p3tiluo042.wav
+‚îÇ      p3p3tiluo043.wav
+‚îÇ      p3p3tiluo044.wav
+‚îÇ      p3p3tiluo045.wav
+‚îÇ      p3p3tiluo046.wav
+‚îÇ      p3p3tiluo047.wav
+‚îÇ      p3p3tiluo048.wav
+‚îÇ      p3p3tiluo049.wav
+‚îÇ      p3p3tiluo050.wav
+‚îÇ      p3p3tiluo051.wav
+‚îÇ      p3p3tiluo052.wav
+‚îÇ      p3p3tiluo053.wav
+‚îÇ      p3p3tiluo054.wav
+‚îÇ      p3p3tiluo055.wav
+‚îÇ      p3p3tiluo056.wav
+‚îÇ      p3p3tiluo057.wav
+‚îÇ      p3p3tiluo058.wav
+‚îÇ      p3p3tiluo059.wav
+‚îÇ      p3p3tiluo060.wav
+‚îÇ      p3p3tiluo061.wav
+‚îÇ      p3p3tiluo062.wav
+‚îÇ      p3p3tiluo063.wav
+‚îÇ      p3p3tx1001.wav
+‚îÇ      p3p3tx1002.wav
+‚îÇ      p3p3tx1003.wav
+‚îÇ      p3p3tx2001.wav
+‚îÇ      p3p3tx2002.wav
+‚îÇ      p3p3tx2003.wav
+‚îÇ      p3p3tx2004.wav
+‚îÇ      p3p3tx2005.wav
+‚îÇ      p3p3tx2006.wav
+‚îÇ      p3p3tx2007.wav
+‚îÇ      p3p3tx2008.wav
+‚îÇ      p3p3xn001.wav
+‚îÇ      p3p3xn002.wav
+‚îÇ      plot_03_03[0].txt
+‚îÇ      
+‚îú‚îÄplot_03_04[0]
+‚îÇ      p3p4hgl001.wav
+‚îÇ      p3p4hgl002.wav
+‚îÇ      p3p4hgl003.wav
+‚îÇ      p3p4hgl004.wav
+‚îÇ      p3p4hgl005.wav
+‚îÇ      p3p4hgl006.wav
+‚îÇ      p3p4hgl007.wav
+‚îÇ      p3p4hgl008.wav
+‚îÇ      p3p4hgl009.wav
+‚îÇ      p3p4hgl010.wav
+‚îÇ      p3p4hgl0100.wav
+‚îÇ      p3p4hgl0101.wav
+‚îÇ      p3p4hgl0102.wav
+‚îÇ      p3p4hgl0103.wav
+‚îÇ      p3p4hgl0104.wav
+‚îÇ      p3p4hgl0105.wav
+‚îÇ      p3p4hgl0106.wav
+‚îÇ      p3p4hgl0107.wav
+‚îÇ      p3p4hgl0108.wav
+‚îÇ      p3p4hgl0109.wav
+‚îÇ      p3p4hgl011.wav
+‚îÇ      p3p4hgl012.wav
+‚îÇ      p3p4hgl013.wav
+‚îÇ      p3p4hgl014.wav
+‚îÇ      p3p4hgl015.wav
+‚îÇ      p3p4hgl016.wav
+‚îÇ      p3p4hgl017.wav
+‚îÇ      p3p4hgl018.wav
+‚îÇ      p3p4hgl019.wav
+‚îÇ      p3p4hgl020.wav
+‚îÇ      p3p4hgl021.wav
+‚îÇ      p3p4hgl022.wav
+‚îÇ      p3p4hgl023.wav
+‚îÇ      p3p4hgl024.wav
+‚îÇ      p3p4hgl025.wav
+‚îÇ      p3p4hgl026.wav
+‚îÇ      p3p4hgl027.wav
+‚îÇ      p3p4hgl028.wav
+‚îÇ      p3p4hgl029.wav
+‚îÇ      p3p4hgl030.wav
+‚îÇ      p3p4hgl031.wav
+‚îÇ      p3p4hgl032.wav
+‚îÇ      p3p4hgl033.wav
+‚îÇ      p3p4hgl034.wav
+‚îÇ      p3p4hgl035.wav
+‚îÇ      p3p4hgl036.wav
+‚îÇ      p3p4hgl037.wav
+‚îÇ      p3p4hgl038.wav
+‚îÇ      p3p4hgl039.wav
+‚îÇ      p3p4hgl040.wav
+‚îÇ      p3p4hgl041.wav
+‚îÇ      p3p4hgl042.wav
+‚îÇ      p3p4hgl043.wav
+‚îÇ      p3p4hgl044.wav
+‚îÇ      p3p4hgl045.wav
+‚îÇ      p3p4hgl046.wav
+‚îÇ      p3p4hgl047.wav
+‚îÇ      p3p4hgl048.wav
+‚îÇ      p3p4hgl049.wav
+‚îÇ      p3p4hgl050.wav
+‚îÇ      p3p4hgl051.wav
+‚îÇ      p3p4hgl052.wav
+‚îÇ      p3p4hgl053.wav
+‚îÇ      p3p4hgl054.wav
+‚îÇ      p3p4hgl055.wav
+‚îÇ      p3p4hgl056.wav
+‚îÇ      p3p4hgl057.wav
+‚îÇ      p3p4hgl058.wav
+‚îÇ      p3p4hgl059.wav
+‚îÇ      p3p4hgl060.wav
+‚îÇ      p3p4hgl061.wav
+‚îÇ      p3p4hgl062.wav
+‚îÇ      p3p4hgl063.wav
+‚îÇ      p3p4hgl064.wav
+‚îÇ      p3p4hgl065.wav
+‚îÇ      p3p4hgl066.wav
+‚îÇ      p3p4hgl067.wav
+‚îÇ      p3p4hgl068.wav
+‚îÇ      p3p4hgl069.wav
+‚îÇ      p3p4hgl070.wav
+‚îÇ      p3p4hgl071.wav
+‚îÇ      p3p4hgl072.wav
+‚îÇ      p3p4hgl073.wav
+‚îÇ      p3p4hgl074.wav
+‚îÇ      p3p4hgl075.wav
+‚îÇ      p3p4hgl076.wav
+‚îÇ      p3p4hgl077.wav
+‚îÇ      p3p4hgl078.wav
+‚îÇ      p3p4hgl079.wav
+‚îÇ      p3p4hgl080.wav
+‚îÇ      p3p4hgl081.wav
+‚îÇ      p3p4hgl082.wav
+‚îÇ      p3p4hgl083.wav
+‚îÇ      p3p4hgl084.wav
+‚îÇ      p3p4hgl085.wav
+‚îÇ      p3p4hgl086.wav
+‚îÇ      p3p4hgl087.wav
+‚îÇ      p3p4hgl088.wav
+‚îÇ      p3p4hgl089.wav
+‚îÇ      p3p4hgl090.wav
+‚îÇ      p3p4hgl091.wav
+‚îÇ      p3p4hgl092.wav
+‚îÇ      p3p4hgl093.wav
+‚îÇ      p3p4hgl094.wav
+‚îÇ      p3p4hgl095.wav
+‚îÇ      p3p4hgl096.wav
+‚îÇ      p3p4hgl097.wav
+‚îÇ      p3p4hgl098.wav
+‚îÇ      p3p4hgl099.wav
+‚îÇ      p3p4jiefei001.wav
+‚îÇ      p3p4jiefei002.wav
+‚îÇ      p3p4jiefei003.wav
+‚îÇ      p3p4jiefei004.wav
+‚îÇ      p3p4jiefei005.wav
+‚îÇ      p3p4sfy001.wav
+‚îÇ      p3p4sfy002.wav
+‚îÇ      p3p4sfy003.wav
+‚îÇ      p3p4sfy004.wav
+‚îÇ      p3p4sfy005.wav
+‚îÇ      p3p4sfy006.wav
+‚îÇ      p3p4shixisheng1001.wav
+‚îÇ      p3p4shixisheng1002.wav
+‚îÇ      p3p4shixisheng1003.wav
+‚îÇ      p3p4shixisheng1004.wav
+‚îÇ      p3p4shixisheng1005.wav
+‚îÇ      p3p4shixisheng1006.wav
+‚îÇ      p3p4shixisheng1007.wav
+‚îÇ      p3p4shixisheng1008.wav
+‚îÇ      p3p4shixisheng1009.wav
+‚îÇ      p3p4shixisheng1010.wav
+‚îÇ      p3p4shixisheng1011.wav
+‚îÇ      p3p4shixisheng1012.wav
+‚îÇ      p3p4shixisheng1013.wav
+‚îÇ      p3p4shixisheng1014.wav
+‚îÇ      p3p4shixisheng1015.wav
+‚îÇ      p3p4shixisheng1016.wav
+‚îÇ      p3p4shixisheng1017.wav
+‚îÇ      p3p4shixisheng1018.wav
+‚îÇ      p3p4shixisheng2001.wav
+‚îÇ      p3p4shixisheng2002.wav
+‚îÇ      p3p4shixisheng2003.wav
+‚îÇ      p3p4shixisheng2004.wav
+‚îÇ      p3p4shixisheng2005.wav
+‚îÇ      p3p4shixisheng2006.wav
+‚îÇ      p3p4shixisheng2007.wav
+‚îÇ      p3p4shixisheng2008.wav
+‚îÇ      p3p4shixisheng2009.wav
+‚îÇ      p3p4shixisheng2010.wav
+‚îÇ      p3p4shixisheng2011.wav
+‚îÇ      p3p4shixisheng2012.wav
+‚îÇ      p3p4shixisheng2013.wav
+‚îÇ      p3p4shixisheng2014.wav
+‚îÇ      p3p4shixisheng2015.wav
+‚îÇ      p3p4shixisheng2016.wav
+‚îÇ      p3p4shixisheng2017.wav
+‚îÇ      p3p4shixisheng2018.wav
+‚îÇ      p3p4shixisheng2019.wav
+‚îÇ      p3p4shixisheng2020.wav
+‚îÇ      p3p4shixisheng2021.wav
+‚îÇ      p3p4shixisheng2022.wav
+‚îÇ      p3p4shixisheng2023.wav
+‚îÇ      p3p4ssdb001.wav
+‚îÇ      p3p4ssdb002.wav
+‚îÇ      p3p4ssdb003.wav
+‚îÇ      p3p4ssdb004.wav
+‚îÇ      p3p4ssdb005.wav
+‚îÇ      p3p4ssdb006.wav
+‚îÇ      p3p4ssdb007.wav
+‚îÇ      p3p4ssdb008.wav
+‚îÇ      p3p4ssdb009.wav
+‚îÇ      p3p4ssdb010.wav
+‚îÇ      p3p4ssdb011.wav
+‚îÇ      p3p4ssdb012.wav
+‚îÇ      p3p4ssdb013.wav
+‚îÇ      p3p4ssdb014.wav
+‚îÇ      p3p4ssdb015.wav
+‚îÇ      p3p4ssdb016.wav
+‚îÇ      p3p4ssdb017.wav
+‚îÇ      p3p4ssdb018.wav
+‚îÇ      p3p4ssdb019.wav
+‚îÇ      p3p4ssdb020.wav
+‚îÇ      p3p4ssdb021.wav
+‚îÇ      p3p4ssdb022.wav
+‚îÇ      p3p4ssdb023.wav
+‚îÇ      p3p4ssdb024.wav
+‚îÇ      p3p4ssdb025.wav
+‚îÇ      p3p4ssdb026.wav
+‚îÇ      p3p4ssdb027.wav
+‚îÇ      p3p4ssdb028.wav
+‚îÇ      p3p4ssdb029.wav
+‚îÇ      p3p4ssdb030.wav
+‚îÇ      p3p4ssdb031.wav
+‚îÇ      p3p4ssdb032.wav
+‚îÇ      p3p4ssdb033.wav
+‚îÇ      p3p4ssdb034.wav
+‚îÇ      p3p4ssdb035.wav
+‚îÇ      p3p4ssdb036.wav
+‚îÇ      p3p4tiluo001.wav
+‚îÇ      p3p4tiluo002.wav
+‚îÇ      p3p4tiluo003.wav
+‚îÇ      p3p4tiluo004.wav
+‚îÇ      p3p4tiluo005.wav
+‚îÇ      p3p4tiluo006.wav
+‚îÇ      p3p4tiluo007.wav
+‚îÇ      p3p4tiluo008.wav
+‚îÇ      p3p4tiluo009.wav
+‚îÇ      p3p4tiluo010.wav
+‚îÇ      p3p4tiluo011.wav
+‚îÇ      p3p4tiluo012.wav
+‚îÇ      p3p4tiluo013.wav
+‚îÇ      p3p4tiluo014.wav
+‚îÇ      p3p4tiluo015.wav
+‚îÇ      p3p4tiluo016.wav
+‚îÇ      p3p4tiluo017.wav
+‚îÇ      p3p4tiluo018.wav
+‚îÇ      p3p4tiluo019.wav
+‚îÇ      p3p4tiluo020.wav
+‚îÇ      p3p4tiluo021.wav
+‚îÇ      p3p4tiluo022.wav
+‚îÇ      p3p4tiluo023.wav
+‚îÇ      p3p4tiluo024.wav
+‚îÇ      p3p4tiluo025.wav
+‚îÇ      p3p4tiluo026.wav
+‚îÇ      p3p4tiluo027.wav
+‚îÇ      p3p4tiluo028.wav
+‚îÇ      p3p4tiluo029.wav
+‚îÇ      p3p4tiluo030.wav
+‚îÇ      p3p4tiluo031.wav
+‚îÇ      p3p4tiluo032.wav
+‚îÇ      p3p4tiluo033.wav
+‚îÇ      p3p4tiluo034.wav
+‚îÇ      p3p4tiluo035.wav
+‚îÇ      p3p4tiluo036.wav
+‚îÇ      p3p4tiluo037.wav
+‚îÇ      p3p4tiluo038.wav
+‚îÇ      p3p4tiluo039.wav
+‚îÇ      p3p4tiluo040.wav
+‚îÇ      p3p4tiluo041.wav
+‚îÇ      p3p4tiluo042.wav
+‚îÇ      p3p4tiluo043.wav
+‚îÇ      p3p4xn001.wav
+‚îÇ      p3p4xn002.wav
+‚îÇ      p3p4xn003.wav
+‚îÇ      p3p4xn004.wav
+‚îÇ      p3p4xn005.wav
+‚îÇ      p3p4xn006.wav
+‚îÇ      p3p4xn007.wav
+‚îÇ      p3p4xn008.wav
+‚îÇ      p3p4xn009.wav
+‚îÇ      p3p4xn010.wav
+‚îÇ      p3p4xn011.wav
+‚îÇ      p3p4xn012.wav
+‚îÇ      p3p4xn013.wav
+‚îÇ      p3p4xn014.wav
+‚îÇ      p3p4xn015.wav
+‚îÇ      p3p4xn016.wav
+‚îÇ      p3p4xn017.wav
+‚îÇ      p3p4xn018.wav
+‚îÇ      p3p4xn019.wav
+‚îÇ      p3p4xn020.wav
+‚îÇ      p3p4xn021.wav
+‚îÇ      p3p4xn022.wav
+‚îÇ      p3p4xn023.wav
+‚îÇ      p3p4xn024.wav
+‚îÇ      plot_03_04[0].txt
+‚îÇ      
+‚îú‚îÄplot_03_05[0]
+‚îÇ      p3p5hgl001.wav
+‚îÇ      p3p5hgl002.wav
+‚îÇ      p3p5hgl003.wav
+‚îÇ      p3p5hgl004.wav
+‚îÇ      p3p5hgl005.wav
+‚îÇ      p3p5hgl006.wav
+‚îÇ      p3p5hgl007.wav
+‚îÇ      p3p5hgl008.wav
+‚îÇ      p3p5hgl009.wav
+‚îÇ      p3p5hgl010.wav
+‚îÇ      p3p5hgl011.wav
+‚îÇ      p3p5hgl012.wav
+‚îÇ      p3p5hgl013.wav
+‚îÇ      p3p5hgl014.wav
+‚îÇ      p3p5hgl015.wav
+‚îÇ      p3p5hgl016.wav
+‚îÇ      p3p5hgl017.wav
+‚îÇ      p3p5hgl018.wav
+‚îÇ      p3p5hgl019.wav
+‚îÇ      p3p5hgl020.wav
+‚îÇ      p3p5hgl021.wav
+‚îÇ      p3p5hgl022.wav
+‚îÇ      p3p5hgl023.wav
+‚îÇ      p3p5hgl024.wav
+‚îÇ      p3p5hgl025.wav
+‚îÇ      p3p5hgl026.wav
+‚îÇ      p3p5hgl027.wav
+‚îÇ      p3p5hgl028.wav
+‚îÇ      p3p5hgl029.wav
+‚îÇ      p3p5hgl030.wav
+‚îÇ      p3p5hgl031.wav
+‚îÇ      p3p5hgl032.wav
+‚îÇ      p3p5jdjl001.wav
+‚îÇ      p3p5jdjl002.wav
+‚îÇ      p3p5jdjl003.wav
+‚îÇ      p3p5jdjl004.wav
+‚îÇ      p3p5jdjl005.wav
+‚îÇ      p3p5jdjl006.wav
+‚îÇ      p3p5jdjl007.wav
+‚îÇ      p3p5jdjl008.wav
+‚îÇ      p3p5jdjl009.wav
+‚îÇ      p3p5jdjl010.wav
+‚îÇ      p3p5jdjl011.wav
+‚îÇ      p3p5jdjl012.wav
+‚îÇ      p3p5jdjl013.wav
+‚îÇ      p3p5jdjl014.wav
+‚îÇ      p3p5jdjl015.wav
+‚îÇ      p3p5jdjl016.wav
+‚îÇ      p3p5jdjl017.wav
+‚îÇ      p3p5jdjl018.wav
+‚îÇ      p3p5jdjl019.wav
+‚îÇ      p3p5jdjl020.wav
+‚îÇ      p3p5ln001.wav
+‚îÇ      p3p5ln002.wav
+‚îÇ      p3p5ln003.wav
+‚îÇ      p3p5ln004.wav
+‚îÇ      p3p5ln005.wav
+‚îÇ      p3p5ln006.wav
+‚îÇ      p3p5ln007.wav
+‚îÇ      p3p5ln008.wav
+‚îÇ      p3p5ln009.wav
+‚îÇ      p3p5ln010.wav
+‚îÇ      p3p5ln011.wav
+‚îÇ      p3p5ln012.wav
+‚îÇ      p3p5ln013.wav
+‚îÇ      p3p5ln014.wav
+‚îÇ      p3p5ln015.wav
+‚îÇ      p3p5ln016.wav
+‚îÇ      p3p5ln017.wav
+‚îÇ      p3p5ln018.wav
+‚îÇ      p3p5ln019.wav
+‚îÇ      p3p5ln020.wav
+‚îÇ      p3p5ln021.wav
+‚îÇ      p3p5ln022.wav
+‚îÇ      p3p5ln023.wav
+‚îÇ      p3p5ln024.wav
+‚îÇ      p3p5ln025.wav
+‚îÇ      p3p5ln026.wav
+‚îÇ      p3p5ln027.wav
+‚îÇ      p3p5ln028.wav
+‚îÇ      p3p5ln029.wav
+‚îÇ      p3p5ln030.wav
+‚îÇ      p3p5ln031.wav
+‚îÇ      p3p5ln032.wav
+‚îÇ      p3p5ln033.wav
+‚îÇ      p3p5ln034.wav
+‚îÇ      p3p5ln035.wav
+‚îÇ      p3p5ln036.wav
+‚îÇ      p3p5ln037.wav
+‚îÇ      p3p5ln038.wav
+‚îÇ      p3p5ln039.wav
+‚îÇ      p3p5ln040.wav
+‚îÇ      p3p5ln041.wav
+‚îÇ      p3p5ln042.wav
+‚îÇ      p3p5ln043.wav
+‚îÇ      p3p5ln044.wav
+‚îÇ      p3p5ln045.wav
+‚îÇ      p3p5ln046.wav
+‚îÇ      p3p5ln047.wav
+‚îÇ      p3p5ln048.wav
+‚îÇ      p3p5ln049.wav
+‚îÇ      p3p5ln050.wav
+‚îÇ      p3p5ln051.wav
+‚îÇ      p3p5ln052.wav
+‚îÇ      p3p5swx001.wav
+‚îÇ      p3p5swx002.wav
+‚îÇ      p3p5swx003.wav
+‚îÇ      p3p5swx004.wav
+‚îÇ      p3p5swx005.wav
+‚îÇ      p3p5swx006.wav
+‚îÇ      p3p5swx007.wav
+‚îÇ      p3p5swx008.wav
+‚îÇ      p3p5swx009.wav
+‚îÇ      p3p5swx010.wav
+‚îÇ      p3p5swx011.wav
+‚îÇ      p3p5swx012.wav
+‚îÇ      p3p5swx013.wav
+‚îÇ      p3p5tiluo001.wav
+‚îÇ      p3p5tiluo002.wav
+‚îÇ      p3p5tiluo003.wav
+‚îÇ      p3p5tiluo004.wav
+‚îÇ      p3p5tiluo005.wav
+‚îÇ      p3p5tiluo006.wav
+‚îÇ      p3p5tiluo007.wav
+‚îÇ      p3p5tiluo008.wav
+‚îÇ      p3p5tiluo009.wav
+‚îÇ      p3p5tiluo010.wav
+‚îÇ      p3p5tiluo011.wav
+‚îÇ      p3p5tiluo012.wav
+‚îÇ      p3p5tiluo013.wav
+‚îÇ      p3p5tiluo014.wav
+‚îÇ      p3p5tiluo015.wav
+‚îÇ      p3p5tiluo016.wav
+‚îÇ      p3p5tiluo017.wav
+‚îÇ      p3p5tx1001.wav
+‚îÇ      p3p5tx1002.wav
+‚îÇ      p3p5tx1003.wav
+‚îÇ      p3p5tx1004.wav
+‚îÇ      p3p5tx1005.wav
+‚îÇ      p3p5tx1006.wav
+‚îÇ      p3p5tx1007.wav
+‚îÇ      p3p5tx1008.wav
+‚îÇ      p3p5tx1009.wav
+‚îÇ      p3p5tx1010.wav
+‚îÇ      p3p5tx1011.wav
+‚îÇ      p3p5tx1012.wav
+‚îÇ      p3p5tx1013.wav
+‚îÇ      p3p5tx1014.wav
+‚îÇ      p3p5tx1015.wav
+‚îÇ      p3p5tx1016.wav
+‚îÇ      p3p5tx1017.wav
+‚îÇ      p3p5tx1018.wav
+‚îÇ      p3p5tx1019.wav
+‚îÇ      p3p5tx1020.wav
+‚îÇ      p3p5tx2001.wav
+‚îÇ      p3p5tx2002.wav
+‚îÇ      p3p5tx2003.wav
+‚îÇ      p3p5tx2004.wav
+‚îÇ      p3p5tx2005.wav
+‚îÇ      p3p5tx2006.wav
+‚îÇ      p3p5tx2007.wav
+‚îÇ      p3p5tx2008.wav
+‚îÇ      p3p5tx2009.wav
+‚îÇ      p3p5tx2010.wav
+‚îÇ      p3p5tx2011.wav
+‚îÇ      p3p5tx2012.wav
+‚îÇ      p3p5tx2013.wav
+‚îÇ      p3p5tx2014.wav
+‚îÇ      p3p5tx2015.wav
+‚îÇ      p3p5tx2016.wav
+‚îÇ      p3p5tx2017.wav
+‚îÇ      p3p5tx2018.wav
+‚îÇ      p3p5tx2019.wav
+‚îÇ      p3p5tx2020.wav
+‚îÇ      p3p5tx2021.wav
+‚îÇ      p3p5tx2022.wav
+‚îÇ      p3p5tx2023.wav
+‚îÇ      p3p5tx2024.wav
+‚îÇ      p3p5tx2025.wav
+‚îÇ      p3p5tx2026.wav
+‚îÇ      p3p5tx2027.wav
+‚îÇ      p3p5tx2028.wav
+‚îÇ      p3p5tx2029.wav
+‚îÇ      p3p5tx2030.wav
+‚îÇ      p3p5tx2031.wav
+‚îÇ      p3p5tx2032.wav
+‚îÇ      p3p5tx2033.wav
+‚îÇ      p3p5wndb001.wav
+‚îÇ      p3p5wndb002.wav
+‚îÇ      p3p5wndb003.wav
+‚îÇ      p3p5wndb004.wav
+‚îÇ      p3p5wndb005.wav
+‚îÇ      p3p5wndb006.wav
+‚îÇ      p3p5wndb007.wav
+‚îÇ      p3p5wndb008.wav
+‚îÇ      p3p5wndb009.wav
+‚îÇ      p3p5wndb010.wav
+‚îÇ      p3p5wndb011.wav
+‚îÇ      p3p5wndb012.wav
+‚îÇ      p3p5wndb013.wav
+‚îÇ      p3p5wndb014.wav
+‚îÇ      p3p5wndb015.wav
+‚îÇ      plot_03_05[0].txt
+‚îÇ      
+‚îú‚îÄplot_03_06[0]
+‚îÇ      p3p6hgl001.wav
+‚îÇ      p3p6hgl002.wav
+‚îÇ      p3p6hgl003.wav
+‚îÇ      p3p6hgl004.wav
+‚îÇ      p3p6hgl005.wav
+‚îÇ      p3p6hgl006.wav
+‚îÇ      p3p6hgl007.wav
+‚îÇ      p3p6hgl008.wav
+‚îÇ      p3p6hgl009.wav
+‚îÇ      p3p6hgl010.wav
+‚îÇ      p3p6hgl011.wav
+‚îÇ      p3p6hgl012.wav
+‚îÇ      p3p6hgl013.wav
+‚îÇ      p3p6hgl014.wav
+‚îÇ      p3p6hgl015.wav
+‚îÇ      p3p6hgl016.wav
+‚îÇ      p3p6hgl017.wav
+‚îÇ      p3p6hgl018.wav
+‚îÇ      p3p6hgl019.wav
+‚îÇ      p3p6hgl020.wav
+‚îÇ      p3p6hgl021.wav
+‚îÇ      p3p6hgl022.wav
+‚îÇ      p3p6hgl023.wav
+‚îÇ      p3p6hgl024.wav
+‚îÇ      p3p6hgl025.wav
+‚îÇ      p3p6hgl026.wav
+‚îÇ      p3p6hgl027.wav
+‚îÇ      p3p6hgl028.wav
+‚îÇ      p3p6hgl029.wav
+‚îÇ      p3p6hgl030.wav
+‚îÇ      p3p6hgl031.wav
+‚îÇ      p3p6hgl032.wav
+‚îÇ      p3p6hgl033.wav
+‚îÇ      p3p6hgl034.wav
+‚îÇ      p3p6hgl035.wav
+‚îÇ      p3p6hgl036.wav
+‚îÇ      p3p6hgl037.wav
+‚îÇ      p3p6hgl038.wav
+‚îÇ      p3p6hgl039.wav
+‚îÇ      p3p6hgl040.wav
+‚îÇ      p3p6hgl041.wav
+‚îÇ      p3p6hgl042.wav
+‚îÇ      p3p6hgl043.wav
+‚îÇ      p3p6hgl044.wav
+‚îÇ      p3p6hgl045.wav
+‚îÇ      p3p6hgl046.wav
+‚îÇ      p3p6hgl047.wav
+‚îÇ      p3p6hgl048.wav
+‚îÇ      p3p6hgl049.wav
+‚îÇ      p3p6hgl050.wav
+‚îÇ      p3p6hgl051.wav
+‚îÇ      p3p6hgl052.wav
+‚îÇ      p3p6hgl053.wav
+‚îÇ      p3p6hgl054.wav
+‚îÇ      p3p6hgl055.wav
+‚îÇ      p3p6hgl056.wav
+‚îÇ      p3p6hgl057.wav
+‚îÇ      p3p6hgl058.wav
+‚îÇ      p3p6hgl059.wav
+‚îÇ      p3p6hgl060.wav
+‚îÇ      p3p6hgl061.wav
+‚îÇ      p3p6hgl062.wav
+‚îÇ      p3p6hgl063.wav
+‚îÇ      p3p6hgl064.wav
+‚îÇ      p3p6hgl065.wav
+‚îÇ      p3p6hgl066.wav
+‚îÇ      p3p6hgl067.wav
+‚îÇ      p3p6hgl068.wav
+‚îÇ      p3p6hgl069.wav
+‚îÇ      p3p6hgl070.wav
+‚îÇ      p3p6hgl071.wav
+‚îÇ      p3p6hgl072.wav
+‚îÇ      p3p6hgl073.wav
+‚îÇ      p3p6hgl074.wav
+‚îÇ      p3p6hgl075.wav
+‚îÇ      p3p6hgl076.wav
+‚îÇ      p3p6hgl077.wav
+‚îÇ      p3p6hgl078.wav
+‚îÇ      p3p6hgl079.wav
+‚îÇ      p3p6hgl080.wav
+‚îÇ      p3p6hgl081.wav
+‚îÇ      p3p6hgl082.wav
+‚îÇ      p3p6ln001.wav
+‚îÇ      p3p6ln002.wav
+‚îÇ      p3p6ln003.wav
+‚îÇ      p3p6ln004.wav
+‚îÇ      p3p6ln005.wav
+‚îÇ      p3p6ln006.wav
+‚îÇ      p3p6ln007.wav
+‚îÇ      p3p6ln008.wav
+‚îÇ      p3p6ln009.wav
+‚îÇ      p3p6ln010.wav
+‚îÇ      p3p6ln011.wav
+‚îÇ      p3p6ln012.wav
+‚îÇ      p3p6mishushi001.wav
+‚îÇ      p3p6mishushi002.wav
+‚îÇ      p3p6mishushi003.wav
+‚îÇ      p3p6mishushi004.wav
+‚îÇ      p3p6mishushi005.wav
+‚îÇ      p3p6mishushi006.wav
+‚îÇ      p3p6mishushi007.wav
+‚îÇ      p3p6mishushi008.wav
+‚îÇ      p3p6mishushi009.wav
+‚îÇ      p3p6mishushi010.wav
+‚îÇ      p3p6mishushi011.wav
+‚îÇ      p3p6mishushi012.wav
+‚îÇ      p3p6mishushi013.wav
+‚îÇ      p3p6mishushi014.wav
+‚îÇ      p3p6mishushi015.wav
+‚îÇ      p3p6mishushi016.wav
+‚îÇ      p3p6mishushi017.wav
+‚îÇ      p3p6mishushi018.wav
+‚îÇ      p3p6mishushi019.wav
+‚îÇ      p3p6mishushi020.wav
+‚îÇ      p3p6mishushi021.wav
+‚îÇ      p3p6mishushi022.wav
+‚îÇ      p3p6mishushi023.wav
+‚îÇ      p3p6mishushi024.wav
+‚îÇ      p3p6mishushi025.wav
+‚îÇ      p3p6mishushi026.wav
+‚îÇ      p3p6mishushi027.wav
+‚îÇ      p3p6mishushi028.wav
+‚îÇ      p3p6mishushi029.wav
+‚îÇ      p3p6mishushi030.wav
+‚îÇ      p3p6mishushi031.wav
+‚îÇ      p3p6mishushi032.wav
+‚îÇ      p3p6mishushi033.wav
+‚îÇ      p3p6mishushi034.wav
+‚îÇ      p3p6mishushi035.wav
+‚îÇ      p3p6mishushi036.wav
+‚îÇ      p3p6mishushi037.wav
+‚îÇ      p3p6mishushi038.wav
+‚îÇ      p3p6mishushi039.wav
+‚îÇ      p3p6mishushi040.wav
+‚îÇ      p3p6mishushi041.wav
+‚îÇ      p3p6mishushi042.wav
+‚îÇ      p3p6mishushi043.wav
+‚îÇ      p3p6mishushi044.wav
+‚îÇ      p3p6mishushi045.wav
+‚îÇ      p3p6mishushi046.wav
+‚îÇ      p3p6mishushi047.wav
+‚îÇ      p3p6mishushi048.wav
+‚îÇ      p3p6mishushi049.wav
+‚îÇ      p3p6mishushi050.wav
+‚îÇ      p3p6mishushi051.wav
+‚îÇ      p3p6mishushi052.wav
+‚îÇ      p3p6mishushi053.wav
+‚îÇ      p3p6mishushi054.wav
+‚îÇ      p3p6mishushi055.wav
+‚îÇ      p3p6mishushi056.wav
+‚îÇ      p3p6mishushi057.wav
+‚îÇ      p3p6mishushi058.wav
+‚îÇ      p3p6mishushi059.wav
+‚îÇ      p3p6mishushi060.wav
+‚îÇ      p3p6mishushi061.wav
+‚îÇ      p3p6mishushi062.wav
+‚îÇ      p3p6mishushi063.wav
+‚îÇ      p3p6mishushi064.wav
+‚îÇ      p3p6mishushi065.wav
+‚îÇ      p3p6mishushi066.wav
+‚îÇ      p3p6mishushi067.wav
+‚îÇ      p3p6mishushi068.wav
+‚îÇ      p3p6mishushi069.wav
+‚îÇ      p3p6mishushi070.wav
+‚îÇ      p3p6mishushi071.wav
+‚îÇ      p3p6mishushi072.wav
+‚îÇ      p3p6mishushi073.wav
+‚îÇ      p3p6mishushi074.wav
+‚îÇ      p3p6mishushi075.wav
+‚îÇ      p3p6mishushi076.wav
+‚îÇ      p3p6mishushi077.wav
+‚îÇ      p3p6mishushi078.wav
+‚îÇ      p3p6mishushi079.wav
+‚îÇ      p3p6mishushi080.wav
+‚îÇ      p3p6mishushi081.wav
+‚îÇ      p3p6mishushi082.wav
+‚îÇ      p3p6mishushi083.wav
+‚îÇ      p3p6mishushi084.wav
+‚îÇ      p3p6mishushi085.wav
+‚îÇ      p3p6mishushi086.wav
+‚îÇ      p3p6mishushi087.wav
+‚îÇ      p3p6mishushi088.wav
+‚îÇ      p3p6sfy001.wav
+‚îÇ      p3p6sfy002.wav
+‚îÇ      p3p6sfy003.wav
+‚îÇ      p3p6sfy004.wav
+‚îÇ      p3p6sfy005.wav
+‚îÇ      p3p6sfy006.wav
+‚îÇ      p3p6sfy007.wav
+‚îÇ      p3p6sfy008.wav
+‚îÇ      p3p6sfy009.wav
+‚îÇ      p3p6sfy010.wav
+‚îÇ      p3p6sfy011.wav
+‚îÇ      p3p6sfy012.wav
+‚îÇ      p3p6sfy013.wav
+‚îÇ      p3p6sfy014.wav
+‚îÇ      p3p6xn001.wav
+‚îÇ      p3p6xn002.wav
+‚îÇ      p3p6xn003.wav
+‚îÇ      p3p6xn004.wav
+‚îÇ      p3p6xn005.wav
+‚îÇ      p3p6xn006.wav
+‚îÇ      p3p6xn007.wav
+‚îÇ      p3p6xn008.wav
+‚îÇ      p3p6xn009.wav
+‚îÇ      p3p6xn010.wav
+‚îÇ      p3p6xn011.wav
+‚îÇ      p3p6xn012.wav
+‚îÇ      p3p6xn013.wav
+‚îÇ      p3p6xn014.wav
+‚îÇ      p3p6xn015.wav
+‚îÇ      p3p6xn016.wav
+‚îÇ      p3p6xn017.wav
+‚îÇ      p3p6xunluo001.wav
+‚îÇ      p3p6xunluo002.wav
+‚îÇ      p3p6xunluo003.wav
+‚îÇ      p3p6xunluo004.wav
+‚îÇ      p3p6xunluo005.wav
+‚îÇ      p3p6xunluo006.wav
+‚îÇ      p3p6xunluo007.wav
+‚îÇ      plot_03_06[0].txt
+‚îÇ      
+‚îú‚îÄplot_03_07[0]
+‚îÇ      p3p7hgl001.wav
+‚îÇ      p3p7hgl002.wav
+‚îÇ      p3p7hgl003.wav
+‚îÇ      p3p7hgl004.wav
+‚îÇ      p3p7hgl005.wav
+‚îÇ      p3p7hgl006.wav
+‚îÇ      p3p7hgl007.wav
+‚îÇ      p3p7hgl008.wav
+‚îÇ      p3p7hgl009.wav
+‚îÇ      p3p7hgl010.wav
+‚îÇ      p3p7hgl011.wav
+‚îÇ      p3p7hgl012.wav
+‚îÇ      p3p7hgl013.wav
+‚îÇ      p3p7hgl014.wav
+‚îÇ      p3p7hgl015.wav
+‚îÇ      p3p7hgl016.wav
+‚îÇ      p3p7hgl017.wav
+‚îÇ      p3p7ln001.wav
+‚îÇ      p3p7ln002.wav
+‚îÇ      p3p7ln003.wav
+‚îÇ      p3p7ln004.wav
+‚îÇ      p3p7ln005.wav
+‚îÇ      p3p7ln006.wav
+‚îÇ      p3p7ln007.wav
+‚îÇ      p3p7ln008.wav
+‚îÇ      p3p7ln009.wav
+‚îÇ      p3p7ln010.wav
+‚îÇ      p3p7ln011.wav
+‚îÇ      p3p7ln012.wav
+‚îÇ      p3p7ln013.wav
+‚îÇ      p3p7ln014.wav
+‚îÇ      p3p7ln015.wav
+‚îÇ      p3p7ln016.wav
+‚îÇ      p3p7ln017.wav
+‚îÇ      p3p7ln018.wav
+‚îÇ      p3p7ln019.wav
+‚îÇ      p3p7ln020.wav
+‚îÇ      p3p7ln021.wav
+‚îÇ      p3p7ln022.wav
+‚îÇ      p3p7ln023.wav
+‚îÇ      p3p7ln024.wav
+‚îÇ      p3p7ln025.wav
+‚îÇ      p3p7ln026.wav
+‚îÇ      p3p7ln027.wav
+‚îÇ      p3p7ln028.wav
+‚îÇ      p3p7ln029.wav
+‚îÇ      p3p7ln030.wav
+‚îÇ      p3p7ln031.wav
+‚îÇ      p3p7ln032.wav
+‚îÇ      p3p7ln033.wav
+‚îÇ      p3p7ln034.wav
+‚îÇ      p3p7ln035.wav
+‚îÇ      p3p7ln036.wav
+‚îÇ      p3p7ln037.wav
+‚îÇ      p3p7ln038.wav
+‚îÇ      p3p7ln039.wav
+‚îÇ      p3p7ln040.wav
+‚îÇ      p3p7ln041.wav
+‚îÇ      p3p7ln042.wav
+‚îÇ      p3p7ln043.wav
+‚îÇ      p3p7ln044.wav
+‚îÇ      p3p7ln045.wav
+‚îÇ      p3p7ln046.wav
+‚îÇ      p3p7ln047.wav
+‚îÇ      p3p7ln048.wav
+‚îÇ      p3p7ln049.wav
+‚îÇ      p3p7ln050.wav
+‚îÇ      p3p7ln051.wav
+‚îÇ      p3p7ln052.wav
+‚îÇ      p3p7ln053.wav
+‚îÇ      p3p7ln054.wav
+‚îÇ      p3p7ln055.wav
+‚îÇ      p3p7ln056.wav
+‚îÇ      p3p7ln057.wav
+‚îÇ      p3p7ln058.wav
+‚îÇ      p3p7ln059.wav
+‚îÇ      p3p7ln060.wav
+‚îÇ      p3p7ln061.wav
+‚îÇ      p3p7ln062.wav
+‚îÇ      p3p7ln063.wav
+‚îÇ      p3p7ln064.wav
+‚îÇ      p3p7ln065.wav
+‚îÇ      p3p7ln066.wav
+‚îÇ      p3p7ln067.wav
+‚îÇ      p3p7ln068.wav
+‚îÇ      p3p7ln069.wav
+‚îÇ      p3p7ln070.wav
+‚îÇ      p3p7ln071.wav
+‚îÇ      p3p7ln072.wav
+‚îÇ      p3p7ln073.wav
+‚îÇ      p3p7ln074.wav
+‚îÇ      p3p7ln075.wav
+‚îÇ      p3p7ln076.wav
+‚îÇ      p3p7ln077.wav
+‚îÇ      p3p7ln078.wav
+‚îÇ      p3p7ln079.wav
+‚îÇ      p3p7ln080.wav
+‚îÇ      p3p7sfy001.wav
+‚îÇ      p3p7sfy002.wav
+‚îÇ      p3p7sfy003.wav
+‚îÇ      p3p7sfy004.wav
+‚îÇ      p3p7sfy005.wav
+‚îÇ      p3p7sfy006.wav
+‚îÇ      p3p7ssdb001.wav
+‚îÇ      p3p7ssdb002.wav
+‚îÇ      p3p7ssdb003.wav
+‚îÇ      p3p7ssdb004.wav
+‚îÇ      p3p7ssdb005.wav
+‚îÇ      p3p7ssdb006.wav
+‚îÇ      p3p7ssdb007.wav
+‚îÇ      p3p7ssdb008.wav
+‚îÇ      p3p7ssdb009.wav
+‚îÇ      p3p7ssdb010.wav
+‚îÇ      p3p7ssdb011.wav
+‚îÇ      p3p7ssdb012.wav
+‚îÇ      p3p7ssdb013.wav
+‚îÇ      p3p7ssdb014.wav
+‚îÇ      p3p7ssdb015.wav
+‚îÇ      p3p7tx1001.wav
+‚îÇ      p3p7tx1002.wav
+‚îÇ      p3p7tx1003.wav
+‚îÇ      p3p7tx1004.wav
+‚îÇ      p3p7tx1005.wav
+‚îÇ      p3p7tx1006.wav
+‚îÇ      p3p7tx1007.wav
+‚îÇ      p3p7tx1008.wav
+‚îÇ      p3p7tx1009.wav
+‚îÇ      p3p7tx1010.wav
+‚îÇ      p3p7tx1011.wav
+‚îÇ      p3p7tx1012.wav
+‚îÇ      p3p7tx1013.wav
+‚îÇ      p3p7tx1014.wav
+‚îÇ      p3p7tx1015.wav
+‚îÇ      p3p7tx1016.wav
+‚îÇ      p3p7tx1017.wav
+‚îÇ      p3p7tx1018.wav
+‚îÇ      p3p7tx1019.wav
+‚îÇ      p3p7tx1020.wav
+‚îÇ      p3p7tx1021.wav
+‚îÇ      p3p7tx2001.wav
+‚îÇ      p3p7tx2002.wav
+‚îÇ      p3p7tx2003.wav
+‚îÇ      p3p7tx2004.wav
+‚îÇ      p3p7tx2005.wav
+‚îÇ      p3p7tx2006.wav
+‚îÇ      p3p7tx2007.wav
+‚îÇ      p3p7tx2008.wav
+‚îÇ      p3p7tx2009.wav
+‚îÇ      p3p7tx2010.wav
+‚îÇ      p3p7tx2011.wav
+‚îÇ      p3p7tx2012.wav
+‚îÇ      p3p7tx2013.wav
+‚îÇ      p3p7tx2014.wav
+‚îÇ      p3p7tx2015.wav
+‚îÇ      p3p7tx2016.wav
+‚îÇ      p3p7tx2017.wav
+‚îÇ      p3p7tx2018.wav
+‚îÇ      p3p7tx2019.wav
+‚îÇ      p3p7tx2020.wav
+‚îÇ      p3p7tx2021.wav
+‚îÇ      p3p7tx2022.wav
+‚îÇ      p3p7tx2023.wav
+‚îÇ      p3p7tx2024.wav
+‚îÇ      p3p7tx2025.wav
+‚îÇ      p3p7tx2026.wav
+‚îÇ      p3p7tx2027.wav
+‚îÇ      p3p7zhushou001.wav
+‚îÇ      p3p7zhushou002.wav
+‚îÇ      p3p7zhushou003.wav
+‚îÇ      p3p7zhushou004.wav
+‚îÇ      p3p7zhushou005.wav
+‚îÇ      p3p7zhushou006.wav
+‚îÇ      p3p7zhushou007.wav
+‚îÇ      p3p7zhushou008.wav
+‚îÇ      p3p7zhushou009.wav
+‚îÇ      p3p7zhushou010.wav
+‚îÇ      p3p7zhushou011.wav
+‚îÇ      p3p7zhushou012.wav
+‚îÇ      p3p7zhushou013.wav
+‚îÇ      p3p7zhushou014.wav
+‚îÇ      p3p7zhushou015.wav
+‚îÇ      p3p7zhushou016.wav
+‚îÇ      p3p7zhushou017.wav
+‚îÇ      p3p7zhushou018.wav
+‚îÇ      p3p7zhushou019.wav
+‚îÇ      p3p7zhushou020.wav
+‚îÇ      p3p7zhushou021.wav
+‚îÇ      p3p7zhushou022.wav
+‚îÇ      p3p7zhushou023.wav
+‚îÇ      p3p7zhushou024.wav
+‚îÇ      p3p7zhushou025.wav
+‚îÇ      plot_03_07[0].txt
+‚îÇ      
+‚îú‚îÄplot_03_08[0]
+‚îÇ      p3p8guowang001.wav
+‚îÇ      p3p8hgl001.wav
+‚îÇ      p3p8hgl002.wav
+‚îÇ      p3p8hgl003.wav
+‚îÇ      p3p8hgl004.wav
+‚îÇ      p3p8hgl005.wav
+‚îÇ      p3p8hgl006.wav
+‚îÇ      p3p8hgl007.wav
+‚îÇ      p3p8hgl008.wav
+‚îÇ      p3p8hgl009.wav
+‚îÇ      p3p8hgl010.wav
+‚îÇ      p3p8hgl011.wav
+‚îÇ      p3p8hgl012.wav
+‚îÇ      p3p8hgl013.wav
+‚îÇ      p3p8hgl014.wav
+‚îÇ      p3p8hgl015.wav
+‚îÇ      p3p8hgl016.wav
+‚îÇ      p3p8ln001.wav
+‚îÇ      p3p8ln002.wav
+‚îÇ      p3p8ln003.wav
+‚îÇ      p3p8ln004.wav
+‚îÇ      p3p8ln005.wav
+‚îÇ      p3p8ln006.wav
+‚îÇ      p3p8ln007.wav
+‚îÇ      p3p8ln008.wav
+‚îÇ      p3p8ln009.wav
+‚îÇ      p3p8ln010.wav
+‚îÇ      p3p8ln011.wav
+‚îÇ      p3p8ln012.wav
+‚îÇ      p3p8ln013.wav
+‚îÇ      p3p8ln014.wav
+‚îÇ      p3p8ln015.wav
+‚îÇ      p3p8ln016.wav
+‚îÇ      p3p8ln017.wav
+‚îÇ      p3p8ln018.wav
+‚îÇ      p3p8ln019.wav
+‚îÇ      p3p8ln020.wav
+‚îÇ      p3p8ln021.wav
+‚îÇ      p3p8ln022.wav
+‚îÇ      p3p8ln023.wav
+‚îÇ      p3p8ln024.wav
+‚îÇ      p3p8ln025.wav
+‚îÇ      p3p8ln026.wav
+‚îÇ      p3p8ln027.wav
+‚îÇ      p3p8ln028.wav
+‚îÇ      p3p8ln029.wav
+‚îÇ      p3p8ln030.wav
+‚îÇ      p3p8ln031.wav
+‚îÇ      p3p8ln032.wav
+‚îÇ      p3p8ln033.wav
+‚îÇ      p3p8ln034.wav
+‚îÇ      p3p8ln035.wav
+‚îÇ      p3p8ln036.wav
+‚îÇ      p3p8ln037.wav
+‚îÇ      p3p8ln038.wav
+‚îÇ      p3p8ln039.wav
+‚îÇ      p3p8ln040.wav
+‚îÇ      p3p8ln041.wav
+‚îÇ      p3p8ln042.wav
+‚îÇ      p3p8ln043.wav
+‚îÇ      p3p8ln044.wav
+‚îÇ      p3p8ln045.wav
+‚îÇ      p3p8ln046.wav
+‚îÇ      p3p8ln047.wav
+‚îÇ      p3p8ln048.wav
+‚îÇ      p3p8ln049.wav
+‚îÇ      p3p8ln050.wav
+‚îÇ      p3p8ln051.wav
+‚îÇ      p3p8ln052.wav
+‚îÇ      p3p8ln053.wav
+‚îÇ      p3p8luren001.wav
+‚îÇ      p3p8luren002.wav
+‚îÇ      p3p8luren003.wav
+‚îÇ      p3p8luren004.wav
+‚îÇ      p3p8luren005.wav
+‚îÇ      p3p8luren006.wav
+‚îÇ      p3p8luren007.wav
+‚îÇ      p3p8luren008.wav
+‚îÇ      p3p8sfy001.wav
+‚îÇ      p3p8sfy002.wav
+‚îÇ      p3p8sfy003.wav
+‚îÇ      p3p8sfy004.wav
+‚îÇ      p3p8sfy005.wav
+‚îÇ      p3p8sfy006.wav
+‚îÇ      p3p8sfy007.wav
+‚îÇ      p3p8sfy008.wav
+‚îÇ      p3p8sfy009.wav
+‚îÇ      p3p8sfy010.wav
+‚îÇ      p3p8sfy011.wav
+‚îÇ      p3p8sfy012.wav
+‚îÇ      p3p8sfy013.wav
+‚îÇ      p3p8sfy014.wav
+‚îÇ      p3p8sfy015.wav
+‚îÇ      p3p8sfy016.wav
+‚îÇ      p3p8sfy017.wav
+‚îÇ      p3p8sfy018.wav
+‚îÇ      p3p8tiluo001.wav
+‚îÇ      p3p8tiluo002.wav
+‚îÇ      p3p8tiluo003.wav
+‚îÇ      p3p8tiluo004.wav
+‚îÇ      p3p8tiluo005.wav
+‚îÇ      p3p8tiluo006.wav
+‚îÇ      p3p8tiluo007.wav
+‚îÇ      p3p8tiluo008.wav
+‚îÇ      p3p8tiluo009.wav
+‚îÇ      p3p8tiluo010.wav
+‚îÇ      p3p8tiluo011.wav
+‚îÇ      p3p8tiluo012.wav
+‚îÇ      p3p8tiluo013.wav
+‚îÇ      p3p8tiluo014.wav
+‚îÇ      p3p8tiluo015.wav
+‚îÇ      p3p8tiluo016.wav
+‚îÇ      p3p8tiluo017.wav
+‚îÇ      p3p8tiluo018.wav
+‚îÇ      p3p8tiluo019.wav
+‚îÇ      p3p8tiluo020.wav
+‚îÇ      p3p8tiluo021.wav
+‚îÇ      p3p8tiluo022.wav
+‚îÇ      p3p8tiluo023.wav
+‚îÇ      p3p8tiluo024.wav
+‚îÇ      p3p8tiluo025.wav
+‚îÇ      p3p8tiluo026.wav
+‚îÇ      p3p8tiluo027.wav
+‚îÇ      p3p8tiluo028.wav
+‚îÇ      p3p8tiluo029.wav
+‚îÇ      p3p8tiluo030.wav
+‚îÇ      p3p8tiluo031.wav
+‚îÇ      p3p8tiluo032.wav
+‚îÇ      p3p8tiluo033.wav
+‚îÇ      p3p8tiluo034.wav
+‚îÇ      p3p8tiluo035.wav
+‚îÇ      p3p8tiluo036.wav
+‚îÇ      p3p8tiluo037.wav
+‚îÇ      p3p8tiluo038.wav
+‚îÇ      p3p8tiluo039.wav
+‚îÇ      p3p8tiluo040.wav
+‚îÇ      p3p8tiluo041.wav
+‚îÇ      p3p8tiluo042.wav
+‚îÇ      p3p8tiluo043.wav
+‚îÇ      p3p8tiluo044.wav
+‚îÇ      p3p8xiaonvhai001.wav
+‚îÇ      p3p8xiaonvhai002.wav
+‚îÇ      p3p8xiaonvhai003.wav
+‚îÇ      p3p8xiaonvhai004.wav
+‚îÇ      p3p8xiaonvhai005.wav
+‚îÇ      p3p8xiaonvhai006.wav
+‚îÇ      p3p8xiaonvhai007.wav
+‚îÇ      p3p8xiaonvhai008.wav
+‚îÇ      p3p8xiaonvhai009.wav
+‚îÇ      p3p8xiaonvhai010.wav
+‚îÇ      p3p8xiaonvhai011.wav
+‚îÇ      p3p8xiaonvhai012.wav
+‚îÇ      p3p8xiaonvhai013.wav
+‚îÇ      p3p8xiaonvhai014.wav
+‚îÇ      p3p8xiaonvhai015.wav
+‚îÇ      p3p8xiaonvhai016.wav
+‚îÇ      p3p8xiaonvhai017.wav
+‚îÇ      p3p8xiaonvhai018.wav
+‚îÇ      p3p8xiaonvhai019.wav
+‚îÇ      p3p8xiaonvhai020.wav
+‚îÇ      p3p8xiaonvhai021.wav
+‚îÇ      p3p8xiaonvhai022.wav
+‚îÇ      p3p8xiaonvhai023.wav
+‚îÇ      p3p8xiaonvhai024.wav
+‚îÇ      p3p8xiaonvhai025.wav
+‚îÇ      p3p8xiaonvhai026.wav
+‚îÇ      p3p8xiaonvhai027.wav
+‚îÇ      p3p8xiaonvhai028.wav
+‚îÇ      p3p8xiaonvhai029.wav
+‚îÇ      p3p8xiaonvhai030.wav
+‚îÇ      p3p8xiaonvhai031.wav
+‚îÇ      p3p8xiaonvhai032.wav
+‚îÇ      p3p8xiaonvhai033.wav
+‚îÇ      p3p8xiaonvhai034.wav
+‚îÇ      p3p8xiaonvhai035.wav
+‚îÇ      p3p8xiaonvhai036.wav
+‚îÇ      p3p8xiaonvhai037.wav
+‚îÇ      p3p8xiaonvhai038.wav
+‚îÇ      p3p8xiaonvhai039.wav
+‚îÇ      p3p8xiaonvhai040.wav
+‚îÇ      p3p8xiaonvhai041.wav
+‚îÇ      p3p8xiaonvhai042.wav
+‚îÇ      p3p8xiaonvhai043.wav
+‚îÇ      p3p8xiaonvhai044.wav
+‚îÇ      p3p8xiaonvhai045.wav
+‚îÇ      p3p8xiaonvhai046.wav
+‚îÇ      p3p8xiaonvhai047.wav
+‚îÇ      p3p8xiaonvhai048.wav
+‚îÇ      p3p8xiaonvhai049.wav
+‚îÇ      p3p8xiaonvhai050.wav
+‚îÇ      p3p8xiaonvhai051.wav
+‚îÇ      p3p8xiaonvhai052.wav
+‚îÇ      p3p8xiaonvhai053.wav
+‚îÇ      p3p8xiaonvhai054.wav
+‚îÇ      p3p8xiaonvhai055.wav
+‚îÇ      p3p8xiaonvhai056.wav
+‚îÇ      p3p8xiaonvhai057.wav
+‚îÇ      p3p8xiaonvhai058.wav
+‚îÇ      p3p8xiaonvhai059.wav
+‚îÇ      p3p8xiaonvhai060.wav
+‚îÇ      p3p8xiaonvhai061.wav
+‚îÇ      p3p8xiaonvhai062.wav
+‚îÇ      p3p8xiaonvhai063.wav
+‚îÇ      p3p8xiaonvhai064.wav
+‚îÇ      p3p8xiaonvhai065.wav
+‚îÇ      p3p8xiaonvhai066.wav
+‚îÇ      p3p8xnhjj001.wav
+‚îÇ      p3p8xyds001.wav
+‚îÇ      p3p8xyds002.wav
+‚îÇ      p3p8xyds003.wav
+‚îÇ      plot_03_08[0].txt
+‚îÇ      
+‚îú‚îÄplot_03_09[0]
+‚îÇ      p3p9aqjzy001.wav
+‚îÇ      p3p9aqjzy002.wav
+‚îÇ      p3p9aqjzy003.wav
+‚îÇ      p3p9aqjzy004.wav
+‚îÇ      p3p9aqjzy005.wav
+‚îÇ      p3p9aqjzy006.wav
+‚îÇ      p3p9aqjzy007.wav
+‚îÇ      p3p9aqjzy008.wav
+‚îÇ      p3p9chushi001.wav
+‚îÇ      p3p9chushi002.wav
+‚îÇ      p3p9chushi003.wav
+‚îÇ      p3p9chushi004.wav
+‚îÇ      p3p9chushi005.wav
+‚îÇ      p3p9chushi006.wav
+‚îÇ      p3p9chushi007.wav
+‚îÇ      p3p9chushi008.wav
+‚îÇ      p3p9chushi009.wav
+‚îÇ      p3p9chushi010.wav
+‚îÇ      p3p9chushi011.wav
+‚îÇ      p3p9chushi012.wav
+‚îÇ      p3p9chushi013.wav
+‚îÇ      p3p9chushi014.wav
+‚îÇ      p3p9chushi015.wav
+‚îÇ      p3p9chushi016.wav
+‚îÇ      p3p9chushi017.wav
+‚îÇ      p3p9chushi018.wav
+‚îÇ      p3p9chushi019.wav
+‚îÇ      p3p9chushi020.wav
+‚îÇ      p3p9chushi021.wav
+‚îÇ      p3p9chushi022.wav
+‚îÇ      p3p9chushi023.wav
+‚îÇ      p3p9chushi024.wav
+‚îÇ      p3p9chushi025.wav
+‚îÇ      p3p9chushi026.wav
+‚îÇ      p3p9chushi027.wav
+‚îÇ      p3p9chushi028.wav
+‚îÇ      p3p9chushi029.wav
+‚îÇ      p3p9chushi030.wav
+‚îÇ      p3p9chushi031.wav
+‚îÇ      p3p9chushi032.wav
+‚îÇ      p3p9chushi033.wav
+‚îÇ      p3p9chushi034.wav
+‚îÇ      p3p9chushi035.wav
+‚îÇ      p3p9hgl001.wav
+‚îÇ      p3p9hgl002.wav
+‚îÇ      p3p9hgl003.wav
+‚îÇ      p3p9hgl004.wav
+‚îÇ      p3p9hgl005.wav
+‚îÇ      p3p9hgl006.wav
+‚îÇ      p3p9hgl007.wav
+‚îÇ      p3p9hgl008.wav
+‚îÇ      p3p9hgl009.wav
+‚îÇ      p3p9hgl010.wav
+‚îÇ      p3p9hgl0100.wav
+‚îÇ      p3p9hgl011.wav
+‚îÇ      p3p9hgl012.wav
+‚îÇ      p3p9hgl013.wav
+‚îÇ      p3p9hgl014.wav
+‚îÇ      p3p9hgl015.wav
+‚îÇ      p3p9hgl016.wav
+‚îÇ      p3p9hgl017.wav
+‚îÇ      p3p9hgl018.wav
+‚îÇ      p3p9hgl019.wav
+‚îÇ      p3p9hgl020.wav
+‚îÇ      p3p9hgl021.wav
+‚îÇ      p3p9hgl022.wav
+‚îÇ      p3p9hgl023.wav
+‚îÇ      p3p9hgl024.wav
+‚îÇ      p3p9hgl025.wav
+‚îÇ      p3p9hgl026.wav
+‚îÇ      p3p9hgl027.wav
+‚îÇ      p3p9hgl028.wav
+‚îÇ      p3p9hgl029.wav
+‚îÇ      p3p9hgl030.wav
+‚îÇ      p3p9hgl031.wav
+‚îÇ      p3p9hgl032.wav
+‚îÇ      p3p9hgl033.wav
+‚îÇ      p3p9hgl034.wav
+‚îÇ      p3p9hgl035.wav
+‚îÇ      p3p9hgl036.wav
+‚îÇ      p3p9hgl037.wav
+‚îÇ      p3p9hgl038.wav
+‚îÇ      p3p9hgl039.wav
+‚îÇ      p3p9hgl040.wav
+‚îÇ      p3p9hgl041.wav
+‚îÇ      p3p9hgl042.wav
+‚îÇ      p3p9hgl043.wav
+‚îÇ      p3p9hgl044.wav
+‚îÇ      p3p9hgl045.wav
+‚îÇ      p3p9hgl046.wav
+‚îÇ      p3p9hgl047.wav
+‚îÇ      p3p9hgl048.wav
+‚îÇ      p3p9hgl049.wav
+‚îÇ      p3p9hgl050.wav
+‚îÇ      p3p9hgl051.wav
+‚îÇ      p3p9hgl052.wav
+‚îÇ      p3p9hgl053.wav
+‚îÇ      p3p9hgl054.wav
+‚îÇ      p3p9hgl055.wav
+‚îÇ      p3p9hgl056.wav
+‚îÇ      p3p9hgl057.wav
+‚îÇ      p3p9hgl058.wav
+‚îÇ      p3p9hgl059.wav
+‚îÇ      p3p9hgl060.wav
+‚îÇ      p3p9hgl061.wav
+‚îÇ      p3p9hgl062.wav
+‚îÇ      p3p9hgl063.wav
+‚îÇ      p3p9hgl064.wav
+‚îÇ      p3p9hgl065.wav
+‚îÇ      p3p9hgl066.wav
+‚îÇ      p3p9hgl067.wav
+‚îÇ      p3p9hgl068.wav
+‚îÇ      p3p9hgl069.wav
+‚îÇ      p3p9hgl070.wav
+‚îÇ      p3p9hgl071.wav
+‚îÇ      p3p9hgl072.wav
+‚îÇ      p3p9hgl073.wav
+‚îÇ      p3p9hgl074.wav
+‚îÇ      p3p9hgl075.wav
+‚îÇ      p3p9hgl076.wav
+‚îÇ      p3p9hgl077.wav
+‚îÇ      p3p9hgl078.wav
+‚îÇ      p3p9hgl079.wav
+‚îÇ      p3p9hgl080.wav
+‚îÇ      p3p9hgl081.wav
+‚îÇ      p3p9hgl082.wav
+‚îÇ      p3p9hgl083.wav
+‚îÇ      p3p9hgl084.wav
+‚îÇ      p3p9hgl085.wav
+‚îÇ      p3p9hgl086.wav
+‚îÇ      p3p9hgl087.wav
+‚îÇ      p3p9hgl088.wav
+‚îÇ      p3p9hgl089.wav
+‚îÇ      p3p9hgl090.wav
+‚îÇ      p3p9hgl091.wav
+‚îÇ      p3p9hgl092.wav
+‚îÇ      p3p9hgl093.wav
+‚îÇ      p3p9hgl094.wav
+‚îÇ      p3p9hgl095.wav
+‚îÇ      p3p9hgl096.wav
+‚îÇ      p3p9hgl097.wav
+‚îÇ      p3p9hgl098.wav
+‚îÇ      p3p9hgl099.wav
+‚îÇ      p3p9shiwei001.wav
+‚îÇ      p3p9shiwei002.wav
+‚îÇ      p3p9shiwei003.wav
+‚îÇ      p3p9shiwei004.wav
+‚îÇ      p3p9shiwei005.wav
+‚îÇ      p3p9shiwei006.wav
+‚îÇ      p3p9shiwei007.wav
+‚îÇ      p3p9shiwei008.wav
+‚îÇ      p3p9shiwei009.wav
+‚îÇ      p3p9shiwei010.wav
+‚îÇ      p3p9shiwei011.wav
+‚îÇ      p3p9shiwei012.wav
+‚îÇ      p3p9shiwei013.wav
+‚îÇ      p3p9shiwei014.wav
+‚îÇ      p3p9shiwei015.wav
+‚îÇ      p3p9shiwei016.wav
+‚îÇ      p3p9shiwei017.wav
+‚îÇ      p3p9shiwei018.wav
+‚îÇ      p3p9tiluo001.wav
+‚îÇ      p3p9tiluo002.wav
+‚îÇ      p3p9tiluo003.wav
+‚îÇ      p3p9tiluo004.wav
+‚îÇ      p3p9tiluo005.wav
+‚îÇ      p3p9tiluo006.wav
+‚îÇ      p3p9tiluo007.wav
+‚îÇ      p3p9tiluo008.wav
+‚îÇ      p3p9tiluo009.wav
+‚îÇ      p3p9tiluo010.wav
+‚îÇ      p3p9tiluo011.wav
+‚îÇ      p3p9tiluo012.wav
+‚îÇ      p3p9xn001.wav
+‚îÇ      p3p9xn002.wav
+‚îÇ      p3p9xn003.wav
+‚îÇ      p3p9xn004.wav
+‚îÇ      p3p9xn005.wav
+‚îÇ      p3p9xn006.wav
+‚îÇ      p3p9xn007.wav
+‚îÇ      p3p9xn008.wav
+‚îÇ      p3p9xn009.wav
+‚îÇ      p3p9xn010.wav
+‚îÇ      p3p9xn011.wav
+‚îÇ      p3p9xn012.wav
+‚îÇ      p3p9xn013.wav
+‚îÇ      p3p9xn014.wav
+‚îÇ      p3p9xn015.wav
+‚îÇ      p3p9xn016.wav
+‚îÇ      p3p9xn017.wav
+‚îÇ      p3p9xn018.wav
+‚îÇ      p3p9xn019.wav
+‚îÇ      p3p9xn020.wav
+‚îÇ      p3p9xn021.wav
+‚îÇ      p3p9xn022.wav
+‚îÇ      p3p9xn023.wav
+‚îÇ      p3p9xn024.wav
+‚îÇ      p3p9xn025.wav
+‚îÇ      p3p9xn026.wav
+‚îÇ      p3p9xn027.wav
+‚îÇ      p3p9xn028.wav
+‚îÇ      p3p9xn029.wav
+‚îÇ      p3p9xn030.wav
+‚îÇ      p3p9xn031.wav
+‚îÇ      p3p9xn032.wav
+‚îÇ      p3p9xn033.wav
+‚îÇ      p3p9xn034.wav
+‚îÇ      p3p9xn035.wav
+‚îÇ      p3p9xn036.wav
+‚îÇ      p3p9xn037.wav
+‚îÇ      p3p9xn038.wav
+‚îÇ      p3p9xn039.wav
+‚îÇ      p3p9xn040.wav
+‚îÇ      p3p9xn041.wav
+‚îÇ      p3p9xn042.wav
+‚îÇ      p3p9xn043.wav
+‚îÇ      p3p9xn044.wav
+‚îÇ      p3p9xn045.wav
+‚îÇ      plot_03_09[0].txt
+‚îÇ      
+‚îú‚îÄplot_04[0]
+‚îÇ      p4dxz001.wav
+‚îÇ      p4dxz002.wav
+‚îÇ      p4dxz003.wav
+‚îÇ      p4dxz004.wav
+‚îÇ      p4dxz005.wav
+‚îÇ      p4dxz006.wav
+‚îÇ      p4dxz007.wav
+‚îÇ      p4flq001.wav
+‚îÇ      p4flq002.wav
+‚îÇ      p4flq003.wav
+‚îÇ      p4flq004.wav
+‚îÇ      p4flq005.wav
+‚îÇ      p4flq006.wav
+‚îÇ      p4flq007.wav
+‚îÇ      p4flq008.wav
+‚îÇ      p4flq009.wav
+‚îÇ      p4flq010.wav
+‚îÇ      p4flq011.wav
+‚îÇ      p4flq012.wav
+‚îÇ      p4flq013.wav
+‚îÇ      p4flq014.wav
+‚îÇ      p4flq015.wav
+‚îÇ      p4jk001.wav
+‚îÇ      p4jk002.wav
+‚îÇ      p4jk003.wav
+‚îÇ      p4jk004.wav
+‚îÇ      p4jk005.wav
+‚îÇ      p4jk006.wav
+‚îÇ      p4jk007.wav
+‚îÇ      p4jk008.wav
+‚îÇ      p4jk009.wav
+‚îÇ      p4jk010.wav
+‚îÇ      p4jk011.wav
+‚îÇ      p4jk012.wav
+‚îÇ      p4jk013.wav
+‚îÇ      p4jk014.wav
+‚îÇ      p4jk015.wav
+‚îÇ      p4jk016.wav
+‚îÇ      p4jk017.wav
+‚îÇ      p4jk018.wav
+‚îÇ      p4jk019.wav
+‚îÇ      p4jk020.wav
+‚îÇ      p4jk021.wav
+‚îÇ      p4jk022.wav
+‚îÇ      p4jk023.wav
+‚îÇ      p4jk024.wav
+‚îÇ      p4jk025.wav
+‚îÇ      p4jk026.wav
+‚îÇ      p4jk027.wav
+‚îÇ      p4jk028.wav
+‚îÇ      p4jk029.wav
+‚îÇ      p4jk030.wav
+‚îÇ      p4jk031.wav
+‚îÇ      p4jk032.wav
+‚îÇ      p4jk033.wav
+‚îÇ      p4jk034.wav
+‚îÇ      p4jk035.wav
+‚îÇ      p4jk036.wav
+‚îÇ      p4kl001.wav
+‚îÇ      p4kl002.wav
+‚îÇ      p4kl003.wav
+‚îÇ      p4kl004.wav
+‚îÇ      p4kl005.wav
+‚îÇ      p4kl006.wav
+‚îÇ      p4kl007.wav
+‚îÇ      p4kl008.wav
+‚îÇ      p4kl009.wav
+‚îÇ      p4kl010.wav
+‚îÇ      p4kl011.wav
+‚îÇ      p4kl012.wav
+‚îÇ      p4kl013.wav
+‚îÇ      p4kl014.wav
+‚îÇ      p4kl015.wav
+‚îÇ      p4kl016.wav
+‚îÇ      p4kl017.wav
+‚îÇ      p4kl018.wav
+‚îÇ      p4kl019.wav
+‚îÇ      p4kl020.wav
+‚îÇ      p4kl021.wav
+‚îÇ      p4kl022.wav
+‚îÇ      p4kl023.wav
+‚îÇ      p4kl024.wav
+‚îÇ      p4kl025.wav
+‚îÇ      p4kl026.wav
+‚îÇ      p4kl027.wav
+‚îÇ      p4kl028.wav
+‚îÇ      p4kl029.wav
+‚îÇ      p4kl030.wav
+‚îÇ      p4kl031.wav
+‚îÇ      p4kl032.wav
+‚îÇ      p4kl033.wav
+‚îÇ      p4kl034.wav
+‚îÇ      p4sjr001.wav
+‚îÇ      p4sjr002.wav
+‚îÇ      p4sjr003.wav
+‚îÇ      p4sjr004.wav
+‚îÇ      p4sjr005.wav
+‚îÇ      p4sjr006.wav
+‚îÇ      p4sjr007.wav
+‚îÇ      p4sjr008.wav
+‚îÇ      p4sjr009.wav
+‚îÇ      p4sjr010.wav
+‚îÇ      p4sjr011.wav
+‚îÇ      p4sjr012.wav
+‚îÇ      p4sjr013.wav
+‚îÇ      p4sjr014.wav
+‚îÇ      p4sjr015.wav
+‚îÇ      p4sjr016.wav
+‚îÇ      p4sjr017.wav
+‚îÇ      p4sjr018.wav
+‚îÇ      p4sjr019.wav
+‚îÇ      p4sjr020.wav
+‚îÇ      p4sjr021.wav
+‚îÇ      p4sjr022.wav
+‚îÇ      p4sjr023.wav
+‚îÇ      p4sjr024.wav
+‚îÇ      p4sjr025.wav
+‚îÇ      p4sjr026.wav
+‚îÇ      p4sjr027.wav
+‚îÇ      p4sjr028.wav
+‚îÇ      p4sjr029.wav
+‚îÇ      p4sjr030.wav
+‚îÇ      p4sjr031.wav
+‚îÇ      p4sy001.wav
+‚îÇ      p4sy002.wav
+‚îÇ      p4sy003.wav
+‚îÇ      p4sy004.wav
+‚îÇ      p4sy005.wav
+‚îÇ      p4sy006.wav
+‚îÇ      p4xn001.wav
+‚îÇ      p4xn002.wav
+‚îÇ      p4xn003.wav
+‚îÇ      p4xn004.wav
+‚îÇ      p4xn005.wav
+‚îÇ      p4xn006.wav
+‚îÇ      p4xn007.wav
+‚îÇ      p4xn008.wav
+‚îÇ      p4xn009.wav
+‚îÇ      p4xn010.wav
+‚îÇ      p4xn011.wav
+‚îÇ      p4xn012.wav
+‚îÇ      p4xn013.wav
+‚îÇ      p4xn014.wav
+‚îÇ      p4xn015.wav
+‚îÇ      p4xn016.wav
+‚îÇ      p4xn017.wav
+‚îÇ      p4xn018.wav
+‚îÇ      p4xn019.wav
+‚îÇ      p4xn020.wav
+‚îÇ      p4xn021.wav
+‚îÇ      p4xn022.wav
+‚îÇ      p4xn023.wav
+‚îÇ      p4xn024.wav
+‚îÇ      p4xn025.wav
+‚îÇ      p4xn026.wav
+‚îÇ      p4xn027.wav
+‚îÇ      p4xn028.wav
+‚îÇ      p4xn029.wav
+‚îÇ      p4xn030.wav
+‚îÇ      p4xn031.wav
+‚îÇ      p4xn032.wav
+‚îÇ      p4xn033.wav
+‚îÇ      p4xn034.wav
+‚îÇ      p4xn035.wav
+‚îÇ      p4xn036.wav
+‚îÇ      p4xn037.wav
+‚îÇ      p4xn038.wav
+‚îÇ      p4xn039.wav
+‚îÇ      p4xn040.wav
+‚îÇ      p4xn041.wav
+‚îÇ      p4xn042.wav
+‚îÇ      p4xn043.wav
+‚îÇ      p4xn044.wav
+‚îÇ      p4xn045.wav
+‚îÇ      plot_04[0].txt
+‚îÇ      
+‚îú‚îÄplot_05[0]
+‚îÇ      p5als001.wav
+‚îÇ      p5als002.wav
+‚îÇ      p5als003.wav
+‚îÇ      p5als004.wav
+‚îÇ      p5als005.wav
+‚îÇ      p5als006.wav
+‚îÇ      p5als007.wav
+‚îÇ      p5als008.wav
+‚îÇ      p5als009.wav
+‚îÇ      p5als010.wav
+‚îÇ      p5als011.wav
+‚îÇ      p5als012.wav
+‚îÇ      p5als013.wav
+‚îÇ      p5als014.wav
+‚îÇ      p5als015.wav
+‚îÇ      p5als016.wav
+‚îÇ      p5als017.wav
+‚îÇ      p5als018.wav
+‚îÇ      p5als019.wav
+‚îÇ      p5als020.wav
+‚îÇ      p5als021.wav
+‚îÇ      p5als022.wav
+‚îÇ      p5als023.wav
+‚îÇ      p5als024.wav
+‚îÇ      p5als025.wav
+‚îÇ      p5als026.wav
+‚îÇ      p5als027.wav
+‚îÇ      p5als028.wav
+‚îÇ      p5als029.wav
+‚îÇ      p5als030.wav
+‚îÇ      p5als031.wav
+‚îÇ      p5als032.wav
+‚îÇ      p5als033.wav
+‚îÇ      p5als034.wav
+‚îÇ      p5als035.wav
+‚îÇ      p5als036.wav
+‚îÇ      p5als037.wav
+‚îÇ      p5als038.wav
+‚îÇ      p5als039.wav
+‚îÇ      p5als040.wav
+‚îÇ      p5als041.wav
+‚îÇ      p5als042.wav
+‚îÇ      p5als043.wav
+‚îÇ      p5als044.wav
+‚îÇ      p5als045.wav
+‚îÇ      p5als046.wav
+‚îÇ      p5dxz001.wav
+‚îÇ      p5dxz002.wav
+‚îÇ      p5dxz003.wav
+‚îÇ      p5dxz004.wav
+‚îÇ      p5dxz005.wav
+‚îÇ      p5dxz006.wav
+‚îÇ      p5dxz007.wav
+‚îÇ      p5dxz008.wav
+‚îÇ      p5jk001.wav
+‚îÇ      p5jk002.wav
+‚îÇ      p5jk003.wav
+‚îÇ      p5jk004.wav
+‚îÇ      p5jk005.wav
+‚îÇ      p5jk006.wav
+‚îÇ      p5jk007.wav
+‚îÇ      p5jk008.wav
+‚îÇ      p5jk009.wav
+‚îÇ      p5jk010.wav
+‚îÇ      p5jk011.wav
+‚îÇ      p5jk012.wav
+‚îÇ      p5jk013.wav
+‚îÇ      p5mgl001.wav
+‚îÇ      p5mgl002.wav
+‚îÇ      p5mgl003.wav
+‚îÇ      p5mgl004.wav
+‚îÇ      p5sy001.wav
+‚îÇ      p5sy002.wav
+‚îÇ      p5way001.wav
+‚îÇ      p5way002.wav
+‚îÇ      p5way003.wav
+‚îÇ      p5way004.wav
+‚îÇ      p5way005.wav
+‚îÇ      p5way006.wav
+‚îÇ      p5way007.wav
+‚îÇ      p5way008.wav
+‚îÇ      p5way009.wav
+‚îÇ      p5way010.wav
+‚îÇ      p5way011.wav
+‚îÇ      p5way012.wav
+‚îÇ      p5way013.wav
+‚îÇ      p5way014.wav
+‚îÇ      p5way015.wav
+‚îÇ      p5way016.wav
+‚îÇ      p5way017.wav
+‚îÇ      p5way018.wav
+‚îÇ      p5wkd001.wav
+‚îÇ      p5wkd002.wav
+‚îÇ      p5wkd003.wav
+‚îÇ      p5wkd004.wav
+‚îÇ      p5wkd005.wav
+‚îÇ      p5wkd006.wav
+‚îÇ      p5wkd007.wav
+‚îÇ      p5wkd008.wav
+‚îÇ      p5wkd009.wav
+‚îÇ      p5wkd010.wav
+‚îÇ      p5wkd011.wav
+‚îÇ      p5wkd012.wav
+‚îÇ      p5wkd013.wav
+‚îÇ      p5wkd014.wav
+‚îÇ      p5wkd015.wav
+‚îÇ      p5wkd016.wav
+‚îÇ      p5wkd017.wav
+‚îÇ      p5wkd018.wav
+‚îÇ      p5wkd019.wav
+‚îÇ      p5wkd020.wav
+‚îÇ      p5wkd021.wav
+‚îÇ      p5wkd022.wav
+‚îÇ      p5wkd023.wav
+‚îÇ      p5wkd024.wav
+‚îÇ      p5wkd025.wav
+‚îÇ      p5wkd026.wav
+‚îÇ      p5wkd027.wav
+‚îÇ      p5wkd028.wav
+‚îÇ      p5wkd029.wav
+‚îÇ      p5wkd030.wav
+‚îÇ      p5wkd031.wav
+‚îÇ      p5wkd032.wav
+‚îÇ      p5wkd033.wav
+‚îÇ      p5wkd034.wav
+‚îÇ      p5wkd035.wav
+‚îÇ      p5wkd036.wav
+‚îÇ      p5wkd037.wav
+‚îÇ      p5wkd038.wav
+‚îÇ      p5wkd039.wav
+‚îÇ      p5wkd040.wav
+‚îÇ      p5wkd041.wav
+‚îÇ      p5wkd042.wav
+‚îÇ      p5wkd043.wav
+‚îÇ      p5wkd044.wav
+‚îÇ      p5wkd045.wav
+‚îÇ      p5wkd046.wav
+‚îÇ      p5xn001.wav
+‚îÇ      p5xn002.wav
+‚îÇ      p5xn003.wav
+‚îÇ      p5xn004.wav
+‚îÇ      p5xn005.wav
+‚îÇ      p5xn006.wav
+‚îÇ      p5xn007.wav
+‚îÇ      p5xn008.wav
+‚îÇ      p5xn009.wav
+‚îÇ      p5xn010.wav
+‚îÇ      p5xn011.wav
+‚îÇ      p5xn012.wav
+‚îÇ      p5xn013.wav
+‚îÇ      p5xn014.wav
+‚îÇ      p5xn015.wav
+‚îÇ      p5xn016.wav
+‚îÇ      p5xn017.wav
+‚îÇ      p5xn018.wav
+‚îÇ      p5xn019.wav
+‚îÇ      p5xn020.wav
+‚îÇ      p5xn021.wav
+‚îÇ      p5xn022.wav
+‚îÇ      p5xn023.wav
+‚îÇ      p5xn024.wav
+‚îÇ      p5xn025.wav
+‚îÇ      p5xn026.wav
+‚îÇ      p5xn027.wav
+‚îÇ      p5xn028.wav
+‚îÇ      p5xn029.wav
+‚îÇ      p5xn030.wav
+‚îÇ      p5xn031.wav
+‚îÇ      p5xn032.wav
+‚îÇ      p5xn033.wav
+‚îÇ      p5xn034.wav
+‚îÇ      p5xn035.wav
+‚îÇ      p5xn036.wav
+‚îÇ      p5xn037.wav
+‚îÇ      p5xn038.wav
+‚îÇ      p5xn039.wav
+‚îÇ      p5xn040.wav
+‚îÇ      p5xn041.wav
+‚îÇ      p5xn042.wav
+‚îÇ      p5xn043.wav
+‚îÇ      p5xn044.wav
+‚îÇ      p5xn045.wav
+‚îÇ      p5xn046.wav
+‚îÇ      p5xn047.wav
+‚îÇ      p5xn048.wav
+‚îÇ      p5xn049.wav
+‚îÇ      p5xn050.wav
+‚îÇ      p5xn051.wav
+‚îÇ      p5xn052.wav
+‚îÇ      p5xn053.wav
+‚îÇ      plot_05[0].txt
+‚îÇ      
+‚îú‚îÄplot_06[0]
+‚îÇ      p6als001.wav
+‚îÇ      p6bje001.wav
+‚îÇ      p6bje002.wav
+‚îÇ      p6bje003.wav
+‚îÇ      p6bje004.wav
+‚îÇ      p6bje005.wav
+‚îÇ      p6bje006.wav
+‚îÇ      p6bje007.wav
+‚îÇ      p6bje008.wav
+‚îÇ      p6bje009.wav
+‚îÇ      p6bje010.wav
+‚îÇ      p6bje011.wav
+‚îÇ      p6bje012.wav
+‚îÇ      p6bje013.wav
+‚îÇ      p6dxz001.wav
+‚îÇ      p6dxz002.wav
+‚îÇ      p6dxz003.wav
+‚îÇ      p6dxz004.wav
+‚îÇ      p6dxz005.wav
+‚îÇ      p6dxz006.wav
+‚îÇ      p6dxz007.wav
+‚îÇ      p6dxz008.wav
+‚îÇ      p6dxz009.wav
+‚îÇ      p6dxz010.wav
+‚îÇ      p6dxz011.wav
+‚îÇ      p6dxz012.wav
+‚îÇ      p6jk001.wav
+‚îÇ      p6jk002.wav
+‚îÇ      p6jk003.wav
+‚îÇ      p6jk004.wav
+‚îÇ      p6jk005.wav
+‚îÇ      p6jk006.wav
+‚îÇ      p6jk007.wav
+‚îÇ      p6jk008.wav
+‚îÇ      p6la001.wav
+‚îÇ      p6la002.wav
+‚îÇ      p6la003.wav
+‚îÇ      p6la004.wav
+‚îÇ      p6la005.wav
+‚îÇ      p6la006.wav
+‚îÇ      p6mgl001.wav
+‚îÇ      p6mgl002.wav
+‚îÇ      p6mgl003.wav
+‚îÇ      p6mgl004.wav
+‚îÇ      p6mgl005.wav
+‚îÇ      p6mgl006.wav
+‚îÇ      p6mgl007.wav
+‚îÇ      p6mgl008.wav
+‚îÇ      p6mgl009.wav
+‚îÇ      p6sfy001.wav
+‚îÇ      p6sfy002.wav
+‚îÇ      p6sfy003.wav
+‚îÇ      p6sfy004.wav
+‚îÇ      p6sfy005.wav
+‚îÇ      p6sfy006.wav
+‚îÇ      p6sfy007.wav
+‚îÇ      p6sfy008.wav
+‚îÇ      p6sfy009.wav
+‚îÇ      p6sfy010.wav
+‚îÇ      p6sfy011.wav
+‚îÇ      p6sfy012.wav
+‚îÇ      p6sfy013.wav
+‚îÇ      p6sfy014.wav
+‚îÇ      p6sfy015.wav
+‚îÇ      p6sy001.wav
+‚îÇ      p6sy002.wav
+‚îÇ      p6sy003.wav
+‚îÇ      p6sy004.wav
+‚îÇ      p6sy005.wav
+‚îÇ      p6sy006.wav
+‚îÇ      p6sy007.wav
+‚îÇ      p6sy008.wav
+‚îÇ      p6sy009.wav
+‚îÇ      p6sy010.wav
+‚îÇ      p6sy011.wav
+‚îÇ      p6sy012.wav
+‚îÇ      p6sy013.wav
+‚îÇ      p6sy014.wav
+‚îÇ      p6sy015.wav
+‚îÇ      p6sy016.wav
+‚îÇ      p6sy017.wav
+‚îÇ      p6sy018.wav
+‚îÇ      p6sy019.wav
+‚îÇ      p6sy020.wav
+‚îÇ      p6sy021.wav
+‚îÇ      p6sy022.wav
+‚îÇ      p6sy023.wav
+‚îÇ      p6sy024.wav
+‚îÇ      p6sy025.wav
+‚îÇ      p6sy026.wav
+‚îÇ      p6sy027.wav
+‚îÇ      p6sy028.wav
+‚îÇ      p6sy029.wav
+‚îÇ      p6sy030.wav
+‚îÇ      p6sy031.wav
+‚îÇ      p6sy032.wav
+‚îÇ      p6sy033.wav
+‚îÇ      p6sy034.wav
+‚îÇ      p6sy035.wav
+‚îÇ      p6sy036.wav
+‚îÇ      p6sy037.wav
+‚îÇ      p6sy038.wav
+‚îÇ      p6sy039.wav
+‚îÇ      p6sy040.wav
+‚îÇ      p6sy041.wav
+‚îÇ      p6sy042.wav
+‚îÇ      p6sy043.wav
+‚îÇ      p6sy044.wav
+‚îÇ      p6sy045.wav
+‚îÇ      p6sy046.wav
+‚îÇ      p6sy047.wav
+‚îÇ      p6sy048.wav
+‚îÇ      p6sy049.wav
+‚îÇ      p6sy050.wav
+‚îÇ      p6sy051.wav
+‚îÇ      p6sy052.wav
+‚îÇ      p6sy053.wav
+‚îÇ      p6sy054.wav
+‚îÇ      p6sy055.wav
+‚îÇ      p6sy056.wav
+‚îÇ      p6sy057.wav
+‚îÇ      p6sy058.wav
+‚îÇ      p6wd001.wav
+‚îÇ      p6wd002.wav
+‚îÇ      p6wd003.wav
+‚îÇ      p6wd004.wav
+‚îÇ      p6wd005.wav
+‚îÇ      p6wd006.wav
+‚îÇ      p6wd007.wav
+‚îÇ      p6wkd001.wav
+‚îÇ      p6wkd002.wav
+‚îÇ      p6wkd003.wav
+‚îÇ      p6wkd004.wav
+‚îÇ      p6wkd005.wav
+‚îÇ      p6wkd006.wav
+‚îÇ      p6wkd007.wav
+‚îÇ      p6wkd008.wav
+‚îÇ      p6wlt001.wav
+‚îÇ      p6wlt002.wav
+‚îÇ      p6xn001.wav
+‚îÇ      p6xn002.wav
+‚îÇ      p6xn003.wav
+‚îÇ      p6xn004.wav
+‚îÇ      p6xn005.wav
+‚îÇ      p6xn006.wav
+‚îÇ      p6xn007.wav
+‚îÇ      p6xn008.wav
+‚îÇ      p6xn009.wav
+‚îÇ      p6xn010.wav
+‚îÇ      p6xn011.wav
+‚îÇ      p6xn012.wav
+‚îÇ      p6xn013.wav
+‚îÇ      p6xn014.wav
+‚îÇ      p6xn015.wav
+‚îÇ      p6xn016.wav
+‚îÇ      p6xn017.wav
+‚îÇ      p6xn018.wav
+‚îÇ      p6xn019.wav
+‚îÇ      p6xn020.wav
+‚îÇ      p6xn021.wav
+‚îÇ      p6xn022.wav
+‚îÇ      p6xn023.wav
+‚îÇ      p6xn024.wav
+‚îÇ      p6xn025.wav
+‚îÇ      p6xn026.wav
+‚îÇ      p6xn027.wav
+‚îÇ      p6xn028.wav
+‚îÇ      p6xn029.wav
+‚îÇ      p6yx001.wav
+‚îÇ      plot_06[0].txt
+‚îÇ      
+‚îú‚îÄplot_07[0]
+‚îÇ      p7als001.wav
+‚îÇ      p7als002.wav
+‚îÇ      p7als003.wav
+‚îÇ      p7als004.wav
+‚îÇ      p7als005.wav
+‚îÇ      p7als006.wav
+‚îÇ      p7als007.wav
+‚îÇ      p7als008.wav
+‚îÇ      p7als009.wav
+‚îÇ      p7bje001.wav
+‚îÇ      p7bje002.wav
+‚îÇ      p7bje003.wav
+‚îÇ      p7bje004.wav
+‚îÇ      p7bje005.wav
+‚îÇ      p7bje006.wav
+‚îÇ      p7bje007.wav
+‚îÇ      p7bje008.wav
+‚îÇ      p7bje009.wav
+‚îÇ      p7bje010.wav
+‚îÇ      p7bje011.wav
+‚îÇ      p7bje012.wav
+‚îÇ      p7bje013.wav
+‚îÇ      p7bje014.wav
+‚îÇ      p7bje015.wav
+‚îÇ      p7bje016.wav
+‚îÇ      p7bje017.wav
+‚îÇ      p7bje018.wav
+‚îÇ      p7bje019.wav
+‚îÇ      p7bje020.wav
+‚îÇ      p7bje021.wav
+‚îÇ      p7bje022.wav
+‚îÇ      p7bje023.wav
+‚îÇ      p7bje024.wav
+‚îÇ      p7bje025.wav
+‚îÇ      p7bje026.wav
+‚îÇ      p7bje027.wav
+‚îÇ      p7bje028.wav
+‚îÇ      p7bje029.wav
+‚îÇ      p7bje030.wav
+‚îÇ      p7bje031.wav
+‚îÇ      p7bje032.wav
+‚îÇ      p7bje033.wav
+‚îÇ      p7bje034.wav
+‚îÇ      p7bje035.wav
+‚îÇ      p7bje036.wav
+‚îÇ      p7bje037.wav
+‚îÇ      p7bje038.wav
+‚îÇ      p7bje039.wav
+‚îÇ      p7bje040.wav
+‚îÇ      p7bje041.wav
+‚îÇ      p7bje042.wav
+‚îÇ      p7bje043.wav
+‚îÇ      p7bje044.wav
+‚îÇ      p7bje045.wav
+‚îÇ      p7bje046.wav
+‚îÇ      p7bje047.wav
+‚îÇ      p7dxz001.wav
+‚îÇ      p7dxz002.wav
+‚îÇ      p7dxz003.wav
+‚îÇ      p7dxz004.wav
+‚îÇ      p7dxz005.wav
+‚îÇ      p7dxz006.wav
+‚îÇ      p7dxz007.wav
+‚îÇ      p7dxz008.wav
+‚îÇ      p7dxz009.wav
+‚îÇ      p7dxz010.wav
+‚îÇ      p7dxz011.wav
+‚îÇ      p7dxz012.wav
+‚îÇ      p7dxz013.wav
+‚îÇ      p7dxz014.wav
+‚îÇ      p7jk001.wav
+‚îÇ      p7jk002.wav
+‚îÇ      p7jk003.wav
+‚îÇ      p7jk004.wav
+‚îÇ      p7jk005.wav
+‚îÇ      p7jk006.wav
+‚îÇ      p7jk007.wav
+‚îÇ      p7jk008.wav
+‚îÇ      p7la001.wav
+‚îÇ      p7md001.wav
+‚îÇ      p7md002.wav
+‚îÇ      p7md003.wav
+‚îÇ      p7md004.wav
+‚îÇ      p7md005.wav
+‚îÇ      p7md006.wav
+‚îÇ      p7md007.wav
+‚îÇ      p7md008.wav
+‚îÇ      p7md009.wav
+‚îÇ      p7md010.wav
+‚îÇ      p7md011.wav
+‚îÇ      p7md012.wav
+‚îÇ      p7md013.wav
+‚îÇ      p7md014.wav
+‚îÇ      p7md015.wav
+‚îÇ      p7md016.wav
+‚îÇ      p7md017.wav
+‚îÇ      p7md018.wav
+‚îÇ      p7md019.wav
+‚îÇ      p7md020.wav
+‚îÇ      p7md021.wav
+‚îÇ      p7md022.wav
+‚îÇ      p7md023.wav
+‚îÇ      p7md024.wav
+‚îÇ      p7md025.wav
+‚îÇ      p7md026.wav
+‚îÇ      p7md027.wav
+‚îÇ      p7md028.wav
+‚îÇ      p7md029.wav
+‚îÇ      p7md030.wav
+‚îÇ      p7md031.wav
+‚îÇ      p7way001.wav
+‚îÇ      p7way002.wav
+‚îÇ      p7way003.wav
+‚îÇ      p7way004.wav
+‚îÇ      p7way005.wav
+‚îÇ      p7way006.wav
+‚îÇ      p7way007.wav
+‚îÇ      p7way008.wav
+‚îÇ      p7way009.wav
+‚îÇ      p7way010.wav
+‚îÇ      p7way011.wav
+‚îÇ      p7way012.wav
+‚îÇ      p7way013.wav
+‚îÇ      p7way014.wav
+‚îÇ      p7way015.wav
+‚îÇ      p7way016.wav
+‚îÇ      p7way017.wav
+‚îÇ      p7way018.wav
+‚îÇ      p7way019.wav
+‚îÇ      p7way020.wav
+‚îÇ      p7way021.wav
+‚îÇ      p7way022.wav
+‚îÇ      p7way023.wav
+‚îÇ      p7way024.wav
+‚îÇ      p7way025.wav
+‚îÇ      p7way026.wav
+‚îÇ      p7way027.wav
+‚îÇ      p7way028.wav
+‚îÇ      p7way029.wav
+‚îÇ      p7way030.wav
+‚îÇ      p7way031.wav
+‚îÇ      p7way032.wav
+‚îÇ      p7way033.wav
+‚îÇ      p7way034.wav
+‚îÇ      p7way035.wav
+‚îÇ      p7way036.wav
+‚îÇ      p7way037.wav
+‚îÇ      p7way038.wav
+‚îÇ      p7way039.wav
+‚îÇ      p7way040.wav
+‚îÇ      p7way041.wav
+‚îÇ      p7way042.wav
+‚îÇ      p7way043.wav
+‚îÇ      p7way044.wav
+‚îÇ      p7way045.wav
+‚îÇ      p7way046.wav
+‚îÇ      p7wlt001.wav
+‚îÇ      p7wlt002.wav
+‚îÇ      p7wlt003.wav
+‚îÇ      p7wlt004.wav
+‚îÇ      p7wlt005.wav
+‚îÇ      p7wlt006.wav
+‚îÇ      p7wlt007.wav
+‚îÇ      p7wlt008.wav
+‚îÇ      p7wlt009.wav
+‚îÇ      p7wlt010.wav
+‚îÇ      p7wlt011.wav
+‚îÇ      p7wlt012.wav
+‚îÇ      p7wlt013.wav
+‚îÇ      p7wlt014.wav
+‚îÇ      p7wlt015.wav
+‚îÇ      p7wlt016.wav
+‚îÇ      p7wlt017.wav
+‚îÇ      p7wlt018.wav
+‚îÇ      p7wlt019.wav
+‚îÇ      p7wlt020.wav
+‚îÇ      p7wlt021.wav
+‚îÇ      p7wlt022.wav
+‚îÇ      p7wlt023.wav
+‚îÇ      p7wlt024.wav
+‚îÇ      p7wlt025.wav
+‚îÇ      p7wlt026.wav
+‚îÇ      p7wlt027.wav
+‚îÇ      p7wlt028.wav
+‚îÇ      p7wlt029.wav
+‚îÇ      p7wlt030.wav
+‚îÇ      p7wlt031.wav
+‚îÇ      p7wlt032.wav
+‚îÇ      p7wlt033.wav
+‚îÇ      p7wlt034.wav
+‚îÇ      p7wlt035.wav
+‚îÇ      p7wlt036.wav
+‚îÇ      p7wlt037.wav
+‚îÇ      p7wlt038.wav
+‚îÇ      p7wlt039.wav
+‚îÇ      p7wlt040.wav
+‚îÇ      p7wlt041.wav
+‚îÇ      p7wlt042.wav
+‚îÇ      p7wlt043.wav
+‚îÇ      p7wlt044.wav
+‚îÇ      p7wlt045.wav
+‚îÇ      p7wlt046.wav
+‚îÇ      p7wlt047.wav
+‚îÇ      p7wlt048.wav
+‚îÇ      p7wlt049.wav
+‚îÇ      p7wlt050.wav
+‚îÇ      p7wlt051.wav
+‚îÇ      p7wlt052.wav
+‚îÇ      p7wlt053.wav
+‚îÇ      p7wlt054.wav
+‚îÇ      p7wlt055.wav
+‚îÇ      p7wlt056.wav
+‚îÇ      p7wlt057.wav
+‚îÇ      p7wlt058.wav
+‚îÇ      p7wlt059.wav
+‚îÇ      p7wlt060.wav
+‚îÇ      p7wlt061.wav
+‚îÇ      p7wlt062.wav
+‚îÇ      p7wlt063.wav
+‚îÇ      p7wlt064.wav
+‚îÇ      p7wlt065.wav
+‚îÇ      p7wlt066.wav
+‚îÇ      p7xn001.wav
+‚îÇ      p7xn002.wav
+‚îÇ      p7xn003.wav
+‚îÇ      p7xn004.wav
+‚îÇ      p7xn005.wav
+‚îÇ      p7xn006.wav
+‚îÇ      p7xn007.wav
+‚îÇ      p7xn008.wav
+‚îÇ      p7xn009.wav
+‚îÇ      p7xn010.wav
+‚îÇ      p7xn011.wav
+‚îÇ      p7xn012.wav
+‚îÇ      p7xn013.wav
+‚îÇ      p7xn014.wav
+‚îÇ      p7xn015.wav
+‚îÇ      p7xn016.wav
+‚îÇ      p7xn017.wav
+‚îÇ      p7xn018.wav
+‚îÇ      p7xn019.wav
+‚îÇ      p7xn020.wav
+‚îÇ      p7xn021.wav
+‚îÇ      p7xn022.wav
+‚îÇ      p7xn023.wav
+‚îÇ      p7xn024.wav
+‚îÇ      p7xn025.wav
+‚îÇ      p7xn026.wav
+‚îÇ      p7xn027.wav
+‚îÇ      p7xn028.wav
+‚îÇ      p7xn029.wav
+‚îÇ      p7xn030.wav
+‚îÇ      plot_07[0].txt
+‚îÇ      
+‚îú‚îÄplot_08[0]
+‚îÇ      p8dhz001.wav
+‚îÇ      p8dhz002.wav
+‚îÇ      p8dhz003.wav
+‚îÇ      p8dhz004.wav
+‚îÇ      p8dhz005.wav
+‚îÇ      p8dhz006.wav
+‚îÇ      p8dhz007.wav
+‚îÇ      p8dhz008.wav
+‚îÇ      p8dhz009.wav
+‚îÇ      p8dhz010.wav
+‚îÇ      p8dhz011.wav
+‚îÇ      p8dhz012.wav
+‚îÇ      p8dhz013.wav
+‚îÇ      p8dhz014.wav
+‚îÇ      p8dhz015.wav
+‚îÇ      p8dhz016.wav
+‚îÇ      p8dhz017.wav
+‚îÇ      p8dhz018.wav
+‚îÇ      p8dhz019.wav
+‚îÇ      p8dhz020.wav
+‚îÇ      p8dhz021.wav
+‚îÇ      p8dhz022.wav
+‚îÇ      p8dhz023.wav
+‚îÇ      p8dxz001.wav
+‚îÇ      p8dxz002.wav
+‚îÇ      p8dxz003.wav
+‚îÇ      p8dxz004.wav
+‚îÇ      p8dxz005.wav
+‚îÇ      p8dxz006.wav
+‚îÇ      p8dxz007.wav
+‚îÇ      p8dxz008.wav
+‚îÇ      p8dxz009.wav
+‚îÇ      p8dxz010.wav
+‚îÇ      p8dxz011.wav
+‚îÇ      p8flq001.wav
+‚îÇ      p8flq002.wav
+‚îÇ      p8flq003.wav
+‚îÇ      p8kla001.wav
+‚îÇ      p8kla002.wav
+‚îÇ      p8kla003.wav
+‚îÇ      p8kla004.wav
+‚îÇ      p8kla005.wav
+‚îÇ      p8kla006.wav
+‚îÇ      p8kla007.wav
+‚îÇ      p8kla008.wav
+‚îÇ      p8kla009.wav
+‚îÇ      p8kla010.wav
+‚îÇ      p8kla011.wav
+‚îÇ      p8kla012.wav
+‚îÇ      p8md001.wav
+‚îÇ      p8md002.wav
+‚îÇ      p8md003.wav
+‚îÇ      p8md004.wav
+‚îÇ      p8md005.wav
+‚îÇ      p8md006.wav
+‚îÇ      p8md007.wav
+‚îÇ      p8md008.wav
+‚îÇ      p8md009.wav
+‚îÇ      p8md010.wav
+‚îÇ      p8md011.wav
+‚îÇ      p8md012.wav
+‚îÇ      p8md013.wav
+‚îÇ      p8md014.wav
+‚îÇ      p8md015.wav
+‚îÇ      p8md016.wav
+‚îÇ      p8md017.wav
+‚îÇ      p8md018.wav
+‚îÇ      p8md019.wav
+‚îÇ      p8md020.wav
+‚îÇ      p8md021.wav
+‚îÇ      p8sy001.wav
+‚îÇ      p8sy002.wav
+‚îÇ      p8sy003.wav
+‚îÇ      p8sy004.wav
+‚îÇ      p8sy005.wav
+‚îÇ      p8sy006.wav
+‚îÇ      p8sy007.wav
+‚îÇ      p8sy008.wav
+‚îÇ      p8sy009.wav
+‚îÇ      p8sy010.wav
+‚îÇ      p8sy011.wav
+‚îÇ      p8sy012.wav
+‚îÇ      p8sy013.wav
+‚îÇ      p8sy014.wav
+‚îÇ      p8sy015.wav
+‚îÇ      p8sy016.wav
+‚îÇ      p8sy017.wav
+‚îÇ      p8sy018.wav
+‚îÇ      p8sy019.wav
+‚îÇ      p8sy020.wav
+‚îÇ      p8sy021.wav
+‚îÇ      p8sy022.wav
+‚îÇ      p8sy023.wav
+‚îÇ      p8sy024.wav
+‚îÇ      p8sy025.wav
+‚îÇ      p8sy026.wav
+‚îÇ      p8sy027.wav
+‚îÇ      p8sy028.wav
+‚îÇ      p8sy029.wav
+‚îÇ      p8sy030.wav
+‚îÇ      p8sy031.wav
+‚îÇ      p8sy032.wav
+‚îÇ      p8sy033.wav
+‚îÇ      p8xn001.wav
+‚îÇ      p8xn002.wav
+‚îÇ      p8xn003.wav
+‚îÇ      p8xn004.wav
+‚îÇ      p8xn005.wav
+‚îÇ      p8xn006.wav
+‚îÇ      p8xn007.wav
+‚îÇ      p8xn008.wav
+‚îÇ      p8xn009.wav
+‚îÇ      p8xn010.wav
+‚îÇ      p8xn011.wav
+‚îÇ      p8xn012.wav
+‚îÇ      p8xn013.wav
+‚îÇ      p8xn014.wav
+‚îÇ      p8xn015.wav
+‚îÇ      p8xn016.wav
+‚îÇ      p8xn017.wav
+‚îÇ      p8xn018.wav
+‚îÇ      p8xn019.wav
+‚îÇ      p8xn020.wav
+‚îÇ      p8xn021.wav
+‚îÇ      p8xn022.wav
+‚îÇ      p8xn023.wav
+‚îÇ      p8xn024.wav
+‚îÇ      p8xn025.wav
+‚îÇ      p8xn026.wav
+‚îÇ      p8xn027.wav
+‚îÇ      p8xn028.wav
+‚îÇ      p8xn029.wav
+‚îÇ      p8xn030.wav
+‚îÇ      p8xn031.wav
+‚îÇ      p8xn032.wav
+‚îÇ      p8xn033.wav
+‚îÇ      p8xn034.wav
+‚îÇ      p8xn035.wav
+‚îÇ      p8xn036.wav
+‚îÇ      p8xn037.wav
+‚îÇ      p8xn038.wav
+‚îÇ      p8xn039.wav
+‚îÇ      p8xn040.wav
+‚îÇ      p8xn041.wav
+‚îÇ      p8xn042.wav
+‚îÇ      p8xn043.wav
+‚îÇ      p8xn044.wav
+‚îÇ      p8xn045.wav
+‚îÇ      p8xn046.wav
+‚îÇ      p8xn047.wav
+‚îÇ      p8xn048.wav
+‚îÇ      p8xn049.wav
+‚îÇ      p8xn050.wav
+‚îÇ      p8xn051.wav
+‚îÇ      p8xn052.wav
+‚îÇ      p8xn053.wav
+‚îÇ      p8xn054.wav
+‚îÇ      p8xn055.wav
+‚îÇ      p8xn056.wav
+‚îÇ      p8xn057.wav
+‚îÇ      p8xn058.wav
+‚îÇ      p8xn059.wav
+‚îÇ      p8xn060.wav
+‚îÇ      p8xn061.wav
+‚îÇ      p8xn062.wav
+‚îÇ      p8xn063.wav
+‚îÇ      p8xn064.wav
+‚îÇ      p8xn065.wav
+‚îÇ      p8xy001.wav
+‚îÇ      p8xy002.wav
+‚îÇ      p8xy003.wav
+‚îÇ      p8xy004.wav
+‚îÇ      p8xy005.wav
+‚îÇ      p8xy006.wav
+‚îÇ      p8xy007.wav
+‚îÇ      p8xy008.wav
+‚îÇ      p8xy009.wav
+‚îÇ      p8xy010.wav
+‚îÇ      p8xy011.wav
+‚îÇ      p8ywzl001.wav
+‚îÇ      p8ywzl002.wav
+‚îÇ      p8ywzl003.wav
+‚îÇ      p8ywzl004.wav
+‚îÇ      p8ywzl005.wav
+‚îÇ      p8ywzl006.wav
+‚îÇ      p8ywzl007.wav
+‚îÇ      p8ywzl008.wav
+‚îÇ      p8ywzl009.wav
+‚îÇ      p8ywzl010.wav
+‚îÇ      p8ywzl011.wav
+‚îÇ      p8ywzl012.wav
+‚îÇ      p8ywzl013.wav
+‚îÇ      p8ywzl014.wav
+‚îÇ      p8ywzl015.wav
+‚îÇ      p8ywzl016.wav
+‚îÇ      plot_08[0].txt
+‚îÇ      
+‚îú‚îÄplot_09[0]
+‚îÇ      p9bje001.wav
+‚îÇ      p9bje002.wav
+‚îÇ      p9bje003.wav
+‚îÇ      p9bje004.wav
+‚îÇ      p9bje005.wav
+‚îÇ      p9bje006.wav
+‚îÇ      p9bje007.wav
+‚îÇ      p9flq001.wav
+‚îÇ      p9flq002.wav
+‚îÇ      p9flq003.wav
+‚îÇ      p9flq004.wav
+‚îÇ      p9flq005.wav
+‚îÇ      p9flq006.wav
+‚îÇ      p9flq007.wav
+‚îÇ      p9flq008.wav
+‚îÇ      p9flq009.wav
+‚îÇ      p9flq010.wav
+‚îÇ      p9kla001.wav
+‚îÇ      p9kla002.wav
+‚îÇ      p9kla003.wav
+‚îÇ      p9kla004.wav
+‚îÇ      p9kla005.wav
+‚îÇ      p9kla006.wav
+‚îÇ      p9kla007.wav
+‚îÇ      p9kla008.wav
+‚îÇ      p9kla009.wav
+‚îÇ      p9kla010.wav
+‚îÇ      p9kla011.wav
+‚îÇ      p9kla012.wav
+‚îÇ      p9kla013.wav
+‚îÇ      p9kla014.wav
+‚îÇ      p9kla015.wav
+‚îÇ      p9kla016.wav
+‚îÇ      p9kla017.wav
+‚îÇ      p9kla018.wav
+‚îÇ      p9kla019.wav
+‚îÇ      p9kla020.wav
+‚îÇ      p9kla021.wav
+‚îÇ      p9kla022.wav
+‚îÇ      p9kla023.wav
+‚îÇ      p9kla024.wav
+‚îÇ      p9kla025.wav
+‚îÇ      p9kla026.wav
+‚îÇ      p9kla027.wav
+‚îÇ      p9kla028.wav
+‚îÇ      p9kla029.wav
+‚îÇ      p9kla030.wav
+‚îÇ      p9kla031.wav
+‚îÇ      p9kla032.wav
+‚îÇ      p9kla033.wav
+‚îÇ      p9kla034.wav
+‚îÇ      p9kla035.wav
+‚îÇ      p9kla036.wav
+‚îÇ      p9kla037.wav
+‚îÇ      p9kla038.wav
+‚îÇ      p9kla039.wav
+‚îÇ      p9kla040.wav
+‚îÇ      p9kla041.wav
+‚îÇ      p9kla042.wav
+‚îÇ      p9kla043.wav
+‚îÇ      p9kla044.wav
+‚îÇ      p9kla045.wav
+‚îÇ      p9md001.wav
+‚îÇ      p9md002.wav
+‚îÇ      p9md003.wav
+‚îÇ      p9md004.wav
+‚îÇ      p9md005.wav
+‚îÇ      p9md006.wav
+‚îÇ      p9md007.wav
+‚îÇ      p9md008.wav
+‚îÇ      p9md009.wav
+‚îÇ      p9md010.wav
+‚îÇ      p9md011.wav
+‚îÇ      p9md012.wav
+‚îÇ      p9md013.wav
+‚îÇ      p9md014.wav
+‚îÇ      p9md015.wav
+‚îÇ      p9md016.wav
+‚îÇ      p9md017.wav
+‚îÇ      p9md018.wav
+‚îÇ      p9md019.wav
+‚îÇ      p9md020.wav
+‚îÇ      p9md021.wav
+‚îÇ      p9md022.wav
+‚îÇ      p9md023.wav
+‚îÇ      p9md024.wav
+‚îÇ      p9md025.wav
+‚îÇ      p9md026.wav
+‚îÇ      p9sfy001.wav
+‚îÇ      p9sfy002.wav
+‚îÇ      p9sfy003.wav
+‚îÇ      p9sfy004.wav
+‚îÇ      p9sfy005.wav
+‚îÇ      p9sfy006.wav
+‚îÇ      p9sfy007.wav
+‚îÇ      p9sfy008.wav
+‚îÇ      p9sfy009.wav
+‚îÇ      p9sfy010.wav
+‚îÇ      p9sfy011.wav
+‚îÇ      p9sfy012.wav
+‚îÇ      p9sfy013.wav
+‚îÇ      p9sfy014.wav
+‚îÇ      p9sfy015.wav
+‚îÇ      p9sfy016.wav
+‚îÇ      p9sfy017.wav
+‚îÇ      p9sfy018.wav
+‚îÇ      p9sfy019.wav
+‚îÇ      p9sfy020.wav
+‚îÇ      p9sfy021.wav
+‚îÇ      p9sfy022.wav
+‚îÇ      p9sfy023.wav
+‚îÇ      p9sfy024.wav
+‚îÇ      p9sfy025.wav
+‚îÇ      p9sfy026.wav
+‚îÇ      p9sfy027.wav
+‚îÇ      p9sfy028.wav
+‚îÇ      p9sfy029.wav
+‚îÇ      p9sfy030.wav
+‚îÇ      p9sy001.wav
+‚îÇ      p9sy002.wav
+‚îÇ      p9sy003.wav
+‚îÇ      p9sy004.wav
+‚îÇ      p9sy005.wav
+‚îÇ      p9sy006.wav
+‚îÇ      p9sy007.wav
+‚îÇ      p9sy008.wav
+‚îÇ      p9sy009.wav
+‚îÇ      p9sy010.wav
+‚îÇ      p9sy011.wav
+‚îÇ      p9sy012.wav
+‚îÇ      p9sy013.wav
+‚îÇ      p9sy014.wav
+‚îÇ      p9sy015.wav
+‚îÇ      p9sy016.wav
+‚îÇ      p9sy017.wav
+‚îÇ      p9sy018.wav
+‚îÇ      p9sy019.wav
+‚îÇ      p9sy020.wav
+‚îÇ      p9sy021.wav
+‚îÇ      p9wlt001.wav
+‚îÇ      p9xn001.wav
+‚îÇ      p9xn002.wav
+‚îÇ      p9xn003.wav
+‚îÇ      p9xn004.wav
+‚îÇ      p9xn005.wav
+‚îÇ      p9xn006.wav
+‚îÇ      p9xn007.wav
+‚îÇ      p9xn008.wav
+‚îÇ      p9xn009.wav
+‚îÇ      p9xn010.wav
+‚îÇ      p9xn011.wav
+‚îÇ      p9xn012.wav
+‚îÇ      p9xn013.wav
+‚îÇ      p9xn014.wav
+‚îÇ      p9xn015.wav
+‚îÇ      p9xn016.wav
+‚îÇ      p9xn017.wav
+‚îÇ      p9xn018.wav
+‚îÇ      p9xn019.wav
+‚îÇ      p9xn020.wav
+‚îÇ      p9xn021.wav
+‚îÇ      p9xn022.wav
+‚îÇ      p9xn023.wav
+‚îÇ      p9xn024.wav
+‚îÇ      p9xn025.wav
+‚îÇ      p9xn026.wav
+‚îÇ      p9xn027.wav
+‚îÇ      p9xn028.wav
+‚îÇ      p9xn029.wav
+‚îÇ      p9xn030.wav
+‚îÇ      p9xn031.wav
+‚îÇ      p9xn032.wav
+‚îÇ      p9xn033.wav
+‚îÇ      p9xn034.wav
+‚îÇ      p9xn035.wav
+‚îÇ      p9xn036.wav
+‚îÇ      p9xn037.wav
+‚îÇ      p9xn038.wav
+‚îÇ      p9xn039.wav
+‚îÇ      p9xn040.wav
+‚îÇ      p9xn041.wav
+‚îÇ      p9xn042.wav
+‚îÇ      p9xn043.wav
+‚îÇ      p9xn044.wav
+‚îÇ      p9xn045.wav
+‚îÇ      p9xn046.wav
+‚îÇ      p9xn047.wav
+‚îÇ      plot_09[0].txt
+‚îÇ      
+‚îú‚îÄplot_10[0]
+‚îÇ      p10dhz001.wav
+‚îÇ      p10dhz002.wav
+‚îÇ      p10dhz003.wav
+‚îÇ      p10dhz004.wav
+‚îÇ      p10dhz005.wav
+‚îÇ      p10dxz001.wav
+‚îÇ      p10dxz002.wav
+‚îÇ      p10dxz003.wav
+‚îÇ      p10dxz004.wav
+‚îÇ      p10dxz005.wav
+‚îÇ      p10dxz006.wav
+‚îÇ      p10dxz007.wav
+‚îÇ      p10dxz008.wav
+‚îÇ      p10dxz009.wav
+‚îÇ      p10dxz010.wav
+‚îÇ      p10dxz011.wav
+‚îÇ      p10dxz012.wav
+‚îÇ      p10dxz013.wav
+‚îÇ      p10dxz014.wav
+‚îÇ      p10dxz015.wav
+‚îÇ      p10dxz016.wav
+‚îÇ      p10dxz017.wav
+‚îÇ      p10dxz018.wav
+‚îÇ      p10dxz019.wav
+‚îÇ      p10dxz020.wav
+‚îÇ      p10hgl001.wav
+‚îÇ      p10hgl002.wav
+‚îÇ      p10hgl003.wav
+‚îÇ      p10hgl004.wav
+‚îÇ      p10hgl005.wav
+‚îÇ      p10hgl006.wav
+‚îÇ      p10hgl007.wav
+‚îÇ      p10hgl008.wav
+‚îÇ      p10hgl009.wav
+‚îÇ      p10hgl010.wav
+‚îÇ      p10hgl011.wav
+‚îÇ      p10kla001.wav
+‚îÇ      p10kla002.wav
+‚îÇ      p10kla003.wav
+‚îÇ      p10kla004.wav
+‚îÇ      p10kla005.wav
+‚îÇ      p10kla006.wav
+‚îÇ      p10kla007.wav
+‚îÇ      p10kla008.wav
+‚îÇ      p10kla009.wav
+‚îÇ      p10kla010.wav
+‚îÇ      p10kla011.wav
+‚îÇ      p10kla012.wav
+‚îÇ      p10kla013.wav
+‚îÇ      p10kla014.wav
+‚îÇ      p10kla015.wav
+‚îÇ      p10kla016.wav
+‚îÇ      p10kla017.wav
+‚îÇ      p10kla018.wav
+‚îÇ      p10kla019.wav
+‚îÇ      p10kla020.wav
+‚îÇ      p10kla021.wav
+‚îÇ      p10kla022.wav
+‚îÇ      p10kla023.wav
+‚îÇ      p10kla024.wav
+‚îÇ      p10kla025.wav
+‚îÇ      p10kla026.wav
+‚îÇ      p10kla027.wav
+‚îÇ      p10kla028.wav
+‚îÇ      p10kla029.wav
+‚îÇ      p10kla030.wav
+‚îÇ      p10kla031.wav
+‚îÇ      p10kla032.wav
+‚îÇ      p10kla033.wav
+‚îÇ      p10kla034.wav
+‚îÇ      p10kla035.wav
+‚îÇ      p10kla036.wav
+‚îÇ      p10kla037.wav
+‚îÇ      p10kla038.wav
+‚îÇ      p10kla039.wav
+‚îÇ      p10kla040.wav
+‚îÇ      p10kla041.wav
+‚îÇ      p10kla042.wav
+‚îÇ      p10kla043.wav
+‚îÇ      p10kla044.wav
+‚îÇ      p10kla045.wav
+‚îÇ      p10kla046.wav
+‚îÇ      p10kla047.wav
+‚îÇ      p10kla048.wav
+‚îÇ      p10kla049.wav
+‚îÇ      p10kla050.wav
+‚îÇ      p10kla051.wav
+‚îÇ      p10kla052.wav
+‚îÇ      p10kla053.wav
+‚îÇ      p10kla054.wav
+‚îÇ      p10kla055.wav
+‚îÇ      p10kla056.wav
+‚îÇ      p10kla057.wav
+‚îÇ      p10kla058.wav
+‚îÇ      p10ml001.wav
+‚îÇ      p10ml002.wav
+‚îÇ      p10ml003.wav
+‚îÇ      p10ml004.wav
+‚îÇ      p10ml005.wav
+‚îÇ      p10ml006.wav
+‚îÇ      p10ml007.wav
+‚îÇ      p10ml008.wav
+‚îÇ      p10sfy001.wav
+‚îÇ      p10sfy002.wav
+‚îÇ      p10sfy003.wav
+‚îÇ      p10sfy004.wav
+‚îÇ      p10sfy005.wav
+‚îÇ      p10sfy006.wav
+‚îÇ      p10sfy007.wav
+‚îÇ      p10sfy008.wav
+‚îÇ      p10sfy009.wav
+‚îÇ      p10sy001.wav
+‚îÇ      p10sy002.wav
+‚îÇ      p10sy003.wav
+‚îÇ      p10sy004.wav
+‚îÇ      p10sy005.wav
+‚îÇ      p10sy006.wav
+‚îÇ      p10sy007.wav
+‚îÇ      p10sy008.wav
+‚îÇ      p10sy009.wav
+‚îÇ      p10sy010.wav
+‚îÇ      p10sy011.wav
+‚îÇ      p10sy012.wav
+‚îÇ      p10xn001.wav
+‚îÇ      p10xn002.wav
+‚îÇ      p10xn003.wav
+‚îÇ      p10xn004.wav
+‚îÇ      p10xn005.wav
+‚îÇ      p10xn006.wav
+‚îÇ      p10xn007.wav
+‚îÇ      p10xn008.wav
+‚îÇ      p10xn009.wav
+‚îÇ      p10xn010.wav
+‚îÇ      p10xn011.wav
+‚îÇ      p10xn012.wav
+‚îÇ      p10xn013.wav
+‚îÇ      p10xn014.wav
+‚îÇ      p10xn015.wav
+‚îÇ      p10xn016.wav
+‚îÇ      p10xn017.wav
+‚îÇ      p10xn018.wav
+‚îÇ      p10xn019.wav
+‚îÇ      p10xn020.wav
+‚îÇ      p10xn021.wav
+‚îÇ      p10xn022.wav
+‚îÇ      p10xn023.wav
+‚îÇ      p10xn024.wav
+‚îÇ      p10xn025.wav
+‚îÇ      p10xn026.wav
+‚îÇ      p10xn027.wav
+‚îÇ      p10xn028.wav
+‚îÇ      p10xn029.wav
+‚îÇ      p10xn030.wav
+‚îÇ      p10xn031.wav
+‚îÇ      p10xn032.wav
+‚îÇ      p10xn033.wav
+‚îÇ      p10xn034.wav
+‚îÇ      p10xn035.wav
+‚îÇ      p10xn036.wav
+‚îÇ      p10xn037.wav
+‚îÇ      p10xn038.wav
+‚îÇ      p10xn039.wav
+‚îÇ      p10xn040.wav
+‚îÇ      p10xn041.wav
+‚îÇ      p10xn042.wav
+‚îÇ      p10xn043.wav
+‚îÇ      p10xn044.wav
+‚îÇ      p10xn045.wav
+‚îÇ      p10xn046.wav
+‚îÇ      p10xn047.wav
+‚îÇ      p10xn048.wav
+‚îÇ      p10xn049.wav
+‚îÇ      p10xn050.wav
+‚îÇ      p10xn051.wav
+‚îÇ      p10xn052.wav
+‚îÇ      p10xn053.wav
+‚îÇ      p10xn054.wav
+‚îÇ      p10xn055.wav
+‚îÇ      p10xn056.wav
+‚îÇ      p10xn057.wav
+‚îÇ      p10xn058.wav
+‚îÇ      p10xn059.wav
+‚îÇ      p10xn060.wav
+‚îÇ      p10xn061.wav
+‚îÇ      p10xn062.wav
+‚îÇ      plot_10[0].txt
+‚îÇ      
+‚îú‚îÄplot_11[0]
+‚îÇ      p11als001.wav
+‚îÇ      p11als002.wav
+‚îÇ      p11bje001.wav
+‚îÇ      p11dhz001.wav
+‚îÇ      p11dhz002.wav
+‚îÇ      p11dhz003.wav
+‚îÇ      p11dhz004.wav
+‚îÇ      p11dhz005.wav
+‚îÇ      p11dhz006.wav
+‚îÇ      p11dhz007.wav
+‚îÇ      p11dhz008.wav
+‚îÇ      p11dxz001.wav
+‚îÇ      p11dxz002.wav
+‚îÇ      p11dxz003.wav
+‚îÇ      p11dxz004.wav
+‚îÇ      p11dxz005.wav
+‚îÇ      p11dxz006.wav
+‚îÇ      p11dxz007.wav
+‚îÇ      p11dxz008.wav
+‚îÇ      p11dxz009.wav
+‚îÇ      p11dxz010.wav
+‚îÇ      p11flq001.wav
+‚îÇ      p11hczs001.wav
+‚îÇ      p11hczs002.wav
+‚îÇ      p11hczs003.wav
+‚îÇ      p11hczs004.wav
+‚îÇ      p11hczs005.wav
+‚îÇ      p11hgl001.wav
+‚îÇ      p11hgl002.wav
+‚îÇ      p11hgl003.wav
+‚îÇ      p11hgl004.wav
+‚îÇ      p11hgl005.wav
+‚îÇ      p11hgl006.wav
+‚îÇ      p11hgl007.wav
+‚îÇ      p11hgl008.wav
+‚îÇ      p11hgl009.wav
+‚îÇ      p11hgl010.wav
+‚îÇ      p11hgl011.wav
+‚îÇ      p11hgl012.wav
+‚îÇ      p11hgl013.wav
+‚îÇ      p11hgl014.wav
+‚îÇ      p11hgl015.wav
+‚îÇ      p11hgl016.wav
+‚îÇ      p11hgl017.wav
+‚îÇ      p11hgl018.wav
+‚îÇ      p11hgl019.wav
+‚îÇ      p11hgl020.wav
+‚îÇ      p11hgl021.wav
+‚îÇ      p11hgl022.wav
+‚îÇ      p11hgl023.wav
+‚îÇ      p11hgl024.wav
+‚îÇ      p11hgl025.wav
+‚îÇ      p11hgl026.wav
+‚îÇ      p11hgl027.wav
+‚îÇ      p11hgl028.wav
+‚îÇ      p11hgl029.wav
+‚îÇ      p11hgl030.wav
+‚îÇ      p11hgl031.wav
+‚îÇ      p11hgl032.wav
+‚îÇ      p11hgl033.wav
+‚îÇ      p11hgl034.wav
+‚îÇ      p11hgl035.wav
+‚îÇ      p11hgl036.wav
+‚îÇ      p11hgl037.wav
+‚îÇ      p11hgl038.wav
+‚îÇ      p11hgl039.wav
+‚îÇ      p11jk001.wav
+‚îÇ      p11kl001.wav
+‚îÇ      p11kl002.wav
+‚îÇ      p11kla001.wav
+‚îÇ      p11kla002.wav
+‚îÇ      p11kla003.wav
+‚îÇ      p11kla004.wav
+‚îÇ      p11kla005.wav
+‚îÇ      p11kla006.wav
+‚îÇ      p11kla007.wav
+‚îÇ      p11kla008.wav
+‚îÇ      p11kla009.wav
+‚îÇ      p11kla010.wav
+‚îÇ      p11kla011.wav
+‚îÇ      p11lz001.wav
+‚îÇ      p11lz002.wav
+‚îÇ      p11md001.wav
+‚îÇ      p11ml001.wav
+‚îÇ      p11ml002.wav
+‚îÇ      p11ml003.wav
+‚îÇ      p11ml004.wav
+‚îÇ      p11sfy001.wav
+‚îÇ      p11sfy002.wav
+‚îÇ      p11sfy003.wav
+‚îÇ      p11sfy004.wav
+‚îÇ      p11sfy005.wav
+‚îÇ      p11sfy006.wav
+‚îÇ      p11sfy007.wav
+‚îÇ      p11sfy008.wav
+‚îÇ      p11sfy009.wav
+‚îÇ      p11sfy010.wav
+‚îÇ      p11sfy011.wav
+‚îÇ      p11sfy012.wav
+‚îÇ      p11sfy013.wav
+‚îÇ      p11sfy014.wav
+‚îÇ      p11sfy015.wav
+‚îÇ      p11sfy016.wav
+‚îÇ      p11sfy017.wav
+‚îÇ      p11sfy018.wav
+‚îÇ      p11sfy019.wav
+‚îÇ      p11sfy020.wav
+‚îÇ      p11sfy021.wav
+‚îÇ      p11sfy022.wav
+‚îÇ      p11sfy023.wav
+‚îÇ      p11sjr001.wav
+‚îÇ      p11sy001.wav
+‚îÇ      p11sy002.wav
+‚îÇ      p11sy003.wav
+‚îÇ      p11sy004.wav
+‚îÇ      p11sy005.wav
+‚îÇ      p11sy006.wav
+‚îÇ      p11wkd001.wav
+‚îÇ      p11wlt001.wav
+‚îÇ      p11xed001.wav
+‚îÇ      p11xn001.wav
+‚îÇ      p11xn002.wav
+‚îÇ      p11xn003.wav
+‚îÇ      p11xn004.wav
+‚îÇ      p11xn005.wav
+‚îÇ      p11xn006.wav
+‚îÇ      p11xn007.wav
+‚îÇ      p11xn008.wav
+‚îÇ      p11xn009.wav
+‚îÇ      p11xn010.wav
+‚îÇ      p11xn011.wav
+‚îÇ      p11xn012.wav
+‚îÇ      p11xn013.wav
+‚îÇ      p11xn014.wav
+‚îÇ      p11xn015.wav
+‚îÇ      p11xn016.wav
+‚îÇ      p11xn017.wav
+‚îÇ      p11xn018.wav
+‚îÇ      p11xn019.wav
+‚îÇ      p11xn020.wav
+‚îÇ      p11xn021.wav
+‚îÇ      p11xn022.wav
+‚îÇ      p11xn023.wav
+‚îÇ      p11xn024.wav
+‚îÇ      p11xn025.wav
+‚îÇ      p11xn026.wav
+‚îÇ      p11xn027.wav
+‚îÇ      p11xn028.wav
+‚îÇ      p11xn029.wav
+‚îÇ      p11xn030.wav
+‚îÇ      p11xn031.wav
+‚îÇ      p11xn032.wav
+‚îÇ      p11xn033.wav
+‚îÇ      p11xn034.wav
+‚îÇ      p11xn035.wav
+‚îÇ      p11xn036.wav
+‚îÇ      p11xn037.wav
+‚îÇ      p11xn038.wav
+‚îÇ      p11xn039.wav
+‚îÇ      p11xn040.wav
+‚îÇ      p11xn041.wav
+‚îÇ      p11xn042.wav
+‚îÇ      p11xn043.wav
+‚îÇ      p11xn044.wav
+‚îÇ      p11xn045.wav
+‚îÇ      p11xn046.wav
+‚îÇ      p11xn047.wav
+‚îÇ      p11xn048.wav
+‚îÇ      p11xn049.wav
+‚îÇ      p11xn050.wav
+‚îÇ      p11xn051.wav
+‚îÇ      p11xn052.wav
+‚îÇ      p11xn053.wav
+‚îÇ      p11xn054.wav
+‚îÇ      p11xn055.wav
+‚îÇ      p11xn056.wav
+‚îÇ      p11xn057.wav
+‚îÇ      p11xn058.wav
+‚îÇ      p11xn059.wav
+‚îÇ      plot_11[0].txt
+‚îÇ      
+‚îú‚îÄrabbit_speaker[0]
+‚îÇ      guzheng.wav
+‚îÇ      rabbit_speaker[0].txt
+‚îÇ      suona.wav
+‚îÇ      yueqin.wav
+‚îÇ      
+‚îú‚îÄreverse_flag[0]
+‚îÇ      reverse_flag[0].txt
+‚îÇ      reverse_flag_correct.wav
+‚îÇ      reverse_flag_dowm.wav
+‚îÇ      reverse_flag_left.wav
+‚îÇ      reverse_flag_right.wav
+‚îÇ      reverse_flag_up.wav
+‚îÇ      reverse_flag_waiting.wav
+‚îÇ      reverse_flag_wrong.wav
+‚îÇ      
+‚îú‚îÄrhythm_escape_1[0]
+‚îÇ      1_hit.wav
+‚îÇ      1_no_hit.wav
+‚îÇ      countdown.wav
+‚îÇ      finish.wav
+‚îÇ      rhythm_difficult_1.wav
+‚îÇ      rhythm_difficult_10.wav
+‚îÇ      rhythm_difficult_11.wav
+‚îÇ      rhythm_difficult_12.wav
+‚îÇ      rhythm_difficult_13.wav
+‚îÇ      rhythm_difficult_14.wav
+‚îÇ      rhythm_difficult_15.wav
+‚îÇ      rhythm_difficult_16.wav
+‚îÇ      rhythm_difficult_17.wav
+‚îÇ      rhythm_difficult_18.wav
+‚îÇ      rhythm_difficult_19.wav
+‚îÇ      rhythm_difficult_2.wav
+‚îÇ      rhythm_difficult_20.wav
+‚îÇ      rhythm_difficult_21.wav
+‚îÇ      rhythm_difficult_22.wav
+‚îÇ      rhythm_difficult_23.wav
+‚îÇ      rhythm_difficult_24.wav
+‚îÇ      rhythm_difficult_25.wav
+‚îÇ      rhythm_difficult_26.wav
+‚îÇ      rhythm_difficult_27.wav
+‚îÇ      rhythm_difficult_28.wav
+‚îÇ      rhythm_difficult_29.wav
+‚îÇ      rhythm_difficult_3.wav
+‚îÇ      rhythm_difficult_30.wav
+‚îÇ      rhythm_difficult_31.wav
+‚îÇ      rhythm_difficult_32.wav
+‚îÇ      rhythm_difficult_33.wav
+‚îÇ      rhythm_difficult_34.wav
+‚îÇ      rhythm_difficult_35.wav
+‚îÇ      rhythm_difficult_36.wav
+‚îÇ      rhythm_difficult_37.wav
+‚îÇ      rhythm_difficult_4.wav
+‚îÇ      rhythm_difficult_5.wav
+‚îÇ      rhythm_difficult_6.wav
+‚îÇ      rhythm_difficult_7.wav
+‚îÇ      rhythm_difficult_8.wav
+‚îÇ      rhythm_difficult_9.wav
+‚îÇ      rhythm_easy_1.wav
+‚îÇ      rhythm_easy_10.wav
+‚îÇ      rhythm_easy_11.wav
+‚îÇ      rhythm_easy_12.wav
+‚îÇ      rhythm_easy_13.wav
+‚îÇ      rhythm_easy_14.wav
+‚îÇ      rhythm_easy_15.wav
+‚îÇ      rhythm_easy_16.wav
+‚îÇ      rhythm_easy_17.wav
+‚îÇ      rhythm_easy_18.wav
+‚îÇ      rhythm_easy_19.wav
+‚îÇ      rhythm_easy_2.wav
+‚îÇ      rhythm_easy_20.wav
+‚îÇ      rhythm_easy_21.wav
+‚îÇ      rhythm_easy_22.wav
+‚îÇ      rhythm_easy_23.wav
+‚îÇ      rhythm_easy_24.wav
+‚îÇ      rhythm_easy_25.wav
+‚îÇ      rhythm_easy_26.wav
+‚îÇ      rhythm_easy_27.wav
+‚îÇ      rhythm_easy_28.wav
+‚îÇ      rhythm_easy_29.wav
+‚îÇ      rhythm_easy_3.wav
+‚îÇ      rhythm_easy_30.wav
+‚îÇ      rhythm_easy_31.wav
+‚îÇ      rhythm_easy_4.wav
+‚îÇ      rhythm_easy_5.wav
+‚îÇ      rhythm_easy_6.wav
+‚îÇ      rhythm_easy_7.wav
+‚îÇ      rhythm_easy_8.wav
+‚îÇ      rhythm_easy_9.wav
+‚îÇ      rhythm_escape_1[0].txt
+‚îÇ      rhythm_hard_1.wav
+‚îÇ      rhythm_hard_10.wav
+‚îÇ      rhythm_hard_11.wav
+‚îÇ      rhythm_hard_12.wav
+‚îÇ      rhythm_hard_13.wav
+‚îÇ      rhythm_hard_14.wav
+‚îÇ      rhythm_hard_15.wav
+‚îÇ      rhythm_hard_16.wav
+‚îÇ      rhythm_hard_17.wav
+‚îÇ      rhythm_hard_18.wav
+‚îÇ      rhythm_hard_19.wav
+‚îÇ      rhythm_hard_2.wav
+‚îÇ      rhythm_hard_20.wav
+‚îÇ      rhythm_hard_21.wav
+‚îÇ      rhythm_hard_22.wav
+‚îÇ      rhythm_hard_23.wav
+‚îÇ      rhythm_hard_24.wav
+‚îÇ      rhythm_hard_25.wav
+‚îÇ      rhythm_hard_26.wav
+‚îÇ      rhythm_hard_27.wav
+‚îÇ      rhythm_hard_28.wav
+‚îÇ      rhythm_hard_29.wav
+‚îÇ      rhythm_hard_3.wav
+‚îÇ      rhythm_hard_30.wav
+‚îÇ      rhythm_hard_31.wav
+‚îÇ      rhythm_hard_32.wav
+‚îÇ      rhythm_hard_33.wav
+‚îÇ      rhythm_hard_34.wav
+‚îÇ      rhythm_hard_35.wav
+‚îÇ      rhythm_hard_36.wav
+‚îÇ      rhythm_hard_4.wav
+‚îÇ      rhythm_hard_5.wav
+‚îÇ      rhythm_hard_6.wav
+‚îÇ      rhythm_hard_7.wav
+‚îÇ      rhythm_hard_8.wav
+‚îÇ      rhythm_hard_9.wav
+‚îÇ      transition_difficult_to_hard.wav
+‚îÇ      transition_easy_to_difficult.wav
+‚îÇ      
+‚îú‚îÄrhythm_escape_2[0]
+‚îÇ      2_hit.wav
+‚îÇ      2_no_hit.wav
+‚îÇ      countdown.wav
+‚îÇ      finish.wav
+‚îÇ      rhythm_difficult_1.wav
+‚îÇ      rhythm_difficult_10.wav
+‚îÇ      rhythm_difficult_11.wav
+‚îÇ      rhythm_difficult_12.wav
+‚îÇ      rhythm_difficult_13.wav
+‚îÇ      rhythm_difficult_14.wav
+‚îÇ      rhythm_difficult_15.wav
+‚îÇ      rhythm_difficult_16.wav
+‚îÇ      rhythm_difficult_17.wav
+‚îÇ      rhythm_difficult_18.wav
+‚îÇ      rhythm_difficult_19.wav
+‚îÇ      rhythm_difficult_2.wav
+‚îÇ      rhythm_difficult_20.wav
+‚îÇ      rhythm_difficult_21.wav
+‚îÇ      rhythm_difficult_22.wav
+‚îÇ      rhythm_difficult_23.wav
+‚îÇ      rhythm_difficult_24.wav
+‚îÇ      rhythm_difficult_25.wav
+‚îÇ      rhythm_difficult_3.wav
+‚îÇ      rhythm_difficult_4.wav
+‚îÇ      rhythm_difficult_5.wav
+‚îÇ      rhythm_difficult_6.wav
+‚îÇ      rhythm_difficult_7.wav
+‚îÇ      rhythm_difficult_8.wav
+‚îÇ      rhythm_difficult_9.wav
+‚îÇ      rhythm_easy_1.wav
+‚îÇ      rhythm_easy_10.wav
+‚îÇ      rhythm_easy_11.wav
+‚îÇ      rhythm_easy_12.wav
+‚îÇ      rhythm_easy_13.wav
+‚îÇ      rhythm_easy_14.wav
+‚îÇ      rhythm_easy_15.wav
+‚îÇ      rhythm_easy_16.wav
+‚îÇ      rhythm_easy_17.wav
+‚îÇ      rhythm_easy_18.wav
+‚îÇ      rhythm_easy_19.wav
+‚îÇ      rhythm_easy_2.wav
+‚îÇ      rhythm_easy_20.wav
+‚îÇ      rhythm_easy_3.wav
+‚îÇ      rhythm_easy_4.wav
+‚îÇ      rhythm_easy_5.wav
+‚îÇ      rhythm_easy_6.wav
+‚îÇ      rhythm_easy_7.wav
+‚îÇ      rhythm_easy_8.wav
+‚îÇ      rhythm_easy_9.wav
+‚îÇ      rhythm_escape_2[0].txt
+‚îÇ      rhythm_hard_1.wav
+‚îÇ      rhythm_hard_10.wav
+‚îÇ      rhythm_hard_11.wav
+‚îÇ      rhythm_hard_12.wav
+‚îÇ      rhythm_hard_13.wav
+‚îÇ      rhythm_hard_14.wav
+‚îÇ      rhythm_hard_15.wav
+‚îÇ      rhythm_hard_16.wav
+‚îÇ      rhythm_hard_17.wav
+‚îÇ      rhythm_hard_18.wav
+‚îÇ      rhythm_hard_19.wav
+‚îÇ      rhythm_hard_2.wav
+‚îÇ      rhythm_hard_20.wav
+‚îÇ      rhythm_hard_21.wav
+‚îÇ      rhythm_hard_22.wav
+‚îÇ      rhythm_hard_23.wav
+‚îÇ      rhythm_hard_24.wav
+‚îÇ      rhythm_hard_25.wav
+‚îÇ      rhythm_hard_26.wav
+‚îÇ      rhythm_hard_27.wav
+‚îÇ      rhythm_hard_28.wav
+‚îÇ      rhythm_hard_29.wav
+‚îÇ      rhythm_hard_3.wav
+‚îÇ      rhythm_hard_4.wav
+‚îÇ      rhythm_hard_5.wav
+‚îÇ      rhythm_hard_6.wav
+‚îÇ      rhythm_hard_7.wav
+‚îÇ      rhythm_hard_8.wav
+‚îÇ      rhythm_hard_9.wav
+‚îÇ      transition_difficult_to_hard.wav
+‚îÇ      transition_easy_to_difficult.wav
+‚îÇ      
+‚îú‚îÄrhythm_escape_3[0]
+‚îÇ      countdown_3.wav
+‚îÇ      music_clip_1.wav
+‚îÇ      music_clip_10.wav
+‚îÇ      music_clip_11.wav
+‚îÇ      music_clip_12.wav
+‚îÇ      music_clip_13.wav
+‚îÇ      music_clip_14.wav
+‚îÇ      music_clip_15.wav
+‚îÇ      music_clip_16.wav
+‚îÇ      music_clip_17.wav
+‚îÇ      music_clip_18.wav
+‚îÇ      music_clip_19.wav
+‚îÇ      music_clip_2.wav
+‚îÇ      music_clip_20.wav
+‚îÇ      music_clip_21.wav
+‚îÇ      music_clip_22.wav
+‚îÇ      music_clip_23.wav
+‚îÇ      music_clip_24.wav
+‚îÇ      music_clip_25.wav
+‚îÇ      music_clip_26.wav
+‚îÇ      music_clip_27.wav
+‚îÇ      music_clip_28 .wav
+‚îÇ      music_clip_28.wav
+‚îÇ      music_clip_29.wav
+‚îÇ      music_clip_3.wav
+‚îÇ      music_clip_30.wav
+‚îÇ      music_clip_31.wav
+‚îÇ      music_clip_32.wav
+‚îÇ      music_clip_33.wav
+‚îÇ      music_clip_34.wav
+‚îÇ      music_clip_35.wav
+‚îÇ      music_clip_36.wav
+‚îÇ      music_clip_37.wav
+‚îÇ      music_clip_38.wav
+‚îÇ      music_clip_39.wav
+‚îÇ      music_clip_4.wav
+‚îÇ      music_clip_40.wav
+‚îÇ      music_clip_41.wav
+‚îÇ      music_clip_42.wav
+‚îÇ      music_clip_43.wav
+‚îÇ      music_clip_44.wav
+‚îÇ      music_clip_5.wav
+‚îÇ      music_clip_6.wav
+‚îÇ      music_clip_7.wav
+‚îÇ      music_clip_8.wav
+‚îÇ      music_clip_9.wav
+‚îÇ      rhythm_escape_3[0].txt
+‚îÇ      
+‚îú‚îÄrhythm_escape_4[0]
+‚îÇ      countdowm_4.wav
+‚îÇ      music_clip_1.wav
+‚îÇ      music_clip_10.wav
+‚îÇ      music_clip_11.wav
+‚îÇ      music_clip_12.wav
+‚îÇ      music_clip_13.wav
+‚îÇ      music_clip_14.wav
+‚îÇ      music_clip_15.wav
+‚îÇ      music_clip_16.wav
+‚îÇ      music_clip_17.wav
+‚îÇ      music_clip_18.wav
+‚îÇ      music_clip_19.wav
+‚îÇ      music_clip_2.wav
+‚îÇ      music_clip_20.wav
+‚îÇ      music_clip_21.wav
+‚îÇ      music_clip_22.wav
+‚îÇ      music_clip_23.wav
+‚îÇ      music_clip_24.wav
+‚îÇ      music_clip_25.wav
+‚îÇ      music_clip_26.wav
+‚îÇ      music_clip_27.wav
+‚îÇ      music_clip_28.wav
+‚îÇ      music_clip_29.wav
+‚îÇ      music_clip_3.wav
+‚îÇ      music_clip_30.wav
+‚îÇ      music_clip_31.wav
+‚îÇ      music_clip_32.wav
+‚îÇ      music_clip_33.wav
+‚îÇ      music_clip_34.wav
+‚îÇ      music_clip_35.wav
+‚îÇ      music_clip_36.wav
+‚îÇ      music_clip_37.wav
+‚îÇ      music_clip_38.wav
+‚îÇ      music_clip_39.wav
+‚îÇ      music_clip_4.wav
+‚îÇ      music_clip_40.wav
+‚îÇ      music_clip_41.wav
+‚îÇ      music_clip_42.wav
+‚îÇ      music_clip_43.wav
+‚îÇ      music_clip_44.wav
+‚îÇ      music_clip_5.wav
+‚îÇ      music_clip_6.wav
+‚îÇ      music_clip_7.wav
+‚îÇ      music_clip_8.wav
+‚îÇ      music_clip_9.wav
+‚îÇ      rhythm_escape_4[0].txt
+‚îÇ      
+‚îú‚îÄrhythm_escape_5[0]
+‚îÇ      jump.wav
+‚îÇ      left.wav
+‚îÇ      music_1.wav
+‚îÇ      music_2.wav
+‚îÇ      music_3.wav
+‚îÇ      music_4.wav
+‚îÇ      music_5.wav
+‚îÇ      rhythm_escape_5[0].txt
+‚îÇ      right.wav
+‚îÇ      
+‚îú‚îÄrice_cake[0]
+‚îÇ      good.wav
+‚îÇ      great.wav
+‚îÇ      knock_1.wav
+‚îÇ      knock_2.wav
+‚îÇ      knock_3.wav
+‚îÇ      knock_broken.wav
+‚îÇ      knock_hit_1.wav
+‚îÇ      knock_hit_2.wav
+‚îÇ      knock_hit_3.wav
+‚îÇ      knock_no_hit.wav
+‚îÇ      nice.wav
+‚îÇ      place_cake.wav
+‚îÇ      prefect.wav
+‚îÇ      rice_cake[0].txt
+‚îÇ      
+‚îú‚îÄroom[0]
+‚îÇ      bomb_boom.wav
+‚îÇ      bomb_myself.wav
+‚îÇ      bomb_normal.wav
+‚îÇ      music_box.wav
+‚îÇ      partydance.wav
+‚îÇ      party_join.wav
+‚îÇ      room[0].txt
+‚îÇ      
+‚îú‚îÄruan[0]
+‚îÇ      ruan[0].txt
+‚îÇ      zhongruan1.wav
+‚îÇ      zhongruan10.wav
+‚îÇ      zhongruan11.wav
+‚îÇ      zhongruan12.wav
+‚îÇ      zhongruan13.wav
+‚îÇ      zhongruan14.wav
+‚îÇ      zhongruan15.wav
+‚îÇ      zhongruan16.wav
+‚îÇ      zhongruan17.wav
+‚îÇ      zhongruan18.wav
+‚îÇ      zhongruan19.wav
+‚îÇ      zhongruan2.wav
+‚îÇ      zhongruan20.wav
+‚îÇ      zhongruan21.wav
+‚îÇ      zhongruan22.wav
+‚îÇ      zhongruan3.wav
+‚îÇ      zhongruan4.wav
+‚îÇ      zhongruan5.wav
+‚îÇ      zhongruan6.wav
+‚îÇ      zhongruan7.wav
+‚îÇ      zhongruan8.wav
+‚îÇ      zhongruan9.wav
+‚îÇ      
+‚îú‚îÄsanrio_speaker[0]
+‚îÇ      cloudytales.wav
+‚îÇ      disco_dancing_2_bpm_140.wav
+‚îÇ      disco_dancing_5_bpm_161.wav
+‚îÇ      disco_dancing_8_bpm_170.wav
+‚îÇ      noteparty.wav
+‚îÇ      sanrio_speaker[0].txt
+‚îÇ      
+‚îú‚îÄsax[0]
+‚îÇ      1.wav
+‚îÇ      10.wav
+‚îÇ      11.wav
+‚îÇ      12.wav
+‚îÇ      13.wav
+‚îÇ      14.wav
+‚îÇ      15.wav
+‚îÇ      16.wav
+‚îÇ      17.wav
+‚îÇ      18.wav
+‚îÇ      19.wav
+‚îÇ      2.wav
+‚îÇ      20.wav
+‚îÇ      21.wav
+‚îÇ      22.wav
+‚îÇ      3.wav
+‚îÇ      4.wav
+‚îÇ      5.wav
+‚îÇ      6.wav
+‚îÇ      7.wav
+‚îÇ      8.wav
+‚îÇ      9.wav
+‚îÇ      sax[0].txt
+‚îÇ      
+‚îú‚îÄsdc[0]
+‚îÇ      boss_skill_1.wav
+‚îÇ      boss_skill_2.wav
+‚îÇ      boss_skill_2_hit.wav
+‚îÇ      box_open.wav
+‚îÇ      box_open_sp.wav
+‚îÇ      cat_attack.wav
+‚îÇ      evacuate_force.wav
+‚îÇ      evacuate_success.wav
+‚îÇ      maojintu_attack.wav
+‚îÇ      player_attack_01.wav
+‚îÇ      player_attack_02.wav
+‚îÇ      player_attack_hit_01.wav
+‚îÇ      player_attack_hit_02.wav
+‚îÇ      player_heal.wav
+‚îÇ      player_sprint.wav
+‚îÇ      sdc[0].txt
+‚îÇ      shuguai_attack.wav
+‚îÇ      transfer.wav
+‚îÇ      
+‚îú‚îÄsea_dance[0]
+‚îÇ      balala_1.wav
+‚îÇ      balala_2.wav
+‚îÇ      didida.wav
+‚îÇ      haiyangqiyuan.wav
+‚îÇ      qte1.wav
+‚îÇ      qte2.wav
+‚îÇ      qte3.wav
+‚îÇ      sea_dance[0].txt
+‚îÇ      xiandaimodeng.wav
+‚îÇ      
+‚îú‚îÄsfx_story[0]
+‚îÇ      dianzisheng.wav
+‚îÇ      electric.wav
+‚îÇ      hailang.wav
+‚îÇ      jiaobu.wav
+‚îÇ      jingbao.wav
+‚îÇ      jingdi.wav
+‚îÇ      lingsheng.wav
+‚îÇ      nengliang.wav
+‚îÇ      qunza.wav
+‚îÇ      renqun.wav
+‚îÇ      sfx_story[0].txt
+‚îÇ      shiyanshi_loop.wav
+‚îÇ      xiangsheng.wav
+‚îÇ      xixi.wav
+‚îÇ      zhuangmen.wav
+‚îÇ      
+‚îú‚îÄshake_soda[0]
+‚îÇ      shake_countdown.wav
+‚îÇ      shake_soda[0].txt
+‚îÇ      soda_boom.wav
+‚îÇ      soda_lv1.wav
+‚îÇ      soda_lv2.wav
+‚îÇ      soda_lv3.wav
+‚îÇ      soda_normal.wav
+‚îÇ      soda_shake.wav
+‚îÇ      
+‚îú‚îÄshoufengqin[0]
+‚îÇ      shoufengqin1.wav
+‚îÇ      shoufengqin10.wav
+‚îÇ      shoufengqin11.wav
+‚îÇ      shoufengqin12.wav
+‚îÇ      shoufengqin13.wav
+‚îÇ      shoufengqin14.wav
+‚îÇ      shoufengqin15.wav
+‚îÇ      shoufengqin16.wav
+‚îÇ      shoufengqin17.wav
+‚îÇ      shoufengqin18.wav
+‚îÇ      shoufengqin19.wav
+‚îÇ      shoufengqin2.wav
+‚îÇ      shoufengqin20.wav
+‚îÇ      shoufengqin21.wav
+‚îÇ      shoufengqin22.wav
+‚îÇ      shoufengqin3.wav
+‚îÇ      shoufengqin4.wav
+‚îÇ      shoufengqin5.wav
+‚îÇ      shoufengqin6.wav
+‚îÇ      shoufengqin7.wav
+‚îÇ      shoufengqin8.wav
+‚îÇ      shoufengqin9.wav
+‚îÇ      shoufengqin[0].txt
+‚îÇ      
+‚îú‚îÄshuqin[0]
+‚îÇ      1.wav
+‚îÇ      10.wav
+‚îÇ      11.wav
+‚îÇ      12.wav
+‚îÇ      13.wav
+‚îÇ      14.wav
+‚îÇ      15.wav
+‚îÇ      16.wav
+‚îÇ      17.wav
+‚îÇ      18.wav
+‚îÇ      19.wav
+‚îÇ      2.wav
+‚îÇ      20.wav
+‚îÇ      21.wav
+‚îÇ      22.wav
+‚îÇ      3.wav
+‚îÇ      4.wav
+‚îÇ      5.wav
+‚îÇ      6.wav
+‚îÇ      7.wav
+‚îÇ      8.wav
+‚îÇ      9.wav
+‚îÇ      shuqin[0].txt
+‚îÇ      
+‚îú‚îÄskill[0]
+‚îÇ      skill[0].txt
+‚îÇ      spirit_skill_110101.wav
+‚îÇ      spirit_skill_110201.wav
+‚îÇ      spirit_skill_110301.wav
+‚îÇ      spirit_skill_110401.wav
+‚îÇ      spirit_skill_110501.wav
+‚îÇ      spirit_skill_110601.wav
+‚îÇ      spirit_skill_110701.wav
+‚îÇ      spirit_skill_110801.wav
+‚îÇ      spirit_skill_110901.wav
+‚îÇ      spirit_skill_111001.wav
+‚îÇ      spirit_skill_111101.wav
+‚îÇ      spirit_skill_111201.wav
+‚îÇ      spirit_skill_111301.wav
+‚îÇ      spirit_skill_111401.wav
+‚îÇ      spirit_skill_111501.wav
+‚îÇ      spirit_skill_111601.wav
+‚îÇ      spirit_skill_111701.wav
+‚îÇ      spirit_skill_111801.wav
+‚îÇ      spirit_skill_111901.wav
+‚îÇ      spirit_skill_112001.wav
+‚îÇ      spirit_skill_112101.wav
+‚îÇ      spirit_skill_112201.wav
+‚îÇ      spirit_skill_112301.wav
+‚îÇ      spirit_skill_112401.wav
+‚îÇ      spirit_skill_200001.wav
+‚îÇ      spirit_skill_200002.wav
+‚îÇ      spirit_skill_200003.wav
+‚îÇ      spirit_skill_200004.wav
+‚îÇ      spirit_skill_200005.wav
+‚îÇ      spirit_skill_200006.wav
+‚îÇ      spirit_skill_200007.wav
+‚îÇ      spirit_skill_200008.wav
+‚îÇ      spirit_skill_300001.wav
+‚îÇ      spirit_skill_300002.wav
+‚îÇ      spirit_skill_300003.wav
+‚îÇ      spirit_skill_300004.wav
+‚îÇ      spirit_skill_300005.wav
+‚îÇ      spirit_skill_300006.wav
+‚îÇ      spirit_skill_300007.wav
+‚îÇ      spirit_skill_300008.wav
+‚îÇ      spirit_skill_300009.wav
+‚îÇ      spirit_skill_300010.wav
+‚îÇ      
+‚îú‚îÄsnowball[0]
+‚îÇ      snowball[0].txt
+‚îÇ      snowball_hit_player_1.wav
+‚îÇ      snowball_hit_player_2.wav
+‚îÇ      snowball_hit_player_3.wav
+‚îÇ      snowball_hit_side_1.wav
+‚îÇ      snowball_hit_side_2.wav
+‚îÇ      snowball_hit_side_3.wav
+‚îÇ      snowball_throw_1.wav
+‚îÇ      snowball_throw_2.wav
+‚îÇ      snowball_throw_3.wav
+‚îÇ      snowball_walk.wav
+‚îÇ      
+‚îú‚îÄsocial_work[0]
+‚îÇ      slap_flashlight.wav
+‚îÇ      social_work[0].txt
+‚îÇ      turn_on_flashlight.wav
+‚îÇ      voice_boy_1.wav
+‚îÇ      voice_boy_2.wav
+‚îÇ      voice_boy_3.wav
+‚îÇ      voice_boy_4.wav
+‚îÇ      voice_girl_1.wav
+‚îÇ      voice_girl_2.wav
+‚îÇ      voice_girl_3.wav
+‚îÇ      vo_draw_goblin_man_1.wav
+‚îÇ      vo_draw_goblin_man_2.wav
+‚îÇ      vo_draw_goblin_man_3.wav
+‚îÇ      vo_draw_goblin_man_4.wav
+‚îÇ      vo_draw_goblin_man_5.wav
+‚îÇ      vo_draw_goblin_man_6.wav
+‚îÇ      vo_draw_goblin_man_7.wav
+‚îÇ      vo_draw_goblin_man_8.wav
+‚îÇ      vo_draw_goblin_woman_1.wav
+‚îÇ      vo_draw_goblin_woman_2.wav
+‚îÇ      vo_draw_goblin_woman_3.wav
+‚îÇ      vo_draw_goblin_woman_4.wav
+‚îÇ      vo_expression_bainian_man_01.wav
+‚îÇ      vo_expression_bainian_man_02.wav
+‚îÇ      vo_expression_bainian_man_03.wav
+‚îÇ      vo_expression_bainian_woman_01.wav
+‚îÇ      vo_expression_bainian_woman_02.wav
+‚îÇ      vo_expression_bainian_woman_03.wav
+‚îÇ      vo_expression_bainian_woman_04.wav
+‚îÇ      vo_expression_gongxifacai_man_01.wav
+‚îÇ      vo_expression_gongxifacai_man_02.wav
+‚îÇ      vo_expression_gongxifacai_man_03.wav
+‚îÇ      vo_expression_gongxifacai_man_04.wav
+‚îÇ      vo_expression_gongxifacai_woman_01.wav
+‚îÇ      vo_expression_gongxifacai_woman_02.wav
+‚îÇ      vo_expression_gongxifacai_woman_03.wav
+‚îÇ      vo_expression_gongxifacai_woman_04.wav
+‚îÇ      vo_expression_gongxifacai_woman_05.wav
+‚îÇ      vo_expression_hongbao_man_01.wav
+‚îÇ      vo_expression_hongbao_man_02.wav
+‚îÇ      vo_expression_hongbao_man_03.wav
+‚îÇ      vo_expression_hongbao_man_04.wav
+‚îÇ      vo_expression_hongbao_woman_01.wav
+‚îÇ      vo_expression_hongbao_woman_02.wav
+‚îÇ      vo_expression_hongbao_woman_03.wav
+‚îÇ      vo_felling_man_1.wav
+‚îÇ      vo_felling_man_2.wav
+‚îÇ      vo_felling_man_3.wav
+‚îÇ      vo_felling_man_4.wav
+‚îÇ      vo_felling_man_5.wav
+‚îÇ      vo_felling_man_6.wav
+‚îÇ      vo_felling_man_7.wav
+‚îÇ      vo_felling_woman_1.wav
+‚îÇ      vo_felling_woman_2.wav
+‚îÇ      vo_felling_woman_3.wav
+‚îÇ      vo_felling_woman_4.wav
+‚îÇ      vo_felling_woman_5.wav
+‚îÇ      vo_fishing_fishking_appear_man_1.wav
+‚îÇ      vo_fishing_fishking_appear_man_2.wav
+‚îÇ      vo_fishing_fishking_appear_man_3.wav
+‚îÇ      vo_fishing_fishking_appear_man_4.wav
+‚îÇ      vo_fishing_fishking_appear_woman_1.wav
+‚îÇ      vo_fishing_fishking_appear_woman_2.wav
+‚îÇ      vo_fishing_no_fish_man_1.wav
+‚îÇ      vo_fishing_no_fish_man_2.wav
+‚îÇ      vo_fishing_no_fish_man_3.wav
+‚îÇ      vo_fishing_no_fish_woman_1.wav
+‚îÇ      vo_fishing_no_fish_woman_2.wav
+‚îÇ      vo_fishing_no_fish_woman_3.wav
+‚îÇ      vo_fishing_pull_rod_man_1.wav
+‚îÇ      vo_fishing_pull_rod_man_2.wav
+‚îÇ      vo_fishing_pull_rod_man_3.wav
+‚îÇ      vo_fishing_pull_rod_man_4.wav
+‚îÇ      vo_fishing_pull_rod_man_5.wav
+‚îÇ      vo_fishing_pull_rod_woman_1.wav
+‚îÇ      vo_fishing_pull_rod_woman_2.wav
+‚îÇ      vo_fishing_pull_rod_woman_3.wav
+‚îÇ      vo_fishing_pull_rod_woman_4.wav
+‚îÇ      vo_fishing_pull_rod_woman_5.wav
+‚îÇ      vo_fishing_rare_fish_get_man_1.wav
+‚îÇ      vo_fishing_rare_fish_get_man_2.wav
+‚îÇ      vo_fishing_rare_fish_get_man_3.wav
+‚îÇ      vo_fishing_rare_fish_get_man_4.wav
+‚îÇ      vo_fishing_rare_fish_get_woman_1.wav
+‚îÇ      vo_fishing_rare_fish_get_woman_2.wav
+‚îÇ      vo_fishing_rare_fish_get_woman_3.wav
+‚îÇ      vo_fishing_swing_rod_man_1.wav
+‚îÇ      vo_fishing_swing_rod_man_10.wav
+‚îÇ      vo_fishing_swing_rod_man_11.wav
+‚îÇ      vo_fishing_swing_rod_man_2.wav
+‚îÇ      vo_fishing_swing_rod_man_3.wav
+‚îÇ      vo_fishing_swing_rod_man_4.wav
+‚îÇ      vo_fishing_swing_rod_man_5.wav
+‚îÇ      vo_fishing_swing_rod_man_6.wav
+‚îÇ      vo_fishing_swing_rod_man_7.wav
+‚îÇ      vo_fishing_swing_rod_man_8.wav
+‚îÇ      vo_fishing_swing_rod_man_9.wav
+‚îÇ      vo_fishing_swing_rod_woman_1.wav
+‚îÇ      vo_fishing_swing_rod_woman_2.wav
+‚îÇ      vo_fishing_swing_rod_woman_3.wav
+‚îÇ      vo_fishing_swing_rod_woman_4.wav
+‚îÇ      vo_fishing_swing_rod_woman_5.wav
+‚îÇ      vo_fishing_swing_rod_woman_6.wav
+‚îÇ      vo_fishing_swing_rod_woman_7.wav
+‚îÇ      vo_game_hit_hamster_correct_man_1.wav
+‚îÇ      vo_game_hit_hamster_correct_man_2.wav
+‚îÇ      vo_game_hit_hamster_correct_man_3.wav
+‚îÇ      vo_game_hit_hamster_correct_man_4.wav
+‚îÇ      vo_game_hit_hamster_correct_man_5.wav
+‚îÇ      vo_game_hit_hamster_correct_woman_1.wav
+‚îÇ      vo_game_hit_hamster_correct_woman_2.wav
+‚îÇ      vo_game_hit_hamster_correct_woman_3.wav
+‚îÇ      vo_game_hit_hamster_correct_woman_4.wav
+‚îÇ      vo_game_hit_hamster_correct_woman_5.wav
+‚îÇ      vo_game_hit_hamster_correct_woman_6.wav
+‚îÇ      vo_game_hit_hamster_correct_woman_7.wav
+‚îÇ      vo_game_hit_hamster_correct_woman_8.wav
+‚îÇ      vo_game_hit_hamster_wrong_man_1.wav
+‚îÇ      vo_game_hit_hamster_wrong_man_2.wav
+‚îÇ      vo_game_hit_hamster_wrong_man_3.wav
+‚îÇ      vo_game_hit_hamster_wrong_man_4.wav
+‚îÇ      vo_game_hit_hamster_wrong_man_5.wav
+‚îÇ      vo_game_hit_hamster_wrong_woman_1.wav
+‚îÇ      vo_game_hit_hamster_wrong_woman_2.wav
+‚îÇ      vo_game_hit_hamster_wrong_woman_3.wav
+‚îÇ      vo_game_hit_hamster_wrong_woman_4.wav
+‚îÇ      vo_game_hit_hamster_wrong_woman_5.wav
+‚îÇ      vo_game_snowball_be_hit_man_1.wav
+‚îÇ      vo_game_snowball_be_hit_man_2.wav
+‚îÇ      vo_game_snowball_be_hit_man_3.wav
+‚îÇ      vo_game_snowball_be_hit_man_4.wav
+‚îÇ      vo_game_snowball_be_hit_man_5.wav
+‚îÇ      vo_game_snowball_be_hit_man_6.wav
+‚îÇ      vo_game_snowball_be_hit_man_7.wav
+‚îÇ      vo_game_snowball_be_hit_man_8.wav
+‚îÇ      vo_game_snowball_be_hit_man_9.wav
+‚îÇ      vo_game_snowball_be_hit_woman_1.wav
+‚îÇ      vo_game_snowball_be_hit_woman_2.wav
+‚îÇ      vo_game_snowball_be_hit_woman_3.wav
+‚îÇ      vo_game_snowball_be_hit_woman_4.wav
+‚îÇ      vo_game_snowball_be_hit_woman_5.wav
+‚îÇ      vo_game_snowball_be_hit_woman_6.wav
+‚îÇ      vo_game_snowball_be_hit_woman_7.wav
+‚îÇ      vo_game_snowball_empty_man_1.wav
+‚îÇ      vo_game_snowball_empty_man_2.wav
+‚îÇ      vo_game_snowball_empty_man_3.wav
+‚îÇ      vo_game_snowball_empty_man_4.wav
+‚îÇ      vo_game_snowball_empty_man_5.wav
+‚îÇ      vo_game_snowball_empty_woman_1.wav
+‚îÇ      vo_game_snowball_empty_woman_2.wav
+‚îÇ      vo_game_snowball_empty_woman_3.wav
+‚îÇ      vo_game_snowball_empty_woman_4.wav
+‚îÇ      vo_game_snowball_hit_man_1.wav
+‚îÇ      vo_game_snowball_hit_man_2.wav
+‚îÇ      vo_game_snowball_hit_man_3.wav
+‚îÇ      vo_game_snowball_hit_man_4.wav
+‚îÇ      vo_game_snowball_hit_woman_1.wav
+‚îÇ      vo_game_snowball_launch_man_1.wav
+‚îÇ      vo_game_snowball_launch_man_2.wav
+‚îÇ      vo_game_snowball_launch_man_3.wav
+‚îÇ      vo_game_snowball_launch_man_4.wav
+‚îÇ      vo_game_snowball_launch_man_5.wav
+‚îÇ      vo_game_snowball_launch_man_6.wav
+‚îÇ      vo_game_snowball_launch_man_7.wav
+‚îÇ      vo_game_snowball_launch_man_8.wav
+‚îÇ      vo_game_snowball_launch_woman_1.wav
+‚îÇ      vo_game_snowball_launch_woman_10.wav
+‚îÇ      vo_game_snowball_launch_woman_2.wav
+‚îÇ      vo_game_snowball_launch_woman_3.wav
+‚îÇ      vo_game_snowball_launch_woman_4.wav
+‚îÇ      vo_game_snowball_launch_woman_5.wav
+‚îÇ      vo_game_snowball_launch_woman_6.wav
+‚îÇ      vo_game_snowball_launch_woman_7.wav
+‚îÇ      vo_game_snowball_launch_woman_8.wav
+‚îÇ      vo_game_snowball_launch_woman_9.wav
+‚îÇ      vo_game_snowball_ready_man_1.wav
+‚îÇ      vo_game_snowball_ready_man_2.wav
+‚îÇ      vo_game_snowball_ready_man_3.wav
+‚îÇ      vo_game_snowball_ready_woman_1.wav
+‚îÇ      vo_game_snowball_ready_woman_2.wav
+‚îÇ      vo_leisure_lay_man_1.wav
+‚îÇ      vo_leisure_lay_man_2.wav
+‚îÇ      vo_leisure_lay_woman_1.wav
+‚îÇ      vo_leisure_lay_woman_2.wav
+‚îÇ      vo_leisure_lay_woman_3.wav
+‚îÇ      vo_leisure_sit_man_1.wav
+‚îÇ      vo_leisure_sit_man_2.wav
+‚îÇ      vo_leisure_sit_man_3.wav
+‚îÇ      vo_leisure_sit_man_4.wav
+‚îÇ      vo_leisure_sit_man_5.wav
+‚îÇ      vo_leisure_sit_woman_1.wav
+‚îÇ      vo_leisure_sit_woman_2.wav
+‚îÇ      vo_mining_man_1.wav
+‚îÇ      vo_mining_man_2.wav
+‚îÇ      vo_mining_man_3.wav
+‚îÇ      vo_mining_man_4.wav
+‚îÇ      vo_mining_man_5.wav
+‚îÇ      vo_mining_woman_1.wav
+‚îÇ      vo_work_man_4.wav
+‚îÇ      vo_work_man_4_1.wav
+‚îÇ      vo_work_man_5_1.wav
+‚îÇ      vo_work_man_5_2.wav
+‚îÇ      vo_work_woman_4.wav
+‚îÇ      vo_work_woman_4_1.wav
+‚îÇ      vo_work_woman_5.wav
+‚îÇ      vo_work_woman_5_1.wav
+‚îÇ      vo_xiaoba_reception_man_1.wav
+‚îÇ      vo_xiaoba_reception_woman_1.wav
+‚îÇ      yakuaola_boy_1.wav
+‚îÇ      yakuaola_boy_2.wav
+‚îÇ      yakuaola_girl_1.wav
+‚îÇ      yakuaola_girl_2.wav
+‚îÇ      yakuaola_girl_3.wav
+‚îÇ      
+‚îú‚îÄspirit_band[0]
+‚îÇ      spirit_band[0].txt
+‚îÇ      spirit_band_01.wav
+‚îÇ      spirit_band_02.wav
+‚îÇ      spirit_band_03.wav
+‚îÇ      spirit_band_04.wav
+‚îÇ      spirit_band_05.wav
+‚îÇ      spirit_band_06.wav
+‚îÇ      spirit_band_07.wav
+‚îÇ      spirit_band_08.wav
+‚îÇ      spirit_band_09.wav
+‚îÇ      spirit_band_10.wav
+‚îÇ      spirit_band_11.wav
+‚îÇ      spirit_band_12.wav
+‚îÇ      spirit_band_13.wav
+‚îÇ      spirit_band_14.wav
+‚îÇ      spirit_band_15.wav
+‚îÇ      spirit_band_16.wav
+‚îÇ      spirit_band_17.wav
+‚îÇ      spirit_band_18.wav
+‚îÇ      spirit_band_19.wav
+‚îÇ      spirit_band_20.wav
+‚îÇ      spirit_band_21.wav
+‚îÇ      spirit_band_22.wav
+‚îÇ      spirit_band_23.wav
+‚îÇ      spirit_band_24.wav
+‚îÇ      spirit_band_25.wav
+‚îÇ      spirit_band_26.wav
+‚îÇ      spirit_band_27.wav
+‚îÇ      spirit_band_28.wav
+‚îÇ      spirit_band_29.wav
+‚îÇ      spirit_band_30.wav
+‚îÇ      
+‚îú‚îÄspirit_piano_solo[0]
+‚îÇ      1.wav
+‚îÇ      10.wav
+‚îÇ      11.wav
+‚îÇ      12.wav
+‚îÇ      13.wav
+‚îÇ      14.wav
+‚îÇ      15.wav
+‚îÇ      16.wav
+‚îÇ      17.wav
+‚îÇ      18.wav
+‚îÇ      19.wav
+‚îÇ      2.wav
+‚îÇ      20.wav
+‚îÇ      21.wav
+‚îÇ      22.wav
+‚îÇ      23.wav
+‚îÇ      24.wav
+‚îÇ      25.wav
+‚îÇ      26.wav
+‚îÇ      27.wav
+‚îÇ      28.wav
+‚îÇ      29.wav
+‚îÇ      3.wav
+‚îÇ      30.wav
+‚îÇ      4.wav
+‚îÇ      5.wav
+‚îÇ      6.wav
+‚îÇ      7.wav
+‚îÇ      8.wav
+‚îÇ      9.wav
+‚îÇ      spirit_piano_solo[0].txt
+‚îÇ      
+‚îú‚îÄtaodi[0]
+‚îÇ      taodi1.wav
+‚îÇ      taodi10.wav
+‚îÇ      taodi11.wav
+‚îÇ      taodi12.wav
+‚îÇ      taodi13.wav
+‚îÇ      taodi14.wav
+‚îÇ      taodi15.wav
+‚îÇ      taodi2.wav
+‚îÇ      taodi3.wav
+‚îÇ      taodi4.wav
+‚îÇ      taodi5.wav
+‚îÇ      taodi6.wav
+‚îÇ      taodi7.wav
+‚îÇ      taodi8.wav
+‚îÇ      taodi9.wav
+‚îÇ      taodi[0].txt
+‚îÇ      
+‚îú‚îÄthrow_wheat[0]
+‚îÇ      player_throw_wheat_1.wav
+‚îÇ      player_throw_wheat_2.wav
+‚îÇ      scarecrow_throw_wheat.wav
+‚îÇ      throw_wheat[0].txt
+‚îÇ      wheat_into_bag_fail.wav
+‚îÇ      wheat_into_bag_success.wav
+‚îÇ      
+‚îú‚îÄtourist[0]
+‚îÇ      azhai.wav
+‚îÇ      bailongzhanglao.wav
+‚îÇ      hongzhu.wav
+‚îÇ      huofeng.wav
+‚îÇ      kabu.wav
+‚îÇ      kebi.wav
+‚îÇ      leiwen.wav
+‚îÇ      lika.wav
+‚îÇ      longni.wav
+‚îÇ      longsantaizi.wav
+‚îÇ      naduowangzi.wav
+‚îÇ      shiwaxi.wav
+‚îÇ      sunwukong.wav
+‚îÇ      tianlang.wav
+‚îÇ      tiluo.wav
+‚îÇ      tiya.wav
+‚îÇ      tourist[0].txt
+‚îÇ      ui_effect_shuaiqi_01.wav
+‚îÇ      yunyang.wav
+‚îÇ      
+‚îú‚îÄtourist_vo[0]
+‚îÇ      npc_tourist_azhai_02.wav
+‚îÇ      npc_tourist_azhai_03.wav
+‚îÇ      npc_tourist_azhai_04.wav
+‚îÇ      npc_tourist_azhai_05.wav
+‚îÇ      npc_tourist_azhai_06.wav
+‚îÇ      npc_tourist_azhai_07.wav
+‚îÇ      npc_tourist_azhai_08.wav
+‚îÇ      npc_tourist_azhai_09.wav
+‚îÇ      npc_tourist_bailongzhanglao_02.wav
+‚îÇ      npc_tourist_bailongzhanglao_03.wav
+‚îÇ      npc_tourist_bailongzhanglao_04.wav
+‚îÇ      npc_tourist_bailongzhanglao_05.wav
+‚îÇ      npc_tourist_bailongzhanglao_06.wav
+‚îÇ      npc_tourist_bailongzhanglao_07.wav
+‚îÇ      npc_tourist_bailongzhanglao_08.wav
+‚îÇ      npc_tourist_bailongzhanglao_09.wav
+‚îÇ      npc_tourist_caiyi_02.wav
+‚îÇ      npc_tourist_caiyi_03.wav
+‚îÇ      npc_tourist_caiyi_04.wav
+‚îÇ      npc_tourist_caiyi_05.wav
+‚îÇ      npc_tourist_caiyi_06.wav
+‚îÇ      npc_tourist_caiyi_07.wav
+‚îÇ      npc_tourist_caiyi_08.wav
+‚îÇ      npc_tourist_caiyi_09.wav
+‚îÇ      npc_tourist_dajiaoxueguai_02.wav
+‚îÇ      npc_tourist_dajiaoxueguai_03.wav
+‚îÇ      npc_tourist_dajiaoxueguai_04.wav
+‚îÇ      npc_tourist_dajiaoxueguai_05.wav
+‚îÇ      npc_tourist_dajiaoxueguai_06.wav
+‚îÇ      npc_tourist_dajiaoxueguai_07.wav
+‚îÇ      npc_tourist_dajiaoxueguai_08.wav
+‚îÇ      npc_tourist_dajiaoxueguai_09.wav
+‚îÇ      npc_tourist_haotian_02.wav
+‚îÇ      npc_tourist_haotian_03.wav
+‚îÇ      npc_tourist_haotian_04.wav
+‚îÇ      npc_tourist_haotian_05.wav
+‚îÇ      npc_tourist_haotian_06.wav
+‚îÇ      npc_tourist_haotian_07.wav
+‚îÇ      npc_tourist_haotian_08.wav
+‚îÇ      npc_tourist_haotian_09.wav
+‚îÇ      npc_tourist_hongzhu_02.wav
+‚îÇ      npc_tourist_hongzhu_03.wav
+‚îÇ      npc_tourist_hongzhu_04.wav
+‚îÇ      npc_tourist_hongzhu_05.wav
+‚îÇ      npc_tourist_hongzhu_06.wav
+‚îÇ      npc_tourist_hongzhu_07.wav
+‚îÇ      npc_tourist_hongzhu_08.wav
+‚îÇ      npc_tourist_hongzhu_09.wav
+‚îÇ      npc_tourist_huadaifu_02.wav
+‚îÇ      npc_tourist_huadaifu_03.wav
+‚îÇ      npc_tourist_huadaifu_04.wav
+‚îÇ      npc_tourist_huadaifu_05.wav
+‚îÇ      npc_tourist_huadaifu_06.wav
+‚îÇ      npc_tourist_huadaifu_07.wav
+‚îÇ      npc_tourist_huadaifu_08.wav
+‚îÇ      npc_tourist_huadaifu_09.wav
+‚îÇ      npc_tourist_huofeng_02.wav
+‚îÇ      npc_tourist_huofeng_03.wav
+‚îÇ      npc_tourist_huofeng_04.wav
+‚îÇ      npc_tourist_huofeng_05.wav
+‚îÇ      npc_tourist_huofeng_06.wav
+‚îÇ      npc_tourist_huofeng_07.wav
+‚îÇ      npc_tourist_huofeng_08.wav
+‚îÇ      npc_tourist_huofeng_09.wav
+‚îÇ      npc_tourist_jindi_02.wav
+‚îÇ      npc_tourist_jindi_03.wav
+‚îÇ      npc_tourist_jindi_04.wav
+‚îÇ      npc_tourist_jindi_05.wav
+‚îÇ      npc_tourist_jindi_06.wav
+‚îÇ      npc_tourist_jindi_07.wav
+‚îÇ      npc_tourist_jindi_08.wav
+‚îÇ      npc_tourist_jindi_09.wav
+‚îÇ      npc_tourist_kabu_02.wav
+‚îÇ      npc_tourist_kabu_03.wav
+‚îÇ      npc_tourist_kabu_04.wav
+‚îÇ      npc_tourist_kabu_05.wav
+‚îÇ      npc_tourist_kabu_06.wav
+‚îÇ      npc_tourist_kabu_07.wav
+‚îÇ      npc_tourist_kabu_08.wav
+‚îÇ      npc_tourist_kabu_09.wav
+‚îÇ      npc_tourist_kebi_02.wav
+‚îÇ      npc_tourist_kebi_03.wav
+‚îÇ      npc_tourist_kebi_04.wav
+‚îÇ      npc_tourist_kebi_05.wav
+‚îÇ      npc_tourist_kebi_06.wav
+‚îÇ      npc_tourist_kebi_07.wav
+‚îÇ      npc_tourist_kebi_08.wav
+‚îÇ      npc_tourist_kebi_09.wav
+‚îÇ      npc_tourist_leiou_02.wav
+‚îÇ      npc_tourist_leiou_03.wav
+‚îÇ      npc_tourist_leiou_04.wav
+‚îÇ      npc_tourist_leiou_05.wav
+‚îÇ      npc_tourist_leiou_06.wav
+‚îÇ      npc_tourist_leiou_07.wav
+‚îÇ      npc_tourist_leiou_08.wav
+‚îÇ      npc_tourist_leiou_09.wav
+‚îÇ      npc_tourist_leiwen_02.wav
+‚îÇ      npc_tourist_leiwen_03.wav
+‚îÇ      npc_tourist_leiwen_04.wav
+‚îÇ      npc_tourist_leiwen_05.wav
+‚îÇ      npc_tourist_leiwen_06.wav
+‚îÇ      npc_tourist_leiwen_07.wav
+‚îÇ      npc_tourist_leiwen_08.wav
+‚îÇ      npc_tourist_leiwen_09.wav
+‚îÇ      npc_tourist_longni_02.wav
+‚îÇ      npc_tourist_longni_03.wav
+‚îÇ      npc_tourist_longni_04.wav
+‚îÇ      npc_tourist_longni_05.wav
+‚îÇ      npc_tourist_longni_06.wav
+‚îÇ      npc_tourist_longni_07.wav
+‚îÇ      npc_tourist_longni_08.wav
+‚îÇ      npc_tourist_longni_09.wav
+‚îÇ      npc_tourist_longsantaizi_02.wav
+‚îÇ      npc_tourist_longsantaizi_03.wav
+‚îÇ      npc_tourist_longsantaizi_04.wav
+‚îÇ      npc_tourist_longsantaizi_05.wav
+‚îÇ      npc_tourist_longsantaizi_06.wav
+‚îÇ      npc_tourist_longsantaizi_07.wav
+‚îÇ      npc_tourist_longsantaizi_08.wav
+‚îÇ      npc_tourist_longsantaizi_09.wav
+‚îÇ      npc_tourist_muyang_02.wav
+‚îÇ      npc_tourist_muyang_03.wav
+‚îÇ      npc_tourist_muyang_04.wav
+‚îÇ      npc_tourist_muyang_05.wav
+‚îÇ      npc_tourist_muyang_06.wav
+‚îÇ      npc_tourist_muyang_07.wav
+‚îÇ      npc_tourist_muyang_08.wav
+‚îÇ      npc_tourist_muyang_09.wav
+‚îÇ      npc_tourist_naduowangzi_02.wav
+‚îÇ      npc_tourist_naduowangzi_03.wav
+‚îÇ      npc_tourist_naduowangzi_04.wav
+‚îÇ      npc_tourist_naduowangzi_05.wav
+‚îÇ      npc_tourist_naduowangzi_06.wav
+‚îÇ      npc_tourist_naduowangzi_07.wav
+‚îÇ      npc_tourist_naduowangzi_08.wav
+‚îÇ      npc_tourist_naduowangzi_09.wav
+‚îÇ      npc_tourist_tianlang_02.wav
+‚îÇ      npc_tourist_tianlang_03.wav
+‚îÇ      npc_tourist_tianlang_04.wav
+‚îÇ      npc_tourist_tianlang_05.wav
+‚îÇ      npc_tourist_tianlang_06.wav
+‚îÇ      npc_tourist_tianlang_07.wav
+‚îÇ      npc_tourist_tianlang_08.wav
+‚îÇ      npc_tourist_tianlang_09.wav
+‚îÇ      npc_tourist_tiya_02.wav
+‚îÇ      npc_tourist_tiya_03.wav
+‚îÇ      npc_tourist_tiya_04.wav
+‚îÇ      npc_tourist_tiya_05.wav
+‚îÇ      npc_tourist_tiya_06.wav
+‚îÇ      npc_tourist_tiya_07.wav
+‚îÇ      npc_tourist_tiya_08.wav
+‚îÇ      npc_tourist_tiya_09.wav
+‚îÇ      npc_tourist_tulang_02.wav
+‚îÇ      npc_tourist_tulang_03.wav
+‚îÇ      npc_tourist_tulang_04.wav
+‚îÇ      npc_tourist_tulang_05.wav
+‚îÇ      npc_tourist_tulang_06.wav
+‚îÇ      npc_tourist_tulang_07.wav
+‚îÇ      npc_tourist_tulang_08.wav
+‚îÇ      npc_tourist_tulang_09.wav
+‚îÇ      npc_tourist_yunyang_02.wav
+‚îÇ      npc_tourist_yunyang_03.wav
+‚îÇ      npc_tourist_yunyang_04.wav
+‚îÇ      npc_tourist_yunyang_05.wav
+‚îÇ      npc_tourist_yunyang_06.wav
+‚îÇ      npc_tourist_yunyang_07.wav
+‚îÇ      npc_tourist_yunyang_08.wav
+‚îÇ      npc_tourist_yunyang_09.wav
+‚îÇ      tourist_vo[0].txt
+‚îÇ      
+‚îú‚îÄtourist_vo_1[0]
+‚îÇ      npc_tourist_lika_02.wav
+‚îÇ      npc_tourist_lika_03.wav
+‚îÇ      npc_tourist_lika_04.wav
+‚îÇ      npc_tourist_lika_05.wav
+‚îÇ      npc_tourist_lika_06.wav
+‚îÇ      npc_tourist_lika_07.wav
+‚îÇ      npc_tourist_lika_08.wav
+‚îÇ      npc_tourist_lika_09.wav
+‚îÇ      npc_tourist_shiwaxi_02.wav
+‚îÇ      npc_tourist_shiwaxi_03.wav
+‚îÇ      npc_tourist_shiwaxi_04.wav
+‚îÇ      npc_tourist_shiwaxi_05.wav
+‚îÇ      npc_tourist_shiwaxi_06.wav
+‚îÇ      npc_tourist_shiwaxi_07.wav
+‚îÇ      npc_tourist_shiwaxi_08.wav
+‚îÇ      npc_tourist_shiwaxi_09.wav
+‚îÇ      npc_tourist_tiluo_02.wav
+‚îÇ      npc_tourist_tiluo_03.wav
+‚îÇ      npc_tourist_tiluo_04.wav
+‚îÇ      npc_tourist_tiluo_05.wav
+‚îÇ      npc_tourist_tiluo_06.wav
+‚îÇ      npc_tourist_tiluo_07.wav
+‚îÇ      npc_tourist_tiluo_08.wav
+‚îÇ      npc_tourist_tiluo_09.wav
+‚îÇ      tourist_vo_1[0].txt
+‚îÇ      
+‚îú‚îÄui[0]
+‚îÇ      4.10.wav
+‚îÇ      4.9.wav
+‚îÇ      5.0.wav
+‚îÇ      acquire_exp.wav
+‚îÇ      acquire_heart.wav
+‚îÇ      ant_run.wav
+‚îÇ      Bgm_TradingBankMIX.wav
+‚îÇ      btn_off.wav
+‚îÇ      btn_on.wav
+‚îÇ      click_growing_sheep.wav
+‚îÇ      click_minus.wav
+‚îÇ      click_plants.wav
+‚îÇ      click_plus.wav
+‚îÇ      closetab.wav
+‚îÇ      collect_fruit_trees.wav
+‚îÇ      crack_petegg.wav
+‚îÇ      craft_cooking.wav
+‚îÇ      craft_dress.wav
+‚îÇ      crop_eject.wav
+‚îÇ      cut_sheep_hair.wav
+‚îÇ      doorbell.wav
+‚îÇ      eat.wav
+‚îÇ      fast_harvesting.wav
+‚îÇ      feed_excellent.wav
+‚îÇ      gathering.wav
+‚îÇ      get_pet_goods.wav
+‚îÇ      get_wow.wav
+‚îÇ      give_fabulous.wav
+‚îÇ      goblin_celebrate.wav
+‚îÇ      goblin_find.wav
+‚îÇ      goblin_tidy.wav
+‚îÇ      groundhog1.wav
+‚îÇ      groundhog2.wav
+‚îÇ      groundhog3.wav
+‚îÇ      harvest.wav
+‚îÇ      harvest_deer_hair.wav
+‚îÇ      harvest_egg.wav
+‚îÇ      harvest_goose_feather.wav
+‚îÇ      harvest_rabbit_hair.wav
+‚îÇ      open_room_door.wav
+‚îÇ      photo_take.wav
+‚îÇ      planting_crops.wav
+‚îÇ      receive_achievement_award.wav
+‚îÇ      seal.wav
+‚îÇ      seven_day_landing_award.wav
+‚îÇ      se_bush_gathering01.wav
+‚îÇ      se_cow_harvest01.wav
+‚îÇ      se_harvest.wav
+‚îÇ      shop_show.wav
+‚îÇ      touch_cow.wav
+‚îÇ      touch_goose.wav
+‚îÇ      touch_hen.wav
+‚îÇ      touch_honeybee.wav
+‚îÇ      touch_ore.wav
+‚îÇ      touch_rabbit.wav
+‚îÇ      touch_reindeer.wav
+‚îÇ      touch_ripe.wav
+‚îÇ      touch_sheep.wav
+‚îÇ      touch_tree.wav
+‚îÇ      ui[0].txt
+‚îÇ      ui_click_story_error.wav
+‚îÇ      ui_effect_blessing.wav
+‚îÇ      ui_effect_book_fly.wav
+‚îÇ      ui_effect_book_open.wav
+‚îÇ      ui_effect_buy_success.wav
+‚îÇ      ui_effect_creation_make.wav
+‚îÇ      ui_effect_creation_make_completed.wav
+‚îÇ      ui_effect_egg_birth.wav
+‚îÇ      ui_effect_egg_bubble_click.wav
+‚îÇ      ui_effect_egg_get.wav
+‚îÇ      ui_effect_egg_open.wav
+‚îÇ      ui_effect_egg_show.wav
+‚îÇ      ui_effect_general_get.wav
+‚îÇ      ui_effect_get_diamond.wav
+‚îÇ      ui_effect_get_gold.wav
+‚îÇ      ui_effect_item_unlock.wav
+‚îÇ      ui_effect_library_raffle.wav
+‚îÇ      ui_effect_pet_level_up.wav
+‚îÇ      ui_effect_player_upgrade.wav
+‚îÇ      ui_effect_quest_complete.wav
+‚îÇ      ui_effect_room_upgrade.wav
+‚îÇ      ui_effect_task_complete.wav
+‚îÇ      ui_effect_workshop_upgrade_completed.wav
+‚îÇ      ui_generic_button.wav
+‚îÇ      ui_generic_button_buy.wav
+‚îÇ      ui_generic_button_cancel.wav
+‚îÇ      ui_generic_button_sure.wav
+‚îÇ      ui_generic_click.wav
+‚îÇ      ui_generic_click_return.wav
+‚îÇ      ui_menu_click.wav
+‚îÇ      ui_menu_popup_close.wav
+‚îÇ      ui_menu_popup_open.wav
+‚îÇ      ui_page_aobi_news.wav
+‚îÇ      ui_page_aobi_news_turn.wav
+‚îÇ      ui_page_click_dress_up.wav
+‚îÇ      ui_popup_list_close.wav
+‚îÇ      ui_popup_list_open.wav
+‚îÇ      ui_system_draw_lottery_five_times.wav
+‚îÇ      ui_system_draw_lottery_once.wav
+‚îÇ      ui_system_knapsack.wav
+‚îÇ      ui_system_monopoly_dice.wav
+‚îÇ      ui_system_monopoly_jump.wav
+‚îÇ      ui_system_store_aobai.wav
+‚îÇ      ui_system_store_aobai_suit.wav
+‚îÇ      ui_system_store_market.wav
+‚îÇ      ui_system_store_money.wav
+‚îÇ      ui_tab_click.wav
+‚îÇ      ui_tab_click_workshop_clothes.wav
+‚îÇ      ui_tab_click_workshop_cooking.wav
+‚îÇ      ui_tab_click_workshop_creation.wav
+‚îÇ      ui_tab_click_workshop_crop.wav
+‚îÇ      ui_tab_click_workshop_seiko.wav
+‚îÇ      ui_window_click_close (2).wav
+‚îÇ      ui_window_click_close.wav
+‚îÇ      ui_window_error.wav
+‚îÇ      ui_window_open_achievement.wav
+‚îÇ      ui_window_open_activity.wav
+‚îÇ      ui_window_open_aobiquan.wav
+‚îÇ      ui_window_open_competition.wav
+‚îÇ      ui_window_open_competition_exchange.wav
+‚îÇ      ui_window_open_competition_rank.wav
+‚îÇ      ui_window_open_contents.wav
+‚îÇ      ui_window_open_daily.wav
+‚îÇ      ui_window_open_delicious_bus.wav
+‚îÇ      ui_window_open_dress_up.wav
+‚îÇ      ui_window_open_egg.wav
+‚îÇ      ui_window_open_friend.wav
+‚îÇ      ui_window_open_game_room.wav
+‚îÇ      ui_window_open_illustrated.wav
+‚îÇ      ui_window_open_information.wav
+‚îÇ      ui_window_open_mail.wav
+‚îÇ      ui_window_open_map.wav
+‚îÇ      ui_window_open_party.wav
+‚îÇ      ui_window_open_pet.wav
+‚îÇ      workshop_interface_upgrade_completed.wav
+‚îÇ      zone_complete.wav
+‚îÇ      
+‚îú‚îÄui_1[0]
+‚îÇ      attack.wav
+‚îÇ      casting.wav
+‚îÇ      compose_crystal_1.wav
+‚îÇ      compose_crystal_2.wav
+‚îÇ      eliminate.wav
+‚îÇ      fall_finished.wav
+‚îÇ      food_drop.wav
+‚îÇ      get.wav
+‚îÇ      hit.wav
+‚îÇ      jump.wav
+‚îÇ      make.wav
+‚îÇ      move.wav
+‚îÇ      rotate.wav
+‚îÇ      throw.wav
+‚îÇ      ui_1[0].txt
+‚îÇ      ui_effect_akimbo.wav
+‚îÇ      ui_effect_autistic_loop.wav
+‚îÇ      ui_effect_codeword_loop.wav
+‚îÇ      ui_effect_dance_joy_loop.wav
+‚îÇ      ui_effect_fail.wav
+‚îÇ      ui_effect_fashion_week_competition_score.wav
+‚îÇ      ui_effect_fashion_week_competition_start.wav
+‚îÇ      ui_effect_find_fault_correct.wav
+‚îÇ      ui_effect_find_fault_error.wav
+‚îÇ      ui_effect_flop_flop.wav
+‚îÇ      ui_effect_flop_pairing_failed.wav
+‚îÇ      ui_effect_flop_pairing_success.wav
+‚îÇ      ui_effect_flop_shuffle.wav
+‚îÇ      ui_effect_goodnight.wav
+‚îÇ      ui_effect_hypnosis_loop.wav
+‚îÇ      ui_effect_kink_loop.wav
+‚îÇ      ui_effect_learn_magic.wav
+‚îÇ      ui_effect_learn_magic_drag.wav
+‚îÇ      ui_effect_learn_magic_put.wav
+‚îÇ      ui_effect_learn_magic_success.wav
+‚îÇ      ui_effect_let_go.wav
+‚îÇ      ui_effect_lie_dowm.wav
+‚îÇ      ui_effect_moon_spirit_flutters.wav
+‚îÇ      ui_effect_raise_hand.wav
+‚îÇ      ui_effect_refuse.wav
+‚îÇ      ui_effect_shy.wav
+‚îÇ      ui_effect_skin_peeler.wav
+‚îÇ      ui_effect_spirit_battle_card.wav
+‚îÇ      ui_effect_spirit_battle_ready.wav
+‚îÇ      ui_effect_stunned.wav
+‚îÇ      ui_effect_success.wav
+‚îÇ      ui_effect_sugaring.wav
+‚îÇ      
+‚îú‚îÄui_2[0]
+‚îÇ      accordion_ribbon.wav
+‚îÇ      accordion_wreath.wav
+‚îÇ      aobizhaixing.wav
+‚îÇ      big_rainbow.wav
+‚îÇ      big_star.wav
+‚îÇ      block_cracked.wav
+‚îÇ      bomb.wav
+‚îÇ      box.wav
+‚îÇ      button.wav
+‚îÇ      celebrate.wav
+‚îÇ      countdown_over.wav
+‚îÇ      die.wav
+‚îÇ      electric guitar_future_door.wav
+‚îÇ      electric_guitar_1960s.wav
+‚îÇ      fail.wav
+‚îÇ      final_moment.wav
+‚îÇ      get_mark_1.wav
+‚îÇ      get_mark_2.wav
+‚îÇ      happy_bread_bomb.wav
+‚îÇ      happy_bread_hapi.wav
+‚îÇ      happy_bread_inkfish.wav
+‚îÇ      happy_bread_slipper.wav
+‚îÇ      hongbao.wav
+‚îÇ      impact_guard.wav
+‚îÇ      jelly_spring.wav
+‚îÇ      jianianhua_gold.wav
+‚îÇ      jianianhua_openiam.wav
+‚îÇ      jiesuan.wav
+‚îÇ      jump.wav
+‚îÇ      kill.wav
+‚îÇ      laser_cannon.wav
+‚îÇ      limai_hlcq.wav
+‚îÇ      limai_whyt.wav
+‚îÇ      liuxing.wav
+‚îÇ      love.wav
+‚îÇ      melody.wav
+‚îÇ      metal_spring.wav
+‚îÇ      missile_countdown.wav
+‚îÇ      missile_launch.wav
+‚îÇ      pan.wav
+‚îÇ      pass_1.wav
+‚îÇ      pass_2.wav
+‚îÇ      pass_3.wav
+‚îÇ      pass_4.wav
+‚îÇ      pass_5.wav
+‚îÇ      random.wav
+‚îÇ      resurrection.wav
+‚îÇ      rule_introduction.wav
+‚îÇ      show.wav
+‚îÇ      small_rainbow.wav
+‚îÇ      small_star.wav
+‚îÇ      stabbed.wav
+‚îÇ      star_1.wav
+‚îÇ      star_2.wav
+‚îÇ      star_3.wav
+‚îÇ      stop.wav
+‚îÇ      throw_dice.wav
+‚îÇ      ui_2[0].txt
+‚îÇ      ui_effect_applause.wav
+‚îÇ      ui_effect_bainian.wav
+‚îÇ      ui_effect_bp_upgrade.wav
+‚îÇ      ui_effect_double_annoying.wav
+‚îÇ      ui_effect_double_arrow.wav
+‚îÇ      ui_effect_double_beat_fly.wav
+‚îÇ      ui_effect_double_bixin.wav
+‚îÇ      ui_effect_double_catch.wav
+‚îÇ      ui_effect_double_clap.wav
+‚îÇ      ui_effect_double_coincide.wav
+‚îÇ      ui_effect_double_friendship_power.wav
+‚îÇ      ui_effect_double_give_flower.wav
+‚îÇ      ui_effect_double_hit_you.wav
+‚îÇ      ui_effect_double_hop_together.wav
+‚îÇ      ui_effect_double_lightning.wav
+‚îÇ      ui_effect_double_lovey_dovey.wav
+‚îÇ      ui_effect_double_raise_high.wav
+‚îÇ      ui_effect_double_see_me.wav
+‚îÇ      ui_effect_double_take_photo.wav
+‚îÇ      ui_effect_double_touch_head_kill.wav
+‚îÇ      ui_effect_double_wake_up.wav
+‚îÇ      ui_effect_double_wipe_mouth.wav
+‚îÇ      ui_effect_gongxifacai.wav
+‚îÇ      ui_effect_hongbao.wav
+‚îÇ      ui_effect_lianliankan_elimination.wav
+‚îÇ      ui_effect_monalisa_smile.wav
+‚îÇ      ui_effect_odin_flybear.wav
+‚îÇ      ui_effect_puppetry.wav
+‚îÇ      ui_effect_see.wav
+‚îÇ      ui_effect_shuaiqi_01.wav
+‚îÇ      ui_effect_shuaiqi_02.wav
+‚îÇ      ui_effect_shuaiqi_03.wav
+‚îÇ      ui_effect_shuaiqi_04.wav
+‚îÇ      ui_effect_shuaiqi_05.wav
+‚îÇ      ui_effect_shuaiqi_06.wav
+‚îÇ      ui_effect_thinker.wav
+‚îÇ      ui_effect_yell.wav
+‚îÇ      ui_effect_yuanqi_01.wav
+‚îÇ      ui_effect_yuanqi_02.wav
+‚îÇ      ui_effect_yuanqi_03.wav
+‚îÇ      ui_effect_yuanqi_04.wav
+‚îÇ      ui_effect_yuanqi_05.wav
+‚îÇ      ui_effect_yuanqi_06.wav
+‚îÇ      ui_window_open_diary.wav
+‚îÇ      ui_window_open_dream_journey.wav
+‚îÇ      ui_window_open_flora_day.wav
+‚îÇ      ui_window_open_shadow_mystery.wav
+‚îÇ      ui_window_open_star_game.wav
+‚îÇ      use_a_life.wav
+‚îÇ      victory.wav
+‚îÇ      victory_50.wav
+‚îÇ      xingxing.wav
+‚îÇ      xuli.wav
+‚îÇ      yuanbao.wav
+‚îÇ      
+‚îú‚îÄui_3[0]
+‚îÇ      additional_score.wav
+‚îÇ      attack_1.wav
+‚îÇ      attack_2.wav
+‚îÇ      attack_3.wav
+‚îÇ      byh_hybg.wav
+‚îÇ      byh_rozy.wav
+‚îÇ      cat_1.wav
+‚îÇ      cat_2.wav
+‚îÇ      cat_3.wav
+‚îÇ      cat_4.wav
+‚îÇ      cat_bell.wav
+‚îÇ      cat_success.wav
+‚îÇ      choupai.wav
+‚îÇ      chouxuan.wav
+‚îÇ      chupai.wav
+‚îÇ      click_next.wav
+‚îÇ      cloth_drop.wav
+‚îÇ      dazhuanpan_5.0.wav
+‚îÇ      deyi.wav
+‚îÇ      epiano_wrzy.wav
+‚îÇ      epiano_ymxh.wav
+‚îÇ      fapai.wav
+‚îÇ      faxiannianshou.wav
+‚îÇ      fireworks_bomb_1.wav
+‚îÇ      fireworks_bomb_2.wav
+‚îÇ      fireworks_sax.wav
+‚îÇ      flower_brush.wav
+‚îÇ      flower_eliminate.wav
+‚îÇ      hanyan.wav
+‚îÇ      hecheng_wanmei.wav
+‚îÇ      hecheng_yiban.wav
+‚îÇ      hit_1.wav
+‚îÇ      hit_2.wav
+‚îÇ      hit_3.wav
+‚îÇ      jingkong.wav
+‚îÇ      kaixin.wav
+‚îÇ      lundaowo.wav
+‚îÇ      make_success.wav
+‚îÇ      mlb_ch.wav
+‚îÇ      mlb_sl.wav
+‚îÇ      ruan_gycd.wav
+‚îÇ      ruan_hmtx.wav
+‚îÇ      ruan_jsrh.wav
+‚îÇ      sax_csmb.wav
+‚îÇ      sax_stsy.wav
+‚îÇ      sayuanbao.wav
+‚îÇ      seal_1.wav
+‚îÇ      stain.wav
+‚îÇ      swing_gugong.wav
+‚îÇ      tanyuanbao.wav
+‚îÇ      ui_3[0].txt
+‚îÇ      ui_effect_blowing_balloons.wav
+‚îÇ      ui_effect_double_princess_embrace.wav
+‚îÇ      ui_effect_flying_scarf.wav
+‚îÇ      ui_effect_pick_rose_appear.wav
+‚îÇ      ui_effect_sahongbao.wav
+‚îÇ      ui_effect_shuaipao.wav
+‚îÇ      ui_effect_speed_her_pen.wav
+‚îÇ      ui_effect_top_block.wav
+‚îÇ      ui_effect_transformation.wav
+‚îÇ      ui_effect_wisdom_light.wav
+‚îÇ      ui_effect_xiezi.wav
+‚îÇ      xhl_hhgm.wav
+‚îÇ      xhl_shxh.wav
+‚îÇ      xhl_xrpp.wav
+‚îÇ      zhaowupin.wav
+‚îÇ      zhaowupin_hong.wav
+‚îÇ      
+‚îú‚îÄui_4[0]
+‚îÇ      clarinet_ddzy.wav
+‚îÇ      clarinet_hyzx.wav
+‚îÇ      cyq_qcwq.wav
+‚îÇ      cyq_qhxl.wav
+‚îÇ      cyq_tmfc.wav
+‚îÇ      deal.wav
+‚îÇ      dzq_cyjt.wav
+‚îÇ      dzq_oxyd.wav
+‚îÇ      dzq_qywd.wav
+‚îÇ      fall.wav
+‚îÇ      fly.wav
+‚îÇ      fly_into_xtra_rewards.wav
+‚îÇ      guitar_fhxy.wav
+‚îÇ      guitar_xzwq.wav
+‚îÇ      guitar_ymxh.wav
+‚îÇ      into_water.wav
+‚îÇ      klb_dhhg.wav
+‚îÇ      klb_fyzx.wav
+‚îÇ      klb_ygmj.wav
+‚îÇ      kouqin_shmz.wav
+‚îÇ      kouqin_ywcz.wav
+‚îÇ      laiyaqin1.wav
+‚îÇ      laiyaqin2.wav
+‚îÇ      light.wav
+‚îÇ      mine.wav
+‚îÇ      popcorn.wav
+‚îÇ      pot.wav
+‚îÇ      sheshou_attack.wav
+‚îÇ      sheshou_hit.wav
+‚îÇ      tomato_attack.wav
+‚îÇ      tomato_hit.wav
+‚îÇ      ui_4[0].txt
+‚îÇ      ui_card.wav
+‚îÇ      ui_effect_lucky_spray.wav
+‚îÇ      ui_effect_tianyimianmian.wav
+‚îÇ      ui_effect_zhuangku.wav
+‚îÇ      ui_effect_zuanshizhixin.wav
+‚îÇ      ykll_tgd.wav
+‚îÇ      ykll_xxt.wav
+‚îÇ      ykll_yxh.wav
+‚îÇ      
+‚îú‚îÄui_linshi[0]
+‚îÇ      1.wav
+‚îÇ      10.wav
+‚îÇ      2.wav
+‚îÇ      3.wav
+‚îÇ      4.wav
+‚îÇ      5.0_dazhuanpan.wav
+‚îÇ      5.wav
+‚îÇ      6.wav
+‚îÇ      7.wav
+‚îÇ      8.wav
+‚îÇ      9.wav
+‚îÇ      column_broken.wav
+‚îÇ      die.wav
+‚îÇ      disappear.wav
+‚îÇ      fanghua_book_fly.wav
+‚îÇ      fanghua_book_open.wav
+‚îÇ      fanghua_get_5_star.wav
+‚îÇ      fanghua_get_general.wav
+‚îÇ      fly.wav
+‚îÇ      mechanism_gate.wav
+‚îÇ      moon.wav
+‚îÇ      pixies_show_1.wav
+‚îÇ      pixies_show_2.wav
+‚îÇ      pixies_show_3.wav
+‚îÇ      publish_answers.wav
+‚îÇ      skill_sprint.wav
+‚îÇ      ui_linshi[0].txt
+‚îÇ      wipe.wav
+‚îÇ      
+‚îú‚îÄukulele[0]
+‚îÇ      ukulele1.wav
+‚îÇ      ukulele10.wav
+‚îÇ      ukulele11.wav
+‚îÇ      ukulele12.wav
+‚îÇ      ukulele13.wav
+‚îÇ      ukulele14.wav
+‚îÇ      ukulele15.wav
+‚îÇ      ukulele16.wav
+‚îÇ      ukulele17.wav
+‚îÇ      ukulele18.wav
+‚îÇ      ukulele19.wav
+‚îÇ      ukulele2.wav
+‚îÇ      ukulele20.wav
+‚îÇ      ukulele21.wav
+‚îÇ      ukulele22.wav
+‚îÇ      ukulele3.wav
+‚îÇ      ukulele4.wav
+‚îÇ      ukulele5.wav
+‚îÇ      ukulele6.wav
+‚îÇ      ukulele7.wav
+‚îÇ      ukulele8.wav
+‚îÇ      ukulele9.wav
+‚îÇ      ukulele[0].txt
+‚îÇ      
+‚îú‚îÄuno_vo[0]
+‚îÇ      bianse.wav
+‚îÇ      bianse_1.wav
+‚îÇ      bianse_107.wav
+‚îÇ      bianse_1_79.wav
+‚îÇ      duihua1.wav
+‚îÇ      duihua1_1.wav
+‚îÇ      duihua2.wav
+‚îÇ      duihua2_1.wav
+‚îÇ      duihua3.wav
+‚îÇ      duihua3_1.wav
+‚îÇ      duihua3_1_48.wav
+‚îÇ      duihua4.wav
+‚îÇ      duihua4_1.wav
+‚îÇ      duihua4_1_106.wav
+‚îÇ      duihua4_94.wav
+‚îÇ      duihua5.wav
+‚îÇ      duihua5_1.wav
+‚îÇ      duihua5_19.wav
+‚îÇ      duihua_1.wav
+‚îÇ      duihua_2.wav
+‚îÇ      duihua_2_1.wav
+‚îÇ      duihua_3.wav
+‚îÇ      hong0.wav
+‚îÇ      hong0_88.wav
+‚îÇ      hong1.wav
+‚îÇ      hong1_78.wav
+‚îÇ      hong2.wav
+‚îÇ      hong2_41.wav
+‚îÇ      hong3.wav
+‚îÇ      hong3_77.wav
+‚îÇ      hong4.wav
+‚îÇ      hong4_7.wav
+‚îÇ      hong5.wav
+‚îÇ      hong5_105.wav
+‚îÇ      hong6.wav
+‚îÇ      hong6_95.wav
+‚îÇ      hong7.wav
+‚îÇ      hong7_100.wav
+‚îÇ      hong8.wav
+‚îÇ      hong8_101.wav
+‚îÇ      hong9.wav
+‚îÇ      hong9_84.wav
+‚îÇ      huang0.wav
+‚îÇ      huang0_46.wav
+‚îÇ      huang1.wav
+‚îÇ      huang1_21.wav
+‚îÇ      huang2.wav
+‚îÇ      huang2_9.wav
+‚îÇ      huang3.wav
+‚îÇ      huang3_85.wav
+‚îÇ      huang4.wav
+‚îÇ      huang4_110.wav
+‚îÇ      huang5.wav
+‚îÇ      huang5_108.wav
+‚îÇ      huang6.wav
+‚îÇ      huang6_97.wav
+‚îÇ      huang7.wav
+‚îÇ      huang7_111.wav
+‚îÇ      huang8.wav
+‚îÇ      huang8_93.wav
+‚îÇ      huang9.wav
+‚îÇ      huang9_103.wav
+‚îÇ      jia2.wav
+‚îÇ      jia2_1.wav
+‚îÇ      jia2_1_104.wav
+‚îÇ      jia2_45.wav
+‚îÇ      jia4.wav
+‚îÇ      jia4_1.wav
+‚îÇ      jia4_55.wav
+‚îÇ      jinshoupai.wav
+‚îÇ      jinshoupai_72.wav
+‚îÇ      lan0.wav
+‚îÇ      lan0_20.wav
+‚îÇ      lan1.wav
+‚îÇ      lan1_99.wav
+‚îÇ      lan2.wav
+‚îÇ      lan2_63.wav
+‚îÇ      lan3.wav
+‚îÇ      lan3_98.wav
+‚îÇ      lan4.wav
+‚îÇ      lan4_69.wav
+‚îÇ      lan5.wav
+‚îÇ      lan5_91.wav
+‚îÇ      lan6.wav
+‚îÇ      lan6_89.wav
+‚îÇ      lan7.wav
+‚îÇ      lan7_52.wav
+‚îÇ      lan8.wav
+‚îÇ      lan8_12.wav
+‚îÇ      lan9.wav
+‚îÇ      lan9_54.wav
+‚îÇ      lv0.wav
+‚îÇ      lv0_81.wav
+‚îÇ      lv1.wav
+‚îÇ      lv1_116.wav
+‚îÇ      lv2.wav
+‚îÇ      lv2_67.wav
+‚îÇ      lv3.wav
+‚îÇ      lv3_90.wav
+‚îÇ      lv4.wav
+‚îÇ      lv4_82.wav
+‚îÇ      lv5.wav
+‚îÇ      lv5_14.wav
+‚îÇ      lv6.wav
+‚îÇ      lv6_92.wav
+‚îÇ      lv7.wav
+‚îÇ      lv7_114.wav
+‚îÇ      lv8.wav
+‚îÇ      lv8_117.wav
+‚îÇ      lv9.wav
+‚îÇ      lv9_113.wav
+‚îÇ      uno_vo[0].txt
+‚îÇ      zhuanxiangpai.wav
+‚îÇ      zhuanxiangpai_1.wav
+‚îÇ      zhuanxiangpai_83.wav
+‚îÇ      zuihou.wav
+‚îÇ      zuihou_1.wav
+‚îÇ      zuihou_1_73.wav
+‚îÇ      zuihou_75.wav
+‚îÇ      
+‚îú‚îÄvo_expression[0]
+‚îÇ      vo_expression[0].txt
+‚îÇ      vo_expression_akimbo_man.wav
+‚îÇ      vo_expression_akimbo_woman.wav
+‚îÇ      vo_expression_angry_man_1.wav
+‚îÇ      vo_expression_angry_woman_1.wav
+‚îÇ      vo_expression_autistic_man.wav
+‚îÇ      vo_expression_autistic_man_1.wav
+‚îÇ      vo_expression_autistic_woman.wav
+‚îÇ      vo_expression_bang_se_man_1.wav
+‚îÇ      vo_expression_bang_se_woman_1.wav
+‚îÇ      vo_expression_beautiful_man_1.wav
+‚îÇ      vo_expression_beautiful_man_2.wav
+‚îÇ      vo_expression_beautiful_man_3.wav
+‚îÇ      vo_expression_beautiful_man_4.wav
+‚îÇ      vo_expression_beautiful_woman_1.wav
+‚îÇ      vo_expression_beautiful_woman_2.wav
+‚îÇ      vo_expression_beg_man_1.wav
+‚îÇ      vo_expression_beg_man_2.wav
+‚îÇ      vo_expression_beg_man_3.wav
+‚îÇ      vo_expression_beg_man_4.wav
+‚îÇ      vo_expression_beg_woman_1.wav
+‚îÇ      vo_expression_beg_woman_2.wav
+‚îÇ      vo_expression_beg_woman_3.wav
+‚îÇ      vo_expression_bye_man_1.wav
+‚îÇ      vo_expression_bye_man_2.wav
+‚îÇ      vo_expression_bye_man_3.wav
+‚îÇ      vo_expression_bye_man_4.wav
+‚îÇ      vo_expression_bye_woman_1.wav
+‚îÇ      vo_expression_cheer_man_1.wav
+‚îÇ      vo_expression_cheer_man_2.wav
+‚îÇ      vo_expression_cheer_man_3.wav
+‚îÇ      vo_expression_cheer_woman_1.wav
+‚îÇ      vo_expression_cheer_woman_2.wav
+‚îÇ      vo_expression_cheer_woman_3.wav
+‚îÇ      vo_expression_codeword_man.wav
+‚îÇ      vo_expression_codeword_man_1.wav
+‚îÇ      vo_expression_codeword_woman.wav
+‚îÇ      vo_expression_codeword_woman_1.wav
+‚îÇ      vo_expression_come_on_man_1.wav
+‚îÇ      vo_expression_come_on_man_2.wav
+‚îÇ      vo_expression_come_on_woman_1.wav
+‚îÇ      vo_expression_cry_man_1.wav
+‚îÇ      vo_expression_cry_man_2.wav
+‚îÇ      vo_expression_cry_man_3.wav
+‚îÇ      vo_expression_cry_woman_1.wav
+‚îÇ      vo_expression_cry_woman_2.wav
+‚îÇ      vo_expression_dance_joy_man.wav
+‚îÇ      vo_expression_dance_joy_man_1.wav
+‚îÇ      vo_expression_dance_joy_woman.wav
+‚îÇ      vo_expression_dance_joy_woman_1.wav
+‚îÇ      vo_expression_dislike_man_1.wav
+‚îÇ      vo_expression_dislike_man_2.wav
+‚îÇ      vo_expression_dislike_man_3.wav
+‚îÇ      vo_expression_dislike_man_4.wav
+‚îÇ      vo_expression_dislike_woman_1.wav
+‚îÇ      vo_expression_dislike_woman_2.wav
+‚îÇ      vo_expression_evil_smile_man_1.wav
+‚îÇ      vo_expression_evil_smile_man_2.wav
+‚îÇ      vo_expression_evil_smile_man_3.wav
+‚îÇ      vo_expression_evil_smile_woman_1.wav
+‚îÇ      vo_expression_fist_man_1.wav
+‚îÇ      vo_expression_fist_man_2.wav
+‚îÇ      vo_expression_fist_woman_1.wav
+‚îÇ      vo_expression_goodnight_man.wav
+‚îÇ      vo_expression_goodnight_woman.wav
+‚îÇ      vo_expression_happy_man_1.wav
+‚îÇ      vo_expression_happy_man_3.wav
+‚îÇ      vo_expression_happy_man_4.wav
+‚îÇ      vo_expression_happy_woman_1.wav
+‚îÇ      vo_expression_hello_man_1.wav
+‚îÇ      vo_expression_hello_man_2.wav
+‚îÇ      vo_expression_hello_man_3.wav
+‚îÇ      vo_expression_hello_woman_1.wav
+‚îÇ      vo_expression_hello_woman_2.wav
+‚îÇ      vo_expression_hypnosis_man.wav
+‚îÇ      vo_expression_hypnosis_man_1.wav
+‚îÇ      vo_expression_hypnosis_woman.wav
+‚îÇ      vo_expression_hypnosis_woman_1.wav
+‚îÇ      vo_expression_kink_man.wav
+‚îÇ      vo_expression_kink_man_1.wav
+‚îÇ      vo_expression_kink_woman.wav
+‚îÇ      vo_expression_kink_woman_1.wav
+‚îÇ      vo_expression_kiss_man_1.wav
+‚îÇ      vo_expression_kiss_man_2.wav
+‚îÇ      vo_expression_kiss_man_3.wav
+‚îÇ      vo_expression_kiss_woman_1.wav
+‚îÇ      vo_expression_laugh_man_1.wav
+‚îÇ      vo_expression_laugh_man_2.wav
+‚îÇ      vo_expression_laugh_man_3.wav
+‚îÇ      vo_expression_laugh_woman_1.wav
+‚îÇ      vo_expression_let_go_man.wav
+‚îÇ      vo_expression_let_go_man_1.wav
+‚îÇ      vo_expression_let_go_woman.wav
+‚îÇ      vo_expression_let_go_woman_1.wav
+‚îÇ      vo_expression_lie_dowm_man.wav
+‚îÇ      vo_expression_lie_dowm_man_1.wav
+‚îÇ      vo_expression_lie_dowm_woman.wav
+‚îÇ      vo_expression_lie_dowm_woman_1.wav
+‚îÇ      vo_expression_nod_man_1.wav
+‚îÇ      vo_expression_nod_man_2.wav
+‚îÇ      vo_expression_nod_man_3.wav
+‚îÇ      vo_expression_nod_woman_1.wav
+‚îÇ      vo_expression_raise_hand_man.wav
+‚îÇ      vo_expression_raise_hand_woman.wav
+‚îÇ      vo_expression_refuse_man.wav
+‚îÇ      vo_expression_refuse_man_1.wav
+‚îÇ      vo_expression_refuse_woman.wav
+‚îÇ      vo_expression_refuse_woman_1.wav
+‚îÇ      vo_expression_scare_man_1.wav
+‚îÇ      vo_expression_scare_woman_1.wav
+‚îÇ      vo_expression_scare_woman_2.wav
+‚îÇ      vo_expression_shy_man.wav
+‚îÇ      vo_expression_shy_woman.wav
+‚îÇ      vo_expression_sit_man_1.wav
+‚îÇ      vo_expression_sit_woman_1.wav
+‚îÇ      vo_expression_skating_man_1.wav
+‚îÇ      vo_expression_skating_man_2.wav
+‚îÇ      vo_expression_skating_man_3.wav
+‚îÇ      vo_expression_skating_man_4.wav
+‚îÇ      vo_expression_skating_woman_1.wav
+‚îÇ      vo_expression_skating_woman_2.wav
+‚îÇ      vo_expression_stunned_man.wav
+‚îÇ      vo_expression_stunned_man_1.wav
+‚îÇ      vo_expression_stunned_man_2.wav
+‚îÇ      vo_expression_stunned_woman.wav
+‚îÇ      vo_expression_stunned_woman_1.wav
+‚îÇ      vo_expression_thanks_man_1.wav
+‚îÇ      vo_expression_thanks_man_2.wav
+‚îÇ      vo_expression_thanks_man_3.wav
+‚îÇ      vo_expression_thanks_man_4.wav
+‚îÇ      vo_expression_thanks_woman_1.wav
+‚îÇ      vo_expression_thanks_woman_2.wav
+‚îÇ      
+‚îú‚îÄweiguang[0]
+‚îÇ      crab_attack.wav
+‚îÇ      eel_gun_attack_1.wav
+‚îÇ      eel_gun_attack_2.wav
+‚îÇ      eel_gun_attack_3.wav
+‚îÇ      eel_gun_hit_1.wav
+‚îÇ      eel_gun_hit_2.wav
+‚îÇ      eel_gun_hit_3.wav
+‚îÇ      eel_gun_no_hit_1.wav
+‚îÇ      eel_gun_no_hit_2.wav
+‚îÇ      eel_gun_no_hit_3.wav
+‚îÇ      exploration_completed.wav
+‚îÇ      exploration_failed.wav
+‚îÇ      inkfish_gun_attack_1.wav
+‚îÇ      inkfish_gun_attack_2.wav
+‚îÇ      inkfish_gun_attack_3.wav
+‚îÇ      inkfish_gun_hit_1.wav
+‚îÇ      inkfish_gun_hit_2.wav
+‚îÇ      inkfish_gun_hit_3.wav
+‚îÇ      inkfish_gun_no_hit_1.wav
+‚îÇ      inkfish_gun_no_hit_2.wav
+‚îÇ      inkfish_gun_no_hit_3.wav
+‚îÇ      starfish_move.wav
+‚îÇ      underwater.wav
+‚îÇ      weiguang[0].txt
+‚îÇ      whirlpool.wav
+‚îÇ      
+‚îú‚îÄwerewolf[0]
+‚îÇ      ui_effect_langrensha_change.wav
+‚îÇ      ui_effect_langrensha_civilian_victory.wav
+‚îÇ      ui_effect_langrensha_device_open.wav
+‚îÇ      ui_effect_langrensha_draw_water.wav
+‚îÇ      ui_effect_langrensha_drill_into_tunnel.wav
+‚îÇ      ui_effect_langrensha_drill_out_tunnel.wav
+‚îÇ      ui_effect_langrensha_emergency_meeting.wav
+‚îÇ      ui_effect_langrensha_game_start.wav
+‚îÇ      ui_effect_langrensha_get_black_status.wav
+‚îÇ      ui_effect_langrensha_get_items.wav
+‚îÇ      ui_effect_langrensha_get_white_status.wav
+‚îÇ      ui_effect_langrensha_light_tablet.wav
+‚îÇ      ui_effect_langrensha_lovers_changed.wav
+‚îÇ      ui_effect_langrensha_lovers_status.wav
+‚îÇ      ui_effect_langrensha_lovers_victory.wav
+‚îÇ      ui_effect_langrensha_make_medicine.wav
+‚îÇ      ui_effect_langrensha_meeting_reminder.wav
+‚îÇ      ui_effect_langrensha_MVP.wav
+‚îÇ      ui_effect_langrensha_nobody_out.wav
+‚îÇ      ui_effect_langrensha_pray.wav
+‚îÇ      ui_effect_langrensha_put_stick.wav
+‚îÇ      ui_effect_langrensha_rescue_spirit.wav
+‚îÇ      ui_effect_langrensha_scroll_splicing.wav
+‚îÇ      ui_effect_langrensha_throw_out_civilian.wav
+‚îÇ      ui_effect_langrensha_throw_out_werewolf.wav
+‚îÇ      ui_effect_langrensha_treehouse_guard.wav
+‚îÇ      ui_effect_langrensha_troubleshooting_device.wav
+‚îÇ      ui_effect_langrensha_uproot_flowers.wav
+‚îÇ      ui_effect_langrensha_vine_in.wav
+‚îÇ      ui_effect_langrensha_vine_out.wav
+‚îÇ      ui_effect_langrensha_washing_slate.wav
+‚îÇ      ui_effect_langrensha_werewolf_victory.wav
+‚îÇ      werewolf[0].txt
+‚îÇ      
+‚îú‚îÄwerewolf_taosheng[0]
+‚îÇ      boss_attack.wav
+‚îÇ      boss_insert.wav
+‚îÇ      boss_lift.wav
+‚îÇ      boss_put_dowm.wav
+‚îÇ      boss_skill.wav
+‚îÇ      close_smll_door.wav
+‚îÇ      conversion_successful.wav
+‚îÇ      defeat.wav
+‚îÇ      draw.wav
+‚îÇ      heartbeat.wav
+‚îÇ      open_big_door.wav
+‚îÇ      repair_machine_successful.wav
+‚îÇ      werewolf_taosheng[0].txt
+‚îÇ      
+‚îú‚îÄworking[0]
+‚îÇ      boil_magic_drug.wav
+‚îÇ      cut_wheat.wav
+‚îÇ      distribute_leaflets.wav
+‚îÇ      grind_coffee.wav
+‚îÇ      grind_flour.wav
+‚îÇ      grind_wheat.wav
+‚îÇ      looking_for_medicine.wav
+‚îÇ      make_cloud.wav
+‚îÇ      make_coffee.wav
+‚îÇ      promotion.wav
+‚îÇ      spray_rainbow.wav
+‚îÇ      sun_wheat.wav
+‚îÇ      toast_bread.wav
+‚îÇ      transfer_brand.wav
+‚îÇ      weed.wav
+‚îÇ      weigh_magic_drug.wav
+‚îÇ      wipe_cup.wav
+‚îÇ      wipe_star.wav
+‚îÇ      wipe_wall.wav
+‚îÇ      wipe_window.wav
+‚îÇ      working[0].txt
+‚îÇ      
+‚îú‚îÄxiaotiqin[0]
+‚îÇ      1.wav
+‚îÇ      10.wav
+‚îÇ      11.wav
+‚îÇ      12.wav
+‚îÇ      13.wav
+‚îÇ      14.wav
+‚îÇ      15.wav
+‚îÇ      16.wav
+‚îÇ      17.wav
+‚îÇ      18.wav
+‚îÇ      19.wav
+‚îÇ      2.wav
+‚îÇ      20.wav
+‚îÇ      21.wav
+‚îÇ      22.wav
+‚îÇ      3.wav
+‚îÇ      4.wav
+‚îÇ      5.wav
+‚îÇ      6.wav
+‚îÇ      7.wav
+‚îÇ      8.wav
+‚îÇ      9.wav
+‚îÇ      xiaotiqin[0].txt
+‚îÇ      
+‚îú‚îÄxinshou[0]
+‚îÇ      xinshou[0].txt
+‚îÇ      xsjqdhz001.wav
+‚îÇ      xsjqdhz002.wav
+‚îÇ      xsjqdxz001.wav
+‚îÇ      xsjqdxz002.wav
+‚îÇ      xsjqdxz003.wav
+‚îÇ      xsjqdxz004.wav
+‚îÇ      xsjqdxz005.wav
+‚îÇ      xsjqdxz006.wav
+‚îÇ      xsjqdxz007.wav
+‚îÇ      xsjqdxz008.wav
+‚îÇ      xsjqdxz009.wav
+‚îÇ      xsjqdxz010.wav
+‚îÇ      xsjqdxz011.wav
+‚îÇ      xsjqdxz012.wav
+‚îÇ      xsjqdxz013.wav
+‚îÇ      xsjqdxz014.wav
+‚îÇ      xsjqdxz015.wav
+‚îÇ      xsjqdxz016.wav
+‚îÇ      xsjqdxz017.wav
+‚îÇ      xsjqdxz018.wav
+‚îÇ      xsjqdxz019.wav
+‚îÇ      xsjqdxz020.wav
+‚îÇ      xsjqdxz021.wav
+‚îÇ      xsjqdxz022.wav
+‚îÇ      xsjqdxz023.wav
+‚îÇ      xsjqdxz024.wav
+‚îÇ      xsjqdxz025.wav
+‚îÇ      xsjqdxz026.wav
+‚îÇ      xsjqlw001.wav
+‚îÇ      xsjqlw002.wav
+‚îÇ      xsjqlw003.wav
+‚îÇ      xsjqlw004.wav
+‚îÇ      xsjqlw005.wav
+‚îÇ      xsjqlw006.wav
+‚îÇ      xsjqlw007.wav
+‚îÇ      xsjqlw008.wav
+‚îÇ      xsjqlw009.wav
+‚îÇ      xsjqlw010.wav
+‚îÇ      xsjqlw011.wav
+‚îÇ      xsjqxy001.wav
+‚îÇ      xsjqxy002.wav
+‚îÇ      xsjqxy003.wav
+‚îÇ      xsjqxy004.wav
+‚îÇ      xsjqxy005.wav
+‚îÇ      xsjqxy006.wav
+‚îÇ      xsjqxy007.wav
+‚îÇ      xsjqxy008.wav
+‚îÇ      xsjqxy009.wav
+‚îÇ      xsjqxy010.wav
+‚îÇ      xsjqxy011.wav
+‚îÇ      xsjqxy012.wav
+‚îÇ      xsjqxy013.wav
+‚îÇ      xsjqxy014.wav
+‚îÇ      xsjqxy015.wav
+‚îÇ      xsjqxy016.wav
+‚îÇ      xsjqxy017.wav
+‚îÇ      xsjqxy018.wav
+‚îÇ      xsjqxy019.wav
+‚îÇ      xsjqxy020.wav
+‚îÇ      xsjqxy021.wav
+‚îÇ      xsjqxy022.wav
+‚îÇ      xsjqxy023.wav
+‚îÇ      xsjqxy024.wav
+‚îÇ      xsjqxy025.wav
+‚îÇ      xsjqxy026.wav
+‚îÇ      xsjqxy027.wav
+‚îÇ      xsjqxy028.wav
+‚îÇ      xsjqxy029.wav
+‚îÇ      xsjqxy030.wav
+‚îÇ      xsjqxy031.wav
+‚îÇ      xsjqxy032.wav
+‚îÇ      xsjqxy033.wav
+‚îÇ      xsjqxy034.wav
+‚îÇ      xsjqxy035.wav
+‚îÇ      xsjqxy036.wav
+‚îÇ      xsjqxy037.wav
+‚îÇ      xsjqxy038.wav
+‚îÇ      xsjqxy039.wav
+‚îÇ      
+‚îú‚îÄzhenjiapaidui_vo[0]
+‚îÇ      boy_duihua_1.wav
+‚îÇ      boy_duihua_2.wav
+‚îÇ      boy_duihua_3.wav
+‚îÇ      boy_duihua_4.wav
+‚îÇ      boy_duihua_5.wav
+‚îÇ      girl_duihua_1.wav
+‚îÇ      girl_duihua_2.wav
+‚îÇ      girl_duihua_3.wav
+‚îÇ      girl_duihua_4.wav
+‚îÇ      girl_duihua_5.wav
+‚îÇ      zhenjiapaidui_vo[0].txt
+‚îÇ      
+‚îî‚îÄzhongyuanwang[0]
+        zhongyuanwang[0].txt
+        zhongyuanwang_suxing.wav
+        zhongyuanwang_theme.wav
 ```
